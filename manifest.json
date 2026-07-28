@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T14:14:44.703Z",
-  "sourceCommit": "98e486d40176a516db6aae67493081da31560946",
+  "generatedAt": "2026-07-28T16:19:56.172Z",
+  "sourceCommit": null,
   "files": [
     {
       "path": "data/fgo/banners.json",
@@ -47,15 +47,15 @@
     },
     {
       "path": "data/genshin/patch.json",
-      "bytes": 80,
+      "bytes": 75,
       "items": 3,
-      "sha256": "006825e4711db5fb2db8dff390d99f99bce4b65755260147437e72cf1e6065fa"
+      "sha256": "130dd63c4a2cb509b1aa2fa6aa69ad56424bb52ef0e022ce92c81478fe0aa8d6"
     },
     {
       "path": "data/hsr/banners.json",
       "bytes": 10216,
       "items": 10,
-      "sha256": "b660c41e2d862b7af814c818b0f496254e96ac6e6cb83a1ce5302ad950287e6c"
+      "sha256": "72aeb5913ef9a6a73cca9c8ea5df7dedf968cf8ed3d46fabd6345bdd7964739f"
     },
     {
       "path": "data/hsr/events.json",
@@ -65,9 +65,9 @@
     },
     {
       "path": "data/hsr/patch.json",
-      "bytes": 80,
+      "bytes": 75,
       "items": 3,
-      "sha256": "006825e4711db5fb2db8dff390d99f99bce4b65755260147437e72cf1e6065fa"
+      "sha256": "add4ef2bbaf09bdb510d79edbb034c03cf9330985faa1e0870886e8bb420b7a1"
     },
     {
       "path": "data/nte/banners.json",
@@ -97,7 +97,7 @@
       "path": "data/wuwa/banners.json",
       "bytes": 10854,
       "items": 12,
-      "sha256": "78af84f0409e6c610b969e9a95c2f63bd459c63829caa8bdd3be9f7d44e2ac91"
+      "sha256": "8953c7c2aa855aa4abc6c347310052baf887d1228eaf07201b833ca09b149d20"
     },
     {
       "path": "data/wuwa/codes.json",
@@ -119,9 +119,9 @@
     },
     {
       "path": "data/wuwa/patch.json",
-      "bytes": 80,
+      "bytes": 75,
       "items": 3,
-      "sha256": "006825e4711db5fb2db8dff390d99f99bce4b65755260147437e72cf1e6065fa"
+      "sha256": "134afd9020a1898a7ba04eeebeb8b09a560bb18036c00f9a95d8e3a93bb7ff0f"
     },
     {
       "path": "data/zzz/banners.json",
@@ -137,9 +137,9 @@
     },
     {
       "path": "data/zzz/patch.json",
-      "bytes": 80,
+      "bytes": 75,
       "items": 3,
-      "sha256": "006825e4711db5fb2db8dff390d99f99bce4b65755260147437e72cf1e6065fa"
+      "sha256": "779a6fb3ea772bd775aba146afb8e02c0ffaccabfa26d8cc43058160fbeabcf1"
     }
   ]
 }
