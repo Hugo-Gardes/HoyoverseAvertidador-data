@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Velina Banner",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604532",
+    "image": "https://img.game8.co/4527286/03f37e2420d7f028405331a40c7f27d9.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Velina",
+        "icon": "https://img.game8.co/4482455/1bbea2a50d9e29377276724755afb066.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Nicole",
+        "icon": "https://img.game8.co/3924001/6037584f79e763106f549329c49694ac.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Piper",
+        "icon": "https://img.game8.co/3924012/cf1eecefb5e91ca60f2c9bec5fcda53f.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1781654400,
+    "endTime": 1783468800
+  },
+  {
+    "name": "Norma Banner",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604533",
+    "image": "https://img.game8.co/4551703/5ba6b3a6cc282028c74b30b272f36f7c.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Norma",
+        "icon": "https://img.game8.co/4482449/1ab1b073baeb3c95ba063beb4bac6f33.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Pulchra",
+        "icon": "https://img.game8.co/4121011/6351bcc6bd64cd8056747103b48bfed2.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Corin",
+        "icon": "https://img.game8.co/3923995/51d070560be0aa686c1f637e9ea4f526.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1783468800,
+    "endTime": 1785196800
+  },
+  {
+    "name": "Ye Shunguang Rerun",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/572089",
+    "image": "https://img.game8.co/4527289/5a78e12ddbed8cd22779f449361b5540.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Ye Shunguang",
+        "icon": "https://img.game8.co/4372196/d5acf19318f7d62e286d09d74b2ef942.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Nicole",
+        "icon": "https://img.game8.co/3924001/6037584f79e763106f549329c49694ac.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Piper",
+        "icon": "https://img.game8.co/3924012/cf1eecefb5e91ca60f2c9bec5fcda53f.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1781654400,
+    "endTime": 1783468800
+  },
+  {
+    "name": "Sunna Rerun",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/577388",
+    "image": "https://img.game8.co/4551704/3c023c6b288660ec08b0fb8e099f13d6.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Sunna",
+        "icon": "https://img.game8.co/4377008/091bffe978a333e15f288177efeb5d9f.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Pulchra",
+        "icon": "https://img.game8.co/4121011/6351bcc6bd64cd8056747103b48bfed2.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Corin",
+        "icon": "https://img.game8.co/3923995/51d070560be0aa686c1f637e9ea4f526.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1783468800,
+    "endTime": 1785196800
+  },
+  {
+    "name": "Joyau Dore W-Engine",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604524",
+    "image": "https://img.game8.co/4527268/7493462f673c5d161e5efe249d909fb7.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Joyau Dore",
+        "icon": "https://img.game8.co/4527268/7493462f673c5d161e5efe249d909fb7.png/show",
+        "type": "weapon"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "The Vault",
+        "icon": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Roaring Ride",
+        "icon": "https://img.game8.co/3922287/eaa583f09922f2a42a1c90aa8091b3d6.png/show",
+        "type": "weapon"
+      }
+    ],
+    "startTime": 1781654400,
+    "endTime": 1783468800
+  },
+  {
+    "name": "Chief Sidekick W-Engine",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604525",
+    "image": "https://img.game8.co/4527267/c510aff527c26558de56513392eace11.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Chief Sidekick",
+        "icon": "https://img.game8.co/4527267/c510aff527c26558de56513392eace11.png/show",
+        "type": "weapon"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Box Cutter",
+        "icon": "https://img.game8.co/4120746/2c1e84bb9a34db01552f35893e2e955d.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Big Cylinder",
+        "icon": "https://img.game8.co/3872582/84af0578923fec99bd3a9a833f6d685f.png/show",
+        "type": "weapon"
+      }
+    ],
+    "startTime": 1783468800,
+    "endTime": 1785196800
+  },
+  {
+    "name": "Cloudcleave Radiance W-Engine",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/572090",
+    "image": "https://img.game8.co/4372215/bd6215ba508643f57a18ead35e388907.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Cloudcleave Radiance",
+        "icon": "https://img.game8.co/4372215/bd6215ba508643f57a18ead35e388907.png/show",
+        "type": "weapon"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "The Vault",
+        "icon": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Roaring Ride",
+        "icon": "https://img.game8.co/3922287/eaa583f09922f2a42a1c90aa8091b3d6.png/show",
+        "type": "weapon"
+      }
+    ],
+    "startTime": 1781654400,
+    "endTime": 1783468800
+  },
+  {
+    "name": "Thoughtbop W-Engine",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/577361",
+    "image": "https://img.game8.co/4400968/03fa9b01b7ae44ebc9291cddc705febe.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Thoughtbop",
+        "icon": "https://img.game8.co/4400968/03fa9b01b7ae44ebc9291cddc705febe.png/show",
+        "type": "weapon"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Box Cutter",
+        "icon": "https://img.game8.co/4120746/2c1e84bb9a34db01552f35893e2e955d.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Big Cylinder",
+        "icon": "https://img.game8.co/3872582/84af0578923fec99bd3a9a833f6d685f.png/show",
+        "type": "weapon"
+      }
+    ],
+    "startTime": 1783468800,
+    "endTime": 1785196800
+  }
+]

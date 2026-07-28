@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Somnias a Luna",
+    "link": "https://game8.co/games/Genshin-Impact/archives/572610",
+    "image": "https://img.game8.co/4536205/e947485723a4d7820bf404834e57a1ad.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Columbina",
+        "icon": "https://img.game8.co/4383821/1792ce751a6cc1bf6eeddda7ecdeb340.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Ororon",
+        "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Sethos",
+        "icon": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Jahoda",
+        "icon": "https://img.game8.co/4353833/7eed8dac4741e24cec9c2eb690672fd4.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1784592000,
+    "endTime": 1786492799
+  },
+  {
+    "name": "Reign of Serenity",
+    "link": "https://game8.co/games/Genshin-Impact/archives/340163",
+    "image": "https://img.game8.co/4536203/b492ebd7322dc2bb78deb60940bf323c.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Raiden",
+        "icon": "https://img.game8.co/3409293/af58e7854a4e7f7d1d857c5a79db2ce6.png/show",
+        "type": "character"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Ororon",
+        "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Sethos",
+        "icon": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show",
+        "type": "character"
+      },
+      {
+        "name": "Jahoda",
+        "icon": "https://img.game8.co/4353833/7eed8dac4741e24cec9c2eb690672fd4.png/show",
+        "type": "character"
+      }
+    ],
+    "startTime": 1784592000,
+    "endTime": 1786492799
+  },
+  {
+    "name": "Epitome Invocation",
+    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
+    "image": "https://img.game8.co/4561689/d883c6c8eacf0d9d8133873fbe72534f.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Nocturne",
+        "icon": "https://img.game8.co/4384814/caaf08b6646e64a4f23641d709be2545.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Engulfing Lightning",
+        "icon": "https://img.game8.co/3406917/3b47d214c8da2606eaafa91926da532d.png/show",
+        "type": "weapon"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Sacrificial Sword",
+        "icon": "https://img.game8.co/3314479/f5992046e18934edf51385d836106243.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Favonius Warbow",
+        "icon": "https://img.game8.co/3314488/27bf81c6948beeeb3cb72376f4df668e.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Favonius Lance",
+        "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "The Bell",
+        "icon": "https://img.game8.co/3314478/58ceb4cfcb54e9dcceaeb8c99cf7116b.png/show",
+        "type": "weapon"
+      },
+      {
+        "name": "Waveriding Whirl",
+        "icon": "https://img.game8.co/4046436/17fbbfcc3d422e7942ad7feba430cc99.png/show",
+        "type": "weapon"
+      }
+    ],
+    "startTime": 1784592000,
+    "endTime": 1786406400
+  }
+]

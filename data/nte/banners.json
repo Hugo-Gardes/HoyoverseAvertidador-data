@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Before the Dawn",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "image": "https://nte.wiki/images/characters/shinku.webp",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Shinku",
+        "icon": "https://nte.wiki/images/characters/shinku.webp",
+        "type": "Cosmos"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Mint",
+        "icon": "https://nte.wiki/images/characters/mint.webp",
+        "type": "character"
+      },
+      {
+        "name": "Edgar",
+        "icon": "https://nte.wiki/images/characters/edgar.webp",
+        "type": "character"
+      },
+      {
+        "name": "Adler",
+        "icon": "https://nte.wiki/images/characters/adler.webp",
+        "type": "character"
+      }
+    ],
+    "startTime": 1783468800,
+    "endTime": 1785283200
+  },
+  {
+    "name": "The Lifeline",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "image": "https://nte.wiki/images/characters/iroi.webp",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Iroi",
+        "icon": "https://nte.wiki/images/characters/iroi.webp",
+        "type": "Anima"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": 1785283200,
+    "endTime": 1787097600
+  }
+]

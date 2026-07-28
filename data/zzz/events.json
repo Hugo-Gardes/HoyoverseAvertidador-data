@@ -1,0 +1,472 @@
+[
+  {
+    "name": "All-New Program",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+    "dateText": "06/17/2026 - 07/29/2026",
+    "imageUrl": "https://img.game8.co/4531861/0f288a2be8f66488cee1ec524b417834.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Encrypted Master Tape",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Art is Bangboo",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604665",
+    "dateText": "07/08/2026 - 07/27/2026",
+    "imageUrl": "https://img.game8.co/4527374/5327c5f215a0b731601cb7104d78c385.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 420,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 48,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "W-Engine Energy Module",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 12,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 130000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Assemble Mock Exam Comeback Plan",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604625",
+    "dateText": "06/26/2026 - 07/27/2026",
+    "imageUrl": "https://img.game8.co/4527370/63bca5daf97bd59b28f873adf440a8b3.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Boisterous Echoes W-Engine",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4527266/f4c49f0ca2f343a63e364aa61ba4799f.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Boisterous Echoes W-Engine",
+          "rarity": "A Rank",
+          "imageUrl": "https://img.game8.co/4527266/f4c49f0ca2f343a63e364aa61ba4799f.png/show",
+          "stats": {
+            "baseAtk": "40",
+            "subStat": "Anomaly Proficiency 30",
+            "passiveName": "Resounding Drum",
+            "passiveDescription": "When the equipper triggers the Vortex effect, they gain 2 Energy. This effect can trigger once every 10s. When attacking enemies afflicted with an Attribute Anomaly, the equipper deals 11.5% increased DMG."
+          }
+        }
+      },
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 800,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Hamster Cage Pass",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893365/5529aee693c95a4eb535306751c6f330.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 60,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 3,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Official Investigator Log",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 280000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Bangbang The Genius and Miracle Chip",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604604",
+    "dateText": "06/17/2026 - 07/29/2026",
+    "imageUrl": "https://img.game8.co/4527375/79209c004d77ecffb74a8f111888dd17.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 850,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 145030,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boo to the Rescue - Style A",
+        "totalQuantity": 13,
+        "icon": "https://img.game8.co/4536317/5c1997d75619f212b1794c64c9a9618d.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Golden Belt of Boo-gress",
+        "totalQuantity": 13000,
+        "icon": "https://img.game8.co/4536142/2e177fd8f8c215912d15dc7ac194bacd.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Genius",
+        "totalQuantity": 50,
+        "icon": "https://img.game8.co/4536318/8a54f05a076d8329dd921caffe46d0b6.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boo to the Rescue - Style B",
+        "totalQuantity": 20,
+        "icon": "https://img.game8.co/4536592/a61efbea8b8390a254844a0a6571e272.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Because Tomorrow Still Comes Namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4538684/6e3321c28c789427f78dd9f179b060c8.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo-tiful Collaboorator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4535441/b0fd5a5d186d7fe41c332de2e7638c4a.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Official Investigator Log",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Celestial Nexus Intelligence Dossier",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604631",
+    "dateText": "06/17/2026 - 07/29/2026",
+    "imageUrl": "https://img.game8.co/4527373/2fb71a301c8b4b138f0d3a40153d2ed8.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 400,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 27,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Official Investigator Log",
+        "totalQuantity": 40,
+        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "details": null
+      },
+      {
+        "itemName": "W-Engine Power Supply",
+        "totalQuantity": 36,
+        "icon": "https://img.game8.co/3893362/95c9f184625d657b46e2c866f4e930a8.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo Algorithm Module",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893320/b7ea1fc6e230485a0380a75010a47db7.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Commemorative Gift",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/605656",
+    "dateText": "07/08/2026 - 07/27/2026",
+    "imageUrl": "https://img.game8.co/4535363/e5500038b714b7d9417d1a3fa51d533f.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 1600,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Ether Battery",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893322/4080858e426f73e4f03f122b8a46a88b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 100000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "En-Nah Into Your Lap",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+    "dateText": "07/08/2026 - 07/28/2026",
+    "imageUrl": "https://img.game8.co/4551002/4db315bf65622b607b00d5752825ace9.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "First-Generation Void Hunter Returns",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611588",
+    "dateText": "07/17/2026 - 07/28/2026",
+    "imageUrl": "https://img.game8.co/4562796/39a648264386bf5e479ce5969e30a0f8.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3933603/a727bbf130027f297fe09af66ec8df22.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Prototype Seal",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3923927/f5be338a9ad740491836967e6ebad24e.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "3.1 Commemorative Namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4565259/b2ed30eecc3e893d743763e1c68662b1.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Gleaming Shadow Team Battle",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604624",
+    "dateText": "06/19/2026 - 07/13/2026",
+    "imageUrl": "https://img.game8.co/4527371/fa8dda3ebda8418a1ff12eca46c87a71.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 360,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Tuning Calibrator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893319/4eb8e6bd40e37ae5194b3d53bc00eccb.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 60,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 18,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 18,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 120000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Tales of the Hobbling Crow",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604651",
+    "dateText": "07/03/2026 - 07/20/2026",
+    "imageUrl": "https://img.game8.co/4527372/26fdca18d7b82fdbcb51767349ecf4d4.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 300,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 24,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 150000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "The Final Callback",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/460378",
+    "dateText": "07/08/2026 - 07/28/2026",
+    "imageUrl": "https://img.game8.co/4550488/469bcaf7a8709a6da27841f41f4720da.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 40,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Official Investigator Log",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Basic Stun Certification Seal",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3923034/7b429ece7fbf7f190622b0398ea95b2e.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Basic Support Certification Seal",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3976375/c7186442c691b9e80f50aec5fbc89dbc.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 20000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Basic Attack Certification Seal",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/3923031/30619e91bba368a1c7ff2d8449689a7a.png/show",
+        "details": null
+      }
+    ]
+  }
+]

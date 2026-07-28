@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bountiful Crescendo",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
+    "dateText": "July 23, 2026 - July 30, 2026 Reach Union Level 14",
+    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Double Leveling Material Drops",
+        "icon": "",
+        "totalQuantity": 0
+      }
+    ]
+  },
+  {
+    "name": "Ascendant Aces",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
+    "dateText": "July 10, 2026 - July 30, 2026 Unlocked by default",
+    "imageUrl": "https://img.game8.co/4567888/e986be41feb9bac661761152b9756ea4.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Medium Energy Core",
+        "icon": "https://img.game8.co/4312567/3ee0fe919beece030794e36ca436a8f0.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Medium Resonance Potion",
+        "icon": "https://img.game8.co/4312582/999fb5fe486d20bea53575551aebdb83.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 10000
+      }
+    ]
+  },
+  {
+    "name": "Recaptured: Action Highlights",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607256",
+    "dateText": "July 16, 2026 - August 6, 2026 Reach Union Level 14",
+    "imageUrl": "https://img.game8.co/4545669/3f6616a0c783a69df8d372e00575dcdc.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 900
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 657776
+      },
+      {
+        "itemName": "Premium Energy Core",
+        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Premium Sealed Tube",
+        "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Forgery Advanced Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+        "totalQuantity": 40
+      },
+      {
+        "itemName": "Advanced Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557920/3242c6321565baf1c7ad9a2a24754443.png/show",
+        "totalQuantity": 48
+      }
+    ]
+  },
+  {
+    "name": "Lament Recon: Tacet Crisis",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607645",
+    "dateText": "July 11, 2026 - August 19, 2026 Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during \"What Burns Beneath Frostlands\"",
+    "imageUrl": "https://img.game8.co/4545672/fd10bb863da6891134a44fb7776c147c.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 1200
+      },
+      {
+        "itemName": "Simulation Data",
+        "icon": "https://img.game8.co/4558094/40a090eba1a45c9e8b6191370b5a7830.png/show",
+        "totalQuantity": 1200
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 510000
+      },
+      {
+        "itemName": "Echo Modifier",
+        "icon": "https://img.game8.co/4312863/f5950222ac4eab8d210b08158903a777.png/show",
+        "totalQuantity": 6
+      },
+      {
+        "itemName": "Premium Energy Core",
+        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Premium Sealed Tube",
+        "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+        "totalQuantity": 15
+      },
+      {
+        "itemName": "Forgery Advanced Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+        "totalQuantity": 18
+      },
+      {
+        "itemName": "Advanced Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557920/3242c6321565baf1c7ad9a2a24754443.png/show",
+        "totalQuantity": 30
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 100
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 8
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 8
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 6
+      },
+      {
+        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
+        "totalQuantity": 6
+      }
+    ]
+  },
+  {
+    "name": "A Glimpse of Xuanfang",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/608345",
+    "dateText": "July 10, 2026 - August 19, 2026 Reach Union Level 8 and pass through Dreaming Cavern in Chapter 4 Act 1 \"The Wind Before the Storm\"",
+    "imageUrl": "https://img.game8.co/4545668/9794ceb95ebcd2ccc082f89f88c474c6.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Sliver of Xuanfang",
+        "icon": "https://img.game8.co/4557919/22be39d29fbe3d6e9d0478e168fad1a9.png/show",
+        "totalQuantity": 1870
+      },
+      {
+        "itemName": "Medium Resonance Potion",
+        "icon": "https://img.game8.co/4312582/999fb5fe486d20bea53575551aebdb83.png/show",
+        "totalQuantity": 22
+      },
+      {
+        "itemName": "Cloudperch Seed",
+        "icon": "https://img.game8.co/4543937/fd7717dbc4354ff419450ec79b3bb7c0.png/show",
+        "totalQuantity": 10
+      },
+      {
+        "itemName": "LF Autopuppet Kernel",
+        "icon": "https://img.game8.co/4555467/d7e9e1a70a2fd1df3aed99fac3c29f6a.png/show",
+        "totalQuantity": 70
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 8
+      },
+      {
+        "itemName": "Flowborne Dream",
+        "icon": "https://img.game8.co/4543933/f85a8f0ba9637f2d992700bae61906c0.png/show",
+        "totalQuantity": 15
+      },
+      {
+        "itemName": "Premium Sealed Tube",
+        "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+        "totalQuantity": 18
+      },
+      {
+        "itemName": "Forgery Advanced Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+        "totalQuantity": 15
+      },
+      {
+        "itemName": "Medium Sealed Tube",
+        "icon": "https://img.game8.co/4312576/be37f0358d885bdcf8d8e796c20f393e.png/show",
+        "totalQuantity": 10
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 10
+      },
+      {
+        "itemName": "Blade Blossom",
+        "icon": "https://img.game8.co/4557927/758779f831ece0afbda067cbb66fae79.png/show",
+        "totalQuantity": 15
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 370000
+      },
+      {
+        "itemName": "Premium Energy Core",
+        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
+        "totalQuantity": 7
+      },
+      {
+        "itemName": "Advanced Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557920/3242c6321565baf1c7ad9a2a24754443.png/show",
+        "totalQuantity": 19
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 13
+      },
+      {
+        "itemName": "Medium Energy Core",
+        "icon": "https://img.game8.co/4312567/3ee0fe919beece030794e36ca436a8f0.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 4
+      },
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 500
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 100
+      },
+      {
+        "itemName": "Crystal Solvent",
+        "icon": "https://img.game8.co/4312367/f148e79cb7a4a3b69e9863926c2bbcce.png/show",
+        "totalQuantity": 3
+      },
+      {
+        "itemName": "Forgery Premium Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
+        "totalQuantity": 3
+      },
+      {
+        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
+        "totalQuantity": 6
+      }
+    ]
+  },
+  {
+    "name": "Gifts of Aftertune",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607276",
+    "dateText": "July 10, 2026 - August 19, 2026 Reach Union Level 8",
+    "imageUrl": "https://img.game8.co/4545671/7e9209c2f88d80fe770a9e4d1bfd5417.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 5
+      }
+    ]
+  },
+  {
+    "name": "Gifts of Starpath",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607465",
+    "dateText": "July 10, 2026 - August 19, 2026 Unlock the Convene Feature",
+    "imageUrl": "https://img.game8.co/4545675/f4ea01765af6d92ed9d9fbc624686c31.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 21
+      }
+    ]
+  },
+  {
+    "name": "Shape of Yesterday",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607277",
+    "dateText": "July 10, 2026 - Permanent Unlocks after completing Chapter 4 Act 2 \"Xuanling Sings, Storm Quelled\"",
+    "imageUrl": "https://img.game8.co/4545673/43513e28577c951db491d58294a3f361.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 540
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 16
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 360000
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 16
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 16
+      }
+    ]
+  },
+  {
+    "name": "In Search of Lost Jade",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/608347",
+    "dateText": "July 30, 2026 - August 13, 2026 Progress through the mini quest in your browser and earn rewards!",
+    "imageUrl": "https://img.game8.co/4545670/258b5113ce8a27edb6668a37b3da345d.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": 0
+      }
+    ]
+  },
+  {
+    "name": "Virtual Crisis: Quadrant Trials",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607412",
+    "dateText": "July 30, 2026 - August 19, 2026 Return of the boss event with the escalating challenges! Prepare your strongest characters to advance.",
+    "imageUrl": "https://img.game8.co/4546274/912f0d0b64247f40c954215a2c132b96.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": 0
+      }
+    ]
+  },
+  {
+    "name": "Lollo Campaign: New Journey",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/458245",
+    "dateText": "August 6, 2026 - August 19, 2026 Earn Lollo Stamps daily and spin the roulette in exchange for rewards!",
+    "imageUrl": "https://img.game8.co/4298202/e12fac42565bd459156fe29106d56407.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Forgery Premium Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Crystal Solvent",
+        "icon": "https://img.game8.co/4312367/f148e79cb7a4a3b69e9863926c2bbcce.png/show",
+        "totalQuantity": 0
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 0
+      }
+    ]
+  },
+  {
+    "name": "Chord Cleansing",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
+    "dateText": "August 12, 2026 - August 19, 2026 Earn double echo and echo leveling material drops during this event!",
+    "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Complete Tacet Suppressions For Double Drop",
+        "icon": "",
+        "totalQuantity": 0
+      }
+    ]
+  }
+]

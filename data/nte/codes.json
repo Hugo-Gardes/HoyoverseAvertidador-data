@@ -1,0 +1,187 @@
+[
+  {
+    "code": "NTEKokushi",
+    "rewards": [
+      {
+        "name": "Fons",
+        "quantity": 30000,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 30000,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "NTEMusou",
+    "rewards": [
+      {
+        "name": "Fons",
+        "quantity": 10000,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 10000,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "WELCOMETONTE",
+    "rewards": [
+      {
+        "name": "Exclusive In-Game Avatar Frame (Celebration Fireworks)",
+        "quantity": 0,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "DRAGONGIRL",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 30,
+        "icon": ""
+      },
+      {
+        "name": "Fons",
+        "quantity": 20000,
+        "icon": ""
+      },
+      {
+        "name": "Puka Chocoa Ellie Tour Special",
+        "quantity": 1,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "nuWJYU26xH",
+    "rewards": [
+      {
+        "name": "Exclusive Rewards",
+        "quantity": 0,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "NTEGIFT",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 50,
+        "icon": ""
+      },
+      {
+        "name": "Rising Hunter Guides",
+        "quantity": 5,
+        "icon": ""
+      },
+      {
+        "name": "Light Dyes",
+        "quantity": 5,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "NTENENE",
+    "rewards": [
+      {
+        "name": "Fons",
+        "quantity": 10000,
+        "icon": ""
+      },
+      {
+        "name": "DynamiK Zero",
+        "quantity": 10,
+        "icon": ""
+      },
+      {
+        "name": "Clicky Fries",
+        "quantity": 10,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "DREAMWALK0603",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 100,
+        "icon": ""
+      },
+      {
+        "name": "Rising Hunter Guides",
+        "quantity": 5,
+        "icon": ""
+      },
+      {
+        "name": "Light Dye",
+        "quantity": 5,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 4000,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "TOMATO100",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 100,
+        "icon": ""
+      },
+      {
+        "name": "Senior Hunter Guides",
+        "quantity": 5,
+        "icon": ""
+      },
+      {
+        "name": "Colorless Dye",
+        "quantity": 5,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 6000,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "code": "RACENOLIMIT",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 100,
+        "icon": ""
+      },
+      {
+        "name": "Elite Hunter Guides",
+        "quantity": 2,
+        "icon": ""
+      },
+      {
+        "name": "Chaotic Dye",
+        "quantity": 2,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 12000,
+        "icon": ""
+      }
+    ]
+  }
+]

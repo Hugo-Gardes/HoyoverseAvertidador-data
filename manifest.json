@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-28T13:34:41.227Z",
+  "sourceCommit": "3e1a99a",
+  "files": [
+    {
+      "path": "data/fgo/banners.json",
+      "bytes": 92091,
+      "items": 2,
+      "sha256": "fcb899034ad5f5e1cfca53618d988eb89fcd96bf0332aa7e07518554a372c5c4"
+    },
+    {
+      "path": "data/fgo/events.json",
+      "bytes": 321372,
+      "items": 2,
+      "sha256": "902d7ea7870541aabdeb381077d56eeff91db4bfb211b8c88de188b52dbd48ef"
+    },
+    {
+      "path": "data/fgo/loot_table.json",
+      "bytes": 51081,
+      "items": 864,
+      "sha256": "ce391a3ec58fe7cb489ccd0356767999700fa27c28d7905f8ff2e5243f134c86"
+    },
+    {
+      "path": "data/genshin/banners.json",
+      "bytes": 3446,
+      "items": 3,
+      "sha256": "7dd1b7d14b1b4a44b653b5fd88a3cd0b512e116f9f6394a199e86f7a9f28cd6a"
+    },
+    {
+      "path": "data/genshin/daily_domains.json",
+      "bytes": 64139,
+      "items": 12,
+      "sha256": "a80c132e7048951485676832fd29440a011b5e6cdde6d4977eff373697f0fc98"
+    },
+    {
+      "path": "data/genshin/endgame.json",
+      "bytes": 7300,
+      "items": 3,
+      "sha256": "fa15b580038bcaae599fda6f8df77821abe83794a3a3361474bca5bb3e74ec6c"
+    },
+    {
+      "path": "data/genshin/events.json",
+      "bytes": 5493,
+      "items": 4,
+      "sha256": "4af92bdad21e6d05fe375a99ce0c1f7d91510a7220c2e58d7ad270f6e50f5a8e"
+    },
+    {
+      "path": "data/genshin/patch.json",
+      "bytes": 75,
+      "items": 3,
+      "sha256": "cd79535342c8649ae71a801dd8aa2bd2ccdaa589054c8c9f91db2e9c45e8553c"
+    },
+    {
+      "path": "data/hsr/banners.json",
+      "bytes": 10216,
+      "items": 10,
+      "sha256": "b660c41e2d862b7af814c818b0f496254e96ac6e6cb83a1ce5302ad950287e6c"
+    },
+    {
+      "path": "data/hsr/events.json",
+      "bytes": 55059,
+      "items": 7,
+      "sha256": "72793495745bd40e8927e751ede6ea6e52ef6df011ac9bd1e9b716d4283b7550"
+    },
+    {
+      "path": "data/hsr/patch.json",
+      "bytes": 75,
+      "items": 3,
+      "sha256": "24e993dc09cdd92de523eaf3e077598c478cdde591afdcee536a14b78dba0f4e"
+    },
+    {
+      "path": "data/nte/banners.json",
+      "bytes": 1293,
+      "items": 2,
+      "sha256": "636dd4f062966ebbd95bf45f377059a05b34cc86942e149b5be0888685ea1f12"
+    },
+    {
+      "path": "data/nte/codes.json",
+      "bytes": 3110,
+      "items": 10,
+      "sha256": "3aa7fefb3ee16e5bb211a7031efa9a9a680cb7854620f47bb40f2587aa020acf"
+    },
+    {
+      "path": "data/nte/events.json",
+      "bytes": 10786,
+      "items": 14,
+      "sha256": "72bd2eee4936bbeed78446db49ede101d201b9f95eb235c8879f6abe6532a010"
+    },
+    {
+      "path": "data/nte/patch.json",
+      "bytes": 75,
+      "items": 3,
+      "sha256": "d1a643304231bf6802cf902a4d2083d6b63e35d5da4409643de4449e86f4a60e"
+    },
+    {
+      "path": "data/wuwa/banners.json",
+      "bytes": 10854,
+      "items": 12,
+      "sha256": "78af84f0409e6c610b969e9a95c2f63bd459c63829caa8bdd3be9f7d44e2ac91"
+    },
+    {
+      "path": "data/wuwa/codes.json",
+      "bytes": 1242,
+      "items": 4,
+      "sha256": "9ed4404d02ba4ca1da46baead2fe1c9e2c19b594e82162d9880ac886629acf0f"
+    },
+    {
+      "path": "data/wuwa/events.json",
+      "bytes": 16287,
+      "items": 12,
+      "sha256": "2aa6ffb2786323dd22b0effc48f5356cee9656c716d150afab84d04817973a08"
+    },
+    {
+      "path": "data/wuwa/history.json",
+      "bytes": 4870,
+      "items": 2,
+      "sha256": "a874fcf81c713fc9e86075d313d9221a52393bccf3fad187dc942e93e73fea59"
+    },
+    {
+      "path": "data/wuwa/patch.json",
+      "bytes": 75,
+      "items": 3,
+      "sha256": "134afd9020a1898a7ba04eeebeb8b09a560bb18036c00f9a95d8e3a93bb7ff0f"
+    },
+    {
+      "path": "data/zzz/banners.json",
+      "bytes": 6581,
+      "items": 8,
+      "sha256": "ec157d0b13a80b95cded33e17b07f92e0a231af9bd6e83317d38006ba29a1bc2"
+    },
+    {
+      "path": "data/zzz/events.json",
+      "bytes": 15981,
+      "items": 11,
+      "sha256": "cf749df00c073f05fa8cdf43ade1f9157df3dd0aaf23315972f9ffb0bceac7c1"
+    },
+    {
+      "path": "data/zzz/patch.json",
+      "bytes": 75,
+      "items": 3,
+      "sha256": "779a6fb3ea772bd775aba146afb8e02c0ffaccabfa26d8cc43058160fbeabcf1"
+    }
+  ]
+}

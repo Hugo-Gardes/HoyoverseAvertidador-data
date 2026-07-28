@@ -1,0 +1,1588 @@
+[
+  {
+    "name": "4.4 Planar Fissure",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/413440",
+    "dateText": "07/27 - 08/10",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Inert Salsotto",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656630/bc27a20817b1573bcb99392adeebd39b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Belobog of the Architects",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656629/cb59df45af5683ff6faad0148066d9c0.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Celestial Differentiator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654329/a7907170a2e52fcc911144a4607c6dbb.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Pan-Cosmic Commercial Enterprise",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654332/3dd8cac060e74b6bb6614f23e44adf3f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sprightly Vonwacq",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654331/3add11aab1accfdd9fb10ae71b295c20.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Talia: Kingdom of Banditry",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654327/9437d7f31f81876a28655a6a17e35366.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Fleet of the Ageless",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654330/feb3f15590e1ac6c9ec4c981e019f03f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Space Sealing Station",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654328/1d4ac3b10db403b5a4d1f449fda05f2c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Rutilant Arena",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733823/daa9fcadfc786e31240beccd5b973c30.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Broken Keel",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733798/3efa0fd812ce12d41551e5fe16bd0605.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Firmament Frontline Glamoth",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3790300/f205b4455e832cdf7012a530f2961d54.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Penacony, Land of the Dreams",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sigonia, the Unclaimed Desolation",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856821/850687998c4e231d7bcd6906c8f31910.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Izumo Gensei and Takama Divine Realm",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Duran, Dynasty of Running Wolves",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905923/64469825acbde55edb2ffc2e0bb076fe.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Forge of the Kalpagni Lantern",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905924/ee41b6332e0295c3862af39bac45ff39.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lushaka, the Sunken Seas",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3975165/082abaafe8717dc25fe178fd24fa22d8.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Wondrous BananAmusement Park",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3975164/781e54bd78ae8ef38513f52151aaf5a4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Bone Collection",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Giant Tree of Rapt Brooding",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4109333/ec9648c2b749c3db32e1ba2ab7042184.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Arcadia of Woven Dreams",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4202356/cec884edbe2174266304e95bfce2cba6.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Revelry by the Sea",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4202355/3b8fe90ed65fc9b6dca684cc3abe7d9d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Amphoreus, The Eternal Land",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4316950/c11e8a2f5e33d80dd00fed1c8f76d63e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tengoku Livestream",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Punklorde Stage Zero",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4441022/cdb8372bc5e0396c42a6a33e1c4cb600.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "City of Converging Stars",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Cosmic Life Sciences Institute",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Fallen Star Anchorage",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548614/6f647f2fbb3bf4f8cd633b21629c54aa.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 3",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733815/bd5e51e5715c56a3dbaadef1824bbd95.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 4",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733816/61ee1d697bd483e5fa50545cdb7ace36.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 5",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733817/0f64a512079408002121e9cb36472e66.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 6",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733818/40b77f18e55c03544be653ef0587f3c5.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 7",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3733819/2eec99e4609f1558a2cc6b079f6f02e5.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 8",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3802033/4eb26cf95402270cb8e10d66b4248ea1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 9",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856918/c70ab5e11abfa6f7091b6953ee29d86b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Divergent Universe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905967/73483a3e036596c817c47abad9f6361b.png/show",
+        "_hasExplicit": false
+      }
+    ],
+    "imageUrl": "https://img.game8.co/3868033/2c18a3945dd42c91268e80f38208cabf.png/show"
+  },
+  {
+    "name": "Fate/Star Rail Night",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601938",
+    "dateText": "07/24 - 08/26",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Honkai All Materials",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3903840/22486af6507c90e11190f4beca25ae9d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Rin Tohsaka",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4511600/59c03b8fd0a0ce373b43cedd51ff8d13.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Add to Watchlist",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201391/79cd2e4bd57bf19613170a9d65dd2857.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Rin Tohsaka",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4510469/d15fb19c8abe09dde57e23caca1f2045.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Rarity",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649225/71e9899aae21adc901060874034e4132.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Quantum",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649220/fcf4120eafac20f910e7a57c2bda0d8c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Erudition",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649188/af004599288ead465807a176da013d12.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Flickering Stars Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Genius of Brilliant Stars",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Penacony, Land of the Dreams",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Into the Unreachable Veil Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4075013/0b96eb6e95dbd921d379cbe0a3d0047a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Life Should Be Cast to Flames Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Eternal Calculus Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905920/72f5313a3aca6325d5fc201d5a12fc29.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Today Is Another Peaceful Day Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3647989/216d7eac597f8bf08d348b716b12e058.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Day The Cosmos Fell Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3827881/e7246f3d19287e266945048195ec5656.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Archer",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sparkle",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Permansor Terrae",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4240461/e8573a2679b1355402aa468944a8ec59.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Huohuo",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899380/226b90c621a962707100fc840295ae85.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Gallagher",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3826180/39fbc415ce51174f6da010ff8a758d91.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Trailblazer (Ice)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4047233/854727fffbde0282885bd3e808b4cf43.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Natasha",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899442/ea8e439aac0a70d4c78b1f1a29a20cf9.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Cerydra",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4198742/c7e8758b57025c346759b7f2db800f3d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tribbie",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Scholar Lost in Erudition",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Tengoku Livestream",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "City of Converging Stars",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Thief",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656096/9b4010c95f024a9712dde7a4f75c03fa.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Usurper",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656118/9be05b4185d4dfc244a5053283637b93.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Conqueror",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656123/f1a213fabe8eac464076e48859b169f2.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sneering Harlequin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4511618/eb25e443104c667ba8733262b18ef48f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Celestial Globe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522855/56cb586a9a8737ca89b0314aad6ed939.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Galaxy Framework",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522860/e0d07ba4b454d03658bfa9b597da0b32.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Cosmic Sandpit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4514443/51a333a23640849da6030d120c78dab3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Destroyer",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3668642/a7f8f847c422edf2cbd6a1d326f5f054.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai The Gem Coursing in Red",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548490/27435679af86f018cc8d65c45cbf4a06.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Destruction Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649190/4b1dd82c7e27c8d3311ebd478b12e6f1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Hunt Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649189/caa439e94a7dce5e8731b0cca4d42ba3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Erudition Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649188/af004599288ead465807a176da013d12.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Harmony Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649191/40e278c3e7b0bf35e53cdd259aca5c92.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Nihility Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3642328/7b27cafae1e58a77db6607cb76b9b0eb.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Preservation Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649192/44a1f6aa63d4d2c0a46363946a2a1f69.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Abundance Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649187/1c3fb72d6888e3a26ea7112549ef4b85.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai The Remembrance Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4045619/1a57036ae00b8930ee5dee6817b24d50.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai The Elation Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4378263/922b03432dfca432bf40681871736d6a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Fire Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649221/41f5578f3193cfb84668e6207d8ab6a4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Ice Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649217/ce61c159254847831c07d19cf13b4223.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Lightning Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649222/7ac92792d400707e9483e8ffa4470b8f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Wind Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649218/1ab2b157ec68b4f5d9e5990175c33f87.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Quantum Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649220/fcf4120eafac20f910e7a57c2bda0d8c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Imaginary Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649216/62f29e86fc98f951df761bea314b8aa7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Physical Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649219/9e6591d2f238beeb734eeeb10fd278b7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Fu Xuan",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3654340/7697711153625e76b6e7c14064bf19b4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Qingque",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649174/3d87d27f59063e1ed86b1aed6b20a99a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Seele",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649172/08aea46ef3b31c30797427ec94ae8d50.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Silver Wolf",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3650052/5e64f5ecefd1c389052e8672f2561e2a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Lynx",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3753097/5577e5e69fc88fbf63db533a923c15f7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Xueyi",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899371/411ef4407478d5f4615868a61a11dc4b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Sparkle",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Jade",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3872780/f55e81b379b425ffcaa39465d2d87895.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Tribbie",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Castorice",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4104674/c7d4833be32744623796e69cd8955443.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Cipher",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4138632/f57bdd428064adf48a34155895e678e7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Archer",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show",
+        "_hasExplicit": false
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4567846/f8446e0c9ade5acc0279e88f4e37c645.png/show"
+  },
+  {
+    "name": "Free Gilgamesh or Archer",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
+    "dateText": "07/24 - End of 4.6",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Honkai All Materials",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3903840/22486af6507c90e11190f4beca25ae9d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Gilgamesh",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4510698/35a4f785ea50718f882ebf389f24d78c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Add to Watchlist",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201391/79cd2e4bd57bf19613170a9d65dd2857.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Gilgamesh",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4510470/cab44c413c1ae484058e78385e5d4427.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Rarity",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649225/71e9899aae21adc901060874034e4132.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lightning",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649222/7ac92792d400707e9483e8ffa4470b8f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Destruction",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649190/4b1dd82c7e27c8d3311ebd478b12e6f1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "S+",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4117369/73c8c69a9b49615b97d66438e2909b63.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "SS",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3289669/e832fa25321de930c035218768f28039.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "I Am As You Behold Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Scholar Lost in Erudition",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Cosmic Life Sciences Institute",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "A Thankless Coronation Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Thus Burns the Dawn Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "On the Fall of an Aeon Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3648256/ea0b441bcc1586734c978f95e7b16153.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "A Trail of Bygone Blood Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201263/2d2fb771c54909f3649bde3cd5d9598f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Under the Blue Sky Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3680524/f89641ef1c1fff98ea05943cee37d9df.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Saber",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Trailblazer (Ice)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4047233/854727fffbde0282885bd3e808b4cf43.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Huohuo",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899380/226b90c621a962707100fc840295ae85.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Welt",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899404/4754cfef8a4e6e804634f6fd1ec804cd.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "March 7th (Imaginary)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3906080/af9e036db27327ee9df507272a13510e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Yukong",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3730778/1eb5eb0197b55d92ce1c8dd320f29337.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lynx",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3753097/5577e5e69fc88fbf63db533a923c15f7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Mortenax Blade",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4461472/6797582d962e3e53f3015289a039ec6a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tribbie",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Robin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899484/9cca679cb587dc8e93fba1823aeca6d5.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sunday",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4010974/4d201b7d582745d60c2eecdaf80c8f0c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Ashveil",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4408797/553d6e9892db8a130aceb671075acc07.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Ashblazing Grand Duke",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/3790301/6c28bd78095fdad984b87ade33a9e8c1.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Genius of Brilliant Stars",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Izumo Gensei and Takama Divine Realm",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "City of Converging Stars",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Extinguished Core",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656102/9d7e5efac1bc35b23ba29245cbe3cba3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Glimmering Core",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656138/09285a74797ceb6297a66bdf084e5b2b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Squirming Core",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656141/9e4b4c8e544f6209d2783995c12860cf.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Thunder Strum",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4410461/a4f1be0e75fd19274acc50cd2c975f2a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Four Phases, Crossing the River to Check the King",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522862/95a5689957d00a910a1359f5c3faed1d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sixen, King-Rook Fork",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522861/2a84f30e9b8a5d23503eba923472c8d3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Omnicolor, Fool",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4514444/8d29c6e04c6008f4f100f3b69aed983e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Guardian",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3668640/88e43d6f27fc3b233e179db952d41275.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Of the Beginning, Enuma Elish",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548491/97f944b70947f0730bbcfb34b1d2d72a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Destruction Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649190/4b1dd82c7e27c8d3311ebd478b12e6f1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Hunt Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649189/caa439e94a7dce5e8731b0cca4d42ba3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Erudition Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649188/af004599288ead465807a176da013d12.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Harmony Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649191/40e278c3e7b0bf35e53cdd259aca5c92.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Nihility Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3642328/7b27cafae1e58a77db6607cb76b9b0eb.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Preservation Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649192/44a1f6aa63d4d2c0a46363946a2a1f69.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Abundance Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649187/1c3fb72d6888e3a26ea7112549ef4b85.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai The Remembrance Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4045619/1a57036ae00b8930ee5dee6817b24d50.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai The Elation Path",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4378263/922b03432dfca432bf40681871736d6a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Fire Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649221/41f5578f3193cfb84668e6207d8ab6a4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Ice Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649217/ce61c159254847831c07d19cf13b4223.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Lightning Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649222/7ac92792d400707e9483e8ffa4470b8f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Wind Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649218/1ab2b157ec68b4f5d9e5990175c33f87.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Quantum Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649220/fcf4120eafac20f910e7a57c2bda0d8c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Imaginary Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649216/62f29e86fc98f951df761bea314b8aa7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Physical Element",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649219/9e6591d2f238beeb734eeeb10fd278b7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Tingyun",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649168/68277f4b951e9e3c66cb63d5af06492b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Serval",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649180/4aec0e04cdda7f689c902e2344c3a360.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Kafka",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3650053/948c04b5109a6ace916c0d4ee398ffac.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Jing Yuan",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649175/63e7421fbc514ba608b9177b91b97407.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Bailu",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649163/6ebbd41158dd1c549a8a26141f57670e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Arlan",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3649164/d0528d1a9baa34615fbbf609666fd6dc.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Acheron",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3899367/9cedf24bc0ce960e0b3973250dd28c76.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Star Rail Moze",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3935762/b1833d89976ab075e844361beb6a9dc8.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Aglaea",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Ashveil",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4408797/553d6e9892db8a130aceb671075acc07.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Honkai Elation Trailblazer",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4437695/81f7121db0f9b6fade3323e3f0277b6e.png/show",
+        "_hasExplicit": false
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4567787/5ccb5bfff63a3252a6ad0be9dc40f535.png/show"
+  },
+  {
+    "name": "Antigraft Brickbuster",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/608556",
+    "dateText": "07/15 - 08/26",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Self-Modeling Resin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Stellar Jade",
+        "totalQuantity": 900,
+        "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Lost Crystal",
+        "totalQuantity": 30,
+        "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Traveler",
+        "totalQuantity": 22,
+        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Refined Aether",
+        "totalQuantity": 20,
+        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Galaxy Framework",
+        "totalQuantity": 40,
+        "icon": "https://img.game8.co/4522860/e0d07ba4b454d03658bfa9b597da0b32.png/show",
+        "_hasExplicit": true
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": 780000,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "_hasExplicit": true
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4548615/559a819c70dca52fed56afbe11b43a68.png/show"
+  },
+  {
+    "name": "Fate Gift",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/462460",
+    "dateText": "07/15 - 08/26",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Flickering Stars Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "I Am As You Behold Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "A Thankless Coronation Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Hell Where Ideals Burn Light Cone",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show",
+        "_hasExplicit": false
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4531573/1b504c8a3334e8ed855841c1c6961efb.png/show"
+  },
+  {
+    "name": "Stellar Companion",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/592091",
+    "dateText": "04/22 - End of 4.4",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Récompenses de Stellar Companion non encore détaillées par Game8",
+        "totalQuantity": 0,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4465759/62947e7d156c6bad8b3164100abd7768.png/show"
+  },
+  {
+    "name": "4.4 Garden of Plenty",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/413423",
+    "dateText": "Start: 08/14/2026 - 08/24/2026 Get double the rewards when challenging Golden and Crimson Calyxes!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Flower of Eternity",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656134/769da4acc06704e2d7a36dfa9655d8d1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sprout of Life",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656109/858bb1f2d9c04ab97d7bb9b47a6f4b6a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Seed of Abundance",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656099/c0a4da3397d0cdfa19d4b47a29bb3a8b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Safeguard of Amber",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656143/01176560f4e5cd0fe47a32d13343e5a9.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Oath of Steel",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656139/7ca41d2e0d924fc31e894917e0bb4905.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Endurance of Bronze",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656103/d1f3912cf0a70a2a8f3b8ed6e0ab482a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Key of Wisdom",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656144/3beecffc70b83cad277a7d156be6fd97.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Key of Knowledge",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656130/a88018ac97a70e5e8c2ea295e3af60f4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Key of Inspiration",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656112/f36be4ec19e7ec66e6933894ccea1571.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Stellaris Symphony",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656145/79e6bd0a08b2aeb2100aa6bf3a904f4f.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Ancestral Hymn",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656100/9db76ea4114a3a15e981993c60781ab6.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Harmonic Tune",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656115/fda8ee316b06cbb79129a9d89533156b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Obsidian of Obsession",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656131/621a55f459f548dba9dc10e04b190f91.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Obsidian of Desolation",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656197/472001f39e731fb056489fc6e11995b7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Obsidian of Dread",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656108/e313e7f6494b6d436ffd17cc581fa75c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Arrow of the Starchaser",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656124/da565435efc49e94391aa6768d03a019.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Arrow of the Demon Slayer",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656110/d93f24b0fc4a2a04642e7f211b48e36c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Arrow of the Beast Hunter",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656097/00bb3f20f896bd82a438ce562a36b096.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Worldbreaker Blade",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656136/1dde71f8fbb041afa86abd088109ea42.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lifeless Blade",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656129/40a3a9f128e0e570596351ca89588bc3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Shattered Blade",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656107/685cb5e045729068f8a582e241302a08.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Refined Aether",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Condensed Aether",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656137/c6bc7981080feff34447255d3015d9b8.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sparse Aether",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656125/18baf7b1c23dc959ef0799da48a9633d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Traveler",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Adventure Log",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656095/54eed904294437c7e5e6d92315ca3e02.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Travel Encounters",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656148/5adb43886473e8ea8868c6f8c297fbc5.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Firmament Note",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830097/1591d36ca4cf7721ae4f9ec0a11f07a5.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Fiery Spirit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830103/73574b898fa7530fab77ca8007a79793.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Borisin Teeth",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830114/f67e2810d0ef30800abdab1464e0ce99.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Starfire Essence",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830087/d90c448469c1499db18a8a4eaa1ca4bf.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Heaven Incinerator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830088/dbed149bc7043f452cae5d5cc5a923de.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Celestial Section",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830100/f534bfb09df7a68ef090bc0ae666bc2b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Heavenly Melody",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830102/a2e1a34f6801d8ff6aa08972eb26f2dd.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lupitoxin Sawteeth",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830112/fa616db80ac3628024765f3e64836fff.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Moon Rage Fang",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3830113/dc1e4cfcf08240cdceb11775abaab82b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Scattered Stardust",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856883/f81aa8951a2e5447b10b96ea4975e0b6.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Crystal Meteorites",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856889/39af490f754d7703ad910f057de39c7b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Divine Amber",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856906/2cba5daf7b7bf6cff7e1e89e5b6e7e8a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Alien Tree Seed",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856953/f439cf9929d40003802f3ae43ad5288c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Nourishing Honey",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856964/1c340e6297f91e8415e1cac82ad696b6.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Myriad Fruit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3856968/377bea5c28a045b36d2989c1149cfcc9.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Meteoric Bullet",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3874870/a838f9db0a38a5708d41e93db2bd739b.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Destined Expiration",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3874875/80d3a74dc3faa12aa71ab7b0394f09f1.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Countertemporal Shot",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3874877/4049cda572b4474b06ef1c27fc037b2d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Rough Sketch",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905890/0a8037d8bc793e7366f68f37892c9b63.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Dynamic Outlining",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905892/9dfac22d098b4a5342d32cbe5f9f02da.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Exquisite Colored Draft",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905893/36b049c81e175ebe942d2dbbc70ce0d0.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Bija of Consciousness",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4076375/cae6cbc4dd5015d070c3b7f0133c5679.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Seedling of Manas",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4076376/bd6162e4946f10ed465ebbbddaf9723c.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Flower of Alaya",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4076377/f45580083e1e15cabced1087a837b9ef.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Fluffy Hand-drawn Storyboards",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4408333/328e5adadde727fad07d644430c175dd.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Fluffy Serialization Memorial Issue",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4408332/0ce17fe1377f125bc30430df0ca9bbf4.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "The Fluffy Collector",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4408329/66c2417863d8cf6bb545e109a98269a3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Grit of Strife",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4410464/e94aa5c4323440105b499e398d96be98.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Resin of Valor",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4410463/17411fb40a83ce555e49bb1fc3217c26.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Lance of Retribution",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4410462/0ca24127bb482e34eb5ec9ae77f2fb59.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Heart of Phagousa",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4467497/b553e868adbfb220afb8e9bcbaac09a7.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Wine of Phagousa",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4477478/bc57177f1f7cb0248b2c20acbefa51d8.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Tear of Phagousa",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4477477/7c2cc4b2e8560a664bcbf742914a137a.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Cosmic Sandpit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4514443/51a333a23640849da6030d120c78dab3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Omnicolor, Fool",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4514444/8d29c6e04c6008f4f100f3b69aed983e.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Sixen, King-Rook Fork",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522861/2a84f30e9b8a5d23503eba923472c8d3.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Four Phases, Crossing the River to Check the King",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522862/95a5689957d00a910a1359f5c3faed1d.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Galaxy Framework",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522860/e0d07ba4b454d03658bfa9b597da0b32.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Celestial Globe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4522855/56cb586a9a8737ca89b0314aad6ed939.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "_hasExplicit": false
+      },
+      {
+        "itemName": "Trailblaze EXP",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3673582/05dc308fb914b8794ba6e8b880ff9afa.png/show",
+        "_hasExplicit": false
+      }
+    ],
+    "imageUrl": "https://img.game8.co/3879154/dfd8d53553bb3199aee5247860190530.png/show"
+  }
+]

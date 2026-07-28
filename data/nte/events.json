@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Stamina Recharge",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/13/2026 - 07/20/2026",
+    "status": "past",
+    "rewards": [
+      {
+        "itemName": "City Stamina",
+        "totalQuantity": 2,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/citystamina.webp"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76503.png"
+  },
+  {
+    "name": "Beyond the Rails",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "dateText": "07/16/2026 - 07/30/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Cosmetics",
+        "totalQuantity": 0,
+        "icon": ""
+      },
+      {
+        "itemName": "resources",
+        "totalQuantity": 0,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/74216.png"
+  },
+  {
+    "name": "Gold Clash",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/20/2026 - 08/03/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Fons",
+        "totalQuantity": 2,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76506.png"
+  },
+  {
+    "name": "Shadow-n-Seek",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/17/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Paper Cup Phone",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/prophuntcoin-256.webp"
+      },
+      {
+        "itemName": "Gotcha! avatar frame",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-icon-frame-prophunt-256.webp"
+      },
+      {
+        "itemName": "Annulith",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png"
+      },
+      {
+        "itemName": "Floe Cinema Tickets",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_204.png"
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76495.png"
+  },
+  {
+    "name": "Fishing Frenzy",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "dateText": "08/03/2026 - 08/19/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Harpoon/net fishing",
+        "totalQuantity": 0,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76493.png"
+  },
+  {
+    "name": "Pixel Surge",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "dateText": "08/03/2026 - 08/10/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Character Pixel",
+        "totalQuantity": 2,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76043.png"
+  },
+  {
+    "name": "Warren Lucky Flip",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "dateText": "08/05/2026 - 08/19/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Card flip",
+        "totalQuantity": 0,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle_s/76502.png?date=1782724405"
+  },
+  {
+    "name": "Fons Rush",
+    "link": "https://nte.wiki/guides/nte-1-2-event-calendar-guide/",
+    "dateText": "08/10/2026 - 08/17/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Fons from City Stamina",
+        "totalQuantity": 2,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76037.png"
+  },
+  {
+    "name": "Summer Special Gift Pack",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "S-Class Standard Character Selection Box",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/character-ssrbox.webp"
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/24en.jpg"
+  },
+  {
+    "name": "Neon Rift",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Draco",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-carcard22.webp"
+      },
+      {
+        "itemName": "Esper Zero's exclusive outfit Glory Days",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-009-10-256.webp"
+      },
+      {
+        "itemName": "Esper Zero's exclusive outfit colors Glory Days - Starfall",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-1051-rpg-level3-dye2.webp"
+      },
+      {
+        "itemName": "Glory Days - Braveheart",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-1051-rpg-level3-dye1.webp"
+      },
+      {
+        "itemName": "Fabricated Dice",
+        "totalQuantity": 10,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png"
+      },
+      {
+        "itemName": "Handwritten Letter",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_10.png"
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": 100000,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      },
+      {
+        "itemName": "Ember Trail",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-manghe-shinku-256.webp"
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/24en.jpg"
+  },
+  {
+    "name": "Circle Gifts Login",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Solid Dice",
+        "totalQuantity": 10,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_2.png"
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/24en.jpg"
+  },
+  {
+    "name": "999 Nights",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Annulith",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png"
+      },
+      {
+        "itemName": "Fabricated Dice",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png"
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      },
+      {
+        "itemName": "Floe Cinema Tickets",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_204.png"
+      },
+      {
+        "itemName": "Elite Hunter Guides",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_11.png"
+      },
+      {
+        "itemName": "Chaotic Dye",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_36.png"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76494.png"
+  },
+  {
+    "name": "Eibon Partner Program",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/19/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Annulith",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png"
+      }
+    ],
+    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76662.png"
+  },
+  {
+    "name": "Version 1.2 Circle Bounty Guide",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260706/263029.html",
+    "dateText": "07/08/2026 - 08/18/2026",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Experience Points",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/returning-exp.webp"
+      },
+      {
+        "itemName": "Fabricated Dice",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png"
+      },
+      {
+        "itemName": "Gold Carrota",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-icon-game-gold-01.webp"
+      },
+      {
+        "itemName": "De-noise Solution",
+        "totalQuantity": 0,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/tili.webp"
+      },
+      {
+        "itemName": "Handwritten Letter",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_10.png"
+      },
+      {
+        "itemName": "Expansion Cores",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_23.png"
+      },
+      {
+        "itemName": "Annulith",
+        "totalQuantity": 680,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png"
+      },
+      {
+        "itemName": "Solid Dice",
+        "totalQuantity": 4,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_2.png"
+      },
+      {
+        "itemName": "Arc-light Trove",
+        "totalQuantity": 1,
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/bp-weaponbox-01.webp"
+      },
+      {
+        "itemName": "Fons x700000",
+        "totalQuantity": 0,
+        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png"
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/24en.jpg"
+  }
+]

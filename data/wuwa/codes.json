@@ -1,0 +1,50 @@
+[
+  {
+    "code": "F5F4D3B2A2",
+    "rewards": []
+  },
+  {
+    "code": "WUTHERINGGIFT",
+    "rewards": []
+  },
+  {
+    "code": "F5F4D3B2A2",
+    "rewards": [
+      {
+        "name": "Escape from Duckov Collab Livery",
+        "quantity": 1,
+        "icon": "https://img.game8.co/4556368/b3cc467565cc81629f6d61c947da9662.png/show"
+      }
+    ]
+  },
+  {
+    "code": "WUTHERINGGIFT",
+    "rewards": [
+      {
+        "name": "Astrite",
+        "quantity": 50,
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show"
+      },
+      {
+        "name": "Premium Resonance Potion",
+        "quantity": 2,
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show"
+      },
+      {
+        "name": "Medium Revival Inhaler",
+        "quantity": 2,
+        "icon": "https://img.game8.co/4312571/e136c5d8499c215cc65121aa0394bf60.png/show"
+      },
+      {
+        "name": "Medium Energy Bag",
+        "quantity": 2,
+        "icon": "https://img.game8.co/4312565/3cbcdebe976d5e212bc2159068be26b8.png/show"
+      },
+      {
+        "name": "Shell Credit",
+        "quantity": 15000,
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show"
+      }
+    ]
+  }
+]
