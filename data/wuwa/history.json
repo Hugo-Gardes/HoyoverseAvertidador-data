@@ -1,4 +1,143 @@
 {
-  "events": [],
-  "banners": []
+  "events": [
+    {
+      "name": "Nightmare Challenge (Adam Smasher)",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/604892",
+      "dateText": "Milestone Challenge",
+      "imageUrl": "https://img.game8.co/4530434/39b7a6e261272411c3bcb558ae5f3a35.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Astrite",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+          "totalQuantity": 130
+        },
+        {
+          "itemName": "Premium Sealed Tube",
+          "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+          "totalQuantity": 22
+        },
+        {
+          "itemName": "Shell Credit",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+          "totalQuantity": 450000
+        },
+        {
+          "itemName": "Reminiscence: Nightmare Adam Smasher  - 5-Star",
+          "icon": "https://img.game8.co/4518196/9c0c9bcee683887ec41468adc90d317a.png/show",
+          "totalQuantity": 6
+        },
+        {
+          "itemName": "Premium Enclosure Tank - Lahai-Roi",
+          "icon": "https://img.game8.co/4374448/5c74b2a3d06d85bd75c9613eb2bde0f6.png/show",
+          "totalQuantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Sweetdream Tuning",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/603717",
+      "dateText": "3.4 Depths of Illusive Realm: Dreamchasers",
+      "imageUrl": "https://img.game8.co/4521401/cf972fa9fe34e2567f0de4e45a39af13.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Lucy",
+          "icon": "",
+          "totalQuantity": 580
+        }
+      ]
+    },
+    {
+      "name": "Dream of Azure Sky",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/603529",
+      "dateText": "Startorch Racing, Rerun!",
+      "imageUrl": "https://img.game8.co/4520130/6b99cc4e00831317bbba8dc8d527392d.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Astrite",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+          "totalQuantity": 300
+        },
+        {
+          "itemName": "Premium Sealed Tube",
+          "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+          "totalQuantity": 10
+        },
+        {
+          "itemName": "Shell Credit",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+          "totalQuantity": 200000
+        },
+        {
+          "itemName": "Premium Tuner",
+          "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+          "totalQuantity": 100
+        }
+      ]
+    },
+    {
+      "name": "Gifts of Dreamchasers",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/603544",
+      "dateText": "Matrix Reform",
+      "imageUrl": "https://img.game8.co/4520329/804edeb237221c34f42ac3683209f03b.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "10 Dreamcatcher Tide for 10 Days",
+          "icon": "",
+          "totalQuantity": 0
+        }
+      ]
+    },
+    {
+      "name": "Night City Roaming",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/603610",
+      "dateText": "Instant Flashlight",
+      "imageUrl": "https://img.game8.co/4520127/0576bd28c8dbce52ebb368b494b30a81.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Astrite",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+          "totalQuantity": 250
+        }
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "name": "Beginner's Choice Convene Banner",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/453554",
+      "image": "https://img.game8.co/3889149/5851cef50129c1bc79aaa002a4aa32ac.png/show",
+      "status": "history",
+      "rateUp5Star": [],
+      "rateUp4Star": []
+    },
+    {
+      "name": "Utterance of Marvels",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/455422",
+      "image": "https://img.game8.co/3889150/2c8de28f61635b17919a2f411bce85b4.png/show",
+      "status": "history",
+      "rateUp5Star": [],
+      "rateUp4Star": []
+    },
+    {
+      "name": "Tidal Chorus",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/455430",
+      "image": "https://img.game8.co/4498183/868363d85a45d3d2aec154e273a9b805.png/show",
+      "status": "history",
+      "rateUp5Star": [],
+      "rateUp4Star": []
+    },
+    {
+      "name": "Weapon Permanent Convene",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/455431",
+      "image": "https://img.game8.co/4498182/05698519b0c5489a97767c4af89d5739.png/show",
+      "status": "history",
+      "rateUp5Star": [],
+      "rateUp4Star": []
+    }
+  ]
 }

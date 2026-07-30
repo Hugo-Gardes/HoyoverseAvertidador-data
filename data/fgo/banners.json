@@ -1,6 +1,17 @@
 {
   "confirmed_na_banners": [
     {
+      "title": "Ordeal Call III: Archetype Inception BB (Dubai) Pickup Summon",
+      "image": "https://static.mana.wiki/grandorder/20260729 OC3 Archetype Inception BB Dubai Pickup.png?width=480&height=173",
+      "servants": [
+        "BB (Dubai)",
+        "Tenochtitlan (Moon Cancer)",
+        "Mysterious Heroine XX (Alter)"
+      ],
+      "start_date": "2026-07-29",
+      "end_date": "2026-09-08"
+    },
+    {
       "title": "FGO Summer 2026 - BB Presents☆Celeb Summer Experience! Free Quest Backup Beni-Enma Pickup Summon",
       "image": "https://static.mana.wiki/grandorder/20260726 Summer 2026 Free Quest Backup Beni Enma Pickup.png?width=480&height=173",
       "servants": [
@@ -1090,6 +1101,17 @@
     }
   ],
   "predicted_na_banners": [
+    {
+      "title": "[JP] 32M Downloads Campaign Morgan Pickup Summon",
+      "image": "https://static.mana.wiki/grandorder/20250829 32M DL Campaign Pickup.png?width=480&height=173",
+      "servants": [
+        "Morgan",
+        "Baobhan Sith"
+      ],
+      "start_date": "2027-07-29",
+      "end_date": "2027-08-12",
+      "original_jp_start": "2025-08-29"
+    },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Aesc the Savior Pickup Summon",
       "image": "https://static.mana.wiki/grandorder/20250820 Chalde U Summer Island 5 Aesc Pickup Summon.png?width=480&height=173",
@@ -2695,18 +2717,6 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-10",
       "original_jp_start": "2024-09-01"
-    },
-    {
-      "title": "[JP] FGO Summer 2026 BB (Dubai) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20240828 Summer 2026 BB Dubai Pickup.png?width=480&height=173",
-      "servants": [
-        "BB (Dubai)",
-        "Tenochtitlan (Moon Cancer)",
-        "Mysterious Heroine XX (Alter)"
-      ],
-      "start_date": "2026-07-28",
-      "end_date": "2026-09-08",
-      "original_jp_start": "2024-08-28"
     },
     {
       "title": "Valentine's 2026 Prerelease Pickup Summon (Daily)",

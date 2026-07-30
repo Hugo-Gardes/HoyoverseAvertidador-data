@@ -1,9 +1,117 @@
 [
   {
-    "name": "All-New Program",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-    "dateText": "06/17/2026 - 07/29/2026",
-    "imageUrl": "https://img.game8.co/4531861/0f288a2be8f66488cee1ec524b417834.png/show",
+    "name": "Enigma of the Labyrinth",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611993",
+    "dateText": "Sometime in Version 3.1",
+    "imageUrl": "https://img.game8.co/4564415/967ae10afc8b3676a076ebcf521540e9.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Pyrois (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Pyrois",
+          "rarity": "A Rank",
+          "imageUrl": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+          "stats": {
+            "baseAtk": "CRIT Rate +14.4% 75",
+            "passiveName": "Eclipse Effect",
+            "passiveDescription": "CRIT Rate increases by 20%. When the equipper is Pyrois, using an Ultimate grants the Eclipse effect. When the Eclipse effect is active, DMG dealt by the equipper ignores 16% of Ether RES, lasting 45s. Repeated triggers reset the duration. When the equipper enters combat, they gain the Eclipse effect."
+          }
+        }
+      },
+      {
+        "itemName": "Sol Exuvia (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Sol Exuvia",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+          "stats": {
+            "baseAtk": "48",
+            "subStat": "ATK 12%",
+            "passiveName": "Eclipse Effect",
+            "passiveDescription": "CRIT Rate increases by 20%. When the equipper is Pyrois, using an Ultimate grants the Eclipse effect. When the Eclipse effect is active, DMG dealt by the equipper ignores 16% of Ether RES, lasting 45s. Repeated triggers reset the duration. When the equipper enters combat, they gain the Eclipse effect."
+          }
+        }
+      },
+      {
+        "itemName": "Proxy Wardrobe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Summer Waves Roll In",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611887",
+    "dateText": "07/29/2026 - 09/07/2026",
+    "imageUrl": "https://img.game8.co/4564416/7ade3f32cbedddae5999b38e785f3bc5.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Lucy Skin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4564077/487ce549b127d22dba6827d2b67416de.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3933603/a727bbf130027f297fe09af66ec8df22.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Snap! Focus Showdown!",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611904",
+    "dateText": "08/07/2026 - 08/24/2026",
+    "imageUrl": "https://img.game8.co/4564419/c4ef5907ae0f933a0c401dce096b7a3b.png/show",
+    "status": "upcoming",
+    "rewards": []
+  },
+  {
+    "name": "Dangerous Fugitive's Leisurely Vacation",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/612010",
+    "dateText": "08/24/2026 - 09/07/2026",
+    "imageUrl": "https://img.game8.co/4564413/e220ce39412e8efcf2dbcbffec2f0405.png/show",
+    "status": "upcoming",
+    "rewards": []
+  },
+  {
+    "name": "Ding-Dong! Delivery Training in Progress",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611995",
+    "dateText": "08/28/2026 - 09/14/2026",
+    "imageUrl": "https://img.game8.co/4564417/65bb9032d2085499befad7a556046665.png/show",
+    "status": "upcoming",
+    "rewards": []
+  },
+  {
+    "name": "Crispy Meal Deployment Plan",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611927",
+    "dateText": "08/19/2026 - 09/07/2026",
+    "imageUrl": "https://img.game8.co/4564412/605f0c167f922da02c0a80b0618f1f4e.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Proxy Wardrobe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Gift from the Clouds",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/612024",
+    "dateText": "07/29/2026 - 09/08/2026",
+    "imageUrl": "https://img.game8.co/4564418/5ed73d34f643034a3c4d6f841ad9f2c9.png/show",
     "status": "ongoing",
     "rewards": [
       {
@@ -15,282 +123,319 @@
     ]
   },
   {
-    "name": "Art is Bangboo",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604665",
-    "dateText": "07/08/2026 - 07/27/2026",
-    "imageUrl": "https://img.game8.co/4527374/5327c5f215a0b731601cb7104d78c385.png/show",
-    "status": "ongoing",
+    "name": "The Great En-Nah Giveaway",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/612051",
+    "dateText": "08/19/2026 - 09/08/2026",
+    "imageUrl": "https://img.game8.co/4564420/0c15ddd1b9ac7ec20a604cd3519e7d54.png/show",
+    "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Polychrome",
-        "totalQuantity": 420,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Boopon",
-        "totalQuantity": 5,
-        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Original Chip",
-        "totalQuantity": 48,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
-      },
-      {
-        "itemName": "W-Engine Energy Module",
-        "totalQuantity": 5,
-        "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Senior Investigator Log",
-        "totalQuantity": 12,
-        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Bangboo System Widget",
-        "totalQuantity": 5,
-        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 130000,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "itemName": "Encrypted Master Tape",
+        "totalQuantity": 7,
+        "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
     ]
   },
   {
-    "name": "Assemble Mock Exam Comeback Plan",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604625",
-    "dateText": "06/26/2026 - 07/27/2026",
-    "imageUrl": "https://img.game8.co/4527370/63bca5daf97bd59b28f873adf440a8b3.png/show",
+    "name": "Filmgoer Thank-You Event",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/572098",
+    "dateText": "07/29/2026 - 09/09/2026",
+    "imageUrl": "https://img.game8.co/4372253/26d900268fc06cd5db598805d1fb09a1.png/show",
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Boisterous Echoes W-Engine",
+        "itemName": "S-Rank Agent",
         "totalQuantity": 1,
-        "icon": "https://img.game8.co/4527266/f4c49f0ca2f343a63e364aa61ba4799f.png/show",
+        "icon": "https://img.game8.co/3910701/b14878de4dc8e71f9c529042b3ba9e0f.png/show",
+        "details": null
+      },
+      {
+        "itemName": "S-Rank W-Engine",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3910759/18639ac4203a54acfc4e82b6104024b0.png/show",
+        "details": null
+      },
+      {
+        "itemName": "namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3933603/a727bbf130027f297fe09af66ec8df22.png/show",
+        "details": null
+      },
+      {
+        "itemName": "dynamic wallpaper",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3925099/1533b222b1e457cae29d6c9f1a2644f9.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Function Menu theme and pendant",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4383611/5f6b20ef68220f8faaa5bd19ad690c86.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Proxy Wardrobe",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Nekomata",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Lycaon",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Soldier 11",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Koleda",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Grace",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Rina",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Astra",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Vivian",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Seed",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
+        "details": null
+      },
+      {
+        "itemName": "List of All Characters",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3905151/e3694918573d80f1dd09b7637e82aef9.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Fusion Compiler (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
         "details": {
           "type": "W_ENGINE",
-          "realName": "Boisterous Echoes W-Engine",
-          "rarity": "A Rank",
-          "imageUrl": "https://img.game8.co/4527266/f4c49f0ca2f343a63e364aa61ba4799f.png/show",
+          "realName": "Fusion Compiler",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
           "stats": {
-            "baseAtk": "40",
-            "subStat": "Anomaly Proficiency 30",
-            "passiveName": "Resounding Drum",
-            "passiveDescription": "When the equipper triggers the Vortex effect, they gain 2 Energy. This effect can trigger once every 10s. When attacking enemies afflicted with an Attribute Anomaly, the equipper deals 11.5% increased DMG."
+            "baseAtk": "46",
+            "subStat": "PEN Ratio 9.60%",
+            "passiveName": "Data Flood",
+            "passiveDescription": "Increases ATK by 12%. When using a Special Attack or an EX Special Attack, the equipper's Anomaly Proficiency is increased by 25 for 8s, stacking up to 3 times. The duration of each stack is calculated separately."
           }
         }
       },
       {
-        "itemName": "Polychrome",
-        "totalQuantity": 800,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Hamster Cage Pass",
+        "itemName": "Weeping Cradle (W-Engine)",
         "totalQuantity": 1,
-        "icon": "https://img.game8.co/3893365/5529aee693c95a4eb535306751c6f330.png/show",
+        "icon": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Weeping Cradle",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
+          "stats": {
+            "baseAtk": "46",
+            "subStat": "PEN Ratio 9.60%",
+            "passiveName": "Punishment",
+            "passiveDescription": "While off-field, the equipper's Energy Regen increases by 0.6/s. Attacks from the equipper increase all units' DMG against a struck target by 10% for 3s. During this period, this effect is further increased by 1.7% every 0.5s, up to a maximum additional increase of 10.2%. Repeated triggers only refreshes its duration without refreshing the DMG increase effect. Passive effects of the same name do not stack."
+          }
+        }
+      },
+      {
+        "itemName": "The Brimstone (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "The Brimstone",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
+          "stats": {
+            "baseAtk": "46",
+            "subStat": "ATK 12.00%",
+            "passiveName": "Scorching Breath",
+            "passiveDescription": "Upon hitting an enemy with a Basic Attack, Dash Attack, or Dodge Counter, the equipper's ATK increases by 3.5% for 8s, stacking up to 8 times. This effect can trigger once every 0.5s. The duration of each stack is calculated separately."
+          }
+        }
+      },
+      {
+        "itemName": "Steel Cushion (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Steel Cushion",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
+          "stats": {
+            "baseAtk": "46",
+            "subStat": "CRIT Rate 9.60%",
+            "passiveName": "Metal Cat Claws",
+            "passiveDescription": "Increases Physical DMG by 20%. The equipper's DMG increases by 25% when attacking the enemy from behind."
+          }
+        }
+      },
+      {
+        "itemName": "The Restrained (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "The Restrained",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
+          "stats": {
+            "baseAtk": "46",
+            "subStat": "Impact 7.20%",
+            "passiveName": "Binding Chains",
+            "passiveDescription": "When an attack hits an enemy, DMG and Daze from Basic Attacks increase by 6% for 8s, stacking up to 5 times. This effect can trigger at most once during each skill. The duration of each stack is calculated separately."
+          }
+        }
+      },
+      {
+        "itemName": "Hellfire Gears (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Hellfire Gears",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
+          "stats": {
+            "baseAtk": "46",
+            "subStat": "Impact 7.20%",
+            "passiveName": "Passionate Construction",
+            "passiveDescription": "While off-field, the equipper's Energy Regen increases by 0.6/s. When using an EX Special Attack, the equipper's Impact is increased 10% for 10s, stacking up to 2 times. The duration of each stack is calculated separately."
+          }
+        }
+      },
+      {
+        "itemName": "Elegant Vanity (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Elegant Vanity",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
+          "stats": {
+            "baseAtk": "48",
+            "subStat": "ATK 12%",
+            "passiveName": "Untold Beauty",
+            "passiveDescription": "When any squad member enters the field through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, the equipper gains 5 Energy. This effect can trigger once every 5s. When the equipper consumes 25 Energy or more, the damage dealt by all squad members increases by 10%, stacking up to 2 times, and lasting 20s. Repeated triggers refresh the duration. Only one instance of this effect can exist in the same squad."
+          }
+        }
+      },
+      {
+        "itemName": "Flight of Fancy (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Flight of Fancy",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
+          "stats": {
+            "baseAtk": "48",
+            "subStat": "Anomaly Proficiency 36",
+            "passiveName": "Silver Spiked Feathers",
+            "passiveDescription": "Increases Anomaly Buildup Rate by 40%. When the equipper deals Ether DMG, their Anomaly Proficiency increases by 20 for 5s, stacking up to 6 times. This effect can trigger once every 0.5s, and repeated triggers reset the duration."
+          }
+        }
+      },
+      {
+        "itemName": "Cordis Germina (W-Engine)",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
+        "details": {
+          "type": "W_ENGINE",
+          "realName": "Cordis Germina",
+          "rarity": "S Rank",
+          "imageUrl": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
+          "stats": {
+            "baseAtk": "48",
+            "subStat": "CRIT Rate 9.60%",
+            "passiveName": "Sprouting Core",
+            "passiveDescription": "Increases CRIT Rate by 15%. When the equipper deals DMG with a Basic Attack or EX Special Attack, they gain 1 stack of a buff. Each stack increases the equipper's Electric DMG by 12.5%, up to 2 stacks. Each stack lasts 40s. The duration of each stack is calculated separately. Can trigger once per use of a skill. At 2 stacks, the wearer's Basic Attack and Ultimate DMG ignore 20% of enemy DEF."
+          }
+        }
+      },
+      {
+        "itemName": "List of All W-Engines",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3872232/2f66f91410f847568e8c6eec8d63c161.png/show",
         "details": null
       },
       {
-        "itemName": "Original Chip",
-        "totalQuantity": 60,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "itemName": "Remielle",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4537420/0a9bc14737991d07575f3af233d16eef.png/show",
         "details": null
       },
       {
-        "itemName": "Senior Investigator Log",
-        "totalQuantity": 15,
-        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "itemName": "Seashade Pas Seul",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4564101/f116a3dd54bd177afb96dc7b1b94633a.png/show",
+        "details": null
+      }
+    ]
+  },
+  {
+    "name": "Phaethon's Grand Reveal of the Year",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611925",
+    "dateText": "07/29/2026 - 09/09/2026",
+    "imageUrl": "https://img.game8.co/4564414/d14e2e5660666161020b7d3ee56e47f3.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Namecard",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3933603/a727bbf130027f297fe09af66ec8df22.png/show",
         "details": null
       },
       {
-        "itemName": "Bangboo System Widget",
-        "totalQuantity": 3,
-        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Official Investigator Log",
-        "totalQuantity": 15,
-        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "itemName": "Polychrome",
+        "totalQuantity": 160,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
         "details": null
       },
       {
         "itemName": "Denny",
-        "totalQuantity": 280000,
+        "totalQuantity": 30000,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "Bangbang The Genius and Miracle Chip",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604604",
-    "dateText": "06/17/2026 - 07/29/2026",
-    "imageUrl": "https://img.game8.co/4527375/79209c004d77ecffb74a8f111888dd17.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Polychrome",
-        "totalQuantity": 850,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Senior Investigator Log",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 145030,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Boo to the Rescue - Style A",
-        "totalQuantity": 13,
-        "icon": "https://img.game8.co/4536317/5c1997d75619f212b1794c64c9a9618d.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Golden Belt of Boo-gress",
-        "totalQuantity": 13000,
-        "icon": "https://img.game8.co/4536142/2e177fd8f8c215912d15dc7ac194bacd.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Genius",
-        "totalQuantity": 50,
-        "icon": "https://img.game8.co/4536318/8a54f05a076d8329dd921caffe46d0b6.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Boo to the Rescue - Style B",
-        "totalQuantity": 20,
-        "icon": "https://img.game8.co/4536592/a61efbea8b8390a254844a0a6571e272.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Because Tomorrow Still Comes Namecard",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4538684/6e3321c28c789427f78dd9f179b060c8.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Bangboo-tiful Collaboorator",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4535441/b0fd5a5d186d7fe41c332de2e7638c4a.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Official Investigator Log",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Original Chip",
-        "totalQuantity": 5,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "Celestial Nexus Intelligence Dossier",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604631",
-    "dateText": "06/17/2026 - 07/29/2026",
-    "imageUrl": "https://img.game8.co/4527373/2fb71a301c8b4b138f0d3a40153d2ed8.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Polychrome",
-        "totalQuantity": 400,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Boopon",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Original Chip",
-        "totalQuantity": 27,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Official Investigator Log",
-        "totalQuantity": 40,
-        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
-        "details": null
-      },
-      {
-        "itemName": "W-Engine Power Supply",
-        "totalQuantity": 36,
-        "icon": "https://img.game8.co/3893362/95c9f184625d657b46e2c866f4e930a8.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Bangboo Algorithm Module",
-        "totalQuantity": 15,
-        "icon": "https://img.game8.co/3893320/b7ea1fc6e230485a0380a75010a47db7.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "Commemorative Gift",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/605656",
-    "dateText": "07/08/2026 - 07/27/2026",
-    "imageUrl": "https://img.game8.co/4535363/e5500038b714b7d9417d1a3fa51d533f.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Polychrome",
-        "totalQuantity": 1600,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Ether Battery",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893322/4080858e426f73e4f03f122b8a46a88b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 100000,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "En-Nah Into Your Lap",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-    "dateText": "07/08/2026 - 07/28/2026",
-    "imageUrl": "https://img.game8.co/4551002/4db315bf65622b607b00d5752825ace9.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Boopon",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
         "details": null
       }
     ]
@@ -300,7 +445,7 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611588",
     "dateText": "07/17/2026 - 07/28/2026",
     "imageUrl": "https://img.game8.co/4562796/39a648264386bf5e479ce5969e30a0f8.png/show",
-    "status": "ongoing",
+    "status": "past",
     "rewards": [
       {
         "itemName": "Namecard",
@@ -341,130 +486,39 @@
     ]
   },
   {
-    "name": "Gleaming Shadow Team Battle",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604624",
-    "dateText": "06/19/2026 - 07/13/2026",
-    "imageUrl": "https://img.game8.co/4527371/fa8dda3ebda8418a1ff12eca46c87a71.png/show",
-    "status": "ongoing",
+    "name": "En-normous Surprise!",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/523542",
+    "dateText": "Sometime in Version 3.1",
+    "imageUrl": "https://img.game8.co/4180175/03e6b05868825f21e79ab16e0458d418.png/show",
+    "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Polychrome",
-        "totalQuantity": 360,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "itemName": "Encrypted Master Tape",
+        "totalQuantity": 7,
+        "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
-      },
+      }
+    ]
+  },
+  {
+    "name": "Combat Training - Triple Bounty",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/523552",
+    "dateText": "09/02/2026 - 09/07/2026",
+    "imageUrl": "https://img.game8.co/4180233/d935cd8be844409ad317ea01caba9077.png/show",
+    "status": "upcoming",
+    "rewards": []
+  },
+  {
+    "name": "Extensive Patrol - Triple Bounty",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/523546",
+    "dateText": "08/12/2026 - 08/17/2026",
+    "imageUrl": "https://img.game8.co/4565605/32d4a70e27e0ba61b03c29b84af75ab6.png/show",
+    "status": "upcoming",
+    "rewards": [
       {
-        "itemName": "Tuning Calibrator",
+        "itemName": "Routine Cleanup",
         "totalQuantity": 1,
-        "icon": "https://img.game8.co/3893319/4eb8e6bd40e37ae5194b3d53bc00eccb.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Original Chip",
-        "totalQuantity": 60,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Senior Investigator Log",
-        "totalQuantity": 18,
-        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Bangboo System Widget",
-        "totalQuantity": 18,
-        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 120000,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "Tales of the Hobbling Crow",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/604651",
-    "dateText": "07/03/2026 - 07/20/2026",
-    "imageUrl": "https://img.game8.co/4527372/26fdca18d7b82fdbcb51767349ecf4d4.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Polychrome",
-        "totalQuantity": 300,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Boopon",
-        "totalQuantity": 5,
-        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Original Chip",
-        "totalQuantity": 24,
-        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Senior Investigator Log",
-        "totalQuantity": 15,
-        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 150000,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      }
-    ]
-  },
-  {
-    "name": "The Final Callback",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/460378",
-    "dateText": "07/08/2026 - 07/28/2026",
-    "imageUrl": "https://img.game8.co/4550488/469bcaf7a8709a6da27841f41f4720da.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Polychrome",
-        "totalQuantity": 40,
-        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Official Investigator Log",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Basic Stun Certification Seal",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3923034/7b429ece7fbf7f190622b0398ea95b2e.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Basic Support Certification Seal",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/3976375/c7186442c691b9e80f50aec5fbc89dbc.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Denny",
-        "totalQuantity": 20000,
-        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Basic Attack Certification Seal",
-        "totalQuantity": 4,
-        "icon": "https://img.game8.co/3923031/30619e91bba368a1c7ff2d8449689a7a.png/show",
+        "icon": "https://img.game8.co/4350766/ae5e696c88ff01bcb2a38f597b28c00e.png/show",
         "details": null
       }
     ]

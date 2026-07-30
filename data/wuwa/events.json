@@ -97,6 +97,84 @@
     ]
   },
   {
+    "name": "In Search of Lost Jade",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/608347",
+    "dateText": "July 30, 2026 - August 13, 2026 Reach Union Level 8 or higher",
+    "imageUrl": "https://img.game8.co/4545670/258b5113ce8a27edb6668a37b3da345d.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 100
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 30000
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 5
+      }
+    ]
+  },
+  {
+    "name": "Virtual Crisis: Quadrant Trials",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/607412",
+    "dateText": "July 30, 2026 - August 19, 2026 Reach Union Level 14",
+    "imageUrl": "https://img.game8.co/4546274/912f0d0b64247f40c954215a2c132b96.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 500
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 18
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 130000
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 120
+      },
+      {
+        "itemName": "Forgery Advanced Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+        "totalQuantity": 12
+      }
+    ]
+  },
+  {
     "name": "Lament Recon: Tacet Crisis",
     "link": "https://game8.co/games/Wuthering-Waves/archives/607645",
     "dateText": "July 11, 2026 - August 19, 2026 Reach Union Level 14 and activate the Resonance Nexus in Startorch Academy during \"What Burns Beneath Frostlands\"",
@@ -358,34 +436,6 @@
         "itemName": "Advanced Sealed Tube",
         "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
         "totalQuantity": 16
-      }
-    ]
-  },
-  {
-    "name": "In Search of Lost Jade",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/608347",
-    "dateText": "July 30, 2026 - August 13, 2026 Progress through the mini quest in your browser and earn rewards!",
-    "imageUrl": "https://img.game8.co/4545670/258b5113ce8a27edb6668a37b3da345d.png/show",
-    "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "Astrites and Materials",
-        "icon": "",
-        "totalQuantity": 0
-      }
-    ]
-  },
-  {
-    "name": "Virtual Crisis: Quadrant Trials",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/607412",
-    "dateText": "July 30, 2026 - August 19, 2026 Return of the boss event with the escalating challenges! Prepare your strongest characters to advance.",
-    "imageUrl": "https://img.game8.co/4546274/912f0d0b64247f40c954215a2c132b96.png/show",
-    "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "Astrites and Materials",
-        "icon": "",
-        "totalQuantity": 0
       }
     ]
   },

@@ -1,233 +1,9 @@
 [
   {
-    "name": "Voices on Azure Feathers",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/606710",
-    "image": "https://img.game8.co/4543815/1cc5618fd96d1f7d81dc60fd179e25af.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Yangyang Xuanling",
-        "icon": "https://img.game8.co/4535620/1dec41807ec9c36f03bbd9bde9f51c71.png/show",
-        "type": "Havoc"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Danjin",
-        "icon": "https://img.game8.co/4303096/e5818f20b97dc740b31061ed3eeddcbd.png/show",
-        "type": "Havoc"
-      },
-      {
-        "name": "Chixia",
-        "icon": "https://img.game8.co/4303104/351340f23c83950cae8bf7b2eebc5c45.png/show",
-        "type": "Fusion"
-      },
-      {
-        "name": "Aalto",
-        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
-        "type": "Aero"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "Undefined Spectrum",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/570865",
-    "image": "https://img.game8.co/4543814/70e1034f1933c0f429c1d06936aba3d9.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Lynae",
-        "icon": "https://img.game8.co/4349973/bba3006fad0a2a412eb9224ee156ea65.png/show",
-        "type": "Spectro"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Danjin",
-        "icon": "https://img.game8.co/4303096/e5818f20b97dc740b31061ed3eeddcbd.png/show",
-        "type": "Havoc"
-      },
-      {
-        "name": "Chixia",
-        "icon": "https://img.game8.co/4303104/351340f23c83950cae8bf7b2eebc5c45.png/show",
-        "type": "Fusion"
-      },
-      {
-        "name": "Aalto",
-        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
-        "type": "Aero"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "When Winter Thaws",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/575845",
-    "image": "https://img.game8.co/4543812/c3f1795616bbc1664d5b0184b31726dd.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Luuk Herssen",
-        "icon": "https://img.game8.co/4377291/da504ec70ce3ef50c6f1a80d4a975bee.png/show",
-        "type": "Spectro"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Danjin",
-        "icon": "https://img.game8.co/4303096/e5818f20b97dc740b31061ed3eeddcbd.png/show",
-        "type": "Havoc"
-      },
-      {
-        "name": "Chixia",
-        "icon": "https://img.game8.co/4303104/351340f23c83950cae8bf7b2eebc5c45.png/show",
-        "type": "Fusion"
-      },
-      {
-        "name": "Aalto",
-        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
-        "type": "Aero"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "Absolute Pulsation",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
-    "image": "https://img.game8.co/4543813/8c0be7e7f834bd10804115b92d0c5cd1.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Azure Oath",
-        "icon": "https://img.game8.co/4555379/842b1c59b73ca434e0285dd6a09ce7ed.png/show",
-        "type": "Sword"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Commando of Conviction",
-        "icon": "https://img.game8.co/4302879/e2c09de02ab33a482ec63c8af2d54c85.png/show",
-        "type": "Sword"
-      },
-      {
-        "name": "Hollow Mirage",
-        "icon": "https://img.game8.co/4302878/ce06d1fc19419f9482b9eb595d527c9a.png/show",
-        "type": "Gauntlet"
-      },
-      {
-        "name": "Discord",
-        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
-        "type": "Broadblade"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "Absolute Pulsation",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
-    "image": "https://img.game8.co/4543817/697773a492a2fe45377fe28499dff43e.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Spectrum Blaster",
-        "icon": "https://img.game8.co/4374592/52a65a310f426eeb3fc459614cc8040f.png/show",
-        "type": "Pistol"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Commando of Conviction",
-        "icon": "https://img.game8.co/4302879/e2c09de02ab33a482ec63c8af2d54c85.png/show",
-        "type": "Sword"
-      },
-      {
-        "name": "Hollow Mirage",
-        "icon": "https://img.game8.co/4302878/ce06d1fc19419f9482b9eb595d527c9a.png/show",
-        "type": "Gauntlet"
-      },
-      {
-        "name": "Discord",
-        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
-        "type": "Broadblade"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "Absolute Pulsation",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
-    "image": "https://img.game8.co/4543811/5636495a89742706915550d24f12ea49.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Daybreaker's Spine",
-        "icon": "https://img.game8.co/4424797/9f184c3a3fba9f68c53c0c4c49e3a577.png/show",
-        "type": "Gauntlet"
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Commando of Conviction",
-        "icon": "https://img.game8.co/4302879/e2c09de02ab33a482ec63c8af2d54c85.png/show",
-        "type": "Sword"
-      },
-      {
-        "name": "Hollow Mirage",
-        "icon": "https://img.game8.co/4302878/ce06d1fc19419f9482b9eb595d527c9a.png/show",
-        "type": "Gauntlet"
-      },
-      {
-        "name": "Discord",
-        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
-        "type": "Broadblade"
-      }
-    ],
-    "startTime": 1783641600,
-    "endTime": 1785369600
-  },
-  {
-    "name": "Starpath Reverbs",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/606968",
-    "image": "https://img.game8.co/4543808/a058a29fbe440a6d74f6a72fb8b5d469.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Jiyan",
-        "icon": "https://img.game8.co/4303125/b8167e215c344e45fb232d1483c39315.png/show",
-        "type": "Aero"
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": 1783641600,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Tideforge Reverbs",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/606976",
-    "image": "https://img.game8.co/4543818/260a31901d8dbc59b117592ed60be8ff.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Verdant Summit",
-        "icon": "https://img.game8.co/4302953/c37741f9c0a35fbe698037cfd6eb2dea.png/show",
-        "type": "Broadblade"
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": 1783641600,
-    "endTime": 1787097600
-  },
-  {
     "name": "Blessings From Dewy Wings",
     "link": "https://game8.co/games/Wuthering-Waves/archives/451864",
     "image": "https://img.game8.co/4543819/b26765d9e15eb981debc805fc5a92053.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Suisui",
@@ -259,7 +35,7 @@
     "name": "Take Flight in Spring",
     "link": "https://game8.co/games/Wuthering-Waves/archives/575840",
     "image": "https://img.game8.co/4543809/71c1791b5ab67cc43188b878a6ae33db.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Aemeath",
@@ -291,7 +67,7 @@
     "name": "Absolute Pulsation",
     "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
     "image": "https://img.game8.co/4543816/45ffe486e552a7724bef597c0e9ef79f.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Firstlight's Herald",
@@ -323,7 +99,7 @@
     "name": "Absolute Pulsation",
     "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
     "image": "https://img.game8.co/4543810/125db0202fbaa38d0575084571297e02.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Everbright Polestar",
@@ -349,6 +125,38 @@
       }
     ],
     "startTime": 1785369600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Starpath Reverbs",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/606968",
+    "image": "https://img.game8.co/4543808/a058a29fbe440a6d74f6a72fb8b5d469.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Jiyan",
+        "icon": "https://img.game8.co/4303125/b8167e215c344e45fb232d1483c39315.png/show",
+        "type": "Aero"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": 1783641600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Tideforge Reverbs",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/606976",
+    "image": "https://img.game8.co/4543818/260a31901d8dbc59b117592ed60be8ff.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Verdant Summit",
+        "icon": "https://img.game8.co/4302953/c37741f9c0a35fbe698037cfd6eb2dea.png/show",
+        "type": "Broadblade"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": 1783641600,
     "endTime": 1787097600
   }
 ]

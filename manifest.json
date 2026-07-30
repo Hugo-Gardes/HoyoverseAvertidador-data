@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T16:19:56.172Z",
+  "generatedAt": "2026-07-30T14:04:12.698Z",
   "sourceCommit": null,
   "files": [
     {
       "path": "data/fgo/banners.json",
-      "bytes": 92091,
+      "bytes": 92445,
       "items": 2,
-      "sha256": "fcb899034ad5f5e1cfca53618d988eb89fcd96bf0332aa7e07518554a372c5c4"
+      "sha256": "dad5391f3e1bacc152c433dca897ebe5f820c70d0aa3c929c9940b84dad71dba"
     },
     {
       "path": "data/fgo/events.json",
@@ -17,9 +17,9 @@
     },
     {
       "path": "data/fgo/loot_table.json",
-      "bytes": 51081,
-      "items": 864,
-      "sha256": "ce391a3ec58fe7cb489ccd0356767999700fa27c28d7905f8ff2e5243f134c86"
+      "bytes": 51319,
+      "items": 868,
+      "sha256": "a82199216cc067d67fe2a88007caefd77183b378c688e14aa9e1909350a641a3"
     },
     {
       "path": "data/genshin/banners.json",
@@ -31,13 +31,13 @@
       "path": "data/genshin/daily_domains.json",
       "bytes": 64139,
       "items": 12,
-      "sha256": "a80c132e7048951485676832fd29440a011b5e6cdde6d4977eff373697f0fc98"
+      "sha256": "bae7e322432833e6b432df19341ed366f75b4b01b26e9cf1c39395d4e8b00000"
     },
     {
       "path": "data/genshin/endgame.json",
-      "bytes": 421,
+      "bytes": 7300,
       "items": 3,
-      "sha256": "e118317ce157a36108c58bb4901405fa8801058e53555950456299d6c0c5142b"
+      "sha256": "ceb217c945ebb52d6e381cbaf28dd0f504a74c80fad018332c1bce9480278bd0"
     },
     {
       "path": "data/genshin/events.json",
@@ -71,21 +71,21 @@
     },
     {
       "path": "data/nte/banners.json",
-      "bytes": 1293,
+      "bytes": 1292,
       "items": 2,
-      "sha256": "636dd4f062966ebbd95bf45f377059a05b34cc86942e149b5be0888685ea1f12"
+      "sha256": "00d7fbb98954e647f1f3abe94e6af6ca98ffac03779138941ebbe1ad4d22b377"
     },
     {
       "path": "data/nte/codes.json",
-      "bytes": 3110,
-      "items": 10,
-      "sha256": "3aa7fefb3ee16e5bb211a7031efa9a9a680cb7854620f47bb40f2587aa020acf"
+      "bytes": 2769,
+      "items": 9,
+      "sha256": "bb4df47ebfcaf194fdb748969e9353e03748be2f71a2055955a8817d6a6eb8bf"
     },
     {
       "path": "data/nte/events.json",
-      "bytes": 10768,
+      "bytes": 10666,
       "items": 14,
-      "sha256": "38a52320f3e6135089427a76229724532bcdc867ab264d4002de7ddfe2a146cd"
+      "sha256": "45efd42a20fc9332d7f866b74e44351578ce6202cac3087b484a61cdc7decc7e"
     },
     {
       "path": "data/nte/patch.json",
@@ -95,9 +95,9 @@
     },
     {
       "path": "data/wuwa/banners.json",
-      "bytes": 10854,
-      "items": 12,
-      "sha256": "8953c7c2aa855aa4abc6c347310052baf887d1228eaf07201b833ca09b149d20"
+      "bytes": 4932,
+      "items": 6,
+      "sha256": "9db6f02b024021c4e6707d9ac7bcf980534d9139944cfd1aa5e7c3d7f3f40ad2"
     },
     {
       "path": "data/wuwa/codes.json",
@@ -107,15 +107,15 @@
     },
     {
       "path": "data/wuwa/events.json",
-      "bytes": 16287,
+      "bytes": 18078,
       "items": 12,
-      "sha256": "2aa6ffb2786323dd22b0effc48f5356cee9656c716d150afab84d04817973a08"
+      "sha256": "0a0c30d2fff135d539af2c5e667e85d29ad71b493363f7bad2cc52e35b1e602e"
     },
     {
       "path": "data/wuwa/history.json",
-      "bytes": 36,
+      "bytes": 4870,
       "items": 2,
-      "sha256": "e9280249b6162062524caa298b6b76a2b92264d078c10c10daf063f0c0701b53"
+      "sha256": "a874fcf81c713fc9e86075d313d9221a52393bccf3fad187dc942e93e73fea59"
     },
     {
       "path": "data/wuwa/patch.json",
@@ -125,21 +125,21 @@
     },
     {
       "path": "data/zzz/banners.json",
-      "bytes": 6581,
-      "items": 8,
-      "sha256": "ec157d0b13a80b95cded33e17b07f92e0a231af9bd6e83317d38006ba29a1bc2"
+      "bytes": 3976,
+      "items": 7,
+      "sha256": "c42b737035af710fc0b96bfdccd3882babd91078114c01a166ce3cb91ac6299b"
     },
     {
       "path": "data/zzz/events.json",
-      "bytes": 15981,
-      "items": 11,
-      "sha256": "cf749df00c073f05fa8cdf43ade1f9157df3dd0aaf23315972f9ffb0bceac7c1"
+      "bytes": 20874,
+      "items": 14,
+      "sha256": "6c92e3498993f8d0a0d82474f7ccf710b8cd2ef7448817733c424929e9507da9"
     },
     {
       "path": "data/zzz/patch.json",
       "bytes": 75,
       "items": 3,
-      "sha256": "779a6fb3ea772bd775aba146afb8e02c0ffaccabfa26d8cc43058160fbeabcf1"
+      "sha256": "3ed295208dc72d92540f84a674ef60184a1fa029f78d7da8dc95a8c94f0b8f59"
     }
   ]
 }
