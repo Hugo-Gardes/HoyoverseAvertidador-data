@@ -492,7 +492,22 @@
         "itemName": "Honkai Rin Tohsaka",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4511600/59c03b8fd0a0ce373b43cedd51ff8d13.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "CHARACTER",
+          "realName": "Rin Tohsaka",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601938",
+          "rarity": "5-star",
+          "stats": {
+            "Element": "Quantum",
+            "Path": "Erudition",
+            "Base HP": "142",
+            "Base ATK": "95",
+            "Base DEF": "62",
+            "Base SPD": "102"
+          },
+          "imageUrl": "https://img.game8.co/4511600/59c03b8fd0a0ce373b43cedd51ff8d13.png/show"
+        }
       },
       {
         "itemName": "Add to Watchlist",
@@ -528,13 +543,34 @@
         "itemName": "Flickering Stars Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Flickering Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608552",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Sprout Increases the wearer's CRIT Rate by 18% . When any ally character consumes a total of 4 or more Skill Points in a single turn, the wearer gains \"Radiant Crown,\" lasting for 3 turn(s). While the wearer holds \"Radiant Crown,\" all allies' DMG dealt ignores 20% of the target's DEF, and the Skill DMG dealt by the wearer increases by 72% . Effects of the same type cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show"
+        }
       },
       {
         "itemName": "Genius of Brilliant Stars",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show",
-        "_hasExplicit": true
+        "_hasExplicit": true,
+        "details": {
+          "type": "RELIC_SET",
+          "realName": "Genius of Brilliant Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407393",
+          "stats": {
+            "Effet 2 pièces": "Increases Quantum DMG by 10%.",
+            "Effet 4 pièces": "When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+          },
+          "imageUrl": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show"
+        }
       },
       {
         "itemName": "Penacony, Land of the Dreams",
@@ -546,31 +582,86 @@
         "itemName": "Into the Unreachable Veil Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4075013/0b96eb6e95dbd921d379cbe0a3d0047a.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Into the Unreachable Veil",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/492448",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Mind Game Increases the wearer's CRIT Rate by 12% . When the wearer uses Ultimate, increases the Skill and Ultimate DMG dealt by the wearer by 60% , lasting for 3 turn(s). After the wearer. uses Ultimate, if this instance of Ultimate consumed 140 or more Energy, recovers 1 Skill Point."
+          },
+          "imageUrl": "https://img.game8.co/4075013/0b96eb6e95dbd921d379cbe0a3d0047a.png/show"
+        }
       },
       {
         "itemName": "Life Should Be Cast to Flames Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Life Should Be Cast to Flames",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/507471",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Smelt When the wearer's turn starts, regenerates 10 Energy. If the enemy target has a Weakness implanted by the wearer, increases the wearer's DMG dealt to it by 60% . When an enemy target gets attacked by the wearer, the wearer decreases the target's DEF by 12% , lasting for 2 turns. The same types of effects cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
+        }
       },
       {
         "itemName": "Eternal Calculus Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3905920/72f5313a3aca6325d5fc201d5a12fc29.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Eternal Calculus",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/442043",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Boundless Thought Increases the wearer's ATK by 8%/9%/10%11%/12% . After using an attack, for each enemy target hit, additionally increases ATK by 4%/5%/6%/7%/8% . This effect can stack up to 5 times and last until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by 8%/10%/12%14%/16% , lasting for 1 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3905920/72f5313a3aca6325d5fc201d5a12fc29.png/show"
+        }
       },
       {
         "itemName": "Today Is Another Peaceful Day Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3647989/216d7eac597f8bf08d348b716b12e058.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Today Is Another Peaceful Day",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/408553",
+          "rarity": "★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "A Storm Is Coming After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by 0.2%/0.25%/0.3%/0.35%/0.4% per point of Energy, up to 160 Energy."
+          },
+          "imageUrl": "https://img.game8.co/3647989/216d7eac597f8bf08d348b716b12e058.png/show"
+        }
       },
       {
         "itemName": "The Day The Cosmos Fell Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3827881/e7246f3d19287e266945048195ec5656.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "The Day The Cosmos Fell",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/441074",
+          "rarity": "★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Stratagem Increases the wearer's ATK by 16%/18%/20%/22%/24% . When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by 20%/25%/30%/35%/40% , lasting for 2 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3827881/e7246f3d19287e266945048195ec5656.png/show"
+        }
       },
       {
         "itemName": "Archer",
@@ -630,7 +721,17 @@
         "itemName": "Scholar Lost in Erudition",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show",
-        "_hasExplicit": true
+        "_hasExplicit": true,
+        "details": {
+          "type": "RELIC_SET",
+          "realName": "Scholar Lost in Erudition",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/478668",
+          "stats": {
+            "Effet 2 pièces": "Increases CRIT Rate by 8%.",
+            "Effet 4 pièces": "Increases DMG dealt by Ultimate and Skill by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%."
+          },
+          "imageUrl": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show"
+        }
       },
       {
         "itemName": "Tengoku Livestream",
@@ -897,7 +998,22 @@
         "itemName": "Honkai Gilgamesh",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4510698/35a4f785ea50718f882ebf389f24d78c.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "CHARACTER",
+          "realName": "Gilgamesh",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
+          "rarity": "5-star",
+          "stats": {
+            "Element": "Lightning",
+            "Path": "Destruction",
+            "Base HP": "153",
+            "Base ATK": "97",
+            "Base DEF": "69",
+            "Base SPD": "97"
+          },
+          "imageUrl": "https://img.game8.co/4510698/35a4f785ea50718f882ebf389f24d78c.png/show"
+        }
       },
       {
         "itemName": "Add to Watchlist",
@@ -945,13 +1061,34 @@
         "itemName": "I Am As You Behold Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "I Am As You Behold",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608551",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "At Will Increases the wearer's ATK by 18% and Energy Regeneration Rate by 10% . When the wearer uses Ultimate, for every 1 Energy consumed, increases the Ultimate DMG dealt this time by 0.2% , up to a max increase of 72% . When the wearer enters combat or uses Ultimate, the wearer gains \"King's Entertainment,\" lasting for 3 turn(s). While the wearer holds \"King's Entertainment,\" increases all allies' CRIT DMG by 24% . Effects of the same type cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show"
+        }
       },
       {
         "itemName": "Scholar Lost in Erudition",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show",
-        "_hasExplicit": true
+        "_hasExplicit": true,
+        "details": {
+          "type": "RELIC_SET",
+          "realName": "Scholar Lost in Erudition",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/478668",
+          "stats": {
+            "Effet 2 pièces": "Increases CRIT Rate by 8%.",
+            "Effet 4 pièces": "Increases DMG dealt by Ultimate and Skill by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%."
+          },
+          "imageUrl": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show"
+        }
       },
       {
         "itemName": "Cosmic Life Sciences Institute",
@@ -963,31 +1100,86 @@
         "itemName": "A Thankless Coronation Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "A Thankless Coronation",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530841",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "King of Knights Increases the wearer's CRIT DMG by 36% . When using their Ultimate, increases the wearer's ATK by 40% , and if the wearer's Max Energy is greater than or equal to 300, regenerates a fixed amount of Energy equal to 10% of the wearer's Max Energy and increases their ATK by 40% for 2 turns."
+          },
+          "imageUrl": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+        }
       },
       {
         "itemName": "Thus Burns the Dawn Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Thus Burns the Dawn",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530840",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "Dispossession The wearer's base SPD increases by 12 . When the wearer deals DMG, ignores 18% of the target's DEF. After the wearer uses Ultimate, obtains \"Blazing Sun,\" which is removed at the start of their turn. While \"Blazing Sun\" is in possession, increases the wearer's DMG dealt by 60% ."
+          },
+          "imageUrl": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show"
+        }
       },
       {
         "itemName": "On the Fall of an Aeon Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3648256/ea0b441bcc1586734c978f95e7b16153.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "On the Fall of an Aeon",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/408566",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "Moth To Flames Whenever the wearer attacks, increase their ATK by 8%/10%/12%/14%/16% in this battle, up to 4 time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by 12%/15%/18%/21%/24% for 2 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3648256/ea0b441bcc1586734c978f95e7b16153.png/show"
+        }
       },
       {
         "itemName": "A Trail of Bygone Blood Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4201263/2d2fb771c54909f3649bde3cd5d9598f.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "A Trail of Bygone Blood",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530844",
+          "rarity": "★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "Massacre Increases the wearer's CRIT Rate by 12% . The Skill DMG and Ultimate DMG dealt by the wearer increase by 24% ."
+          },
+          "imageUrl": "https://img.game8.co/4201263/2d2fb771c54909f3649bde3cd5d9598f.png/show"
+        }
       },
       {
         "itemName": "Under the Blue Sky Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3680524/f89641ef1c1fff98ea05943cee37d9df.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Under the Blue Sky",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/410443",
+          "rarity": "★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "Rye Under the Sun Increases the wearer's ATK by 16%/20%/24%/28%/32% . When the wearer defeats an enemy, the wearer's CRIT Rate increases by 12%/15%/18%/21%/24% for 3 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3680524/f89641ef1c1fff98ea05943cee37d9df.png/show"
+        }
       },
       {
         "itemName": "Saber",
@@ -1065,13 +1257,33 @@
         "itemName": "The Ashblazing Grand Duke",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/3790301/6c28bd78095fdad984b87ade33a9e8c1.png/show",
-        "_hasExplicit": true
+        "_hasExplicit": true,
+        "details": {
+          "type": "RELIC_SET",
+          "realName": "The Ashblazing Grand Duke",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/417831",
+          "stats": {
+            "Effet 2 pièces": "Increases follow-up attack DMG by 20%.",
+            "Effet 4 pièces": "When the wearer uses follow-up attacks against the target enemy, increase the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack for a maximum of 8 times and lasts for 3 turns. This effect is removed the next time the wearer uses a follow-up attack."
+          },
+          "imageUrl": "https://img.game8.co/3790301/6c28bd78095fdad984b87ade33a9e8c1.png/show"
+        }
       },
       {
         "itemName": "Genius of Brilliant Stars",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show",
-        "_hasExplicit": true
+        "_hasExplicit": true,
+        "details": {
+          "type": "RELIC_SET",
+          "realName": "Genius of Brilliant Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407393",
+          "stats": {
+            "Effet 2 pièces": "Increases Quantum DMG by 10%.",
+            "Effet 4 pièces": "When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+          },
+          "imageUrl": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show"
+        }
       },
       {
         "itemName": "Izumo Gensei and Takama Divine Realm",
@@ -1383,25 +1595,69 @@
         "itemName": "Flickering Stars Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "Flickering Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608552",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Erudition",
+            "Ability": "Sprout Increases the wearer's CRIT Rate by 18% . When any ally character consumes a total of 4 or more Skill Points in a single turn, the wearer gains \"Radiant Crown,\" lasting for 3 turn(s). While the wearer holds \"Radiant Crown,\" all allies' DMG dealt ignores 20% of the target's DEF, and the Skill DMG dealt by the wearer increases by 72% . Effects of the same type cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show"
+        }
       },
       {
         "itemName": "I Am As You Behold Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "I Am As You Behold",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608551",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "At Will Increases the wearer's ATK by 18% and Energy Regeneration Rate by 10% . When the wearer uses Ultimate, for every 1 Energy consumed, increases the Ultimate DMG dealt this time by 0.2% , up to a max increase of 72% . When the wearer enters combat or uses Ultimate, the wearer gains \"King's Entertainment,\" lasting for 3 turn(s). While the wearer holds \"King's Entertainment,\" increases all allies' CRIT DMG by 24% . Effects of the same type cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show"
+        }
       },
       {
         "itemName": "A Thankless Coronation Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "A Thankless Coronation",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530841",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Destruction",
+            "Ability": "King of Knights Increases the wearer's CRIT DMG by 36% . When using their Ultimate, increases the wearer's ATK by 40% , and if the wearer's Max Energy is greater than or equal to 300, regenerates a fixed amount of Energy equal to 10% of the wearer's Max Energy and increases their ATK by 40% for 2 turns."
+          },
+          "imageUrl": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+        }
       },
       {
         "itemName": "The Hell Where Ideals Burn Light Cone",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "LIGHT_CONE",
+          "realName": "The Hell Where Ideals Burn",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530842",
+          "rarity": "★★★★★",
+          "stats": {
+            "Path": "The Hunt",
+            "Ability": "Hrunting Increases the wearer's CRIT Rate by 16% . When entering battle and if the allies' Skill Points max limit is 6 or higher, increases the wearer's ATK by 40% . After the wearer uses a Skill, increases their ATK by 10% , stacking up to 4 time(s)."
+          },
+          "imageUrl": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+        }
       }
     ],
     "imageUrl": "https://img.game8.co/4531573/1b504c8a3334e8ed855841c1c6961efb.png/show"
