@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T15:03:36.377Z",
+  "generatedAt": "2026-08-01T15:20:40.138Z",
   "sourceCommit": null,
   "files": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "path": "data/nte/banners.json",
-      "bytes": 11709,
+      "bytes": 22211,
       "items": 10,
-      "sha256": "cfc5c389a7f96796d7eb9e2a83a64880abda91c660726971180dc10b6a48dddf"
+      "sha256": "1ba351e2e4151b9f91bf30feb4349c33b9a65ed95584b430b51b8ecf4bbc8d60"
     },
     {
       "path": "data/nte/codes.json",
