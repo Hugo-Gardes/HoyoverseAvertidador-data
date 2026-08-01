@@ -1,5 +1,15 @@
 [
   {
+    "code": "COMEBACK",
+    "rewards": [
+      {
+        "name": "Fabricated Dice",
+        "quantity": 1,
+        "icon": ""
+      }
+    ]
+  },
+  {
     "code": "NTEKokushi",
     "rewards": [
       {
