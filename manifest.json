@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:22:09.772Z",
+  "generatedAt": "2026-08-01T19:30:25.384Z",
   "sourceCommit": null,
   "files": [
     {
@@ -95,9 +95,9 @@
     },
     {
       "path": "data/wuwa/banners.json",
-      "bytes": 13484,
+      "bytes": 12800,
       "items": 6,
-      "sha256": "7b72d69f77f5b84b87086ae74198d618c59f12674cd3547eae6a913d2ce4f360"
+      "sha256": "c9dbbdb2353f63a1abbc1fd79ffc5a95d8a4a0dabfd03f556ba7234b0003fe9b"
     },
     {
       "path": "data/wuwa/codes.json",
