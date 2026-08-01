@@ -505,6 +505,7 @@
           "realName": "Gilgamesh",
           "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
           "rarity": "5-star",
+          "imageUrl": "https://img.game8.co/4510470/cab44c413c1ae484058e78385e5d4427.png/show",
           "stats": {
             "Element": "Lightning",
             "Path": "Destruction",
@@ -512,8 +513,7 @@
             "Base ATK": "97",
             "Base DEF": "69",
             "Base SPD": "97"
-          },
-          "imageUrl": ""
+          }
         }
       }
     ],
