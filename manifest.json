@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T18:06:00.282Z",
+  "generatedAt": "2026-08-01T18:17:32.954Z",
   "sourceCommit": null,
   "files": [
     {
@@ -41,9 +41,9 @@
     },
     {
       "path": "data/genshin/events.json",
-      "bytes": 5493,
-      "items": 4,
-      "sha256": "4af92bdad21e6d05fe375a99ce0c1f7d91510a7220c2e58d7ad270f6e50f5a8e"
+      "bytes": 8601,
+      "items": 8,
+      "sha256": "1ad16773f3d74c82555a76ca88d3fa45108932a8a8632135b0fdca0f86fb013b"
     },
     {
       "path": "data/genshin/patch.json",
@@ -131,9 +131,9 @@
     },
     {
       "path": "data/zzz/events.json",
-      "bytes": 20874,
+      "bytes": 22135,
       "items": 14,
-      "sha256": "6c92e3498993f8d0a0d82474f7ccf710b8cd2ef7448817733c424929e9507da9"
+      "sha256": "6c11a1b180f6629ef847cac01c93f50cf283c58b394bd4a3eccf99f8f61b5749"
     },
     {
       "path": "data/zzz/patch.json",

@@ -1,5 +1,34 @@
 [
   {
+    "name": "Snezhnaya Awaits",
+    "link": "https://game8.co/games/Genshin-Impact/archives/613854",
+    "dateText": "07/31/2026 - 08/11/2026",
+    "imageUrl": "https://img.game8.co/4574263/c26174567281fd008037b00efad73062.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Primogem",
+        "totalQuantity": 80,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": 20000,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Mystic Enhancement Ore",
+        "totalQuantity": 3,
+        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+      },
+      {
+        "itemName": "Adventurer's Experience",
+        "totalQuantity": 3,
+        "icon": "https://img.game8.co/3316461/5d35ffc19710c83e0174f7dce153130e.png/show"
+      }
+    ]
+  },
+  {
     "name": "Dance Dance Easy-Breezy Disco",
     "link": "https://game8.co/games/Genshin-Impact/archives/605811",
     "dateText": "07/24/2026 - 08/03/2026",
@@ -45,50 +74,6 @@
         "itemName": "Sublimation of Pure Sacred Dewdrop",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3750779/aa6260bc86ede357a82a69163ef388b7.png/show"
-      }
-    ]
-  },
-  {
-    "name": "Final Long-Range Sightlines",
-    "link": "https://game8.co/games/Genshin-Impact/archives/605803",
-    "dateText": "07/17/2026 - 07/27/2026",
-    "imageUrl": "https://img.game8.co/4536298/1e2a0267377cd8246fc26eadb47014e0.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Primogem",
-        "totalQuantity": 420,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
-      },
-      {
-        "itemName": "Hero's Wit",
-        "totalQuantity": 18,
-        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
-      },
-      {
-        "itemName": "Chapter of an Ancient Chord",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/3750766/6fe34c610edfe6e35b989ca280e538bf.png/show"
-      },
-      {
-        "itemName": "Mora",
-        "totalQuantity": 240000,
-        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
-      },
-      {
-        "itemName": "Sanctifying Unction",
-        "totalQuantity": 18,
-        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
-      },
-      {
-        "itemName": "Sublimation of Pure Sacred Dewdrop",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/3750779/aa6260bc86ede357a82a69163ef388b7.png/show"
-      },
-      {
-        "itemName": "Wine Goblet of the Pristine Sea",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/3750783/e4837c5a96408282ccd4bbc0d9065914.png/show"
       }
     ]
   },
@@ -139,19 +124,135 @@
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Genshin - Hero",
+        "itemName": "Hero's Wit",
+        "totalQuantity": 0,
+        "icon": ""
+      },
+      {
+        "itemName": "Adventurer's Experience",
+        "totalQuantity": 0,
+        "icon": ""
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": 0,
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Mutual Aid in Bloom - Into the Frostlands",
+    "link": "https://game8.co/games/Genshin-Impact/archives/613888",
+    "dateText": "08/12/2026 - 08/24/2026",
+    "imageUrl": "https://img.game8.co/4574415/a7233cb6fa7855d5655263ed88a2c8d9.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Primogem",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Hero's Wit",
         "totalQuantity": 0,
         "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
       },
       {
-        "itemName": "Genshin - Adventurer",
-        "totalQuantity": 0,
-        "icon": "https://img.game8.co/3316461/5d35ffc19710c83e0174f7dce153130e.png/show"
-      },
-      {
-        "itemName": "Genshin - Mora",
+        "itemName": "Mora",
         "totalQuantity": 0,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+      }
+    ]
+  },
+  {
+    "name": "Great Expeditionist Challenge",
+    "link": "https://game8.co/games/Genshin-Impact/archives/613887",
+    "dateText": "08/28/2026 - 09/14/2026",
+    "imageUrl": "https://img.game8.co/4574416/4c0b9ce8746464cb57a6b076f92eebcf.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Crown of Insight",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3297733/73197e58d99d02cd709277cef3c31f7d.png/show"
+      },
+      {
+        "itemName": "Primogem",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Hero's Wit",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+      },
+      {
+        "itemName": "Talent Book Materials",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3316477/3894c955f0c21b84434559e1964c4e8f.png/show"
+      },
+      {
+        "itemName": "Weapon Ascension Materials",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
+      }
+    ]
+  },
+  {
+    "name": "Trial of the Bastion",
+    "link": "https://game8.co/games/Genshin-Impact/archives/613889",
+    "dateText": "09/07/2026 - 09/17/2026",
+    "imageUrl": "https://img.game8.co/4574417/bed9335340e7c1f56dac52ef9099284f.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Primogem",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Mystic Enhancement Ore",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": 0,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+      }
+    ]
+  },
+  {
+    "name": "Overflowing Abundance 7.0 Rerun",
+    "link": "https://game8.co/games/Genshin-Impact/archives/491944",
+    "dateText": "09/14/2026 - 09/21/2026",
+    "imageUrl": "https://img.game8.co/4072660/34b93c8d2eb5987c2a50c4deea0aeadb.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Talent Book Materials",
+        "totalQuantity": 0,
+        "icon": ""
       }
     ]
   }
