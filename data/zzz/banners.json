@@ -11,15 +11,13 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/588854",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Anomaly",
           "Faction": "Covenant of Dayat",
           "HP": "7482",
           "ATK": "748",
           "DEF": "600",
           "Impact": "83",
-          "Anomaly Mastery": "115",
-          "Skill": "Priority"
+          "Anomaly Mastery": "115"
         }
       }
     ],
@@ -38,7 +36,6 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -56,7 +53,6 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -74,7 +70,6 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -92,7 +87,6 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -110,7 +104,6 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -128,7 +121,6 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -138,14 +130,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Support",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -163,7 +153,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -181,7 +170,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -199,7 +187,6 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -209,14 +196,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Stun",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -226,14 +211,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Defense",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -243,14 +226,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Rupture",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -270,7 +251,6 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Attack",
           "Faction": "Airspace Patrol Department"
         }
@@ -291,7 +271,6 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -309,7 +288,6 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -327,7 +305,6 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -345,7 +322,6 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -363,7 +339,6 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -381,7 +356,6 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -391,14 +365,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Support",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -416,7 +388,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -434,7 +405,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -452,7 +422,6 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -462,14 +431,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Stun",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -479,14 +446,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Defense",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -496,14 +461,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Rupture",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -523,14 +486,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572601",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Anomaly",
           "HP": "7749",
           "ATK": "788",
           "DEF": "619",
           "Impact": "87",
-          "Anomaly Mastery": "115",
-          "Skill": "Priority"
+          "Anomaly Mastery": "115"
         }
       }
     ],
@@ -549,7 +510,6 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -567,7 +527,6 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -585,7 +544,6 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -603,7 +561,6 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -621,7 +578,6 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -639,7 +595,6 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -649,14 +604,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Support",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -674,7 +627,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -692,7 +644,6 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -710,7 +661,6 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -720,14 +670,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Stun",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -737,14 +685,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Defense",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -754,14 +700,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
-          "Rarity": "Rank",
           "Specialty": "Rupture",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
-          "Skill": "Priority",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }

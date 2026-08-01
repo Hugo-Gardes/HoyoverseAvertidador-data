@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T16:23:28.143Z",
+  "generatedAt": "2026-08-01T16:26:16.881Z",
   "sourceCommit": null,
   "files": [
     {
@@ -125,9 +125,9 @@
     },
     {
       "path": "data/zzz/banners.json",
-      "bytes": 58706,
+      "bytes": 57015,
       "items": 7,
-      "sha256": "a590c81eec3cd590cb98708a582ddb6afef30fef878d8623dec361c6ddf32a3c"
+      "sha256": "9c2f71b34e063a29b0e7f83a5d995182259629328c9599ba3f1f459bf936d882"
     },
     {
       "path": "data/zzz/events.json",
