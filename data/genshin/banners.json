@@ -2,66 +2,147 @@
   {
     "name": "Somnias a Luna",
     "link": "https://game8.co/games/Genshin-Impact/archives/572610",
-    "image": "https://img.game8.co/4536205/e947485723a4d7820bf404834e57a1ad.png/show",
+    "image": "https://img.game8.co/4561613/d2f668588c4863e41c0a4b11bb8025cf.png/show",
     "status": "active",
     "rateUp5Star": [
       {
         "name": "Columbina",
         "icon": "https://img.game8.co/4383821/1792ce751a6cc1bf6eeddda7ecdeb340.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/382106",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Hydro",
+          "Weapon": "Catalyst",
+          "HP": "2967",
+          "ATK": "19",
+          "DEF": "104",
+          "Faction": "Fatui"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Ororon",
         "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/461993",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Bow",
+          "HP": "1991",
+          "ATK": "53",
+          "DEF": "126",
+          "Faction": "Masters of the Night-Wind"
+        }
       },
       {
         "name": "Sethos",
         "icon": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/451024",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Bow",
+          "HP": "2108",
+          "ATK": "49",
+          "DEF": "121",
+          "Faction": "Temple of Silence"
+        }
       },
       {
         "name": "Jahoda",
         "icon": "https://img.game8.co/4353833/7eed8dac4741e24cec9c2eb690672fd4.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538446",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Bow",
+          "HP": "2078",
+          "ATK": "48",
+          "DEF": "125",
+          "Faction": "Curatorium of Secrets"
+        }
       }
     ],
     "startTime": 1784592000,
-    "endTime": 1786492799
+    "endTime": 1786406400
   },
   {
     "name": "Reign of Serenity",
     "link": "https://game8.co/games/Genshin-Impact/archives/340163",
-    "image": "https://img.game8.co/4536203/b492ebd7322dc2bb78deb60940bf323c.png/show",
+    "image": "https://img.game8.co/4561614/2e31bf0f6e775d13da62751d798b1b2f.png/show",
     "status": "active",
     "rateUp5Star": [
       {
         "name": "Raiden",
         "icon": "https://img.game8.co/3409293/af58e7854a4e7f7d1d857c5a79db2ce6.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/337161",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2606",
+          "ATK": "68",
+          "DEF": "159",
+          "Attribute": "Effect (Lvl 1)",
+          "Faction": "Inazuma City"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Ororon",
         "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/461993",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Bow",
+          "HP": "1991",
+          "ATK": "53",
+          "DEF": "126",
+          "Faction": "Masters of the Night-Wind"
+        }
       },
       {
         "name": "Sethos",
         "icon": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/451024",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Bow",
+          "HP": "2108",
+          "ATK": "49",
+          "DEF": "121",
+          "Faction": "Temple of Silence"
+        }
       },
       {
         "name": "Jahoda",
         "icon": "https://img.game8.co/4353833/7eed8dac4741e24cec9c2eb690672fd4.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538446",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Bow",
+          "HP": "2078",
+          "ATK": "48",
+          "DEF": "125",
+          "Faction": "Curatorium of Secrets"
+        }
       }
     ],
     "startTime": 1784592000,
-    "endTime": 1786492799
+    "endTime": 1786406400
   },
   {
     "name": "Epitome Invocation",
@@ -72,39 +153,88 @@
       {
         "name": "Nocturne",
         "icon": "https://img.game8.co/4384814/caaf08b6646e64a4f23641d709be2545.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/572615",
+        "details": {
+          "Type": "Catalyst",
+          "Base ATK": "44",
+          "Rarity": "★★★★★",
+          "Skill": "Ballad of the CrossroadsMax HP increases by 10%. When triggering Lunar reactions or inflicting Lunar Reaction DMG on opponents, the equipping character will recover 14 Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional 14%, CRIT DMG from Lunar Reaction DMG increases by 60%. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        }
       },
       {
         "name": "Engulfing Lightning",
         "icon": "https://img.game8.co/3406917/3b47d214c8da2606eaafa91926da532d.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/336755",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "46",
+          "Rarity": "★★★★★",
+          "Skill": "Timeless Dream: Eternal StoveATK increased by 28% of Energy Recharge over the base 100%. You can gain a maximum bonus of 80% ATK. Gain 30% Energy Recharge for 12s after using an Elemental Burst."
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Sacrificial Sword",
         "icon": "https://img.game8.co/3314479/f5992046e18934edf51385d836106243.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301923",
+        "details": {
+          "Type": "Sword",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        }
       },
       {
         "name": "Favonius Warbow",
         "icon": "https://img.game8.co/3314488/27bf81c6948beeeb3cb72376f4df668e.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301961",
+        "details": {
+          "Type": "Bow",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        }
       },
       {
         "name": "Favonius Lance",
         "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301951",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        }
       },
       {
         "name": "The Bell",
         "icon": "https://img.game8.co/3314478/58ceb4cfcb54e9dcceaeb8c99cf7116b.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301933",
+        "details": {
+          "Type": "Claymore",
+          "Base ATK": "42",
+          "Rarity": "★★★★",
+          "Skill": "Rebellious GuardianTaking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 12% increased DMG."
+        }
       },
       {
         "name": "Waveriding Whirl",
         "icon": "https://img.game8.co/4046436/17fbbfcc3d422e7942ad7feba430cc99.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/484207",
+        "details": {
+          "Type": "Catalyst",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "Fangs Flying To and FroDecreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 20%. For every Hydro Elemental Type character in the party, Max HP is increased by another 12%, and the maximum increase that can be achieved in this way is 24%. Can be triggered once every 15s."
+        }
       }
     ],
     "startTime": 1784592000,

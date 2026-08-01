@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T15:20:40.138Z",
+  "generatedAt": "2026-08-01T16:06:52.203Z",
   "sourceCommit": null,
   "files": [
     {
@@ -23,9 +23,9 @@
     },
     {
       "path": "data/genshin/banners.json",
-      "bytes": 3446,
+      "bytes": 9325,
       "items": 3,
-      "sha256": "7dd1b7d14b1b4a44b653b5fd88a3cd0b512e116f9f6394a199e86f7a9f28cd6a"
+      "sha256": "3b892d3e5b6eed6b3d358475a68651540caf149abbfa372f2543383150191c51"
     },
     {
       "path": "data/genshin/daily_domains.json",
@@ -53,9 +53,9 @@
     },
     {
       "path": "data/hsr/banners.json",
-      "bytes": 10216,
+      "bytes": 21310,
       "items": 10,
-      "sha256": "72aeb5913ef9a6a73cca9c8ea5df7dedf968cf8ed3d46fabd6345bdd7964739f"
+      "sha256": "3b245387e1b43caf334d1639fbe8734fb0cf9df19db516504f5fb526e7955f59"
     },
     {
       "path": "data/hsr/events.json",
@@ -95,9 +95,9 @@
     },
     {
       "path": "data/wuwa/banners.json",
-      "bytes": 4932,
+      "bytes": 8997,
       "items": 6,
-      "sha256": "9db6f02b024021c4e6707d9ac7bcf980534d9139944cfd1aa5e7c3d7f3f40ad2"
+      "sha256": "f1dac282d302907f5c66d1e0de6f7ab099df82bd9fa9631ba3b74a5c90be5951"
     },
     {
       "path": "data/wuwa/codes.json",
@@ -125,9 +125,9 @@
     },
     {
       "path": "data/zzz/banners.json",
-      "bytes": 3976,
+      "bytes": 6575,
       "items": 7,
-      "sha256": "c42b737035af710fc0b96bfdccd3882babd91078114c01a166ce3cb91ac6299b"
+      "sha256": "20a5c829e3c102350474fb3d637238e786382db308588086ed92c2ce226d4da7"
     },
     {
       "path": "data/zzz/events.json",

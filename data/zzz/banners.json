@@ -8,7 +8,19 @@
       {
         "name": "Remielle",
         "icon": "https://img.game8.co/4537422/7e62f953a55ecc8c1537a0befbf85f59.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/588854",
+        "details": {
+          "Rarity": "Rank",
+          "Specialty": "Anomaly",
+          "Faction": "Covenant of Dayat",
+          "HP": "7482",
+          "ATK": "748",
+          "DEF": "600",
+          "Impact": "83",
+          "Anomaly Mastery": "115",
+          "Skill": "Priority"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -24,7 +36,13 @@
       {
         "name": "Sigrid",
         "icon": "https://img.game8.co/4537469/2ef4afe57b0f3cf2eedc15ab9f9de138.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
+        "details": {
+          "Rarity": "Rank",
+          "Specialty": "Attack",
+          "Faction": "Airspace Patrol Department"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -40,7 +58,18 @@
       {
         "name": "Aria",
         "icon": "https://img.game8.co/4377154/a872522999d838cf2d4ee399527e4950.png/show",
-        "type": "character"
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572601",
+        "details": {
+          "Rarity": "Rank",
+          "Specialty": "Anomaly",
+          "HP": "7749",
+          "ATK": "788",
+          "DEF": "619",
+          "Impact": "87",
+          "Anomaly Mastery": "115",
+          "Skill": "Priority"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -56,7 +85,14 @@
       {
         "name": "Ode of Resurrected Wings",
         "icon": "https://img.game8.co/4563103/6ecae33ea9a071786bf378e6d384434d.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611632",
+        "details": {
+          "Base ATK": "50",
+          "Attribute": "Lumiflux",
+          "Specialty": "Anomaly",
+          "Faction": "Covenant of Dayat"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -72,7 +108,13 @@
       {
         "name": "Knight’s Extolment",
         "icon": "https://img.game8.co/4563101/5b6a90b825902bfc00778b61c7de4061.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611634",
+        "details": {
+          "Attribute": "Ice",
+          "Specialty": "Attack",
+          "Faction": "Roscaelifer Airspace Patrol Department"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -88,7 +130,14 @@
       {
         "name": "Angel in the Shell",
         "icon": "https://img.game8.co/4400967/addb5433bc7b106e3977ff90574df091.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/577362",
+        "details": {
+          "Base ATK": "48",
+          "Attribute": "Ether",
+          "Specialty": "Anomaly",
+          "Faction": "Angels of Delusion"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -104,24 +153,49 @@
       {
         "name": "W-Engine Reverberation",
         "icon": "",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572099",
+        "details": {
+          "Rarity": "Pull Rate"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Yesterday Calls",
         "icon": "https://img.game8.co/4334625/f79104f0a58fbd7a4b003d3f27c7fdc3.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/565530",
+        "details": {
+          "Base ATK": "48",
+          "Attribute": "Physical",
+          "Specialty": "Stun",
+          "Faction": "Krampus Compliance Authority"
+        }
       },
       {
         "name": "Metanukimorphosis",
         "icon": "https://img.game8.co/4212710/7f5419c1661923022eda2b15e4059343.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/533766",
+        "details": {
+          "Base ATK": "48",
+          "Attribute": "Physical",
+          "Specialty": "Support",
+          "Faction": "Spook Shack"
+        }
       },
       {
         "name": "Zanshin Herb Case",
         "icon": "https://img.game8.co/4064041/90da49022ae2f8b0f9de7c88fd039ef2.png/show",
-        "type": "weapon"
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/488243",
+        "details": {
+          "Base ATK": "48",
+          "Attribute": "Electric",
+          "Specialty": "Attack",
+          "Faction": "Hollow Special Operations Section 6"
+        }
       }
     ],
     "startTime": 1787097600,

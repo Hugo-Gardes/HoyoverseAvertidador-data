@@ -8,24 +8,64 @@
       {
         "name": "Suisui",
         "icon": "https://img.game8.co/4535729/c9fa446cf56e72453e943b2173e3f97a.png/show",
-        "type": "Glacio"
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/605302",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Rectifier",
+          "HP": "1337",
+          "ATK": "23",
+          "DEF": "90",
+          "Skill": "Priority"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Baizhi",
         "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
-        "type": "Glacio"
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Rectifier",
+          "HP": "1025",
+          "ATK": "17",
+          "DEF": "82",
+          "Skill": "Priority"
+        }
       },
       {
         "name": "Mortefi",
         "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
-        "type": "Fusion"
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Pistol",
+          "HP": "802",
+          "ATK": "20",
+          "DEF": "93",
+          "Skill": "Priority"
+        }
       },
       {
         "name": "Lumi",
         "icon": "https://img.game8.co/4303102/5df7e6360328e600dab33212fd2050eb.png/show",
-        "type": "Electro"
+        "type": "Electro",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/473488",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Electro",
+          "Weapon": "Broadblade",
+          "HP": "680",
+          "ATK": "27",
+          "DEF": "72",
+          "Skill": "Priority"
+        }
       }
     ],
     "startTime": 1785369600,
@@ -40,24 +80,64 @@
       {
         "name": "Aemeath",
         "icon": "https://img.game8.co/4377292/832335bfa4f1e0f5a704437908739837.png/show",
-        "type": "Fusion"
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/572587",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Sword",
+          "HP": "882",
+          "ATK": "34",
+          "DEF": "94",
+          "Skill": "Priority"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Baizhi",
         "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
-        "type": "Glacio"
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Rectifier",
+          "HP": "1025",
+          "ATK": "17",
+          "DEF": "82",
+          "Skill": "Priority"
+        }
       },
       {
         "name": "Mortefi",
         "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
-        "type": "Fusion"
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Pistol",
+          "HP": "802",
+          "ATK": "20",
+          "DEF": "93",
+          "Skill": "Priority"
+        }
       },
       {
         "name": "Lumi",
         "icon": "https://img.game8.co/4303102/5df7e6360328e600dab33212fd2050eb.png/show",
-        "type": "Electro"
+        "type": "Electro",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/473488",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Electro",
+          "Weapon": "Broadblade",
+          "HP": "680",
+          "ATK": "27",
+          "DEF": "72",
+          "Skill": "Priority"
+        }
       }
     ],
     "startTime": 1785369600,
@@ -72,24 +152,40 @@
       {
         "name": "Firstlight's Herald",
         "icon": "https://img.game8.co/4543805/b26e04b0cffb602f5691acef0bce42ba.png/show",
-        "type": "Rectifier"
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/606963",
+        "details": {
+          "Type": "Rectifier"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Variation",
         "icon": "https://img.game8.co/4302948/db070e6a7088a135d9ce41a8b15aaab0.png/show",
-        "type": "Rectifier"
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
+        "details": {
+          "Type": "Rectifier"
+        }
       },
       {
         "name": "Endless Collapse",
         "icon": "https://img.game8.co/4302890/8b10845e4ba3a98f182eb6fbd94fdb81.png/show",
-        "type": "Sword"
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
+        "details": {
+          "Type": "Sword"
+        }
       },
       {
         "name": "Relativistic Jet",
         "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
-        "type": "Pistol"
+        "type": "Pistol",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
+        "details": {
+          "Type": "Pistol"
+        }
       }
     ],
     "startTime": 1785369600,
@@ -104,24 +200,40 @@
       {
         "name": "Everbright Polestar",
         "icon": "https://img.game8.co/4406719/2b31a3f455cfa1adb2f1099a1a39c042.png/show",
-        "type": "Sword"
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/575684",
+        "details": {
+          "Type": "Sword"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Variation",
         "icon": "https://img.game8.co/4302948/db070e6a7088a135d9ce41a8b15aaab0.png/show",
-        "type": "Rectifier"
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
+        "details": {
+          "Type": "Rectifier"
+        }
       },
       {
         "name": "Endless Collapse",
         "icon": "https://img.game8.co/4302890/8b10845e4ba3a98f182eb6fbd94fdb81.png/show",
-        "type": "Sword"
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
+        "details": {
+          "Type": "Sword"
+        }
       },
       {
         "name": "Relativistic Jet",
         "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
-        "type": "Pistol"
+        "type": "Pistol",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
+        "details": {
+          "Type": "Pistol"
+        }
       }
     ],
     "startTime": 1785369600,
@@ -136,7 +248,17 @@
       {
         "name": "Jiyan",
         "icon": "https://img.game8.co/4303125/b8167e215c344e45fb232d1483c39315.png/show",
-        "type": "Aero"
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454216",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Broadblade",
+          "HP": "839",
+          "ATK": "55",
+          "DEF": "97",
+          "Skill": "Priority"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -152,7 +274,11 @@
       {
         "name": "Verdant Summit",
         "icon": "https://img.game8.co/4302953/c37741f9c0a35fbe698037cfd6eb2dea.png/show",
-        "type": "Broadblade"
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455951",
+        "details": {
+          "Type": "Broadblade"
+        }
       }
     ],
     "rateUp4Star": [],
