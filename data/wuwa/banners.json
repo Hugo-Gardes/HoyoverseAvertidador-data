@@ -14,10 +14,12 @@
           "Rarity": "★★★★★",
           "Attribute": "Glacio",
           "Weapon": "Rectifier",
-          "HP": "1337",
-          "ATK": "23",
-          "DEF": "90",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "1337 16712",
+          "ATK": "23 287",
+          "DEF": "90 1099",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -31,10 +33,12 @@
           "Rarity": "★★★★",
           "Attribute": "Glacio",
           "Weapon": "Rectifier",
-          "HP": "1025",
-          "ATK": "17",
-          "DEF": "82",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "1025 12,812",
+          "ATK": "17 212",
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -46,10 +50,12 @@
           "Rarity": "★★★★",
           "Attribute": "Fusion",
           "Weapon": "Pistol",
-          "HP": "802",
-          "ATK": "20",
-          "DEF": "93",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "802 10,025",
+          "ATK": "20 250",
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -61,10 +67,12 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Broadblade",
-          "HP": "680",
-          "ATK": "27",
-          "DEF": "72",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "680 8500",
+          "ATK": "27 337",
+          "DEF": "72 879",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -86,10 +94,12 @@
           "Rarity": "★★★★★",
           "Attribute": "Fusion",
           "Weapon": "Sword",
-          "HP": "882",
-          "ATK": "34",
-          "DEF": "94",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "882 11025",
+          "ATK": "34 425",
+          "DEF": "94 1148",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -103,10 +113,12 @@
           "Rarity": "★★★★",
           "Attribute": "Glacio",
           "Weapon": "Rectifier",
-          "HP": "1025",
-          "ATK": "17",
-          "DEF": "82",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "1025 12,812",
+          "ATK": "17 212",
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -118,10 +130,12 @@
           "Rarity": "★★★★",
           "Attribute": "Fusion",
           "Weapon": "Pistol",
-          "HP": "802",
-          "ATK": "20",
-          "DEF": "93",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "802 10,025",
+          "ATK": "20 250",
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -133,10 +147,12 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Broadblade",
-          "HP": "680",
-          "ATK": "27",
-          "DEF": "72",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "680 8500",
+          "ATK": "27 337",
+          "DEF": "72 879",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -155,7 +171,13 @@
         "type": "Rectifier",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/606963",
         "details": {
-          "Type": "Rectifier"
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "Energy Regen+77.0%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Spring Wreath Increases Max HP by 12%. Casting Resonance Liberation restores 8 points of Concerto Energy, triggered once every 20s. Inflicting Glacio Chafe grants Snow Tain for 6s. Applying healing grants Ripples for 6s. If the wielder has done both while on the field, the next Outro Skill grants both effects for 6s. When the wielder has both Snow Taint and Ripples, the ATK of all nearby Resonators in the team is increased by 20%. Effects of the same name do not stack.",
+          "Max ATK": "412",
+          "Max Bonus Stat (Energy Regen)": "77.0%"
         }
       }
     ],
@@ -166,7 +188,13 @@
         "type": "Rectifier",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
         "details": {
-          "Type": "Rectifier"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
         }
       },
       {
@@ -175,7 +203,13 @@
         "type": "Sword",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
         "details": {
-          "Type": "Sword"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Sword",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
         }
       },
       {
@@ -184,7 +218,13 @@
         "type": "Pistol",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
         "details": {
-          "Type": "Pistol"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Pistol",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
         }
       }
     ],
@@ -203,7 +243,13 @@
         "type": "Sword",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/575684",
         "details": {
-          "Type": "Sword"
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "587",
+          "Substat (Lv. 90)": "Crit Rate+24.3%",
+          "Type": "Sword",
+          "Weapon Skill": "Starchaser Increases All-Attribute DMG Bonus by 12%. When inflicting Tune Rupture - Shifting or Fusion Burst, the wielder's Resonance Liberation DMG ignores 32% DEF and 10% Fusion RES on targets for 8s.",
+          "Max ATK": "587",
+          "Max Bonus Stat (Crit Rate)": "24.3%"
         }
       }
     ],
@@ -214,7 +260,13 @@
         "type": "Rectifier",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
         "details": {
-          "Type": "Rectifier"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
         }
       },
       {
@@ -223,7 +275,13 @@
         "type": "Sword",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
         "details": {
-          "Type": "Sword"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Sword",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
         }
       },
       {
@@ -232,7 +290,13 @@
         "type": "Pistol",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
         "details": {
-          "Type": "Pistol"
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Pistol",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
         }
       }
     ],
@@ -254,10 +318,12 @@
           "Rarity": "★★★★★",
           "Attribute": "Aero",
           "Weapon": "Broadblade",
-          "HP": "839",
-          "ATK": "55",
-          "DEF": "97",
-          "Skill": "Priority"
+          "Role": "Endgame",
+          "HP": "839 10,487",
+          "ATK": "55 437",
+          "DEF": "97 1,185",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -277,7 +343,13 @@
         "type": "Broadblade",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455951",
         "details": {
-          "Type": "Broadblade"
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "587",
+          "Substat (Lv. 90)": "Crit DMG+48.6%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Swordsworn Increases DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s.",
+          "Max ATK": "587",
+          "Max Bonus Stat (Crit DMG)": "48.6%"
         }
       }
     ],

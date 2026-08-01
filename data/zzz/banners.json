@@ -11,13 +11,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/588854",
         "details": {
+          "Attribute": "Lumiflux",
           "Specialty": "Anomaly",
           "Faction": "Covenant of Dayat",
           "HP": "7482",
           "ATK": "748",
           "DEF": "600",
           "Impact": "83",
-          "Anomaly Mastery": "115"
+          "Anomaly Mastery": "115",
+          "Skill": "Priority Explanation"
         }
       }
     ],
@@ -36,6 +38,7 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -53,6 +56,7 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -70,6 +74,7 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -87,6 +92,7 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -104,6 +110,7 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -121,6 +128,7 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -130,12 +138,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
+          "Attribute": "Ice",
           "Specialty": "Support",
+          "Faction": "Section 6",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -153,6 +164,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -170,6 +182,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -187,6 +200,7 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -196,12 +210,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -211,12 +228,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Defense",
+          "Faction": "Yunkui Summit",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -226,12 +246,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
+          "Attribute": "Fire",
           "Specialty": "Rupture",
+          "Faction": "Spook Shack",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -251,6 +274,7 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
         "details": {
+          "Attribute": "Ice",
           "Specialty": "Attack",
           "Faction": "Airspace Patrol Department"
         }
@@ -271,6 +295,7 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -288,6 +313,7 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -305,6 +331,7 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -322,6 +349,7 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -339,6 +367,7 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -356,6 +385,7 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -365,12 +395,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
+          "Attribute": "Ice",
           "Specialty": "Support",
+          "Faction": "Section 6",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -388,6 +421,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -405,6 +439,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -422,6 +457,7 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -431,12 +467,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -446,12 +485,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Defense",
+          "Faction": "Yunkui Summit",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -461,12 +503,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
+          "Attribute": "Fire",
           "Specialty": "Rupture",
+          "Faction": "Spook Shack",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -486,12 +531,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572601",
         "details": {
+          "Attribute": "Ether",
           "Specialty": "Anomaly",
+          "Faction": "Angels of Delusion",
           "HP": "7749",
           "ATK": "788",
           "DEF": "619",
           "Impact": "87",
-          "Anomaly Mastery": "115"
+          "Anomaly Mastery": "115",
+          "Skill": "Priority Explanation"
         }
       }
     ],
@@ -510,6 +558,7 @@
           "DEF": "612",
           "Impact": "118",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -527,6 +576,7 @@
           "DEF": "606",
           "Impact": "91",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -544,6 +594,7 @@
           "DEF": "622",
           "Impact": "88",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -561,6 +612,7 @@
           "DEF": "622",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -578,6 +630,7 @@
           "DEF": "604",
           "Impact": "93",
           "Anomaly Mastery": "96",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -595,6 +648,7 @@
           "DEF": "724",
           "Impact": "95",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -604,12 +658,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/436880",
         "details": {
+          "Attribute": "Ice",
           "Specialty": "Support",
+          "Faction": "Section 6",
           "HP": "8025",
           "ATK": "590",
           "DEF": "597",
           "Impact": "86",
           "Anomaly Mastery": "93",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -627,6 +684,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "94",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -644,6 +702,7 @@
           "DEF": "612",
           "Impact": "86",
           "Anomaly Mastery": "116",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -661,6 +720,7 @@
           "DEF": "746",
           "Impact": "94",
           "Anomaly Mastery": "90",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -670,12 +730,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
           "HP": "7612",
           "ATK": "590",
           "DEF": "606",
           "Impact": "118",
           "Anomaly Mastery": "92",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -685,12 +748,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/517115",
         "details": {
+          "Attribute": "Physical",
           "Specialty": "Defense",
+          "Faction": "Yunkui Summit",
           "HP": "8453",
           "ATK": "586",
           "DEF": "712",
           "Impact": "94",
           "Anomaly Mastery": "91",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -700,12 +766,15 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "details": {
+          "Attribute": "Fire",
           "Specialty": "Rupture",
+          "Faction": "Spook Shack",
           "HP": "7724",
           "ATK": "680",
           "DEF": "443",
           "Impact": "95",
           "Anomaly Mastery": "87",
+          "Skill": "Priority Explanation",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -725,10 +794,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611632",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "50",
+          "Advanced Stat": "ATK 14.4%",
+          "Effect": "Paradise Lost Increases Anomaly Proficiency by 96. When the equipper triggers a Refringe reaction, they gain 20% increased Anomaly DMG, and all squad members gain 30% increased DMG dealt. Both effects last 30s. Repeated triggers reset the duration.",
           "Attribute": "Lumiflux",
           "Specialty": "Anomaly",
-          "Faction": "Covenant of Dayat"
+          "Faction": "Covenant of Dayat",
+          "Max Base ATK": "743",
+          "Max Advanced Stat (ATK)": "36%"
         }
       }
     ],
@@ -739,10 +813,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
           "Attribute": "Ice",
           "Specialty": "Support",
           "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -752,7 +831,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -762,7 +846,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -772,7 +861,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -782,7 +876,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -792,7 +891,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -802,7 +906,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -812,7 +921,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451798",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "Anomaly Proficiency 30",
+          "Effect": "Dinner's Ready! For every 10 energy consumed, the equipper gains a buff that increases ATK by 2.5% for 10s, stacking up to 10 times. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Anomaly Proficiency)": "75",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -822,7 +936,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451797",
         "details": {
+          "Type": "Support",
           "Base ATK": "40",
+          "Advanced Stat": "PEN Ratio 8.00%",
+          "Effect": "Say Cheese Any squad members' Dodge Counter, EX Special Attack, Assist Attack, or Chain Attack respectively generates 20/25/30/35 more Decibels and generates 0.7 Energy for the equipper. This effect can trigger once every 12s. The cooldown for each type of attack is independent of others. Passive effects of the same name do not stack.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (PEN Ratio)": "20.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -832,7 +951,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451796",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Flaming Bars Whenever a squad member launches a Chain Attack, the equipper gains a Charge stack, stacking up to 3 times. Upon activating their own Ultimate, the equipper consumes all Charge stacks, and each stack increases the skill's DMG by 15%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -842,10 +966,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451776",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Hell's Generator When launching an EX Special Attack, Electric DMG from Basic Attacks and Dash Attacks increases by 50% for 10s. This effect can trigger once every 15s.",
           "Attribute": "Electric",
           "Specialty": "Attack",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -855,10 +984,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451774",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "In a Flash of Light Increases Electric DMG by 15%. When the equipper hits an enemy with Dodge Counter or Assist Attack, their Energy Generation Rate increases by 18% for 8s.",
           "Attribute": "Electric",
           "Specialty": "Stun",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -868,10 +1002,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
           "Attribute": "Ether",
           "Specialty": "Support",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -881,10 +1020,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -894,10 +1038,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -907,10 +1056,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
           "Attribute": "Fire",
           "Specialty": "Defense",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -920,10 +1074,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
           "Attribute": "Physical",
           "Specialty": "Anomaly",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -933,10 +1092,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460149",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Stampede Accident When any friendly unit in the squad attacks and hits an enemy, all friendly units' ATK increases by 2.5% for 8s. stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.",
           "Attribute": "Fire",
           "Specialty": "Support",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -946,10 +1110,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
           "Attribute": "Electric",
           "Specialty": "Defense",
           "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -959,10 +1128,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
           "Attribute": "Physical",
           "Specialty": "Stun",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -972,10 +1146,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523306",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Meridian Mapping The equipper's EX Special Attack and Ultimate DMG increases by 25%. Whenever any squad member takes DMG or recovers HP, the equipper gains 2 Energy. This effect can trigger once every 5s.",
           "Attribute": "Physical",
           "Specialty": "Defense",
           "Faction": "Yunkui Summit",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -985,7 +1164,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523309",
         "details": {
+          "Type": "Rupture",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Ingenious Craft Upon launching an EX Special Attack, the equipper's CRIT DMG increases by 16% for 12s. Additionally, if the target's current HP is below 50% of their Max HP, EX Special Attack DMG increases by 20%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -1018,10 +1202,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
           "Attribute": "Ice",
           "Specialty": "Support",
           "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1031,7 +1220,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1041,7 +1235,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1051,7 +1250,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1061,7 +1265,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1071,7 +1280,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1081,7 +1295,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1091,7 +1310,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451798",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "Anomaly Proficiency 30",
+          "Effect": "Dinner's Ready! For every 10 energy consumed, the equipper gains a buff that increases ATK by 2.5% for 10s, stacking up to 10 times. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Anomaly Proficiency)": "75",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1101,7 +1325,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451797",
         "details": {
+          "Type": "Support",
           "Base ATK": "40",
+          "Advanced Stat": "PEN Ratio 8.00%",
+          "Effect": "Say Cheese Any squad members' Dodge Counter, EX Special Attack, Assist Attack, or Chain Attack respectively generates 20/25/30/35 more Decibels and generates 0.7 Energy for the equipper. This effect can trigger once every 12s. The cooldown for each type of attack is independent of others. Passive effects of the same name do not stack.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (PEN Ratio)": "20.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1111,7 +1340,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451796",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Flaming Bars Whenever a squad member launches a Chain Attack, the equipper gains a Charge stack, stacking up to 3 times. Upon activating their own Ultimate, the equipper consumes all Charge stacks, and each stack increases the skill's DMG by 15%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1121,10 +1355,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451776",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Hell's Generator When launching an EX Special Attack, Electric DMG from Basic Attacks and Dash Attacks increases by 50% for 10s. This effect can trigger once every 15s.",
           "Attribute": "Electric",
           "Specialty": "Attack",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1134,10 +1373,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451774",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "In a Flash of Light Increases Electric DMG by 15%. When the equipper hits an enemy with Dodge Counter or Assist Attack, their Energy Generation Rate increases by 18% for 8s.",
           "Attribute": "Electric",
           "Specialty": "Stun",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1147,10 +1391,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
           "Attribute": "Ether",
           "Specialty": "Support",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1160,10 +1409,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1173,10 +1427,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1186,10 +1445,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
           "Attribute": "Fire",
           "Specialty": "Defense",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1199,10 +1463,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
           "Attribute": "Physical",
           "Specialty": "Anomaly",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1212,10 +1481,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460149",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Stampede Accident When any friendly unit in the squad attacks and hits an enemy, all friendly units' ATK increases by 2.5% for 8s. stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.",
           "Attribute": "Fire",
           "Specialty": "Support",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1225,10 +1499,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
           "Attribute": "Electric",
           "Specialty": "Defense",
           "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1238,10 +1517,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
           "Attribute": "Physical",
           "Specialty": "Stun",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1251,10 +1535,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523306",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Meridian Mapping The equipper's EX Special Attack and Ultimate DMG increases by 25%. Whenever any squad member takes DMG or recovers HP, the equipper gains 2 Energy. This effect can trigger once every 5s.",
           "Attribute": "Physical",
           "Specialty": "Defense",
           "Faction": "Yunkui Summit",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1264,7 +1553,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523309",
         "details": {
+          "Type": "Rupture",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Ingenious Craft Upon launching an EX Special Attack, the equipper's CRIT DMG increases by 16% for 12s. Additionally, if the target's current HP is below 50% of their Max HP, EX Special Attack DMG increases by 20%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -1284,10 +1578,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/577362",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "48",
+          "Advanced Stat": "Anomaly Mastery 12%",
+          "Effect": "Energetic Strike Increases the equipper's Anomaly Proficiency by 90. When the equipper is an Ether character, and comes on-field or uses a Special Attack or EX Special Attack, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomalies increases by 20%, and all Attribute Anomaly DMG they trigger increases by 10%, lasting 15s. Repeated triggers reset the duration, and the effect is removed when switching off-field.",
           "Attribute": "Ether",
           "Specialty": "Anomaly",
-          "Faction": "Angels of Delusion"
+          "Faction": "Angels of Delusion",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (Anomaly Mastery)": "30%"
         }
       }
     ],
@@ -1298,10 +1597,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
           "Attribute": "Ice",
           "Specialty": "Support",
           "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1311,7 +1615,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1321,7 +1630,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1331,7 +1645,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1341,7 +1660,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1351,7 +1675,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "details": {
+          "Type": "Stun",
           "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1361,7 +1690,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1371,7 +1705,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451798",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "40",
+          "Advanced Stat": "Anomaly Proficiency 30",
+          "Effect": "Dinner's Ready! For every 10 energy consumed, the equipper gains a buff that increases ATK by 2.5% for 10s, stacking up to 10 times. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Anomaly Proficiency)": "75",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1381,7 +1720,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451797",
         "details": {
+          "Type": "Support",
           "Base ATK": "40",
+          "Advanced Stat": "PEN Ratio 8.00%",
+          "Effect": "Say Cheese Any squad members' Dodge Counter, EX Special Attack, Assist Attack, or Chain Attack respectively generates 20/25/30/35 more Decibels and generates 0.7 Energy for the equipper. This effect can trigger once every 12s. The cooldown for each type of attack is independent of others. Passive effects of the same name do not stack.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (PEN Ratio)": "20.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1391,7 +1735,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451796",
         "details": {
+          "Type": "Attack",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Flaming Bars Whenever a squad member launches a Chain Attack, the equipper gains a Charge stack, stacking up to 3 times. Upon activating their own Ultimate, the equipper consumes all Charge stacks, and each stack increases the skill's DMG by 15%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1401,10 +1750,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451776",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Hell's Generator When launching an EX Special Attack, Electric DMG from Basic Attacks and Dash Attacks increases by 50% for 10s. This effect can trigger once every 15s.",
           "Attribute": "Electric",
           "Specialty": "Attack",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1414,10 +1768,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451774",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "In a Flash of Light Increases Electric DMG by 15%. When the equipper hits an enemy with Dodge Counter or Assist Attack, their Energy Generation Rate increases by 18% for 8s.",
           "Attribute": "Electric",
           "Specialty": "Stun",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1427,10 +1786,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
           "Attribute": "Ether",
           "Specialty": "Support",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1440,10 +1804,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1453,10 +1822,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "details": {
+          "Type": "Attack",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
           "Attribute": "Physical",
           "Specialty": "Attack",
           "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1466,10 +1840,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
           "Attribute": "Fire",
           "Specialty": "Defense",
           "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1479,10 +1858,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "details": {
+          "Type": "Anomaly",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
           "Attribute": "Physical",
           "Specialty": "Anomaly",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1492,10 +1876,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460149",
         "details": {
+          "Type": "Support",
           "Base ATK": "42",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Stampede Accident When any friendly unit in the squad attacks and hits an enemy, all friendly units' ATK increases by 2.5% for 8s. stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.",
           "Attribute": "Fire",
           "Specialty": "Support",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1505,10 +1894,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "details": {
+          "Type": "Defense",
           "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
           "Attribute": "Electric",
           "Specialty": "Defense",
           "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1518,10 +1912,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "details": {
+          "Type": "Stun",
           "Base ATK": "42",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
           "Attribute": "Physical",
           "Specialty": "Stun",
           "Faction": "Sons of Calydon",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1531,10 +1930,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523306",
         "details": {
+          "Type": "Defense",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Meridian Mapping The equipper's EX Special Attack and Ultimate DMG increases by 25%. Whenever any squad member takes DMG or recovers HP, the equipper gains 2 Energy. This effect can trigger once every 5s.",
           "Attribute": "Physical",
           "Specialty": "Defense",
           "Faction": "Yunkui Summit",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       },
@@ -1544,7 +1948,12 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/523309",
         "details": {
+          "Type": "Rupture",
           "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Ingenious Craft Upon launching an EX Special Attack, the equipper's CRIT DMG increases by 16% for 12s. Additionally, if the target's current HP is below 50% of their Max HP, EX Special Attack DMG increases by 20%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         }
       }
@@ -1575,10 +1984,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/565530",
         "details": {
+          "Type": "Stun",
           "Base ATK": "48",
+          "Advanced Stat": "CRIT Rate 9.60%",
+          "Effect": "24/7 While off-field, the equipper's Energy Regen increases by 1.5/s. When the equipper deals Physical DMG with an EX Special Attack, the Daze dealt by the equipper's attacks increases by 9% for 10s, stacking up to 3 times. At 3 stacks, all squad members gain 30% additional CRIT DMG for 40s. Repeated triggers reset the duration. Only one instance of this CRIT DMG boost effect can exist in the same squad.",
           "Attribute": "Physical",
           "Specialty": "Stun",
-          "Faction": "Krampus Compliance Authority"
+          "Faction": "Krampus Compliance Authority",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (CRIT Rate)": "24%"
         }
       },
       {
@@ -1587,10 +2001,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/533766",
         "details": {
+          "Type": "Support",
           "Base ATK": "48",
+          "Advanced Stat": "Energy Regen 24%",
+          "Effect": "Exquisitely Ingenious When the equipper's EX Special Attack or Ultimate deals Physical DMG, their Anomaly Mastery increases by 30 for 40s. When the equipper's Aftershock hits an enemy, all squad members' Anomaly Proficiency increases by 60 for 40s. Only one instance of this effect can exist in the same squad.",
           "Attribute": "Physical",
           "Specialty": "Support",
-          "Faction": "Spook Shack"
+          "Faction": "Spook Shack",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (Energy Regen)": "60%"
         }
       },
       {
@@ -1599,10 +2018,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/488243",
         "details": {
+          "Type": "Attack",
           "Base ATK": "48",
+          "Advanced Stat": "CRIT DMG 19.00%",
+          "Effect": "Growth Through Adversity CRIT Rate increases by 10%. Dash Attack Electric DMG increases by 40%. When any squad member applies an Attribute Anomaly or Stuns an enemy, the equipper's CRIT Rate increases by an additional 10% for 12s.",
           "Attribute": "Electric",
           "Specialty": "Attack",
-          "Faction": "Hollow Special Operations Section 6"
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (CRIT DMG)": "48.00%"
         }
       }
     ],
