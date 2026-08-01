@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T16:40:07.573Z",
+  "generatedAt": "2026-08-01T17:42:06.052Z",
   "sourceCommit": null,
   "files": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "path": "data/hsr/events.json",
-      "bytes": 55059,
+      "bytes": 69710,
       "items": 7,
-      "sha256": "72793495745bd40e8927e751ede6ea6e52ef6df011ac9bd1e9b716d4283b7550"
+      "sha256": "d17dfd1fed7db10c33d065d2c6e61966a272b3682fc2bf344a98c2c832192643"
     },
     {
       "path": "data/hsr/patch.json",

@@ -9,169 +9,421 @@
         "itemName": "Inert Salsotto",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3656630/bc27a20817b1573bcb99392adeebd39b.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Inert Salsotto",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407402",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%."
+          },
+          "imageUrl": "https://img.game8.co/3656630/bc27a20817b1573bcb99392adeebd39b.png/show"
+        }
       },
       {
         "itemName": "Belobog of the Architects",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3656629/cb59df45af5683ff6faad0148066d9c0.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Belobog of the Architects",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407401",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF."
+          },
+          "imageUrl": "https://img.game8.co/3656629/cb59df45af5683ff6faad0148066d9c0.png/show"
+        }
       },
       {
         "itemName": "Celestial Differentiator",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654329/a7907170a2e52fcc911144a4607c6dbb.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Celestial Differentiator",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407400",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+          },
+          "imageUrl": "https://img.game8.co/3654329/a7907170a2e52fcc911144a4607c6dbb.png/show"
+        }
       },
       {
         "itemName": "Pan-Cosmic Commercial Enterprise",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654332/3dd8cac060e74b6bb6614f23e44adf3f.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Pan-Cosmic Commercial Enterprise",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407399",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+          },
+          "imageUrl": "https://img.game8.co/3654332/3dd8cac060e74b6bb6614f23e44adf3f.png/show"
+        }
       },
       {
         "itemName": "Sprightly Vonwacq",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654331/3add11aab1accfdd9fb10ae71b295c20.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Sprightly Vonwacq",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407398",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
+          },
+          "imageUrl": "https://img.game8.co/3654331/3add11aab1accfdd9fb10ae71b295c20.png/show"
+        }
       },
       {
         "itemName": "Talia: Kingdom of Banditry",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654327/9437d7f31f81876a28655a6a17e35366.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Talia: Kingdom of Banditry",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407397",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break effect increases by an extra 20%."
+          },
+          "imageUrl": "https://img.game8.co/3654327/9437d7f31f81876a28655a6a17e35366.png/show"
+        }
       },
       {
         "itemName": "Fleet of the Ageless",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654330/feb3f15590e1ac6c9ec4c981e019f03f.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Fleet of the Ageless",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407391",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+          },
+          "imageUrl": "https://img.game8.co/3654330/feb3f15590e1ac6c9ec4c981e019f03f.png/show"
+        }
       },
       {
         "itemName": "Space Sealing Station",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3654328/1d4ac3b10db403b5a4d1f449fda05f2c.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Space Sealing Station",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407390",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
+          },
+          "imageUrl": "https://img.game8.co/3654328/1d4ac3b10db403b5a4d1f449fda05f2c.png/show"
+        }
       },
       {
         "itemName": "Rutilant Arena",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3733823/daa9fcadfc786e31240beccd5b973c30.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Rutilant Arena",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415811",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%."
+          },
+          "imageUrl": "https://img.game8.co/3733823/daa9fcadfc786e31240beccd5b973c30.png/show"
+        }
       },
       {
         "itemName": "Broken Keel",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3733798/3efa0fd812ce12d41551e5fe16bd0605.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Broken Keel",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415813",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%."
+          },
+          "imageUrl": "https://img.game8.co/3733798/3efa0fd812ce12d41551e5fe16bd0605.png/show"
+        }
       },
       {
         "itemName": "Firmament Frontline Glamoth",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3790300/f205b4455e832cdf7012a530f2961d54.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Firmament Frontline Glamoth",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415943",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG."
+          },
+          "imageUrl": "https://img.game8.co/3790300/f205b4455e832cdf7012a530f2961d54.png/show"
+        }
       },
       {
         "itemName": "Penacony, Land of the Dreams",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Penacony, Land of the Dreams",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/414665",
+          "stats": {
+            "Effet 2 pièces": "Increases wearer's Energy Regeneration Rate by 5%. Increases DMG for all other allies with the same DMG Type as the wearer by 10%."
+          },
+          "imageUrl": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show"
+        }
       },
       {
         "itemName": "Sigonia, the Unclaimed Desolation",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3856821/850687998c4e231d7bcd6906c8f31910.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Sigonia, the Unclaimed Desolation",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448214",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s)."
+          },
+          "imageUrl": "https://img.game8.co/3856821/850687998c4e231d7bcd6906c8f31910.png/show"
+        }
       },
       {
         "itemName": "Izumo Gensei and Takama Divine Realm",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Izumo Gensei and Takama Divine Realm",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448215",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
+          },
+          "imageUrl": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show"
+        }
       },
       {
         "itemName": "Duran, Dynasty of Running Wolves",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3905923/64469825acbde55edb2ffc2e0bb076fe.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Duran, Dynasty of Running Wolves",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457404",
+          "stats": {
+            "Effet 2 pièces": "When allies use follow-up attacks, the wearer gains 1 stack of Merit, stacking up to 5 times. Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
+          },
+          "imageUrl": "https://img.game8.co/3905923/64469825acbde55edb2ffc2e0bb076fe.png/show"
+        }
       },
       {
         "itemName": "Forge of the Kalpagni Lantern",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3905924/ee41b6332e0295c3862af39bac45ff39.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Forge of the Kalpagni Lantern",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457405",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3905924/ee41b6332e0295c3862af39bac45ff39.png/show"
+        }
       },
       {
         "itemName": "Lushaka, the Sunken Seas",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3975165/082abaafe8717dc25fe178fd24fa22d8.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Lushaka, the Sunken Seas",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/470753",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by 12%."
+          },
+          "imageUrl": "https://img.game8.co/3975165/082abaafe8717dc25fe178fd24fa22d8.png/show"
+        }
       },
       {
         "itemName": "The Wondrous BananAmusement Park",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3975164/781e54bd78ae8ef38513f52151aaf5a4.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "The Wondrous BananAmusement Park",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/470754",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%."
+          },
+          "imageUrl": "https://img.game8.co/3975164/781e54bd78ae8ef38513f52151aaf5a4.png/show"
+        }
       },
       {
         "itemName": "Bone Collection",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Bone Collection's Serene Demesne",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/499796",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Max HP by 12%. When the wearer's Max HP is 5000 or higher, increases the wearer's and their memosprite's CRIT DMG by 28%."
+          },
+          "imageUrl": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show"
+        }
       },
       {
         "itemName": "Giant Tree of Rapt Brooding",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4109333/ec9648c2b749c3db32e1ba2ab7042184.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Giant Tree of Rapt Brooding",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/499797",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's SPD by 6%. When the wearer's Speed is 135/180 or higher, increases the wearer and their memosprite's Outgoing Healing by 12%/20%."
+          },
+          "imageUrl": "https://img.game8.co/4109333/ec9648c2b749c3db32e1ba2ab7042184.png/show"
+        }
       },
       {
         "itemName": "Arcadia of Woven Dreams",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4202356/cec884edbe2174266304e95bfce2cba6.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Arcadia of Woven Dreams",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/531320",
+          "stats": {
+            "Effet 2 pièces": "When there are currently more or less than 4 ally targets in battle, each additional/missing ally target increases the wearer and their memosprite's DMG by 9%/12%, up to a maximum of 4/3 stacks."
+          },
+          "imageUrl": "https://img.game8.co/4202356/cec884edbe2174266304e95bfce2cba6.png/show"
+        }
       },
       {
         "itemName": "Revelry by the Sea",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4202355/3b8fe90ed65fc9b6dca684cc3abe7d9d.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Revelry by the Sea",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/531331",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's ATK is higher than or equal to 2,400/3,600, increases the DoT DMG dealt by 12%/24%."
+          },
+          "imageUrl": "https://img.game8.co/4202355/3b8fe90ed65fc9b6dca684cc3abe7d9d.png/show"
+        }
       },
       {
         "itemName": "Amphoreus, The Eternal Land",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4316950/c11e8a2f5e33d80dd00fed1c8f76d63e.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Amphoreus, The Eternal Land",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/560899",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. While the wearer's memosprite is on the field, increases all allies' SPD by 8%. This effect cannot be stacked."
+          },
+          "imageUrl": "https://img.game8.co/4316950/c11e8a2f5e33d80dd00fed1c8f76d63e.png/show"
+        }
       },
       {
         "itemName": "Tengoku Livestream",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Tengoku Livestream",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/560900",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. If 3 or more Skill Points are consumed in the same turn, additionally increases CRIT DMG by 32% for 3 turns."
+          },
+          "imageUrl": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show"
+        }
       },
       {
         "itemName": "Punklorde Stage Zero",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4441022/cdb8372bc5e0396c42a6a33e1c4cb600.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Punklorde Stage Zero",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/586430",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Elation by 8%. When Elation reaches 40%/80% for the first time in battle, increases the wearer's CRIT DMG by 20%/32%."
+          },
+          "imageUrl": "https://img.game8.co/4441022/cdb8372bc5e0396c42a6a33e1c4cb600.png/show"
+        }
       },
       {
         "itemName": "City of Converging Stars",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "City of Converging Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/586432",
+          "stats": {
+            "Effet 2 pièces": "When the wearer uses a Follow-Up ATK, increases their ATK by 24% for 2 turns. When an enemy target is defeated, increases CRIT DMG for all allies by 12% for the rest of the current battle. This effect cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show"
+        }
       },
       {
         "itemName": "Cosmic Life Sciences Institute",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Cosmic Life Sciences Institute",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608557",
+          "stats": {
+            "Effet 2 pièces": "When entering combat, if the wearer's Max Energy is greater than or equal to 200, increases the wearer's DMG dealt by 0.2% for every 1 point exceeding this value, up to a max increase of 32%."
+          },
+          "imageUrl": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show"
+        }
       },
       {
         "itemName": "Fallen Star Anchorage",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4548614/6f647f2fbb3bf4f8cd633b21629c54aa.png/show",
-        "_hasExplicit": false
+        "_hasExplicit": false,
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Fallen Star Anchorage",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608555",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When entering combat, if the wearer and another teammate are both Trailblaze Companions characters, increases the wearer's CRIT DMG by 32%."
+          },
+          "imageUrl": "https://img.game8.co/4548614/6f647f2fbb3bf4f8cd633b21629c54aa.png/show"
+        }
       },
       {
         "itemName": "Honkai Simulated Universe World 3",
