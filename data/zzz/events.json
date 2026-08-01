@@ -25,12 +25,12 @@
       {
         "itemName": "Sol Exuvia (W-Engine)",
         "totalQuantity": 1,
-        "icon": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+        "icon": "https://img.game8.co/4527265/5df83386dee54bf8fb10f448a7e1a560.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Sol Exuvia",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/4480224/3ea29463032306fdf5ae6d73589471c8.png/show",
+          "imageUrl": "https://img.game8.co/4527265/5df83386dee54bf8fb10f448a7e1a560.png/show",
           "stats": {
             "baseAtk": "48",
             "subStat": "ATK 12%",
@@ -285,12 +285,12 @@
       {
         "itemName": "Fusion Compiler (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
+        "icon": "https://img.game8.co/3872266/2cea1c2376ed15b0594e8141bfe4782d.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Fusion Compiler",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
+          "imageUrl": "https://img.game8.co/3872266/2cea1c2376ed15b0594e8141bfe4782d.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "PEN Ratio 9.60%",
@@ -302,12 +302,12 @@
       {
         "itemName": "Weeping Cradle (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
+        "icon": "https://img.game8.co/3872267/f724110b00994e43b017eb0317000a52.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Weeping Cradle",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
+          "imageUrl": "https://img.game8.co/3872267/f724110b00994e43b017eb0317000a52.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "PEN Ratio 9.60%",
@@ -319,12 +319,12 @@
       {
         "itemName": "The Brimstone (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
+        "icon": "https://img.game8.co/3872263/fd581a1f7429e70f55173af9b2fca112.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "The Brimstone",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
+          "imageUrl": "https://img.game8.co/3872263/fd581a1f7429e70f55173af9b2fca112.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "ATK 12.00%",
@@ -336,12 +336,12 @@
       {
         "itemName": "Steel Cushion (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
+        "icon": "https://img.game8.co/3872268/3849355dad9c5c492975fde07db145e1.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Steel Cushion",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
+          "imageUrl": "https://img.game8.co/3872268/3849355dad9c5c492975fde07db145e1.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "CRIT Rate 9.60%",
@@ -353,12 +353,12 @@
       {
         "itemName": "The Restrained (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
+        "icon": "https://img.game8.co/3872264/effbfabb5cf1768261c7c8367245bd43.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "The Restrained",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
+          "imageUrl": "https://img.game8.co/3872264/effbfabb5cf1768261c7c8367245bd43.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "Impact 7.20%",
@@ -370,12 +370,12 @@
       {
         "itemName": "Hellfire Gears (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
+        "icon": "https://img.game8.co/3872265/847cd499439049c5b2e1d054a43d3894.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Hellfire Gears",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
+          "imageUrl": "https://img.game8.co/3872265/847cd499439049c5b2e1d054a43d3894.png/show",
           "stats": {
             "baseAtk": "46",
             "subStat": "Impact 7.20%",
@@ -387,12 +387,12 @@
       {
         "itemName": "Elegant Vanity (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
+        "icon": "https://img.game8.co/4080074/f4189632b7f4ec7678708b10a40f8df2.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Elegant Vanity",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
+          "imageUrl": "https://img.game8.co/4080074/f4189632b7f4ec7678708b10a40f8df2.png/show",
           "stats": {
             "baseAtk": "48",
             "subStat": "ATK 12%",
@@ -404,12 +404,12 @@
       {
         "itemName": "Flight of Fancy (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
+        "icon": "https://img.game8.co/4150961/7956114e4a7c1c9b7f57225ab2ccc4f4.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Flight of Fancy",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
+          "imageUrl": "https://img.game8.co/4150961/7956114e4a7c1c9b7f57225ab2ccc4f4.png/show",
           "stats": {
             "baseAtk": "48",
             "subStat": "Anomaly Proficiency 36",
@@ -421,12 +421,12 @@
       {
         "itemName": "Cordis Germina (W-Engine)",
         "totalQuantity": 0,
-        "icon": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
+        "icon": "https://img.game8.co/4254702/017b824b865535c54e4639aab9326e0b.png/show",
         "details": {
           "type": "W_ENGINE",
           "realName": "Cordis Germina",
           "rarity": "S Rank",
-          "imageUrl": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
+          "imageUrl": "https://img.game8.co/4254702/017b824b865535c54e4639aab9326e0b.png/show",
           "stats": {
             "baseAtk": "48",
             "subStat": "CRIT Rate 9.60%",

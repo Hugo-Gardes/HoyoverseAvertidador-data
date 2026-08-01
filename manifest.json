@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:10:43.408Z",
+  "generatedAt": "2026-08-01T19:22:09.772Z",
   "sourceCommit": null,
   "files": [
     {
@@ -125,15 +125,15 @@
     },
     {
       "path": "data/zzz/banners.json",
-      "bytes": 88244,
+      "bytes": 93625,
       "items": 7,
-      "sha256": "f9e8ec252821c1571079a57c7d1354b25f3b0ba2f4ab07428e02018a0330f7a9"
+      "sha256": "4f3ad84c07fa73b9f1feba4b8d4dd05e2bfd8608302b36f58f85431f83585f82"
     },
     {
       "path": "data/zzz/events.json",
       "bytes": 22135,
       "items": 14,
-      "sha256": "6c11a1b180f6629ef847cac01c93f50cf283c58b394bd4a3eccf99f8f61b5749"
+      "sha256": "18ea31847dd1f603957f90717090673667797735a3440cdb9c943ff81556fa76"
     },
     {
       "path": "data/zzz/patch.json",

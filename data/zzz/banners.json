@@ -1968,12 +1968,111 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "W-Engine Reverberation",
-        "icon": "",
+        "name": "Fusion Compiler",
+        "icon": "https://img.game8.co/3872266/2cea1c2376ed15b0594e8141bfe4782d.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572099",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451783",
         "details": {
-          "Rarity": "Pull Rate"
+          "Type": "Anomaly",
+          "Base ATK": "46",
+          "Advanced Stat": "PEN Ratio 9.60%",
+          "Effect": "Data Flood Increases ATK by 12%. When using a Special Attack or an EX Special Attack, the equipper's Anomaly Proficiency is increased by 25 for 8s, stacking up to 3 times. The duration of each stack is calculated separately.",
+          "Attribute": "Electric",
+          "Specialty": "Anomaly",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (PEN Ratio)": "24.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
+        }
+      },
+      {
+        "name": "Weeping Cradle",
+        "icon": "https://img.game8.co/3872267/f724110b00994e43b017eb0317000a52.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451782",
+        "details": {
+          "Type": "Support",
+          "Base ATK": "46",
+          "Advanced Stat": "PEN Ratio 9.60%",
+          "Effect": "Punishment While off-field, the equipper's Energy Regen increases by 0.6/s. Attacks from the equipper increase all units' DMG against a struck target by 10% for 3s. During this period, this effect is further increased by 1.7% every 0.5s, up to a maximum additional increase of 10.2%. Repeated triggers only refreshes its duration without refreshing the DMG increase effect. Passive effects of the same name do not stack.",
+          "Attribute": "Electric",
+          "Specialty": "Support",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (PEN Ratio)": "24.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
+        }
+      },
+      {
+        "name": "The Brimstone",
+        "icon": "https://img.game8.co/3872263/fd581a1f7429e70f55173af9b2fca112.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451781",
+        "details": {
+          "Type": "Attack",
+          "Base ATK": "46",
+          "Advanced Stat": "ATK 12.00%",
+          "Effect": "Scorching Breath Upon hitting an enemy with a Basic Attack, Dash Attack, or Dodge Counter, the equipper's ATK increases by 3.5% for 8s, stacking up to 8 times. This effect can trigger once every 0.5s. The duration of each stack is calculated separately.",
+          "Attribute": "Fire",
+          "Specialty": "Attack",
+          "Faction": "Obol Squad",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (ATK)": "30.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
+        }
+      },
+      {
+        "name": "Steel Cushion",
+        "icon": "https://img.game8.co/3872268/3849355dad9c5c492975fde07db145e1.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451739",
+        "details": {
+          "Type": "Attack",
+          "Base ATK": "46",
+          "Advanced Stat": "CRIT Rate 9.60%",
+          "Effect": "Metal Cat Claws Increases Physical DMG by 20%. The equipper's DMG increases by 25% when attacking the enemy from behind.",
+          "Attribute": "Physical",
+          "Specialty": "Attack",
+          "Faction": "Cunning Hares AKA Gentle House",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (CRIT Rate)": "24.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
+        }
+      },
+      {
+        "name": "The Restrained",
+        "icon": "https://img.game8.co/3872264/effbfabb5cf1768261c7c8367245bd43.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451780",
+        "details": {
+          "Type": "Stun",
+          "Base ATK": "46",
+          "Advanced Stat": "Impact 7.20%",
+          "Effect": "Binding Chains When an attack hits an enemy, DMG and Daze from Basic Attacks increase by 6% for 8s, stacking up to 5 times. This effect can trigger at most once during each skill. The duration of each stack is calculated separately.",
+          "Attribute": "Ice",
+          "Specialty": "Stun",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (Impact)": "18.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
+        }
+      },
+      {
+        "name": "Hellfire Gears",
+        "icon": "https://img.game8.co/3872265/847cd499439049c5b2e1d054a43d3894.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451779",
+        "details": {
+          "Type": "Stun",
+          "Base ATK": "46",
+          "Advanced Stat": "Impact 7.20%",
+          "Effect": "Passionate Construction While off-field, the equipper's Energy Regen increases by 0.6/s. When using an EX Special Attack, the equipper's Impact is increased 10% for 10s, stacking up to 2 times. The duration of each stack is calculated separately.",
+          "Attribute": "Fire",
+          "Specialty": "Stun",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "684",
+          "Max Advanced Stat (Impact)": "18.00%",
+          "Availability": "Selectable S-Rank W-Engine option"
         }
       }
     ],
@@ -1992,7 +2091,8 @@
           "Specialty": "Stun",
           "Faction": "Krampus Compliance Authority",
           "Max Base ATK": "713",
-          "Max Advanced Stat (CRIT Rate)": "24%"
+          "Max Advanced Stat (CRIT Rate)": "24%",
+          "Availability": "Featured A-Rank W-Engine"
         }
       },
       {
@@ -2009,7 +2109,8 @@
           "Specialty": "Support",
           "Faction": "Spook Shack",
           "Max Base ATK": "713",
-          "Max Advanced Stat (Energy Regen)": "60%"
+          "Max Advanced Stat (Energy Regen)": "60%",
+          "Availability": "Featured A-Rank W-Engine"
         }
       },
       {
@@ -2026,7 +2127,8 @@
           "Specialty": "Attack",
           "Faction": "Hollow Special Operations Section 6",
           "Max Base ATK": "713",
-          "Max Advanced Stat (CRIT DMG)": "48.00%"
+          "Max Advanced Stat (CRIT DMG)": "48.00%",
+          "Availability": "Featured A-Rank W-Engine"
         }
       }
     ],
