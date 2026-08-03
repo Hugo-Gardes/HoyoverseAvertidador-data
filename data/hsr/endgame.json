@@ -1,0 +1,569 @@
+{
+  "modes": [
+    {
+      "id": "memory-of-chaos",
+      "name": "Memory of Chaos",
+      "icon": "https://img.game8.co/3994389/b13cbf6cab0fd2378d6d6f50f4eb536f.png/show",
+      "version": "4.3",
+      "phaseName": "Academy Ghost Story",
+      "buff": "Increases Ultimate and Follow-Up ATK DMG dealt by ally targets by 50%. After an ally character uses an Ultimate or Follow-Up ATK, adds 1 hit(s) to \"Memory Turbulence,\" stacking up to 15 hit(s). At the start of each Cycle, each hit of \"Memory Turbulence\" deals 1 instance of True DMG to one random enemy target.",
+      "buffs": [],
+      "selectableBuffs": [],
+      "startTime": 1783296000,
+      "endTime": 1786924800,
+      "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/419660",
+      "rewards": [
+        {
+          "name": "Stellar Jade",
+          "count": "900",
+          "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show"
+        },
+        {
+          "name": "Jade Feather",
+          "count": "700",
+          "icon": "https://img.game8.co/3811340/8319f735ea32cdb6dda82387e63148c2.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Lost Crystal",
+          "count": "96",
+          "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show"
+        },
+        {
+          "name": "Lucent Afterglow",
+          "count": "96",
+          "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Refined Aether",
+          "count": "412",
+          "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show"
+        },
+        {
+          "name": "Credit",
+          "count": "260000",
+          "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show"
+        }
+      ],
+      "stages": [
+        {
+          "stage": "Stage 12 and Starward Mode",
+          "firstHalf": [
+            "Lightning",
+            "Ice"
+          ],
+          "secondHalf": [
+            "Fire"
+          ]
+        }
+      ],
+      "bosses": [
+        {
+          "name": "Flame Reaver of the Deepest Dark",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Enemy_Flame_Reaver_of_the_Deepest_Dark.png/revision/latest/scale-to-width-down/256?cb=20260725081300",
+          "weaknesses": [
+            "Ice"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Murata Graphia, Founding Artist",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
+          "weaknesses": [
+            "Lightning",
+            "Fire"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "@SparxiConOfficial",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
+          "weaknesses": [
+            "Fire",
+            "Imaginary"
+          ],
+          "level": "95",
+          "isBonus": true,
+          "traits": [],
+          "axiomBuffs": []
+        }
+      ]
+    },
+    {
+      "id": "pure-fiction",
+      "name": "Pure Fiction",
+      "icon": "https://img.game8.co/3994390/b2aa527c7a515f615099be9bb01d2c95.png/show",
+      "version": "4.3",
+      "phaseName": "Fabricated Business",
+      "buff": "After ally targets use a Follow-Up ATK to attack enemy targets, every enemy target hit additionally accumulates 8 Grit Value for allies.",
+      "buffs": [
+        {
+          "name": "Concordant Truce",
+          "icon": "https://img.game8.co/4073005/c80457c8093b6082279f411089b8fa33.png/show",
+          "description": "After an ally target uses a Follow-Up ATK or Ultimate, deals Additional DMG equal to 80% of the attacking character's ATK plus 40% of their Max HP to each attacked enemy target."
+        },
+        {
+          "name": "Surging Grit",
+          "icon": "https://img.game8.co/4073006/f7d2ecfeee8d92d0d1248cff4dc80db7.png/show",
+          "description": "Upon entering Surging Grit, all allies regenerate 20% Energy. During Surging Grit, enemy targets take 50% more DMG, the Additional DMG dealt by \"Concordant Truce\" increases by 100%, and this DMG is considered as Follow-Up ATK DMG."
+        }
+      ],
+      "selectableBuffs": [
+        {
+          "name": "Smack Talk",
+          "icon": "",
+          "description": "Increases the All-Type RES PEN of Follow-Up ATK DMG dealt by 30%. During Surging Grit, after an ally target uses a Follow-Up ATK to attack enemy targets, deals Additional DMG equal to 40% of the attacker's ATK plus 20% of the attacker's Max HP to targets adjacent to each attacked enemy target. This DMG is considered as Follow-Up ATK DMG."
+        },
+        {
+          "name": "Grand Rhetoric",
+          "icon": "",
+          "description": "During Surging Grit, CRIT DMG dealt by ally targets when using their Ultimate increases by 60%. When Surging Grit ends, all allies regenerate 20% Energy. After ally targets use their Ultimate, every enemy target hit additionally accumulates 5 Grit Value for allies."
+        },
+        {
+          "name": "Motormouth",
+          "icon": "",
+          "description": "Increases the SPD of all allies by 20%. During Surging Grit, DMG received by enemy targets additionally increases by 30%. After ally targets use their Basic ATK or Skill, every enemy target hit additionally accumulates 3 Grit Value for allies."
+        }
+      ],
+      "startTime": 1785715200,
+      "endTime": 1789344000,
+      "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/435848",
+      "rewards": [
+        {
+          "name": "Stellar Jade",
+          "count": "900",
+          "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show"
+        },
+        {
+          "name": "Jade Feather",
+          "count": "700",
+          "icon": "https://img.game8.co/3811340/8319f735ea32cdb6dda82387e63148c2.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Lost Crystal",
+          "count": "12",
+          "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show"
+        },
+        {
+          "name": "Lucent Afterglow",
+          "count": "96",
+          "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Refined Aether",
+          "count": "12",
+          "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show"
+        },
+        {
+          "name": "Credit",
+          "count": "350000",
+          "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show"
+        }
+      ],
+      "stages": [
+        {
+          "stage": "Stage 4 and Starward Mode",
+          "firstHalf": [
+            "Imaginary",
+            "Physical"
+          ],
+          "secondHalf": [
+            "Lightning",
+            "Fire"
+          ]
+        }
+      ],
+      "bosses": [
+        {
+          "name": "Gepard",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Character_Gepard_Splash_Art.png/revision/latest/scale-to-width-down/256?cb=20230216232354",
+          "weaknesses": [
+            "Physical",
+            "Imaginary"
+          ],
+          "level": "85",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Alloy Mechatron: King Pom-Pom",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Enemy_Alloy_Mechatron_King_Pom-Pom.png/revision/latest/scale-to-width-down/256?cb=20260725075840",
+          "weaknesses": [
+            "Fire",
+            "Lightning"
+          ],
+          "level": "85",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Abundant Ebon Deer",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Enemy_Abundant_Ebon_Deer.png/revision/latest/scale-to-width-down/256?cb=20260725075739",
+          "weaknesses": [
+            "Fire",
+            "Quantum"
+          ],
+          "level": "85",
+          "isBonus": true,
+          "traits": [],
+          "axiomBuffs": []
+        }
+      ]
+    },
+    {
+      "id": "apocalyptic-shadow",
+      "name": "Apocalyptic Shadow",
+      "icon": "https://img.game8.co/3994391/c78c829517b34601fdcdcec2b13f6f52.png/show",
+      "version": "4.4",
+      "phaseName": "Ruinous Embers Effect",
+      "buff": "When an enemy with \"Steadfast Safeguard\" is Weakness Broken, dispels control states for all allies, recovers their Skill Points, and activates their Ultimates. Increases the Skill DMG taken by all enemies by 25% and increases Ultimate DMG taken by 15%.",
+      "buffs": [],
+      "selectableBuffs": [],
+      "startTime": 1784505600,
+      "endTime": 1788134400,
+      "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457411",
+      "rewards": [
+        {
+          "name": "Stellar Jade",
+          "count": "900",
+          "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show"
+        },
+        {
+          "name": "Jade Feather",
+          "count": "700",
+          "icon": "https://img.game8.co/3811340/8319f735ea32cdb6dda82387e63148c2.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Lost Crystal",
+          "count": "12",
+          "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show"
+        },
+        {
+          "name": "Lucent Afterglow",
+          "count": "96",
+          "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
+        },
+        {
+          "name": "Traveler's Guide",
+          "count": "24",
+          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
+        },
+        {
+          "name": "Refined Aether",
+          "count": "12",
+          "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show"
+        },
+        {
+          "name": "Credit",
+          "count": "350000",
+          "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show"
+        }
+      ],
+      "stages": [],
+      "bosses": [
+        {
+          "name": "Silver Knight of Virtuous Gallantry",
+          "icon": "https://img.game8.co/3805460/a92f868e5e8b77dda24c0b98ceda13cd.png/show",
+          "weaknesses": [
+            "Physical",
+            "Fire",
+            "Imaginary"
+          ],
+          "level": "90",
+          "isBonus": false,
+          "traits": [
+            {
+              "name": "Steadfast Safeguard",
+              "icon": "",
+              "description": "Boss Mirage takes 50% less DMG. After Weakness is broken, action gets additionally delayed and DMG taken increases by 100%."
+            },
+            {
+              "name": "Reversal of Fortune",
+              "icon": "",
+              "description": "Boss Mirage can switch its own Combat Stance in battle and summon different statues to fight. When characters defeat statues in the \"Soulfreed\" state, DMG dealt by the team in this battle will be increased.\""
+            },
+            {
+              "name": "Turn Back the Tide",
+              "icon": "",
+              "description": "When Boss Mirage uses \"Soulfreed\" in Phase II, it will target all statues."
+            },
+            {
+              "name": "Stellar Aegis",
+              "icon": "",
+              "description": "For every unit on the enemy's side of the field aside from Boss Mirage, all enemies receive less DMG."
+            }
+          ],
+          "axiomBuffs": [
+            {
+              "name": "Shatterstrike",
+              "icon": "",
+              "description": "Increases Break DMG dealt by all allies by 10%. When an enemy target enters the Weakness Break state, further increases Break DMG by 5%. This effect can stack up to 4 time(s)."
+            },
+            {
+              "name": "Linebreaker",
+              "icon": "",
+              "description": "The 1st character in the lineup ignores 15% of the enemy target's DEF when dealing DMG."
+            },
+            {
+              "name": "Tarsus Infection",
+              "icon": "",
+              "description": "After an ally target deals DoT to an enemy, 1 Energy is regenerated. DoT dealt by all allies ignores 40% of enemy targets' All-Type RES."
+            }
+          ]
+        },
+        {
+          "name": "The Ravaged Unconquerable",
+          "icon": "https://img.game8.co/4084752/2a6928715722303d2bda5603f3c6cac9.png/show",
+          "weaknesses": [
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Quantum"
+          ],
+          "level": "90",
+          "isBonus": false,
+          "traits": [
+            {
+              "name": "Steadfast Safeguard",
+              "icon": "",
+              "description": "Boss Mirage takes 50% less DMG. After its Weakness is broken, its action is additionally delayed and increases its DMG taken by 100%."
+            },
+            {
+              "name": "Ironclad Renitence",
+              "icon": "",
+              "description": "Boss Mirage and its summons have \"War Armor\", reducing DMG taken by them. In phase two, \"War Armor\" will be enhanced to \"Centirefined War Armor\", greatly increasing the maximum stack limit, and Boss Mirage will gain additional Toughness Protection."
+            },
+            {
+              "name": "Taint of the Sublime",
+              "icon": "",
+              "description": "In Phase 2, the max stack of Boss Mirage's \"Centirefined War Armor\" will increase."
+            },
+            {
+              "name": "Protective Formation",
+              "icon": "",
+              "description": "For every unit on the enemy's side of the field aside from Boss Mirage, all enemies receive less DMG and deal more DMG."
+            }
+          ],
+          "axiomBuffs": [
+            {
+              "name": "Oppose With Tenderness",
+              "icon": "",
+              "description": "All allies' Elation DMG ignores 15% of enemy target's All-Type RES. When an enemy target's \"War Armor\" or \"Centirefined War Armor\" are broken, gains 3 Punchline points."
+            },
+            {
+              "name": "Unstoppable Force",
+              "icon": "",
+              "description": "DMG dealt by memosprites ignores 20% of the target's DEF."
+            },
+            {
+              "name": "Unto Apotheosis",
+              "icon": "",
+              "description": "When ally targets consume Skill Points, increases their CRIT DMG by 6%, stacking up to 10 times."
+            }
+          ]
+        },
+        {
+          "name": "Blaznana Monkey Trick",
+          "icon": "https://img.game8.co/4028647/968219bbcfc1882aeeea4d4cbbe0532a.png/show",
+          "weaknesses": [
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Imaginary"
+          ],
+          "level": "90",
+          "isBonus": true,
+          "traits": [
+            {
+              "name": "Steadfast Safeguard",
+              "icon": "",
+              "description": "Boss Mirage takes 50% less DMG. After Weakness is broken, action gets additionally delayed and DMG taken increases by 100%."
+            },
+            {
+              "name": "United Front",
+              "icon": "",
+              "description": "All enemy units take 50% less DMG and possesses Switch Tally while in \"Classroom Channel.\" After Boss Mirage's Weakness is Broken, the DMG it receives increases by 100%."
+            },
+            {
+              "name": "Tally Loss",
+              "icon": "",
+              "description": "At the beginning of every turn, enemy units in \"Classroom Channel\" will lose a certain number in the Switch Tally."
+            },
+            {
+              "name": "SPD Boost",
+              "icon": "",
+              "description": "Increases SPD for \"End-of-Semester Dinner.\""
+            }
+          ],
+          "axiomBuffs": [
+            {
+              "name": "Knowledge and Decorum",
+              "icon": "",
+              "description": "While any character following the Path of Erudition is in the team, increases all allies' All-Type RES PEN by 25%."
+            },
+            {
+              "name": "Whirlwind Turn",
+              "icon": "",
+              "description": "After ally targets attack an enemy target with 1 or more DoT states, increases their SPD by 25% for 3 turn(s)."
+            },
+            {
+              "name": "Moment of Opportunity",
+              "icon": "",
+              "description": "Increases Follow-Up ATK and Ultimate DMG dealt by all allies by 50%, and additionally increases by 50% against enemy targets in Weakness Broken state."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anomaly-arbitration",
+      "name": "Anomaly Arbitration",
+      "icon": "https://img.game8.co/4288067/500b331813222dd143b6a3f1f3d8ec56.png/show",
+      "version": null,
+      "phaseName": null,
+      "buff": null,
+      "buffs": [],
+      "selectableBuffs": [
+        {
+          "name": "Navigator's Oath",
+          "icon": "",
+          "description": "Increases the All-Type RES PEN for the Skill DMG and Ultimate DMG dealt by the character in position 1 in the lineup by 50%."
+        },
+        {
+          "name": "Add Insult to Injury",
+          "icon": "",
+          "description": "After an enemy target is hit by an ally's Follow-Up ATK, DMG taken by them increases by 15% for 2 turn(s). This effect can stack up to 3 time(s)."
+        },
+        {
+          "name": "Endless Euphoria",
+          "icon": "",
+          "description": "All ally targets' All-Type RES PEN increases by 20%, and the All-Type RES PEN of Elation DMG dealt additionally increases by 20%."
+        }
+      ],
+      "startTime": null,
+      "endTime": null,
+      "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/550759",
+      "rewards": [
+        {
+          "name": "Lone Stardust",
+          "count": "1,200",
+          "icon": "https://img.game8.co/4277856/be2e0033b71dcf06627557a2586c16f3.png/show"
+        },
+        {
+          "name": "Self-Modeling Resin",
+          "count": "3",
+          "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show"
+        },
+        {
+          "name": "Interference Key",
+          "count": "1",
+          "icon": "https://img.game8.co/4277547/596443c34f9a95cb27d659b6323ca941.png/show"
+        }
+      ],
+      "stages": [
+        {
+          "stage": "King in Check",
+          "firstHalf": [
+            "Quantum",
+            "Fire"
+          ],
+          "secondHalf": []
+        }
+      ],
+      "bosses": [
+        {
+          "name": "Argenti",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Enemy_Argenti.png/revision/latest/scale-to-width-down/256?cb=20260725075922",
+          "weaknesses": [
+            "Fire",
+            "Ice"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Svarog",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Enemy_Svarog.png/revision/latest/scale-to-width-down/256?cb=20260725083301",
+          "weaknesses": [
+            "Fire",
+            "Lightning"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Paramount Bliss Inverted: Illwish Archlotus",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Enemy_Paramount_Bliss_Inverted_Illwish_Archlotus.png/revision/latest/scale-to-width-down/256?cb=20260725082619",
+          "weaknesses": [
+            "Physical",
+            "Imaginary"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Murata Graphia, Founding Artist",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
+          "weaknesses": [
+            "Fire",
+            "Quantum"
+          ],
+          "level": "100",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Murata Graphia, Founding Artist",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
+          "weaknesses": [
+            "Fire",
+            "Quantum"
+          ],
+          "level": "120",
+          "isBonus": true,
+          "traits": [],
+          "axiomBuffs": []
+        }
+      ]
+    }
+  ]
+}

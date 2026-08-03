@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T19:30:25.384Z",
+  "generatedAt": "2026-08-03T15:09:18.510Z",
   "sourceCommit": null,
   "files": [
     {
@@ -56,6 +56,12 @@
       "bytes": 21310,
       "items": 10,
       "sha256": "3b245387e1b43caf334d1639fbe8734fb0cf9df19db516504f5fb526e7955f59"
+    },
+    {
+      "path": "data/hsr/endgame.json",
+      "bytes": 21991,
+      "items": 1,
+      "sha256": "b5c6c7e735cd336aecba8638ed1dcc038dec2a114c38272fb1205f9488c981c8"
     },
     {
       "path": "data/hsr/events.json",
