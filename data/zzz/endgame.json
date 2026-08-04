@@ -1,0 +1,352 @@
+{
+  "modes": [
+    {
+      "id": "shiyu-defense",
+      "name": "Shiyu Defense: Critical Node",
+      "nameFr": "Défense de Shiyu : Nœud critique",
+      "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6a/Shiyu_Defense_Critical_Node.png/revision/latest/scale-to-width-down/256?cb=20240901202649",
+      "version": "3.0",
+      "phaseName": "2026-07-24",
+      "selectableBuffs": [],
+      "sharedMechanics": [
+        "In this stage, dealing DMG to enemies earns you DMG Score. Defeating a single normal/elite enemy will grant you an instance of Elimination Score.",
+        "In this stage, scores earned at different times will receive additional multiplier bonuses. The earlier in the challenge, the higher the multiplier. The total score cap (including bonus) is 50,000."
+      ],
+      "startTime": 1784836800,
+      "endTime": 1786046399,
+      "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/457183",
+      "rewards": [
+        {
+          "name": "Polychrome",
+          "count": "780",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4c/Item_Polychrome.png/revision/latest?cb=20240807185318"
+        },
+        {
+          "name": "Investigation Merits",
+          "count": "1,080",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Item_Investigation_Merits.png/revision/latest?cb=20240711081252"
+        },
+        {
+          "name": "Hi-Fi Master Copy",
+          "count": "5",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/8d/Item_Hi-Fi_Master_Copy.png/revision/latest?cb=20240707015834"
+        },
+        {
+          "name": "W-Engine Chip",
+          "count": "3",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/ad/Item_W-Engine_Chip.png/revision/latest?cb=20240723214540"
+        },
+        {
+          "name": "Denny",
+          "count": "350,000",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a2/Item_Denny.png/revision/latest?cb=20220809111848"
+        }
+      ],
+      "bosses": [
+        {
+          "name": "Miasmic - Doppelganger - The Defector",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c0/Enemy_Miasmic_-_Doppelganger_-_The_Defector.png/revision/latest/scale-to-width-down/185?cb=20250906185239",
+          "stage": "Room 1",
+          "level": "70",
+          "weaknesses": [
+            "Fire",
+            "Physical"
+          ],
+          "resistances": [
+            "Ether"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent's Ultimate and Chain Attack DMG increase by 40%.",
+            "When Chain Attack hits an enemy, the enemy's Stun DMG Multiplier increases by 20% and Daze recovery speed slows down by 15% for 15s. Repeated triggers reset the duration."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Mushussu",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Enemy_Mushussu.png/revision/latest/scale-to-width-down/185?cb=20260618093748",
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Miasmic - Doppelganger - The Defector",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c0/Enemy_Miasmic_-_Doppelganger_-_The_Defector.png/revision/latest/scale-to-width-down/185?cb=20250906185239",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Miasmic - Rampant Brute",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Enemy_Miasmic_-_Rampant_Brute.png/revision/latest/scale-to-width-down/185?cb=20260304130714",
+          "stage": "Room 2",
+          "level": "70",
+          "weaknesses": [
+            "Ether",
+            "Wind"
+          ],
+          "resistances": [
+            "Electric"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent's Anomaly Proficiency increases by 20 points, and Attribute Anomaly DMG increases by 15%.",
+            "When there are 1/2 Agents with the Anomaly specialty in the squad, Attribute Anomaly DMG dealt to enemies ignores 5%/15% of their All-Attribute RES."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Miasmic - Frenzied Maniac",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/72/Enemy_Miasmic_-_Frenzied_Maniac.png/revision/latest/scale-to-width-down/185?cb=20251024171351",
+                  "count": 1
+                },
+                {
+                  "name": "Miasmic - Trinox",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9b/Enemy_Miasmic_-_Trinox.png/revision/latest/scale-to-width-down/185?cb=20251024171258",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Miasmic - Rampant Brute",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Enemy_Miasmic_-_Rampant_Brute.png/revision/latest/scale-to-width-down/185?cb=20260304130714",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Miasmic Doppelganger Komano Manato",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Miasmic_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251018175614",
+          "stage": "Room 3",
+          "level": "70",
+          "weaknesses": [
+            "Ice"
+          ],
+          "resistances": [
+            "Physical"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent Ice DMG and Ether DMG increase by 30%.",
+            "Agent Basic Attack and Chain Attack DMG increase by 20%, and CRIT DMG increases by 35%."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Miasma Spawn",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Enemy_Miasma_Spawn.png/revision/latest/scale-to-width-down/185?cb=20250716183123",
+                  "count": 3
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Miasma Ravager - Huskron",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/30/Enemy_Miasma_Ravager_-_Huskron.png/revision/latest/scale-to-width-down/185?cb=20251231031742",
+                  "count": 1
+                },
+                {
+                  "name": "Huskron",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_Huskron.png/revision/latest/scale-to-width-down/185?cb=20250606172942",
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 3,
+              "enemies": [
+                {
+                  "name": "Miasmic Doppelganger Komano Manato",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Miasmic_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251018175614",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deadly-assault",
+      "name": "Deadly Assault",
+      "nameFr": "Assaut mortel",
+      "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
+      "version": "3.1",
+      "phaseName": "2026-07-29",
+      "selectableBuffs": [
+        {
+          "name": "United Strength",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Icon_Deadly_Assault_Buff_%28Element%29.png/revision/latest/scale-to-width-down/45?cb=20250130111815",
+          "description": "If there are 2/3 Agents in the squad with Anomaly specialty, the whole squad's Anomaly Proficiency increases by 30/70 respectively, and Attribute Anomaly DMG dealt increases by 10%/25% respectively. · After inflicting an Attribute Anomaly on an enemy, the enemy's All-Attribute RES is reduced by 15% for 10s. Repeated triggers reset the duration."
+        },
+        {
+          "name": "Sneak Attack",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
+          "description": "Agent ATK increases by 10%, their Anomaly Proficiency increases by 30 pts, and their CRIT DMG increases by 40%. · After an Agent inflicts Attribute Anomaly on an enemy, their DEF decreases by 10% for 10s. Repeated triggers reset the duration."
+        },
+        {
+          "name": "Heartcrusher",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
+          "description": "Agent CRIT DMG increases by 30%. · ATK of Agents with Attack specialty increases by 10%. Their Basic Attack DMG increases by 30% and ignore 15% of enemy DEF."
+        }
+      ],
+      "sharedMechanics": [],
+      "startTime": 1785290400,
+      "endTime": 1786564799,
+      "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
+      "rewards": [
+        {
+          "name": "Polychrome",
+          "count": "300",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4c/Item_Polychrome.png/revision/latest?cb=20240807185318"
+        },
+        {
+          "name": "Tempered Crown",
+          "count": "1",
+          "icon": ""
+        },
+        {
+          "name": "Starforged Sword Song",
+          "count": "1",
+          "icon": ""
+        },
+        {
+          "name": "Title",
+          "count": "1",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9b/Item_Title.png/revision/latest?cb=20241108025520"
+        },
+        {
+          "name": "Investigation Merits",
+          "count": "720",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7a/Item_Investigation_Merits.png/revision/latest?cb=20240711081252"
+        },
+        {
+          "name": "Investigation Certificate",
+          "count": "700",
+          "icon": ""
+        },
+        {
+          "name": "Denny",
+          "count": "225,000",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a2/Item_Denny.png/revision/latest?cb=20220809111848"
+        }
+      ],
+      "bosses": [
+        {
+          "name": "Girtablullu - Stagnant Aberrant",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Enemy_Girtablullu_-_Stagnant_Aberrant.png/revision/latest/scale-to-width-down/185?cb=20260803004623",
+          "stage": "Trial Mode: First Challenge",
+          "level": "70",
+          "weaknesses": [],
+          "resistances": [],
+          "isBonus": false,
+          "mechanics": [
+            "When an Agent inflicts an Attribute Anomaly on an enemy, the target enemy gains 1 stack of Blight Mark of the corresponding attribute, lasting 30s and stacking up to 2 times. Repeated triggers of same-attribute Blight Mark reset its duration.",
+            "For every stack of Blight Mark inflicted, the enemies take 8% more Attribute Anomaly DMG, and DMG taken by Corruptive Barrier increases by 8%.",
+            "When inflicting Impaired or Shutdown on an enemy, the whole squad's Anomaly Proficiency increases by 60 pts, lasting 30s. Repeated triggers reset the duration.",
+            "Suitable for Agents with Anomaly specialty."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
+          "name": "Notorious - Dead End Butcher",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/35/Enemy_Notorious_-_Dead_End_Butcher.png/revision/latest/scale-to-width-down/185?cb=20250126004610",
+          "stage": "Trial Mode: Second Challenge",
+          "level": "70",
+          "weaknesses": [
+            "Ice",
+            "Ether"
+          ],
+          "resistances": [],
+          "isBonus": false,
+          "mechanics": [
+            "DMG dealt to boss enemies by Attribute Anomaly is increased by 50%. While Notorious - Dead End Butcher is in Ether Enhanced state, the DMG it takes is reduced by 15%, and the Daze value dealt by Agents to it is reduced by 30%. Triggering Disorder on Notorious - Dead End Butcher immediately forces it to exit the Ether Enhanced state.",
+            "Successfully inflicting Disorder grants 300 Performance Points, up to a maximum of 5,000."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
+          "name": "Unknown Corruption Complex",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/15/Enemy_Unknown_Corruption_Complex.png/revision/latest/scale-to-width-down/185?cb=20240725120604",
+          "stage": "Trial Mode: Third Challenge",
+          "level": "70",
+          "weaknesses": [
+            "Electric",
+            "Ether"
+          ],
+          "resistances": [],
+          "isBonus": false,
+          "mechanics": [
+            "When dealing sufficient DMG to the boss enemy's legs, Impaired will be triggered. Upon successfully breaking the boss enemy's legs, the Agent restores 1,000 Decibels, and the boss gains 1 stack of Disintegration for 20 seconds, up to a maximum of 4 stacks. When the Agent's attacks hit an enemy, for each stack of Disintegration the target has, CRIT DMG is increased by 25%.",
+            "Successfully impairing an enemy grants 800 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
+          "name": "Integrated - Girtablullu",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/37/Enemy_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260618093736",
+          "stage": "Adversity Mode",
+          "level": "70",
+          "weaknesses": [],
+          "resistances": [],
+          "isBonus": true,
+          "mechanics": [
+            "When an Agent's attack hits a Boss, the Boss gains 1 point of Dissonance. The same Agent can apply at most 1 point of Dissonance every 1s.",
+            "When a Boss accumulates 10 points of Dissonance, all Dissonance points are immediately removed and the Boss enters the Dissonant state. While in the Dissonant state, enemies take 40% bonus Attribute Anomaly DMG for 10s. Re-entering the Dissonant state resets the duration.",
+            "When an Agent successfully inflicts an Attribute Anomaly on a Boss, all Agents on the squad gain the Transmutation effect: DMG dealt increases by 15% and Anomaly Proficiency increases by 20 points. The Transmutation effect lasts 10s, and repeated triggers reset the duration.",
+            "Each time you successfully parry an attack from Girtablullu's summoned minions and trigger Active Conversion, you gain 500 Performance Points; successfully triggering Chain Parry against Girtablullu's attacks grants 1000 Performance Points, up to 3 times; if you successfully break the Corruptive Barrier within 25s of Girtablullu first activating Corruptive Barrier, you gain 1500 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+          ],
+          "objectives": [
+            "1 étoile — Reach 10,000 points within the time limit",
+            "2 étoiles — Reach 20,000 points within the time limit",
+            "3 étoiles — Reach 30,000 points within the time limit"
+          ],
+          "waves": []
+        }
+      ]
+    }
+  ]
+}
