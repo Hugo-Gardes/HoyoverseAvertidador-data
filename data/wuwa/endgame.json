@@ -1,0 +1,412 @@
+{
+  "modes": [
+    {
+      "id": "tower-of-adversity",
+      "name": "Tower of Adversity — Hazard Tower",
+      "nameFr": "La Tour éprouvante",
+      "icon": "https://img.game8.co/3893839/206a2ebc90ef6fff3394d7bf64e09383.png/show",
+      "version": null,
+      "phaseName": null,
+      "startTime": 1784491200,
+      "endTime": 1786910400,
+      "guideUrl": "https://game8.co/games/Wuthering-Waves/archives/457528",
+      "rules": [],
+      "sharedEffects": [],
+      "selectableBuffs": [],
+      "rewards": [
+        {
+          "name": "Astrite",
+          "count": "800",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show"
+        },
+        {
+          "name": "Shell Credit",
+          "count": "210,000",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show"
+        },
+        {
+          "name": "Advanced Resonance Potion",
+          "count": "6",
+          "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show"
+        },
+        {
+          "name": "Advanced Energy Core",
+          "count": "6",
+          "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show"
+        },
+        {
+          "name": "Advanced Sealed Tube",
+          "count": "6",
+          "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show"
+        },
+        {
+          "name": "Hazard Record",
+          "count": "840",
+          "icon": "https://img.game8.co/4312456/9e0a6e9dae0032c392a34a0b957b4386.png/show"
+        }
+      ],
+      "stages": [
+        {
+          "stage": "Floor 1",
+          "name": "Feilian Beringal",
+          "icon": "https://img.game8.co/4306583/b8acf6ded0bcc0f9224d4b1fbf2d9bf9.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Aero"
+          ],
+          "effects": [
+            {
+              "name": "",
+              "description": "Enemies' Fusion RES & Spectro RES are decreased by 10%, and their Aero RES & Electro RES are increased by 10%."
+            },
+            {
+              "name": "",
+              "description": "Resonators gain 30% Fusion and Spectro DMG Bonus. Inflicting Tunability - Shifting increases ATK by 30% for 30s."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 90s left",
+            "Clear the challenge with at least 150s (02:30) left",
+            "Clear the challenge with at least 180s (03:00) left"
+          ],
+          "enemies": [
+            {
+              "name": "Feilian Beringal",
+              "icon": "https://img.game8.co/4306583/b8acf6ded0bcc0f9224d4b1fbf2d9bf9.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Floor 2",
+          "name": "Nameless Explorer",
+          "icon": "https://img.game8.co/4403557/87c5ac6b0bf96ca51e111271e3751822.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Aero",
+            "Electro"
+          ],
+          "effects": [
+            {
+              "name": "",
+              "description": "Enemies' Fusion RES & Spectro RES are decreased by 10%, and their Aero RES & Electro RES are increased by 10%."
+            },
+            {
+              "name": "",
+              "description": "Resonators gain 30% Fusion and Spectro DMG Bonus. Inflicting Tunability - Shifting increases ATK by 30% for 30s."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 90s left",
+            "Clear the challenge with at least 150s (02:30) left",
+            "Clear the challenge with at least 180s (03:00) left"
+          ],
+          "enemies": [
+            {
+              "name": "Violet-Feathered Heron",
+              "icon": "https://img.game8.co/4306530/a2f59a8383a42f2caba0aabe7bbf3715.png/show",
+              "count": 1
+            },
+            {
+              "name": "Vitreum Dancer",
+              "icon": "https://img.game8.co/4306525/5715dab1b7466bbe19ba883e10fda938.png/show",
+              "count": 1
+            },
+            {
+              "name": "Nameless Explorer",
+              "icon": "https://img.game8.co/4403557/87c5ac6b0bf96ca51e111271e3751822.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Floor 3",
+          "name": "Tempest Mephis",
+          "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Electro"
+          ],
+          "effects": [
+            {
+              "name": "",
+              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
+            },
+            {
+              "name": "",
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tunability - Shifting."
+            },
+            {
+              "name": "",
+              "description": "When the Resonator casts a Tune Break skill, the total DMG of all Resonators in the team is increased by 10%. This effect can be triggered once every 15s and can stack up to 3 times. Resonators deal 45% more total DMG to enemies after inflicting Havoc Bane for 30s."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 60s left",
+            "Clear the challenge with at least 120s (02:00) left",
+            "Clear the challenge with at least 150s (02:30) left"
+          ],
+          "enemies": [
+            {
+              "name": "Spacetrek Explorer",
+              "icon": "https://img.game8.co/4364351/562d030947d24b8c355492ee1a3e909a.png/show",
+              "count": 1
+            },
+            {
+              "name": "Mining Reindeer",
+              "icon": "https://img.game8.co/4364348/8b16ac59e4c1799fad14d3aaa1fad42a.png/show",
+              "count": 1
+            },
+            {
+              "name": "Questless Knight",
+              "icon": "https://img.game8.co/4306621/3068ed26a4510868774f148afd6bd68c.png/show",
+              "count": 1
+            },
+            {
+              "name": "Tempest Mephis",
+              "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Floor 4",
+          "name": "Thundering Mephis",
+          "icon": "https://img.game8.co/4306518/625feef085ed72f54ffcb8c93ecd7589.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Electro"
+          ],
+          "effects": [
+            {
+              "name": "",
+              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
+            },
+            {
+              "name": "",
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tunability - Shifting."
+            },
+            {
+              "name": "",
+              "description": "When the Resonator casts a Tune Break skill, the total DMG of all Resonators in the team is increased by 10%. This effect can be triggered once every 15s and can stack up to 3 times. Resonators deal 45% more total DMG to enemies after inflicting Havoc Bane for 30s."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 60s left",
+            "Clear the challenge with at least 120s (02:00) left",
+            "Clear the challenge with at least 150s (02:30) left"
+          ],
+          "enemies": [
+            {
+              "name": "Mech Abomination",
+              "icon": "https://img.game8.co/4306601/b6c1a8ac399238277263c5208572beb6.png/show",
+              "count": 1
+            },
+            {
+              "name": "Thundering Mephis",
+              "icon": "https://img.game8.co/4306518/625feef085ed72f54ffcb8c93ecd7589.png/show",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "endstate-matrix",
+      "name": "Endstate Matrix",
+      "nameFr": "Matrice Finale",
+      "icon": "https://img.game8.co/4533179/fe55204c2a803dcc77ebe60db045a4a4.png/show",
+      "version": "3.5",
+      "phaseName": null,
+      "startTime": 1784232000,
+      "endTime": 1787144340,
+      "guideUrl": "https://game8.co/games/Wuthering-Waves/archives/572519",
+      "rules": [],
+      "sharedEffects": [],
+      "selectableBuffs": [
+        {
+          "name": "General Enhancement",
+          "icon": "https://img.game8.co/4563024/10eb013ef58dc19140a407988f3d1929.png/show",
+          "description": "Enemies take 20% more total DMG. Enemies take 20% more total Resonance Skill DMG."
+        },
+        {
+          "name": "Enhancement: Negative Status",
+          "icon": "https://img.game8.co/4563026/5a9f2de6f2233d922cb85a7d1d8ee8f0.png/show",
+          "description": "When affected by Negative Statuses, the taget's total DMG taken is increased by 25% for 30s.Inflicting Havoc Bane increases Reasonators' total DMG dealt by 30% for 15s."
+        },
+        {
+          "name": "Enhancement: Echo Skill",
+          "icon": "https://img.game8.co/4563023/9119b458548b2753ca6532d78902eab6.png/show",
+          "description": "Echo Skill Total DMG is increased by 30%, Fusion Total DMG by 20%, and Heavy Attack Total DMG by 20%."
+        },
+        {
+          "name": "Enhancement: Tune Break",
+          "icon": "https://img.game8.co/4563025/6fb38e3e7d7a63dbd88d3acb057c09ae.png/show",
+          "description": "Resonators' total Tune Rupture DMG is increased by 150%.Inflicting Tunability - Shifting increases total DMG by 25% for 30s."
+        }
+      ],
+      "rewards": [],
+      "stages": [
+        {
+          "stage": "Boss 1: Matrix Swarm",
+          "name": "Flautist",
+          "icon": "https://img.game8.co/4306574/985e8b96b705d9390debc9aaec6378bd.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Havoc"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating this enemy wave, all Resonators in the team are immune to all types of damage and interruptions."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics Enemy ATK is increased by 50%. Enemies take 10% more total Havoc DMG, or 40% when affected by Havoc Bane."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "Flautists' ATK is increased by 100% when they are the only remaining enemy units on the field."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Flautist",
+              "icon": "https://img.game8.co/4306574/985e8b96b705d9390debc9aaec6378bd.png/show",
+              "count": 1
+            },
+            {
+              "name": "Tremor Warrior",
+              "icon": "https://img.game8.co/4364339/afdc6e62d6f231b90ca9a5c5e7a67cc9.png/show",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "stage": "Boss 2: Mourning Aix",
+          "name": "Mourning Aix",
+          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Spectro"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating Mourning Aix, all Resonators in the team are immune to all types of damage and interruptions."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics Mourning Aix's Vibration Strength Reduction Rate is decreased by 15%. Counterattacks restore 10 Resonance Energy and reduce the target's Vibration Strength by 30% upon hit."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "Mourning Aix''s ATK is increased by 6% every 5s, up to 72%. Immobilizing it clears all stacks and pauses stacking."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Mourning Aix",
+              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 3: Fleurdelys",
+          "name": "Fleurdelys",
+          "icon": "https://img.game8.co/4306571/c4094f3ea5b26a2e227713efcba93f49.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Aero"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating Fleurdelys, all Resonators in the team are immune to all types of damage and interruptions."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics Fleurdelys's Vibration Strength Reduction Rate is decreased by 15%. Dodge Counters reduce the target's Vibration Strength by 15% of the Max, cooldown 6s."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "Fleurdelys's Vibration Strength Reduction Rate is now decreased by 30%."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Fleurdelys",
+              "icon": "https://img.game8.co/4306571/c4094f3ea5b26a2e227713efcba93f49.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 4: Reactor Husk",
+          "name": "Reactor Husk",
+          "icon": "https://img.game8.co/4367478/dff756506b41e69acff86fa6ae0277ed.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Fusion"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating Reactor Husk, all Resonators in the team are immune to all types of damage and interruptions."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics Reactor Husk's ATK is increased by 20%. After taking Negative Status DMG, Reactor Husk's ATK is decreased by 20% instead."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "Reactor Husk's ATK is permanently increased by 25%."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Reactor Husk",
+              "icon": "https://img.game8.co/4367478/dff756506b41e69acff86fa6ae0277ed.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 5: Matrix Mimic",
+          "name": "Chest Mimic",
+          "icon": "https://img.game8.co/4306547/9d9e96f1818954526ef73dfffedfbfaa.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [],
+          "effects": [
+            {
+              "name": "Singularity Expansion",
+              "description": "- For 15s after defeating a Matrix Mimic, all Resonators in the team are immune to all types of damage and interruptions. - Matrix Mimic has equal RES to all attribute DMG. Dealing damage to it yields 1.1x points."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Chest Mimic",
+              "icon": "https://img.game8.co/4306547/9d9e96f1818954526ef73dfffedfbfaa.png/show",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
