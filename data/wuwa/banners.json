@@ -17,7 +17,9 @@
           "Role": "Endgame",
           "HP": "1337 16712",
           "ATK": "23 287",
-          "DEF": "90 1099"
+          "DEF": "90 1099",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -34,7 +36,9 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002"
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -49,7 +53,9 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136"
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -64,11 +70,13 @@
           "Role": "Endgame",
           "HP": "680 8500",
           "ATK": "27 337",
-          "DEF": "72 879"
+          "DEF": "72 879",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
-    "startTime": 1785369600,
+    "startTime": 1787097600,
     "endTime": 1787097600
   },
   {
@@ -89,7 +97,9 @@
           "Role": "Endgame",
           "HP": "882 11025",
           "ATK": "34 425",
-          "DEF": "94 1148"
+          "DEF": "94 1148",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
@@ -106,7 +116,9 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002"
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -121,7 +133,9 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136"
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       },
       {
@@ -136,11 +150,13 @@
           "Role": "Endgame",
           "HP": "680 8500",
           "ATK": "27 337",
-          "DEF": "72 879"
+          "DEF": "72 879",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
-    "startTime": 1785369600,
+    "startTime": 1787097600,
     "endTime": 1787097600
   },
   {
@@ -151,7 +167,7 @@
     "rateUp5Star": [
       {
         "name": "Firstlight's Herald",
-        "icon": "https://img.game8.co/4543805/b26e04b0cffb602f5691acef0bce42ba.png/show",
+        "icon": "https://img.game8.co/4572304/bbd01244eeab0074fc0e409aab5eb4f8.png/show",
         "type": "Rectifier",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/606963",
         "details": {
@@ -212,7 +228,7 @@
         }
       }
     ],
-    "startTime": 1785369600,
+    "startTime": 1787097600,
     "endTime": 1787097600
   },
   {
@@ -284,7 +300,7 @@
         }
       }
     ],
-    "startTime": 1785369600,
+    "startTime": 1787097600,
     "endTime": 1787097600
   },
   {
@@ -305,12 +321,14 @@
           "Role": "Endgame",
           "HP": "839 10,487",
           "ATK": "55 437",
-          "DEF": "97 1,185"
+          "DEF": "97 1,185",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
         }
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1783641600,
+    "startTime": 1785369600,
     "endTime": 1787097600
   },
   {
@@ -336,7 +354,738 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1783641600,
+    "startTime": 1785369600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Wind of Transcendence",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614636",
+    "image": "https://img.game8.co/4581383/a039394ed8eed7f6c8f13d6c10b45614.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Qingxiao",
+        "icon": "https://img.game8.co/4572124/28f66b42f6b05d0cfaab0e7f071859af.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/605308",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Sword"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Yangyang",
+        "icon": "https://img.game8.co/4303112/923df17bc1a2c9894cb85c8c8053edb3.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454215",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "816 10,200",
+          "ATK": "20 250",
+          "DEF": "90 1,099",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Baizhi",
+        "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Rectifier",
+          "Role": "Endgame",
+          "HP": "1025 12,812",
+          "ATK": "17 212",
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Sanhua",
+        "icon": "https://img.game8.co/4303110/6d077a23694618d6d9ee885a60a2f9f2.png/show",
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454225",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "805 10,062",
+          "ATK": "22 275",
+          "DEF": "77 941",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "False Promise For Tomorrow",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/595039",
+    "image": "https://img.game8.co/4581381/c6c6c828fb40fd9c4cd9fe36b0c3e1e2.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Denia",
+        "icon": "https://img.game8.co/4455868/acbdd5eea048423b03e54664facb9f80.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/585681",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Rectifier",
+          "Role": "Endgame",
+          "HP": "882 11025",
+          "ATK": "34 425",
+          "DEF": "94 1148",
+          "Effect": "• Deals 136.33% DMG (Lvl. 10) every 4s per tick at S0 for 30s. ┗ At S4, ticks occur every 3s instead of 4s. • Pulls in nearby targets, great for AoE coverage. • Considered Resonance Liberation DMG. In Fusion Burst Mode: • Inflicts 2 stacks of Fusion Burst. In Tune Strain Mode: • Inflicts Tune Strain - Shifting on targets. • Resets Tune Strain - Interfered duration on targets.",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Yangyang",
+        "icon": "https://img.game8.co/4303112/923df17bc1a2c9894cb85c8c8053edb3.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454215",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "816 10,200",
+          "ATK": "20 250",
+          "DEF": "90 1,099",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Baizhi",
+        "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Rectifier",
+          "Role": "Endgame",
+          "HP": "1025 12,812",
+          "ATK": "17 212",
+          "DEF": "82 1,002",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Sanhua",
+        "icon": "https://img.game8.co/4303110/6d077a23694618d6d9ee885a60a2f9f2.png/show",
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454225",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "805 10,062",
+          "ATK": "22 275",
+          "DEF": "77 941",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Absolute Pulsation",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
+    "image": "https://img.game8.co/4581385/b6e97bc6a12ce89c4df5058f56cede41.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Glint of Clouds",
+        "icon": "https://img.game8.co/4581375/1a4f8cbe252754a138e9aed0abfae7dd.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614634"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Commando of Conviction",
+        "icon": "https://img.game8.co/4302879/e2c09de02ab33a482ec63c8af2d54c85.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455938",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Sword",
+          "Weapon Skill": "Unyielding When Intro Skill is cast, increases ATK by 15%, lasting for 15s.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      },
+      {
+        "name": "Fusion Accretion",
+        "icon": "https://img.game8.co/4302888/d58f9a5268e5c067ad57c51bf28b22be.png/show",
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474512",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Lunar Cutter",
+        "icon": "https://img.game8.co/4302893/c206f901fbdc15cfa56e83362ed27b0e.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455936",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Sword",
+          "Weapon Skill": "Preordained Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. The equipped Resonator loses 1 stack(s) of Oath every 2s, and gains 6 stack(s) upon defeating an enemy.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Absolute Pulsation",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
+    "image": "https://img.game8.co/4581387/eb9f5cc619a1ba947c80f5e2aadd3bbd.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Forged Dwarf Star",
+        "icon": "https://img.game8.co/4507096/17f6303ea17e79f0090d03a2a10cf4fd.png/show",
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/595088",
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "500",
+          "Substat (Lv. 90)": "Crit. Rate+36.0%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Dissolution Increases ATK by 12%. After the wielder inflicts Fusion Burst or Tune Strain - Shifting on the target, it increases their Resonance Liberation DMG Bonus by 36% for 5s. While the effect lasts, after Resonators in the team inflict Fusion Burst or Tune Strain - Shifting, their ATK is increased by 24% for 15s. Effects of the same name cannot be stacked.",
+          "Max ATK": "500",
+          "Max Bonus Stat (Crit. Rate)": "36.0%"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Commando of Conviction",
+        "icon": "https://img.game8.co/4302879/e2c09de02ab33a482ec63c8af2d54c85.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455938",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Sword",
+          "Weapon Skill": "Unyielding When Intro Skill is cast, increases ATK by 15%, lasting for 15s.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      },
+      {
+        "name": "Fusion Accretion",
+        "icon": "https://img.game8.co/4302888/d58f9a5268e5c067ad57c51bf28b22be.png/show",
+        "type": "Rectifier",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474512",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Rectifier",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Lunar Cutter",
+        "icon": "https://img.game8.co/4302893/c206f901fbdc15cfa56e83362ed27b0e.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455936",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Sword",
+          "Weapon Skill": "Preordained Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. The equipped Resonator loses 1 stack(s) of Oath every 2s, and gains 6 stack(s) upon defeating an enemy.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Where Santu Beckons",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614637",
+    "image": "https://img.game8.co/4581386/adec334b98cdbf349f4eb222d2163293.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Jingran",
+        "icon": "https://img.game8.co/4572123/18932eed923cdd845d400e0990924543.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/605307",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Broadblade"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Mortefi",
+        "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "802 10,025",
+          "ATK": "20 250",
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Aalto",
+        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454214",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "788 9,850",
+          "ATK": "21 262",
+          "DEF": "88 1,075",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Yuanwu",
+        "icon": "https://img.game8.co/4303107/6b0b421e0da2416deb91ebddfe57a5ae.png/show",
+        "type": "Electro",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454219",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Electro",
+          "Weapon": "Gauntlet",
+          "Role": "Endgame",
+          "HP": "682 8,525",
+          "ATK": "18 225",
+          "DEF": "134 1,637",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Thousand Futures Mirrored In Snow",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/595037",
+    "image": "https://img.game8.co/4581379/6623ccdfdaa07e4c569b90c6b5f9cf8a.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Hiyuki",
+        "icon": "https://img.game8.co/4455713/334923e40f8e8503213561cebe01d460.png/show",
+        "type": "Glacio",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/586421",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Glacio",
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "824 10300",
+          "ATK": "37 462",
+          "DEF": "91 1112",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Mortefi",
+        "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "802 10,025",
+          "ATK": "20 250",
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Aalto",
+        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454214",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "788 9,850",
+          "ATK": "21 262",
+          "DEF": "88 1,075",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Yuanwu",
+        "icon": "https://img.game8.co/4303107/6b0b421e0da2416deb91ebddfe57a5ae.png/show",
+        "type": "Electro",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454219",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Electro",
+          "Weapon": "Gauntlet",
+          "Role": "Endgame",
+          "HP": "682 8,525",
+          "ATK": "18 225",
+          "DEF": "134 1,637",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Distant May the Starlights Be",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/570877",
+    "image": "https://img.game8.co/4581384/d2a76b540c6b4908d1e0323b60cf7069.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Mornye",
+        "icon": "https://img.game8.co/4351069/ac2e42243db427e49453aa2c05e9680c.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/568193",
+        "details": {
+          "Rarity": "★★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Broadblade",
+          "Role": "Endgame",
+          "HP": "1230 15375",
+          "ATK": "23 287",
+          "DEF": "111 1356",
+          "Skill": "Requirement",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Mortefi",
+        "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
+        "type": "Fusion",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Fusion",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "802 10,025",
+          "ATK": "20 250",
+          "DEF": "93 1,136",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Aalto",
+        "icon": "https://img.game8.co/4303108/b0fb772ba532d38dfefd3cd2abd6986e.png/show",
+        "type": "Aero",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454214",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Aero",
+          "Weapon": "Pistol",
+          "Role": "Endgame",
+          "HP": "788 9,850",
+          "ATK": "21 262",
+          "DEF": "88 1,075",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      },
+      {
+        "name": "Yuanwu",
+        "icon": "https://img.game8.co/4303107/6b0b421e0da2416deb91ebddfe57a5ae.png/show",
+        "type": "Electro",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454219",
+        "details": {
+          "Rarity": "★★★★",
+          "Attribute": "Electro",
+          "Weapon": "Gauntlet",
+          "Role": "Endgame",
+          "HP": "682 8,525",
+          "ATK": "18 225",
+          "DEF": "134 1,637",
+          "Skill": "Priority Explanation",
+          "SKILL": "FORTE INHE"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Absolute Pulsation",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
+    "image": "https://img.game8.co/4581378/9e2fe08c4b0363108b95c7d49f516133.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Thousandfold Deliverance",
+        "icon": "https://img.game8.co/4581376/08b1a02ad6368fc51b25f2b20285cb68.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614635"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Waning Redshift",
+        "icon": "https://img.game8.co/4302943/80004e2ba86bbaec6519e11862f8b102.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474514",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Discord",
+        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455948",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Novaburst",
+        "icon": "https://img.game8.co/4302898/34aa216b06ce732adc2274bb4fee611f.png/show",
+        "type": "Pistol",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455902",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Pistol",
+          "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Absolute Pulsation",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
+    "image": "https://img.game8.co/4581382/55c0a9a8a01d5e5054a8d3675646afa3.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Frostburn",
+        "icon": "https://img.game8.co/4484921/afe46f1c94551974f8f8e4bc3ea8d6da.png/show",
+        "type": "Sword",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/595087",
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "587",
+          "Substat (Lv. 90)": "Crit Rate+24.3%",
+          "Type": "Sword",
+          "Weapon Skill": "Self No More ATK is increased by 12%. When the wielder applies Glacio Chafe, Glacio DMG is amplified by 28%, and Resonance Liberation DMG ignores 10% of the target's DEF. If the wielder is the active Resonator in the team, Glacio Chafe DMG dealt to all targets within a certain range is Amplified by 20% for 6s. This effect can be triggered once every 0.1s. Only the strongest effect of the same name applies.",
+          "Max ATK": "587",
+          "Max Bonus Stat (Crit Rate)": "24.3%"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Waning Redshift",
+        "icon": "https://img.game8.co/4302943/80004e2ba86bbaec6519e11862f8b102.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474514",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Discord",
+        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455948",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Novaburst",
+        "icon": "https://img.game8.co/4302898/34aa216b06ce732adc2274bb4fee611f.png/show",
+        "type": "Pistol",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455902",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Pistol",
+          "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      }
+    ],
+    "startTime": 1787097600,
+    "endTime": 1787097600
+  },
+  {
+    "name": "Absolute Pulsation",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
+    "image": "https://img.game8.co/4581380/6c8df3056ef2c89147d0b1a56e5308c9.png/show",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Starfield Calibrator",
+        "icon": "https://img.game8.co/4384969/bbe56b282c9b7111b531a54aa8d5d131.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570864",
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "Energy Regen+77.0%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Definite Solution Increases DEF by 16%. Casting Resonance Liberation restores 8 points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4s. Effects of the same name cannot be stacked.",
+          "Max ATK": "412",
+          "Max Bonus Stat (Energy Regen)": "77.0%"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Waning Redshift",
+        "icon": "https://img.game8.co/4302943/80004e2ba86bbaec6519e11862f8b102.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474514",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Discord",
+        "icon": "https://img.game8.co/4302876/6c246617124df7523a33f9641b0cbc2d.png/show",
+        "type": "Broadblade",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455948",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Broadblade",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Novaburst",
+        "icon": "https://img.game8.co/4302898/34aa216b06ce732adc2274bb4fee611f.png/show",
+        "type": "Pistol",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455902",
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "ATK+30.4%",
+          "Type": "Pistol",
+          "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
+          "Max ATK": "412",
+          "Max Bonus Stat (ATK)": "30.4%"
+        }
+      }
+    ],
+    "startTime": 1787097600,
     "endTime": 1787097600
   }
 ]

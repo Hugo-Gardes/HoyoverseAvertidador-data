@@ -117,8 +117,8 @@
   "stygianOnslaught": {
     "version": "6.7 Luna VIII",
     "cycleName": "Savage Tremors",
-    "startTime": 1785283200,
-    "endTime": 1788220800,
+    "startTime": 1783555200,
+    "endTime": 1786406400,
     "bosses": [
       {
         "stage": 1,
@@ -138,97 +138,109 @@
     ]
   },
   "imaginariumTheater": {
-    "season": "25",
+    "season": "26",
     "version": "6.7",
-    "startTime": 1782864000,
-    "endTime": 1785369600,
+    "startTime": 1785542400,
+    "endTime": 1788134400,
     "elements": [
-      "Pyro",
+      "Hydro",
       "Cryo",
       "Electro"
     ],
     "openingCharacters": [
       {
-        "name": "Arlecchino",
-        "icon": "https://img.game8.co/3870888/44d254ada42ac07c7ee236bea3acfec5.png/show"
+        "name": "Yelan",
+        "icon": "https://img.game8.co/3530017/258a68ae18705bbd1d276f65c2e94c27.png/show"
       },
       {
-        "name": "Cyno",
-        "icon": "https://img.game8.co/3585290/20da32e3dcd31625b6e1b20a82a75204.png/show"
+        "name": "Flins",
+        "icon": "https://img.game8.co/4288768/dff063329711022276370582ceefecf3.png/show"
       },
       {
-        "name": "Ganyu",
-        "icon": "https://img.game8.co/3317298/8a6ff657aae195d782276029ad880c34.png/show"
+        "name": "Skirk",
+        "icon": "https://img.game8.co/4194956/7a1921a73270a143aa6ee416e3dd40fe.png/show"
       },
       {
-        "name": "Bennett",
-        "icon": "https://img.game8.co/3294999/853d5357be63f501a600fc776eb27256.png/show"
+        "name": "Aino",
+        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show"
       },
       {
-        "name": "Beidou",
-        "icon": "https://img.game8.co/3294990/3269f50c780182e3fd1860d45189d742.png/show"
+        "name": "Ororon",
+        "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show"
       },
       {
-        "name": "Diona",
-        "icon": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show"
+        "name": "Layla",
+        "icon": "https://img.game8.co/3608042/7f1131af47c7a0e776e9c3bcd08eecf7.png/show"
       }
     ],
     "bosses": [
       {
         "act": "Act 3",
-        "name": "Jadeplume Terrorshroom",
+        "name": "Knuckle Duckle",
         "level": 90,
-        "icon": "https://img.game8.co/3570408/347ee7bf9425110cc92739ccd3863832.png/show"
+        "icon": "https://img.game8.co/4282545/e136f8361ebf307ca7b192a018b6a5f1.png/show"
       },
       {
         "act": "Act 6",
-        "name": "Primo Geovishap",
+        "name": "Hiljetta",
         "level": 92,
-        "icon": "https://img.game8.co/3321677/d0c4d64b2e537644eae5116eec52b25f.png/show"
+        "icon": "https://img.game8.co/4384707/dfbe21e7da46f80a7c829319298caf9f.png/show"
       },
       {
         "act": "Act 8",
-        "name": "Super-Heavy Landrover: Mechanized Fortress",
+        "name": "Mushteshir",
         "level": 95,
-        "icon": "https://img.game8.co/4345019/8d75f21ab5e25f4babe7ece8ada2beca.png/show"
+        "icon": "https://img.game8.co/4544889/887dd5e31a7f625965e1d6e3d64d49f1.png/show"
       },
       {
         "act": "Act 10",
-        "name": "Aeonblight Drake",
+        "name": "Perpetual Mechanical Array",
         "level": 100,
-        "icon": "https://img.game8.co/3588123/dc7148337f052d42a701591aa1630d96.png/show"
+        "icon": "https://img.game8.co/3393127/3c2d91cb79abbd5007d30f4b7512cd68.png/show"
       }
     ],
     "extraBosses": [
       {
         "act": "Arcana Challenge I",
+        "name": "Shadowy Husk: Defender",
+        "level": 100,
+        "icon": "https://img.game8.co/3664725/496b7575279abbeb10ddc804a453bcde.png/show"
+      },
+      {
+        "act": "Arcana Challenge I",
+        "name": "Shadowy Husk: Line Breaker",
+        "level": 100,
+        "icon": "https://img.game8.co/3664721/838c97f66ce7090e3653ac1fb1e41982.png/show"
+      },
+      {
+        "act": "Arcana Challenge I",
+        "name": "Shadowy Husk: Standard Bearer",
+        "level": 100,
+        "icon": "https://img.game8.co/3664722/94bac22b0542d8731632abb2443f4dac.png/show"
+      },
+      {
+        "act": "Arcana Challenge II",
         "name": "Eremite - Daythunder",
         "level": 100,
         "icon": "https://img.game8.co/3572523/73a6e45a6d401f39b83567accd2aec31.png/show"
       },
       {
-        "act": "Arcana Challenge I",
+        "act": "Arcana Challenge II",
         "name": "Eremite - Desert Clearwater",
         "level": 100,
         "icon": "https://img.game8.co/3572524/0b21fd0eaec6354da55042b48adb54fb.png/show"
       },
       {
-        "act": "Arcana Challenge I",
+        "act": "Arcana Challenge II",
         "name": "Eremite - Stone Enchanter",
         "level": 100,
         "icon": "https://img.game8.co/3589909/68dfe7c2b3e567ec091c1b0b57cce982.png/show"
       },
       {
-        "act": "Arcana Challenge I",
+        "act": "Arcana Challenge II",
         "name": "Eremite - Scorching Loremaster",
         "level": 100,
         "icon": "https://img.game8.co/3640440/bf127e4d9be936017f8ea6627b24dade.png/show"
-      },
-      {
-        "act": "Arcana Challenge II",
-        "name": "Experimental Field Generator",
-        "level": 100,
-        "icon": "https://img.game8.co/4019341/e6611328e01b5772a2747b17f35d39c8.png/show"
       }
     ]
   }

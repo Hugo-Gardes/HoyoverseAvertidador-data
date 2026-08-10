@@ -13,6 +13,7 @@
         "details": {
           "Attribute": "Lumiflux",
           "Specialty": "Anomaly",
+          "Type": "Slash",
           "Faction": "Covenant of Dayat",
           "HP": "7482",
           "ATK": "748",
@@ -158,6 +159,7 @@
         "details": {
           "Attribute": "Fire",
           "Specialty": "Support",
+          "Type": "Strike",
           "Faction": "Sons of Calydon",
           "HP": "8025",
           "ATK": "583",
@@ -276,6 +278,7 @@
         "details": {
           "Attribute": "Ice",
           "Specialty": "Attack",
+          "Type": "Pierce",
           "Faction": "Airspace Patrol Department"
         }
       }
@@ -415,6 +418,7 @@
         "details": {
           "Attribute": "Fire",
           "Specialty": "Support",
+          "Type": "Strike",
           "Faction": "Sons of Calydon",
           "HP": "8025",
           "ATK": "583",
@@ -678,6 +682,7 @@
         "details": {
           "Attribute": "Fire",
           "Specialty": "Support",
+          "Type": "Strike",
           "Faction": "Sons of Calydon",
           "HP": "8025",
           "ATK": "583",

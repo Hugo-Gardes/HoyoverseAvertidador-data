@@ -1,6 +1,21 @@
 {
   "confirmed_na_banners": [
     {
+      "title": "Ordeal Call III: Archetype Inception Pickup 2 Summon (Daily)",
+      "image": "https://static.mana.wiki/grandorder/20260804 OC3 Archetype Inception Pickup 2 Summon.png?width=480&height=173",
+      "servants": [
+        "Koyanskaya of Dark",
+        "Astolfo (Saber)",
+        "Ganesha (Jinako)",
+        "Kingprotea",
+        "Thomas Edison",
+        "Astolfo",
+        "Passionlip"
+      ],
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-17"
+    },
+    {
       "title": "Ordeal Call III: Archetype Inception BB (Dubai) Pickup Summon",
       "image": "https://static.mana.wiki/grandorder/20260729 OC3 Archetype Inception BB Dubai Pickup.png?width=480&height=173",
       "servants": [
@@ -1041,66 +1056,65 @@
       ],
       "start_date": "2025-08-08",
       "end_date": "2025-08-22"
-    },
-    {
-      "title": "Swimsuit 2024 Revival Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250730 Summer 2024 Revival Pickup.png?width=480&height=173",
-      "servants": [
-        "Lady Avalon",
-        "Gareth (Saber)",
-        "Ibuki-Douji (Berserker)",
-        "Utsumi Erice (Avenger)",
-        "Scathach-Skadi (Ruler)",
-        "Assassin of the Nightless City (Caster)"
-      ],
-      "start_date": "2025-07-30",
-      "end_date": "2025-08-10"
-    },
-    {
-      "title": "FGO Summer 2025: Servant Summer Festival Tezcatlipoca Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250723 FGO Summer 2025 Tezcatlipoca Pickup Summon.png?width=480&height=173",
-      "servants": [
-        "Tezcatlipoca"
-      ],
-      "start_date": "2025-07-23",
-      "end_date": "2025-08-07"
-    },
-    {
-      "title": "FGO Summer 2025: Servant Summer Festival Melusine (Ruler) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250721 FGO Summer 2025 Melusine Ruler Pickup.png?width=480&height=173",
-      "servants": [
-        "Melusine (Ruler)",
-        "UDK Barghest",
-        "Cait Cu MikoCer"
-      ],
-      "start_date": "2025-07-21",
-      "end_date": "2025-08-07"
-    },
-    {
-      "title": "FGO Summer 2025: Servant Summer Festival Oberon Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250718 FGO Summer 2025 Oberon Pickup Summon.png?width=480&height=173",
-      "servants": [
-        "Oberon",
-        "Gawain",
-        "Lancelot (Saber)",
-        "Tristan"
-      ],
-      "start_date": "2025-07-18",
-      "end_date": "2025-08-07"
-    },
-    {
-      "title": "FGO Summer 2025: Servant Summer Festival Altria Caster (Berserker) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250718 FGO Summer 2025 Altria Caster Berserker Pickup Summon.png?width=480&height=173",
-      "servants": [
-        "Altria Caster (Berserker)",
-        "Suzuka Gozen (Vacay)",
-        "Chloe von Einzbern (Avenger)"
-      ],
-      "start_date": "2025-07-18",
-      "end_date": "2025-08-07"
     }
   ],
   "predicted_na_banners": [
+    {
+      "title": "[JP] Vanishing Beginning Nemo / Noah Pickup Summon",
+      "image": "https://static.mana.wiki/grandorder/20250905 Vanishing Beginning Nemo Noah Pickup Summon.png?width=480&height=173",
+      "servants": [
+        "Nemo / Noah",
+        "Caster of Okeanos"
+      ],
+      "start_date": "2027-08-05",
+      "end_date": "2027-08-24",
+      "original_jp_start": "2025-09-05"
+    },
+    {
+      "title": "[JP] Crowning Match Rider Pickup (Daily)",
+      "image": "https://static.mana.wiki/grandorder/20250903 Crowning Match Rider Pickup.png?width=480&height=173",
+      "servants": [
+        "Francis Drake",
+        "Queen Medb",
+        "Iskandar",
+        "Ozymandias",
+        "Quetzalcoatl",
+        "Altria Pendragon (Rider Alter)",
+        "Ivan the Terrible",
+        "Achilles",
+        "Sima Yi (Reines)",
+        "Leonardo da Vinci (Rider)",
+        "Europa",
+        "Odysseus",
+        "Nemo",
+        "Taigong Wang",
+        "Konstantinos XI",
+        "Kyokutei Bakin",
+        "Takeda Shingen (Takeda Harunobu)",
+        "Andromeda",
+        "Marie Antoinette",
+        "Saint Martha",
+        "Anne Bonny & Mary Read",
+        "Astolfo",
+        "Mordred (Rider)",
+        "Carmilla (Rider)",
+        "Murasaki Shikibu (Rider)",
+        "Caenis (Rider)",
+        "Dobrynya Nikitich",
+        "Huang Feihu",
+        "Suzuka Gozen (Vacay)",
+        "Medusa",
+        "Boudica",
+        "Ushiwakamaru",
+        "Alexander",
+        "Rider of Resistance",
+        "Red Hare",
+        "Mandricardo"
+      ],
+      "start_date": "2027-08-03",
+      "end_date": "2027-08-16",
+      "original_jp_start": "2025-09-03"
+    },
     {
       "title": "[JP] 32M Downloads Campaign Morgan Pickup Summon",
       "image": "https://static.mana.wiki/grandorder/20250829 32M DL Campaign Pickup.png?width=480&height=173",
@@ -2686,22 +2700,6 @@
       "start_date": "2026-08-20",
       "end_date": "2026-08-29",
       "original_jp_start": "2024-09-20"
-    },
-    {
-      "title": "[JP] FGO Summer 2026 Ordeal Call III Archetype Inception Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20240911 Summer 2026 Pickup 2 Koyanskaya Kingprotea.png?width=480&height=173",
-      "servants": [
-        "Koyanskaya of Dark",
-        "Astolfo (Saber)",
-        "Ganesha (Jinako)",
-        "Kingprotea",
-        "Thomas Edison",
-        "Astolfo",
-        "Passionlip"
-      ],
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-24",
-      "original_jp_start": "2024-09-11"
     },
     {
       "title": "[JP] Lostbelt 4 Clear Support Campaign Pickup Summon (Daily)",
