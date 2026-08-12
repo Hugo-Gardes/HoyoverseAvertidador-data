@@ -17,9 +17,7 @@
           "Role": "Endgame",
           "HP": "1337 16712",
           "ATK": "23 287",
-          "DEF": "90 1099",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "90 1099"
         }
       }
     ],
@@ -36,9 +34,7 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "82 1,002"
         }
       },
       {
@@ -53,9 +49,7 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "93 1,136"
         }
       },
       {
@@ -70,13 +64,11 @@
           "Role": "Endgame",
           "HP": "680 8500",
           "ATK": "27 337",
-          "DEF": "72 879",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "72 879"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -97,9 +89,7 @@
           "Role": "Endgame",
           "HP": "882 11025",
           "ATK": "34 425",
-          "DEF": "94 1148",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "94 1148"
         }
       }
     ],
@@ -116,9 +106,7 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "82 1,002"
         }
       },
       {
@@ -133,9 +121,7 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "93 1,136"
         }
       },
       {
@@ -150,13 +136,11 @@
           "Role": "Endgame",
           "HP": "680 8500",
           "ATK": "27 337",
-          "DEF": "72 879",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "72 879"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -228,7 +212,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -300,7 +284,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -321,9 +305,7 @@
           "Role": "Endgame",
           "HP": "839 10,487",
           "ATK": "55 437",
-          "DEF": "97 1,185",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "97 1,185"
         }
       }
     ],
@@ -388,9 +370,7 @@
           "Role": "Endgame",
           "HP": "816 10,200",
           "ATK": "20 250",
-          "DEF": "90 1,099",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "90 1,099"
         }
       },
       {
@@ -405,9 +385,7 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "82 1,002"
         }
       },
       {
@@ -422,13 +400,11 @@
           "Role": "Endgame",
           "HP": "805 10,062",
           "ATK": "22 275",
-          "DEF": "77 941",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "77 941"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -450,9 +426,7 @@
           "HP": "882 11025",
           "ATK": "34 425",
           "DEF": "94 1148",
-          "Effect": "• Deals 136.33% DMG (Lvl. 10) every 4s per tick at S0 for 30s. ┗ At S4, ticks occur every 3s instead of 4s. • Pulls in nearby targets, great for AoE coverage. • Considered Resonance Liberation DMG. In Fusion Burst Mode: • Inflicts 2 stacks of Fusion Burst. In Tune Strain Mode: • Inflicts Tune Strain - Shifting on targets. • Resets Tune Strain - Interfered duration on targets.",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "Effect": "• Deals 136.33% DMG (Lvl. 10) every 4s per tick at S0 for 30s. ┗ At S4, ticks occur every 3s instead of 4s. • Pulls in nearby targets, great for AoE coverage. • Considered Resonance Liberation DMG. In Fusion Burst Mode: • Inflicts 2 stacks of Fusion Burst. In Tune Strain Mode: • Inflicts Tune Strain - Shifting on targets. • Resets Tune Strain - Interfered duration on targets."
         }
       }
     ],
@@ -469,9 +443,7 @@
           "Role": "Endgame",
           "HP": "816 10,200",
           "ATK": "20 250",
-          "DEF": "90 1,099",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "90 1,099"
         }
       },
       {
@@ -486,9 +458,7 @@
           "Role": "Endgame",
           "HP": "1025 12,812",
           "ATK": "17 212",
-          "DEF": "82 1,002",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "82 1,002"
         }
       },
       {
@@ -503,13 +473,11 @@
           "Role": "Endgame",
           "HP": "805 10,062",
           "ATK": "22 275",
-          "DEF": "77 941",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "77 941"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -572,7 +540,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -644,7 +612,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -678,9 +646,7 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "93 1,136"
         }
       },
       {
@@ -695,9 +661,7 @@
           "Role": "Endgame",
           "HP": "788 9,850",
           "ATK": "21 262",
-          "DEF": "88 1,075",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "88 1,075"
         }
       },
       {
@@ -712,13 +676,11 @@
           "Role": "Endgame",
           "HP": "682 8,525",
           "ATK": "18 225",
-          "DEF": "134 1,637",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "134 1,637"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -739,9 +701,7 @@
           "Role": "Endgame",
           "HP": "824 10300",
           "ATK": "37 462",
-          "DEF": "91 1112",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "91 1112"
         }
       }
     ],
@@ -758,9 +718,7 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "93 1,136"
         }
       },
       {
@@ -775,9 +733,7 @@
           "Role": "Endgame",
           "HP": "788 9,850",
           "ATK": "21 262",
-          "DEF": "88 1,075",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "88 1,075"
         }
       },
       {
@@ -792,13 +748,11 @@
           "Role": "Endgame",
           "HP": "682 8,525",
           "ATK": "18 225",
-          "DEF": "134 1,637",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "134 1,637"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -820,8 +774,7 @@
           "HP": "1230 15375",
           "ATK": "23 287",
           "DEF": "111 1356",
-          "Skill": "Requirement",
-          "SKILL": "FORTE INHE"
+          "Skill": "Requirement"
         }
       }
     ],
@@ -838,9 +791,7 @@
           "Role": "Endgame",
           "HP": "802 10,025",
           "ATK": "20 250",
-          "DEF": "93 1,136",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "93 1,136"
         }
       },
       {
@@ -855,9 +806,7 @@
           "Role": "Endgame",
           "HP": "788 9,850",
           "ATK": "21 262",
-          "DEF": "88 1,075",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "88 1,075"
         }
       },
       {
@@ -872,13 +821,11 @@
           "Role": "Endgame",
           "HP": "682 8,525",
           "ATK": "18 225",
-          "DEF": "134 1,637",
-          "Skill": "Priority Explanation",
-          "SKILL": "FORTE INHE"
+          "DEF": "134 1,637"
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -941,7 +888,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -1013,7 +960,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   },
   {
@@ -1085,7 +1032,7 @@
         }
       }
     ],
-    "startTime": 1787097600,
+    "startTime": 1787090400,
     "endTime": 1787097600
   }
 ]

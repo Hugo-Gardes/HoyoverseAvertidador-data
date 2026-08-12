@@ -76,8 +76,8 @@
         }
       }
     ],
-    "startTime": 1783987200,
-    "endTime": 1787616000
+    "startTime": 1783980000,
+    "endTime": 1787608800
   },
   {
     "name": "A Star That Lights the Night Banner",
@@ -132,8 +132,8 @@
         }
       }
     ],
-    "startTime": 1783987200,
-    "endTime": 1787616000
+    "startTime": 1783980000,
+    "endTime": 1787608800
   },
   {
     "name": "Indelible Coterie",
@@ -245,8 +245,8 @@
         }
       }
     ],
-    "startTime": 1785974400,
-    "endTime": 1787616000
+    "startTime": 1785880800,
+    "endTime": 1787608800
   },
   {
     "name": "Coalesced Truths",
@@ -323,8 +323,8 @@
         }
       }
     ],
-    "startTime": 1785974400,
-    "endTime": 1787616000
+    "startTime": 1785880800,
+    "endTime": 1787608800
   },
   {
     "name": "Rin Tohsaka Banner",
@@ -365,7 +365,7 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784851200
+    "startTime": 1784844000
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -397,7 +397,7 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784851200
+    "startTime": 1784844000
   },
   {
     "name": "Saber Banner",
@@ -439,7 +439,7 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752192000
+    "startTime": 1752184800
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -471,6 +471,6 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752192000
+    "startTime": 1752184800
   }
 ]

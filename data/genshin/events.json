@@ -62,7 +62,7 @@
       },
       {
         "itemName": "Talent Book Materials",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316477/3894c955f0c21b84434559e1964c4e8f.png/show"
       }
     ]
@@ -76,22 +76,22 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
         "itemName": "Hero's Wit",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
         "itemName": "Sanctifying Unction",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
       }
     ]
@@ -105,37 +105,37 @@
     "rewards": [
       {
         "itemName": "Crown of Insight",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3297733/73197e58d99d02cd709277cef3c31f7d.png/show"
       },
       {
         "itemName": "Primogem",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
         "itemName": "Hero's Wit",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
         "itemName": "Sanctifying Unction",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
       },
       {
         "itemName": "Talent Book Materials",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316477/3894c955f0c21b84434559e1964c4e8f.png/show"
       },
       {
         "itemName": "Weapon Ascension Materials",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
       }
     ]
@@ -149,22 +149,22 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
         "itemName": "Mystic Enhancement Ore",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
         "itemName": "Sanctifying Unction",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
       }
     ]
@@ -178,7 +178,7 @@
     "rewards": [
       {
         "itemName": "Talent Book Materials",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": ""
       }
     ]

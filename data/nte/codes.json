@@ -1,5 +1,25 @@
 [
   {
+    "code": "ZANKOU0819",
+    "rewards": [
+      {
+        "name": "Annulith",
+        "quantity": 30,
+        "icon": ""
+      },
+      {
+        "name": "Fons",
+        "quantity": 50000,
+        "icon": ""
+      },
+      {
+        "name": "Beetle Coins",
+        "quantity": 30000,
+        "icon": ""
+      }
+    ]
+  },
+  {
     "code": "COMEBACK",
     "rewards": [
       {
@@ -44,7 +64,7 @@
     "rewards": [
       {
         "name": "Exclusive In-Game Avatar Frame (Celebration Fireworks)",
-        "quantity": 0,
+        "quantity": null,
         "icon": ""
       }
     ]
@@ -54,7 +74,7 @@
     "rewards": [
       {
         "name": "Exclusive Rewards",
-        "quantity": 0,
+        "quantity": null,
         "icon": ""
       }
     ]

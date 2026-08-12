@@ -6,14 +6,14 @@
       "nameFr": "Défense de Shiyu : Nœud critique",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6a/Shiyu_Defense_Critical_Node.png/revision/latest/scale-to-width-down/256?cb=20240901202649",
       "version": "3.0",
-      "phaseName": "2026-07-24",
+      "phaseName": "2026-08-07",
       "selectableBuffs": [],
       "sharedMechanics": [
         "In this stage, dealing DMG to enemies earns you DMG Score. Defeating a single normal/elite enemy will grant you an instance of Elimination Score.",
         "In this stage, scores earned at different times will receive additional multiplier bonuses. The earlier in the challenge, the higher the multiplier. The total score cap (including bonus) is 50,000."
       ],
-      "startTime": 1784836800,
-      "endTime": 1786046399,
+      "startTime": 1786046400,
+      "endTime": 1787255999,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/457183",
       "rewards": [
         {
@@ -44,16 +44,74 @@
       ],
       "bosses": [
         {
-          "name": "Miasmic - Doppelganger - The Defector",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c0/Enemy_Miasmic_-_Doppelganger_-_The_Defector.png/revision/latest/scale-to-width-down/185?cb=20250906185239",
+          "name": "Metamorphosed - Avarus",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/44/Enemy_Metamorphosed_-_Avarus.png/revision/latest/scale-to-width-down/185?cb=20260618093737",
           "stage": "Room 1",
           "level": "70",
           "weaknesses": [
-            "Fire",
+            "Wind",
             "Physical"
           ],
           "resistances": [
-            "Ether"
+            "Fire"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "If there are 2/3 Agents with the Anomaly specialty in the squad, Attribute Anomaly DMG dealt by Agents increases by 10%/60%, and the whole squad initially gains 500/1,500 Decibels upon entering combat."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Special Anti-Riotboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Enemy_Special_Anti-Riotboo.png/revision/latest/scale-to-width-down/185?cb=20260618093758",
+                  "count": 3
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "City Guardboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/48/Enemy_City_Guardboo.png/revision/latest/scale-to-width-down/185?cb=20260618093741",
+                  "count": 1
+                },
+                {
+                  "name": "Airspace Patrolboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/68/Enemy_Airspace_Patrolboo.png/revision/latest/scale-to-width-down/185?cb=20260618093750",
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 3,
+              "enemies": [
+                {
+                  "name": "Metamorphosed - Avarus",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/44/Enemy_Metamorphosed_-_Avarus.png/revision/latest/scale-to-width-down/185?cb=20260618093737",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doppelganger - Starlight - Billy",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
+          "stage": "Room 2",
+          "level": "70",
+          "weaknesses": [
+            "Fire",
+            "Electric"
+          ],
+          "resistances": [
+            "Physical"
           ],
           "isBonus": false,
           "mechanics": [
@@ -67,98 +125,8 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Mushussu",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Enemy_Mushussu.png/revision/latest/scale-to-width-down/185?cb=20260618093748",
-                  "count": 2
-                }
-              ]
-            },
-            {
-              "team": 1,
-              "index": 2,
-              "enemies": [
-                {
-                  "name": "Miasmic - Doppelganger - The Defector",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c0/Enemy_Miasmic_-_Doppelganger_-_The_Defector.png/revision/latest/scale-to-width-down/185?cb=20250906185239",
-                  "count": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Miasmic - Rampant Brute",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Enemy_Miasmic_-_Rampant_Brute.png/revision/latest/scale-to-width-down/185?cb=20260304130714",
-          "stage": "Room 2",
-          "level": "70",
-          "weaknesses": [
-            "Ether",
-            "Wind"
-          ],
-          "resistances": [
-            "Electric"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "Agent's Anomaly Proficiency increases by 20 points, and Attribute Anomaly DMG increases by 15%.",
-            "When there are 1/2 Agents with the Anomaly specialty in the squad, Attribute Anomaly DMG dealt to enemies ignores 5%/15% of their All-Attribute RES."
-          ],
-          "objectives": [],
-          "waves": [
-            {
-              "team": 1,
-              "index": 1,
-              "enemies": [
-                {
-                  "name": "Miasmic - Frenzied Maniac",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/72/Enemy_Miasmic_-_Frenzied_Maniac.png/revision/latest/scale-to-width-down/185?cb=20251024171351",
-                  "count": 1
-                },
-                {
-                  "name": "Miasmic - Trinox",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9b/Enemy_Miasmic_-_Trinox.png/revision/latest/scale-to-width-down/185?cb=20251024171258",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "team": 1,
-              "index": 2,
-              "enemies": [
-                {
-                  "name": "Miasmic - Rampant Brute",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Enemy_Miasmic_-_Rampant_Brute.png/revision/latest/scale-to-width-down/185?cb=20260304130714",
-                  "count": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Miasmic Doppelganger Komano Manato",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Miasmic_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251018175614",
-          "stage": "Room 3",
-          "level": "70",
-          "weaknesses": [
-            "Ice"
-          ],
-          "resistances": [
-            "Physical"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "Agent Ice DMG and Ether DMG increase by 30%.",
-            "Agent Basic Attack and Chain Attack DMG increase by 20%, and CRIT DMG increases by 35%."
-          ],
-          "objectives": [],
-          "waves": [
-            {
-              "team": 1,
-              "index": 1,
-              "enemies": [
-                {
-                  "name": "Miasma Spawn",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Enemy_Miasma_Spawn.png/revision/latest/scale-to-width-down/185?cb=20250716183123",
+                  "name": "Miasmic Trooper - Shieldguard",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
                   "count": 3
                 }
               ]
@@ -168,13 +136,13 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "Miasma Ravager - Huskron",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/30/Enemy_Miasma_Ravager_-_Huskron.png/revision/latest/scale-to-width-down/185?cb=20251231031742",
+                  "name": "Ionized - Doppelganger - Pulchra",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/63/Enemy_Ionized_-_Doppelganger_-_Pulchra.png/revision/latest/scale-to-width-down/185?cb=20240926215531",
                   "count": 1
                 },
                 {
-                  "name": "Huskron",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_Huskron.png/revision/latest/scale-to-width-down/185?cb=20250606172942",
+                  "name": "Miasmic Trooper - Cannoneer",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
                   "count": 2
                 }
               ]
@@ -184,8 +152,61 @@
               "index": 3,
               "enemies": [
                 {
-                  "name": "Miasmic Doppelganger Komano Manato",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Miasmic_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251018175614",
+                  "name": "Doppelganger - Starlight - Billy",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sacrifice - Heretic Jester",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4e/Enemy_Sacrifice_-_Heretic_Jester.png/revision/latest/scale-to-width-down/185?cb=20250716182900",
+          "stage": "Room 3",
+          "level": "70",
+          "weaknesses": [
+            "Electric",
+            "Physical"
+          ],
+          "resistances": [
+            "Ether"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent Ice DMG and Electric DMG increase by 30%.",
+            "After an Agent with Attack specialty uses an EX Special Attack, their CRIT DMG increases by 30% for 20s. Repeated triggers reset the duration."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Autonomous Support Unit - Lightfoot Rover MK II",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3d/Enemy_Autonomous_Support_Unit_-_Lightfoot_Rover_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726232333",
+                  "count": 1
+                },
+                {
+                  "name": "Miasmic Trooper - Shieldguard",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
+                  "count": 3
+                },
+                {
+                  "name": "Miasmic Trooper - Cannoneer",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Sacrifice - Heretic Jester",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4e/Enemy_Sacrifice_-_Heretic_Jester.png/revision/latest/scale-to-width-down/185?cb=20250716182900",
                   "count": 1
                 }
               ]
@@ -220,7 +241,7 @@
       ],
       "sharedMechanics": [],
       "startTime": 1785290400,
-      "endTime": 1786564799,
+      "endTime": 1786651199,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -327,7 +348,7 @@
         },
         {
           "name": "Integrated - Girtablullu",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/37/Enemy_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260618093736",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/Enemy_Integrated_-_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260803005102",
           "stage": "Adversity Mode",
           "level": "70",
           "weaknesses": [],

@@ -121,8 +121,51 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611904",
     "dateText": "08/07/2026 - 08/24/2026",
     "imageUrl": "https://img.game8.co/4564419/c4ef5907ae0f933a0c401dce096b7a3b.png/show",
-    "status": "upcoming",
-    "rewards": []
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 360,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 180000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 72,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Tuning Calibrator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893319/4eb8e6bd40e37ae5194b3d53bc00eccb.png/show",
+        "details": null
+      },
+      {
+        "itemName": "W-Engine Energy Module",
+        "totalQuantity": 12,
+        "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 12,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
+        "details": null
+      }
+    ]
   },
   {
     "name": "Dangerous Fugitive's Leisurely Vacation",
@@ -230,61 +273,61 @@
       },
       {
         "itemName": "Nekomata",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3924000/f9b62d0301948b834fd55cd6b92b161d.png/show",
         "details": null
       },
       {
         "itemName": "Lycaon",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3924007/3e47c0f4df8528482d214be586a0836e.png/show",
         "details": null
       },
       {
         "itemName": "Soldier 11",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3924011/c14ae22115e44c275520b9141455a80c.png/show",
         "details": null
       },
       {
         "itemName": "Koleda",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3923997/439f6f5b82caba6f99a91aab3270d63d.png/show",
         "details": null
       },
       {
         "itemName": "Grace",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3924003/112a303ede260f70d16464cc3b1eb5ca.png/show",
         "details": null
       },
       {
         "itemName": "Rina",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3924002/ead27c7a32143e09826330a7f5290eb2.png/show",
         "details": null
       },
       {
         "itemName": "Astra",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4080089/37fe7367246eef11936e4f6207060c68.png/show",
         "details": null
       },
       {
         "itemName": "Vivian",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4170527/406b52b3d223decf10ab49a56dc55f60.png/show",
         "details": null
       },
       {
         "itemName": "Seed",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4229330/f025d5dfe57774912a64008ba2a3b17a.png/show",
         "details": null
       },
       {
         "itemName": "Fusion Compiler (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872266/2cea1c2376ed15b0594e8141bfe4782d.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -301,7 +344,7 @@
       },
       {
         "itemName": "Weeping Cradle (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872267/f724110b00994e43b017eb0317000a52.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -318,7 +361,7 @@
       },
       {
         "itemName": "The Brimstone (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872263/fd581a1f7429e70f55173af9b2fca112.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -335,7 +378,7 @@
       },
       {
         "itemName": "Steel Cushion (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872268/3849355dad9c5c492975fde07db145e1.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -352,7 +395,7 @@
       },
       {
         "itemName": "The Restrained (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872264/effbfabb5cf1768261c7c8367245bd43.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -369,7 +412,7 @@
       },
       {
         "itemName": "Hellfire Gears (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3872265/847cd499439049c5b2e1d054a43d3894.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -386,7 +429,7 @@
       },
       {
         "itemName": "Elegant Vanity (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4080074/f4189632b7f4ec7678708b10a40f8df2.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -403,7 +446,7 @@
       },
       {
         "itemName": "Flight of Fancy (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4150961/7956114e4a7c1c9b7f57225ab2ccc4f4.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -420,7 +463,7 @@
       },
       {
         "itemName": "Cordis Germina (W-Engine)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4254702/017b824b865535c54e4639aab9326e0b.png/show",
         "details": {
           "type": "W_ENGINE",
@@ -437,13 +480,13 @@
       },
       {
         "itemName": "Remielle",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4537420/0a9bc14737991d07575f3af233d16eef.png/show",
         "details": null
       },
       {
         "itemName": "Seashade Pas Seul",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4564101/f116a3dd54bd177afb96dc7b1b94633a.png/show",
         "details": null
       }
@@ -479,9 +522,9 @@
   {
     "name": "First-Generation Void Hunter Returns",
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611588",
-    "dateText": "07/17/2026 - 07/28/2026",
+    "dateText": "Sometime in Version 3.1",
     "imageUrl": "https://img.game8.co/4562796/39a648264386bf5e479ce5969e30a0f8.png/show",
-    "status": "past",
+    "status": "upcoming",
     "rewards": [
       {
         "itemName": "Namecard",
@@ -491,31 +534,31 @@
       },
       {
         "itemName": "Polychrome",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
         "details": null
       },
       {
         "itemName": "Prototype Seal",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3923927/f5be338a9ad740491836967e6ebad24e.png/show",
         "details": null
       },
       {
         "itemName": "Senior Investigator Log",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
         "details": null
       },
       {
         "itemName": "Denny",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
         "details": null
       },
       {
         "itemName": "3.1 Commemorative Namecard",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4565259/b2ed30eecc3e893d743763e1c68662b1.png/show",
         "details": null
       }
@@ -545,7 +588,7 @@
     "rewards": [
       {
         "itemName": "Combat Simulation materials (triple drops)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": ""
       }
     ]
@@ -555,11 +598,11 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/523546",
     "dateText": "08/12/2026 - 08/17/2026",
     "imageUrl": "https://img.game8.co/4565605/32d4a70e27e0ba61b03c29b84af75ab6.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Routine Cleanup materials (triple drops)",
-        "totalQuantity": 0,
+        "totalQuantity": null,
         "icon": ""
       }
     ]
