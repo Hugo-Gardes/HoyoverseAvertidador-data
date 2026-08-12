@@ -149,6 +149,1013 @@
     ]
   },
   {
+    "id": "forsaken-rift",
+    "name": "Gorge de l'oubli",
+    "source": "Gorge de l'oubli",
+    "url": "https://game8.co/games/Genshin-Impact/archives/297471",
+    "type": "talent",
+    "materials": [
+      {
+        "id": "freedom",
+        "name": "Teachings of Freedom",
+        "image": "https://img.game8.co/3316483/b72a61527d703c92c371fb11e1e046f6.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Traveler (Anemo)",
+            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
+          },
+          {
+            "name": "Sucrose",
+            "avatar": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show"
+          },
+          {
+            "name": "Varka",
+            "avatar": "https://img.game8.co/4424073/c50919a33cad46763d98204d37a0c310.png/show"
+          },
+          {
+            "name": "Diona",
+            "avatar": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show"
+          },
+          {
+            "name": "Aloy",
+            "avatar": "https://img.game8.co/3409689/af371b6f3782f11a72239d0b08b5a57a.png/show"
+          },
+          {
+            "name": "Traveler (Geo)",
+            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
+          },
+          {
+            "name": "Barbara",
+            "avatar": "https://img.game8.co/3294974/5e203f4ca8c30907bae5ad23432d6047.png/show"
+          },
+          {
+            "name": "Tartaglia",
+            "avatar": "https://img.game8.co/3295009/47a42db3c2736ef309028ccbd3cfb5cf.png/show"
+          },
+          {
+            "name": "Amber",
+            "avatar": "https://img.game8.co/3294971/3c86f28546a768018df49960a15652bf.png/show"
+          },
+          {
+            "name": "Klee",
+            "avatar": "https://img.game8.co/3294978/e0194d396700c3add4ec1b95ddce41f0.png/show"
+          }
+        ]
+      },
+      {
+        "id": "resistance",
+        "name": "Teachings of Resistance",
+        "image": "https://img.game8.co/3316481/bc331c6acd14b7c051fdf7ca64d0f28f.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Traveler (Anemo)",
+            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
+          },
+          {
+            "name": "Jean",
+            "avatar": "https://img.game8.co/3294970/8416650b93b606f33e2411387dabf550.png/show"
+          },
+          {
+            "name": "Eula",
+            "avatar": "https://img.game8.co/3357399/0681a143deeb28601cffa5fee727dd3d.png/show"
+          },
+          {
+            "name": "Razor",
+            "avatar": "https://img.game8.co/3294976/698d06f42b22301950f6eeda34cc9a37.png/show"
+          },
+          {
+            "name": "Traveler (Geo)",
+            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
+          },
+          {
+            "name": "Noelle",
+            "avatar": "https://img.game8.co/3295000/c61fa6632aeb5564203541e9c59f15f1.png/show"
+          },
+          {
+            "name": "Mona",
+            "avatar": "https://img.game8.co/3294986/edda48bf6a0908f1f00fe3211da8fd09.png/show"
+          },
+          {
+            "name": "Diluc",
+            "avatar": "https://img.game8.co/3294975/7a7f2b46d26c4458250f8fcaca0ca94c.png/show"
+          },
+          {
+            "name": "Bennett",
+            "avatar": "https://img.game8.co/3294999/853d5357be63f501a600fc776eb27256.png/show"
+          }
+        ]
+      },
+      {
+        "id": "ballad",
+        "name": "Teachings of Ballad",
+        "image": "https://img.game8.co/3316474/a2efbe275ea44783ea78c6a1151c18d3.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Traveler (Anemo)",
+            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
+          },
+          {
+            "name": "Venti",
+            "avatar": "https://img.game8.co/3294977/da7d112f0f9c44f8d123cc533a3317a8.png/show"
+          },
+          {
+            "name": "Kaeya",
+            "avatar": "https://img.game8.co/3294973/b2a3d5ca1d6d4cb47acedfa8a64375ca.png/show"
+          },
+          {
+            "name": "Rosaria",
+            "avatar": "https://img.game8.co/3341649/5d22208b443b074dfb35fdf393c8d62f.png/show"
+          },
+          {
+            "name": "Mika",
+            "avatar": "https://img.game8.co/3662046/34c5273e49bbcc42fcd0c2e29522bd3b.png/show"
+          },
+          {
+            "name": "Lisa",
+            "avatar": "https://img.game8.co/3294972/ee211ef041897cd2f129ef320e21a9f0.png/show"
+          },
+          {
+            "name": "Fischl",
+            "avatar": "https://img.game8.co/3294982/edb5c8b98147514a9ce8d20888d689b6.png/show"
+          },
+          {
+            "name": "Traveler (Geo)",
+            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
+          },
+          {
+            "name": "Albedo",
+            "avatar": "https://img.game8.co/3310758/429ff8386dab8be2f4b1de43ac783f19.png/show"
+          },
+          {
+            "name": "Durin",
+            "avatar": "https://img.game8.co/4353831/cbe1bccea7b676dd9a92177d16b83338.png/show"
+          },
+          {
+            "name": "Dahlia",
+            "avatar": "https://img.game8.co/4197403/33023da1ddf8131b4fb2a5ea73a28a9d.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "violet-court",
+    "name": "Cour violette",
+    "source": "Cour violette",
+    "url": "https://game8.co/games/Genshin-Impact/archives/337720",
+    "type": "talent",
+    "materials": [
+      {
+        "id": "light",
+        "name": "Teachings of Light",
+        "image": "https://img.game8.co/3390467/0e315d1abff0b6c253f6cb5100278fd5.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Sayu",
+            "avatar": "https://img.game8.co/3401060/f6cef4da3d573ae064d253cf8bee1448.png/show"
+          },
+          {
+            "name": "Yae Miko",
+            "avatar": "https://img.game8.co/3485121/17912d280f92eb096f2fc019d6292b98.png/show"
+          },
+          {
+            "name": "Raiden",
+            "avatar": "https://img.game8.co/3409293/af58e7854a4e7f7d1d857c5a79db2ce6.png/show"
+          },
+          {
+            "name": "Traveler (Electro)",
+            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
+          },
+          {
+            "name": "Gorou",
+            "avatar": "https://img.game8.co/3459061/48a416f73b250dd32dc11092f63ce13d.png/show"
+          },
+          {
+            "name": "Chiori",
+            "avatar": "https://img.game8.co/3852037/2fe63464f55b4b507b01e38a814aca2c.png/show"
+          }
+        ]
+      },
+      {
+        "id": "transience",
+        "name": "Teachings of Transience",
+        "image": "https://img.game8.co/3390463/a273c7fd3a58dd960c9bec4ab2fc2475.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Heizou",
+            "avatar": "https://img.game8.co/3546223/98ea7f23e9af8bef07385f930ecd073c.png/show"
+          },
+          {
+            "name": "Mizuki",
+            "avatar": "https://img.game8.co/4105295/29f021a00aea06bd41b2e2266c6fe00a.png/show"
+          },
+          {
+            "name": "Traveler (Electro)",
+            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
+          },
+          {
+            "name": "Kokomi",
+            "avatar": "https://img.game8.co/3418180/265e263d98a3461d6091e3cf69ca5fc9.png/show"
+          },
+          {
+            "name": "Yoimiya",
+            "avatar": "https://img.game8.co/3400792/b31e528518dfa732ab0f3e184ac364d3.png/show"
+          },
+          {
+            "name": "Thoma",
+            "avatar": "https://img.game8.co/3441106/99ed64ada8d15708869cd60643a8044f.png/show"
+          },
+          {
+            "name": "Kirara",
+            "avatar": "https://img.game8.co/3705922/0cc2a847fd314435beb8f91552eda62e.png/show"
+          }
+        ]
+      },
+      {
+        "id": "elegance",
+        "name": "Teachings of Elegance",
+        "image": "https://img.game8.co/3390469/43bd6a855640dce794f135515dc0500f.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Ayaka",
+            "avatar": "https://img.game8.co/3313080/2cae7dd671c21d14eff9fdd945e07da2.png/show"
+          },
+          {
+            "name": "Sara",
+            "avatar": "https://img.game8.co/3410417/af76885ff6366f245127fb47105dda8d.png/show"
+          },
+          {
+            "name": "Traveler (Electro)",
+            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
+          },
+          {
+            "name": "Shinobu",
+            "avatar": "https://img.game8.co/3539169/6dc2b1ce3d5bb8fe449d38c4416b2de4.png/show"
+          },
+          {
+            "name": "Itto",
+            "avatar": "https://img.game8.co/3457893/4e1145280836f6e662e64ebb9a68e646.png/show"
+          },
+          {
+            "name": "Ayato",
+            "avatar": "https://img.game8.co/3507977/f539f685858f47fae42a57cf6bfbe634.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pale-forgotten-glory",
+    "name": "Gloire oubliée",
+    "source": "Gloire oubliée",
+    "url": "https://game8.co/games/Genshin-Impact/archives/421805",
+    "type": "talent",
+    "materials": [
+      {
+        "id": "equity",
+        "name": "Teachings of Equity",
+        "image": "https://img.game8.co/3750661/40fcd43e55e7ce5582acb9d3fb520de1.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Navia",
+            "avatar": "https://img.game8.co/3807141/f03829475fd9cf9bfe183b550b572ed5.png/show"
+          },
+          {
+            "name": "Traveler (Hydro)",
+            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
+          },
+          {
+            "name": "Sigewinne",
+            "avatar": "https://img.game8.co/3911319/73129fd543444e3c4c41a64734ec0e3e.png/show"
+          },
+          {
+            "name": "Neuvillette",
+            "avatar": "https://img.game8.co/3767456/67375a9dd425cccecf66145b20bad7be.png/show"
+          },
+          {
+            "name": "Lyney",
+            "avatar": "https://img.game8.co/3751446/9502093747d4107a0350124db0fabed9.png/show"
+          }
+        ]
+      },
+      {
+        "id": "order",
+        "name": "Teachings of Order",
+        "image": "https://img.game8.co/3750674/95e519a209cea3dbb5c1e2604f08ac80.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Lynette",
+            "avatar": "https://img.game8.co/3751436/340282c533aed31bda827b4a5d9fab5b.png/show"
+          },
+          {
+            "name": "Wriothesley",
+            "avatar": "https://img.game8.co/3779251/c65fdf738be54035d45a1b3f04d0e7bd.png/show"
+          },
+          {
+            "name": "Emilie",
+            "avatar": "https://img.game8.co/3942957/1264d1d624b096cf2009568288231da8.png/show"
+          },
+          {
+            "name": "Traveler (Hydro)",
+            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
+          },
+          {
+            "name": "Arlecchino",
+            "avatar": "https://img.game8.co/3870888/44d254ada42ac07c7ee236bea3acfec5.png/show"
+          },
+          {
+            "name": "Chevreuse",
+            "avatar": "https://img.game8.co/3807127/7f6a7b74dc05eec7c0684c95ddc9d363.png/show"
+          }
+        ]
+      },
+      {
+        "id": "justice",
+        "name": "Teachings of Justice",
+        "image": "https://img.game8.co/3750664/e15ffb16ab384e6825969702849c2e27.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Charlotte",
+            "avatar": "https://img.game8.co/3790397/c99158be1533c758ba989cd4812f43df.png/show"
+          },
+          {
+            "name": "Freminet",
+            "avatar": "https://img.game8.co/3755935/c1d3d66360d8d740357f39f89c509739.png/show"
+          },
+          {
+            "name": "Clorinde",
+            "avatar": "https://img.game8.co/3898505/981575e5aa20c7bcb8dd8feed9b8ded0.png/show"
+          },
+          {
+            "name": "Traveler (Hydro)",
+            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
+          },
+          {
+            "name": "Escoffier",
+            "avatar": "https://img.game8.co/4164128/68e538731ffd8c4851af79299f52eb3d.png/show"
+          },
+          {
+            "name": "Furina",
+            "avatar": "https://img.game8.co/3790954/846f7e8888c6580354c236409f8a7f2f.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steeple-of-ignorance",
+    "name": "Clocher de l'ignorance",
+    "source": "Clocher de l'ignorance",
+    "url": "https://game8.co/games/Genshin-Impact/archives/386296",
+    "type": "talent",
+    "materials": [
+      {
+        "id": "admonition",
+        "name": "Teachings of Admonition",
+        "image": "https://img.game8.co/3566892/532de5ec64fa1d2e83837d0b88437658.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Traveler (Dendro)",
+            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
+          },
+          {
+            "name": "Tighnari",
+            "avatar": "https://img.game8.co/3569489/d290902f70d4c5e479c56286ee9a7b24.png/show"
+          },
+          {
+            "name": "Cyno",
+            "avatar": "https://img.game8.co/3585290/20da32e3dcd31625b6e1b20a82a75204.png/show"
+          },
+          {
+            "name": "Faruzan",
+            "avatar": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show"
+          },
+          {
+            "name": "Candace",
+            "avatar": "https://img.game8.co/3587463/6912b3b078d6c049633204254e222933.png/show"
+          }
+        ]
+      },
+      {
+        "id": "ingenuity",
+        "name": "Teachings of Ingenuity",
+        "image": "https://img.game8.co/3566897/4b89600c087a0513529a2f8cb281600c.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Traveler (Dendro)",
+            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
+          },
+          {
+            "name": "Alhaitham",
+            "avatar": "https://img.game8.co/3630817/6fbf0ae4e0d39cb50b32097029c48809.png/show"
+          },
+          {
+            "name": "Nahida",
+            "avatar": "https://img.game8.co/3604130/3e6db61ed6d732571e783aefb6280738.png/show"
+          },
+          {
+            "name": "Kaveh",
+            "avatar": "https://img.game8.co/3681698/fad0a8213836388b08d0ec319c749d04.png/show"
+          },
+          {
+            "name": "Dori",
+            "avatar": "https://img.game8.co/3573303/0037ca766d56b08f7d1fa40cf1a9c443.png/show"
+          },
+          {
+            "name": "Layla",
+            "avatar": "https://img.game8.co/3608042/7f1131af47c7a0e776e9c3bcd08eecf7.png/show"
+          }
+        ]
+      },
+      {
+        "id": "praxis",
+        "name": "Teachings of Praxis",
+        "image": "https://img.game8.co/3914163/69ec34dd1eda49e63b323d687baebeaa.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Wanderer",
+            "avatar": "https://img.game8.co/3619988/99ba4ee9abf0e4a88d54da22b63455ee.png/show"
+          },
+          {
+            "name": "Traveler (Dendro)",
+            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
+          },
+          {
+            "name": "Collei",
+            "avatar": "https://img.game8.co/3569484/b5dd2a24170529d1969d4f437e8bd568.png/show"
+          },
+          {
+            "name": "Nilou",
+            "avatar": "https://img.game8.co/3593591/8a7ec44c7177f2dcf18aaf4ee6f7075d.png/show"
+          },
+          {
+            "name": "Dehya",
+            "avatar": "https://img.game8.co/3651457/3011ca0b44c5639817f86299f3f351a0.png/show"
+          },
+          {
+            "name": "Sethos",
+            "avatar": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blazing-ruins",
+    "name": "Ruines embrasées",
+    "source": "Ruines embrasées",
+    "url": "https://game8.co/games/Genshin-Impact/archives/470213",
+    "type": "talent",
+    "materials": [
+      {
+        "id": "conflict",
+        "name": "Teachings of Conflict",
+        "image": "https://img.game8.co/3970614/59394f818c2647edb4a38e48e6572e08.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Chasca",
+            "avatar": "https://img.game8.co/4040818/a2c2a790a2750143ec1b3755fefcf859.png/show"
+          },
+          {
+            "name": "Ifa",
+            "avatar": "https://img.game8.co/4164141/fc70c80e98ea2d08d73cb3451ebe0804.png/show"
+          },
+          {
+            "name": "Varesa",
+            "avatar": "https://img.game8.co/4134897/c7e57067732cb12a208d41bc5c7f1bf3.png/show"
+          },
+          {
+            "name": "Ineffa",
+            "avatar": "https://img.game8.co/4228802/2f734aa359fdbe204f0a956286123626.png/show"
+          },
+          {
+            "name": "Kachina",
+            "avatar": "https://img.game8.co/3971307/7fffb03ad36f390012ef9cc0c63eedf9.png/show"
+          }
+        ]
+      },
+      {
+        "id": "kindling",
+        "name": "Teachings of Kindling",
+        "image": "https://img.game8.co/3970616/2ce58cb884a251442c698a29f27f33ae.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Citlali",
+            "avatar": "https://img.game8.co/4073945/8da07f9a9eccf4127045ea0a388e635b.png/show"
+          },
+          {
+            "name": "Kinich",
+            "avatar": "https://img.game8.co/3988290/b40e5d6d77ac06fb29c717f28fe42f7f.png/show"
+          },
+          {
+            "name": "Ororon",
+            "avatar": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show"
+          },
+          {
+            "name": "Xilonen",
+            "avatar": "https://img.game8.co/4006625/68773fb0277285f242c5b7fa4d2c28e8.png/show"
+          }
+        ]
+      },
+      {
+        "id": "contention",
+        "name": "Teachings of Contention",
+        "image": "https://img.game8.co/3970615/64770704297a6e0928592693e5e37d1e.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Skirk",
+            "avatar": "https://img.game8.co/4194956/7a1921a73270a143aa6ee416e3dd40fe.png/show"
+          },
+          {
+            "name": "Iansan",
+            "avatar": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show"
+          },
+          {
+            "name": "Mualani",
+            "avatar": "https://img.game8.co/3971306/9a08a3efd8ed993c4397e0cce89545ed.png/show"
+          },
+          {
+            "name": "Mavuika",
+            "avatar": "https://img.game8.co/4073955/c4891728ca78e76e1590692b80a3f9cc.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hidden-palace-of-lianshan-formula",
+    "name": "Palais de Lianshan",
+    "source": "Palais de Lianshan",
+    "url": "https://game8.co/games/Genshin-Impact/archives/297463",
+    "type": "weapon",
+    "materials": [
+      {
+        "id": "guyun",
+        "name": "Luminous Sands from Guyun",
+        "image": "https://img.game8.co/3316410/994f12158071c4a34534da79055822e9.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Aqua Simulacra",
+            "avatar": "https://img.game8.co/3528570/002bacc1da7d27ed47513dcddf5664a3.png/show"
+          },
+          {
+            "name": "Jadefall",
+            "avatar": "https://img.game8.co/3685384/2f035d2cfcb6b8afb407cb15dee9e3fa.png/show"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "avatar": "https://img.game8.co/3314371/b69ff07b01658994f8567f638e6173a1.png/show"
+          },
+          {
+            "name": "Summit Shaper",
+            "avatar": "https://img.game8.co/3311113/3b0e2ee76a9d421e3f7e4a640f7a9b99.png/show"
+          },
+          {
+            "name": "Rust",
+            "avatar": "https://img.game8.co/3314490/72c5ae525ba26d02d2b6c40b5569ad73.png/show"
+          },
+          {
+            "name": "Blackcliff Warbow",
+            "avatar": "https://img.game8.co/3314391/1d758510b397d6173177b275bf8d557e.png/show"
+          },
+          {
+            "name": "Sacrificial Jade",
+            "avatar": "https://img.game8.co/3746148/acf090d0caeb186246bd90dbfbed4f28.png/show"
+          },
+          {
+            "name": "Solar Pearl",
+            "avatar": "https://img.game8.co/3314398/d65ce89004cee8a7736c5eca7a2abfdd.png/show"
+          },
+          {
+            "name": "Blackcliff Agate",
+            "avatar": "https://img.game8.co/3314394/e7a78868c9b123ce80a813da5d05b520.png/show"
+          },
+          {
+            "name": "Whiteblind",
+            "avatar": "https://img.game8.co/3314439/146f2f95aefb8a5dde9435deb6c3da85.png/show"
+          },
+          {
+            "name": "Lithic Blade",
+            "avatar": "https://img.game8.co/3522671/a8101fa56facd26ff5291d0fb97d01ee.png/show"
+          },
+          {
+            "name": "Crescent Pike",
+            "avatar": "https://img.game8.co/3314435/bf8d35e6b621c0fc2a0a16560fb7d5dc.png/show"
+          },
+          {
+            "name": "Blackcliff Longsword",
+            "avatar": "https://img.game8.co/3314395/ed36b836606ea3bbdc2c00773157d76b.png/show"
+          },
+          {
+            "name": "Lion",
+            "avatar": "https://img.game8.co/3314480/604d2c85951b54ee14c8426aab08c908.png/show"
+          },
+          {
+            "name": "Slingshot",
+            "avatar": "https://img.game8.co/3314951/6d21f379931c8b2c3deb4dc56fb23239.png/show"
+          },
+          {
+            "name": "Emerald Orb",
+            "avatar": "https://img.game8.co/3314952/f6c5ade03ce15b449f3fdba2f45bb722.png/show"
+          },
+          {
+            "name": "White Tassel",
+            "avatar": "https://img.game8.co/3314340/fcb44b06187bfbca8c6dabcba06593d2.png/show"
+          },
+          {
+            "name": "Dark Iron Sword",
+            "avatar": "https://img.game8.co/3314950/ab54ff0cffb07b225b39bb1ea27472ff.png/show"
+          }
+        ]
+      },
+      {
+        "id": "elixir",
+        "name": "Mist Veiled Lead Elixir",
+        "image": "https://img.game8.co/3316427/af01b12c2907182c428aa82445093f32.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Crane",
+            "avatar": "https://img.game8.co/3833292/9ff5cf76c0c2694c96510fc10b28eae5.png/show"
+          },
+          {
+            "name": "The Unforged",
+            "avatar": "https://img.game8.co/3301791/2983bb1c36edb32b5e936f15973c82ab.png/show"
+          },
+          {
+            "name": "Calamity Queller",
+            "avatar": "https://img.game8.co/3466467/ce3773137658045cf6fb9be54efeddfc.png/show"
+          },
+          {
+            "name": "Primordial Jade Cutter",
+            "avatar": "https://img.game8.co/3324722/757eafc03c9cb40182204cd8af8e4163.png/show"
+          },
+          {
+            "name": "Prototype Crescent",
+            "avatar": "https://img.game8.co/3314441/3c2dc168e62eff67c7117b16e87599f7.png/show"
+          },
+          {
+            "name": "Eye of Perception",
+            "avatar": "https://img.game8.co/3314493/5346c2b9acc3860b631262eae454a9b9.png/show"
+          },
+          {
+            "name": "Prototype Amber",
+            "avatar": "https://img.game8.co/3314432/ecfc51360ac66ea8308c375a56e1f10e.png/show"
+          },
+          {
+            "name": "Rainslasher",
+            "avatar": "https://img.game8.co/3522669/6f5d4142b35e4a05a2acb89cb608a2c2.png/show"
+          },
+          {
+            "name": "Blackcliff Slasher",
+            "avatar": "https://img.game8.co/3314393/086a7d79ef72ebb44a716cdeaea286cf.png/show"
+          },
+          {
+            "name": "Blackcliff Pole",
+            "avatar": "https://img.game8.co/3314392/2294902481878d53c4a35ac31b875844.png/show"
+          },
+          {
+            "name": "Royal Spear",
+            "avatar": "https://img.game8.co/3314396/fcbb7ee3eb9a9d8481fc315b53519735.png/show"
+          },
+          {
+            "name": "Dragon",
+            "avatar": "https://img.game8.co/3314485/dea459ec1fcf67eaffc3d7ff42f99b77.png/show"
+          },
+          {
+            "name": "Prototype Rancour",
+            "avatar": "https://img.game8.co/3314434/4a89775a4222b8619253c0cb5efb43f4.png/show"
+          },
+          {
+            "name": "Messenger",
+            "avatar": "https://img.game8.co/3314302/6447976a83698ca7ab6d300502ef16c1.png/show"
+          },
+          {
+            "name": "Twin Nephrite",
+            "avatar": "https://img.game8.co/3314307/83e8a61bde175f4b4c50bcc992be5f82.png/show"
+          },
+          {
+            "name": "Debate Club",
+            "avatar": "https://img.game8.co/3314341/ae6ff3c52bf84b55b5dfe8f85a831e62.png/show"
+          },
+          {
+            "name": "Halberd",
+            "avatar": "https://img.game8.co/3314306/b9587ae2277a1d35eea3e9618d13d446.png/show"
+          },
+          {
+            "name": "Fillet Blade",
+            "avatar": "https://img.game8.co/3314301/416956bf4dabc34a2ba5687fa116745d.png/show"
+          }
+        ]
+      },
+      {
+        "id": "aerosiderite",
+        "name": "Grain of Aerosiderite",
+        "image": "https://img.game8.co/3316408/a82eb55ab2ef0d792eef4dd82448e768.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Memory of Dust",
+            "avatar": "https://img.game8.co/3314350/d958ab07423e73c246b074d4e8aa0e31.png/show"
+          },
+          {
+            "name": "Staff of Homa",
+            "avatar": "https://img.game8.co/3331190/b98501cae978bb4735562626f192b3fb.png/show"
+          },
+          {
+            "name": "Vortex Vanquisher",
+            "avatar": "https://img.game8.co/3522993/4ef7dfbd19f7ecf4656af9756c25d12c.png/show"
+          },
+          {
+            "name": "Lightbearing Moonshard",
+            "avatar": "https://img.game8.co/4420111/8e54b06783a6f365709958b4b0564994.png/show"
+          },
+          {
+            "name": "Compound Bow",
+            "avatar": "https://img.game8.co/3314438/dfed00ca17ac5fabfc26841e24ad3813.png/show"
+          },
+          {
+            "name": "Fading Twilight",
+            "avatar": "https://img.game8.co/3528571/196738ac2179f50f7f8215b8517b3e7c.png/show"
+          },
+          {
+            "name": "Cloudforged",
+            "avatar": "https://img.game8.co/3905575/b53f27536e0aa66b94009655fc2f273a.png/show"
+          },
+          {
+            "name": "Mappa Mare",
+            "avatar": "https://img.game8.co/3314436/77efad7021cc15aa9502a9881404ea5a.png/show"
+          },
+          {
+            "name": "Prototype Archaic",
+            "avatar": "https://img.game8.co/3314437/94b2ae2f09fb3f853905985f9b4135c6.png/show"
+          },
+          {
+            "name": "Serpent Spine",
+            "avatar": "https://img.game8.co/3522670/7aec98405b498e3d033db3a3696467af.png/show"
+          },
+          {
+            "name": "Luxurious Sea-Lord",
+            "avatar": "https://img.game8.co/3424574/ccdcb14165099185b9dd478662f40db3.png/show"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "avatar": "https://img.game8.co/3314440/b61980bfb8c66ea9ceb63443be120f78.png/show"
+          },
+          {
+            "name": "Lithic Spear",
+            "avatar": "https://img.game8.co/3325101/bb337551b885279cf3607f2b805bbe55.png/show"
+          },
+          {
+            "name": "Iron Sting",
+            "avatar": "https://img.game8.co/3314433/4fb2afba31159663b239b33e38cb47c5.png/show"
+          },
+          {
+            "name": "Skyrider Greatsword",
+            "avatar": "https://img.game8.co/3314303/33c8280c8687394a20aa193d8d363d43.png/show"
+          },
+          {
+            "name": "Black Tassel",
+            "avatar": "https://img.game8.co/3314339/db15531019b243e2d34a4a4ccbf1c9b0.png/show"
+          },
+          {
+            "name": "Skyrider Sword",
+            "avatar": "https://img.game8.co/3314343/983a8e13a604d27e588dd545b75f5d3a.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "court-of-flowing-sands",
+    "name": "Cour des sables mouvants",
+    "source": "Cour des sables mouvants",
+    "url": "https://game8.co/games/Genshin-Impact/archives/337703",
+    "type": "weapon",
+    "materials": [
+      {
+        "id": "distant sea",
+        "name": "Coral Branch of a Distant Sea",
+        "image": "https://img.game8.co/3390500/642e1486b678eb90888162b2113bcbd9.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Everlasting Moonglow",
+            "avatar": "https://img.game8.co/3406916/f058c984d344ac944f12a5e62c655414.png/show"
+          },
+          {
+            "name": "Mistsplitter Reforged",
+            "avatar": "https://img.game8.co/3385777/e37e18f22714bbafe297e8a4beb96749.png/show"
+          },
+          {
+            "name": "Uraku Misugiri",
+            "avatar": "https://img.game8.co/3855357/0f1bee0c48888db48a19113a1a682e1f.png/show"
+          },
+          {
+            "name": "Hakushin Ring",
+            "avatar": "https://img.game8.co/3385778/46878fca7e70b64b50ac094446eacc53.png/show"
+          },
+          {
+            "name": "Oathsworn Eye",
+            "avatar": "https://img.game8.co/3490615/ea3ba77e89fd02f295dc2009ea949aa5.png/show"
+          },
+          {
+            "name": "Akuoumaru",
+            "avatar": "https://img.game8.co/3441954/b020641893ee0a28f44a00881a65fcb2.png/show"
+          },
+          {
+            "name": "Amenoma Kageuchi",
+            "avatar": "https://img.game8.co/3385781/11943394cc49218a47fd53753bfafc8c.png/show"
+          }
+        ]
+      },
+      {
+        "id": "mask",
+        "name": "Mask of the Wicked Lieutenant",
+        "image": "https://img.game8.co/3390479/cb21a1451bd8be08d4e4906207a2f00c.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Polar Star",
+            "avatar": "https://img.game8.co/3441955/4d6e9bd57053a0002ee39fd2c79a5ded.png/show"
+          },
+          {
+            "name": "Kagura",
+            "avatar": "https://img.game8.co/3487589/f131eb7f0d3c359c363298bb403c522b.png/show"
+          },
+          {
+            "name": "Engulfing Lightning",
+            "avatar": "https://img.game8.co/3406917/3b47d214c8da2606eaafa91926da532d.png/show"
+          },
+          {
+            "name": "Kitain Cross Spear",
+            "avatar": "https://img.game8.co/3441963/1ebaf964564175460e6bdc2e556e6947.png/show"
+          },
+          {
+            "name": "The Catch",
+            "avatar": "https://img.game8.co/3408158/aa0c7b64220627ff3c351eda77710fea.png/show"
+          },
+          {
+            "name": "Wavebreaker",
+            "avatar": "https://img.game8.co/3441959/8fdcfaaf4aaedcca596f1c4c5fae1e04.png/show"
+          },
+          {
+            "name": "Tamayuratei no Ohanashi",
+            "avatar": "https://img.game8.co/4108479/598ac8362902d48fbc96e3c51fbc09e4.png/show"
+          },
+          {
+            "name": "Kagotsurube Isshin",
+            "avatar": "https://img.game8.co/3548017/40b01ba41ad5aef43d84ce31010b0d1c.png/show"
+          }
+        ]
+      },
+      {
+        "id": "narukami",
+        "name": "Narukami",
+        "image": "https://img.game8.co/3390499/bed7ec19eeb1899ccb7a53b51942bc1d.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Thundering Pulse",
+            "avatar": "https://img.game8.co/3441958/f896203efe9ce4f6598fa5ac23c3a196.png/show"
+          },
+          {
+            "name": "Sunny Morning Sleep-In",
+            "avatar": "https://img.game8.co/4106050/1dd4dd0abc644feac5dd2695b74dc71b.png/show"
+          },
+          {
+            "name": "Redhorn Stonethresher",
+            "avatar": "https://img.game8.co/3459955/1d2415e1d932c703b8f39d30358a2ee0.png/show"
+          },
+          {
+            "name": "Haran Geppaku Futsu",
+            "avatar": "https://img.game8.co/3511222/2310c3f7ed9c13a4249fccdc256199bb.png/show"
+          },
+          {
+            "name": "Hamayumi",
+            "avatar": "https://img.game8.co/3441953/c51b98e63961d8ce32113e7c21780f8a.png/show"
+          },
+          {
+            "name": "Predator",
+            "avatar": "https://img.game8.co/3441956/a7f5b2e3e3c8e2fa82564ea94463dcd6.png/show"
+          },
+          {
+            "name": "Mouun",
+            "avatar": "https://img.game8.co/3441957/785ccf1092585ecb1c8b9b1462cd9fff.png/show"
+          },
+          {
+            "name": "Katsuragikiri Nagamasa",
+            "avatar": "https://img.game8.co/3441964/deb90f78176238f39e9f5ae332e001c1.png/show"
+          },
+          {
+            "name": "Toukabou Shigure",
+            "avatar": "https://img.game8.co/3623676/cf17c8a3bd127aa1a81876b6c27f837b.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "cecilia-garden",
     "name": "Jardin de Cécilia",
     "source": "Jardin de Cécilia",
@@ -486,756 +1493,6 @@
     ]
   },
   {
-    "id": "violet-court",
-    "name": "Cour violette",
-    "source": "Cour violette",
-    "url": "https://game8.co/games/Genshin-Impact/archives/337720",
-    "type": "talent",
-    "materials": [
-      {
-        "id": "light",
-        "name": "Teachings of Light",
-        "image": "https://img.game8.co/3390467/0e315d1abff0b6c253f6cb5100278fd5.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Sayu",
-            "avatar": "https://img.game8.co/3401060/f6cef4da3d573ae064d253cf8bee1448.png/show"
-          },
-          {
-            "name": "Yae Miko",
-            "avatar": "https://img.game8.co/3485121/17912d280f92eb096f2fc019d6292b98.png/show"
-          },
-          {
-            "name": "Raiden",
-            "avatar": "https://img.game8.co/3409293/af58e7854a4e7f7d1d857c5a79db2ce6.png/show"
-          },
-          {
-            "name": "Traveler (Electro)",
-            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
-          },
-          {
-            "name": "Gorou",
-            "avatar": "https://img.game8.co/3459061/48a416f73b250dd32dc11092f63ce13d.png/show"
-          },
-          {
-            "name": "Chiori",
-            "avatar": "https://img.game8.co/3852037/2fe63464f55b4b507b01e38a814aca2c.png/show"
-          }
-        ]
-      },
-      {
-        "id": "transience",
-        "name": "Teachings of Transience",
-        "image": "https://img.game8.co/3390463/a273c7fd3a58dd960c9bec4ab2fc2475.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Heizou",
-            "avatar": "https://img.game8.co/3546223/98ea7f23e9af8bef07385f930ecd073c.png/show"
-          },
-          {
-            "name": "Mizuki",
-            "avatar": "https://img.game8.co/4105295/29f021a00aea06bd41b2e2266c6fe00a.png/show"
-          },
-          {
-            "name": "Traveler (Electro)",
-            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
-          },
-          {
-            "name": "Kokomi",
-            "avatar": "https://img.game8.co/3418180/265e263d98a3461d6091e3cf69ca5fc9.png/show"
-          },
-          {
-            "name": "Yoimiya",
-            "avatar": "https://img.game8.co/3400792/b31e528518dfa732ab0f3e184ac364d3.png/show"
-          },
-          {
-            "name": "Thoma",
-            "avatar": "https://img.game8.co/3441106/99ed64ada8d15708869cd60643a8044f.png/show"
-          },
-          {
-            "name": "Kirara",
-            "avatar": "https://img.game8.co/3705922/0cc2a847fd314435beb8f91552eda62e.png/show"
-          }
-        ]
-      },
-      {
-        "id": "elegance",
-        "name": "Teachings of Elegance",
-        "image": "https://img.game8.co/3390469/43bd6a855640dce794f135515dc0500f.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Ayaka",
-            "avatar": "https://img.game8.co/3313080/2cae7dd671c21d14eff9fdd945e07da2.png/show"
-          },
-          {
-            "name": "Sara",
-            "avatar": "https://img.game8.co/3410417/af76885ff6366f245127fb47105dda8d.png/show"
-          },
-          {
-            "name": "Traveler (Electro)",
-            "avatar": "https://img.game8.co/3951447/5e47ae06ab6b01c67e15f2cff36a3cb8.png/show"
-          },
-          {
-            "name": "Shinobu",
-            "avatar": "https://img.game8.co/3539169/6dc2b1ce3d5bb8fe449d38c4416b2de4.png/show"
-          },
-          {
-            "name": "Itto",
-            "avatar": "https://img.game8.co/3457893/4e1145280836f6e662e64ebb9a68e646.png/show"
-          },
-          {
-            "name": "Ayato",
-            "avatar": "https://img.game8.co/3507977/f539f685858f47fae42a57cf6bfbe634.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "forsaken-rift",
-    "name": "Gorge de l'oubli",
-    "source": "Gorge de l'oubli",
-    "url": "https://game8.co/games/Genshin-Impact/archives/297471",
-    "type": "talent",
-    "materials": [
-      {
-        "id": "freedom",
-        "name": "Teachings of Freedom",
-        "image": "https://img.game8.co/3316483/b72a61527d703c92c371fb11e1e046f6.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Traveler (Anemo)",
-            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
-          },
-          {
-            "name": "Sucrose",
-            "avatar": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show"
-          },
-          {
-            "name": "Varka",
-            "avatar": "https://img.game8.co/4424073/c50919a33cad46763d98204d37a0c310.png/show"
-          },
-          {
-            "name": "Diona",
-            "avatar": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show"
-          },
-          {
-            "name": "Aloy",
-            "avatar": "https://img.game8.co/3409689/af371b6f3782f11a72239d0b08b5a57a.png/show"
-          },
-          {
-            "name": "Traveler (Geo)",
-            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
-          },
-          {
-            "name": "Barbara",
-            "avatar": "https://img.game8.co/3294974/5e203f4ca8c30907bae5ad23432d6047.png/show"
-          },
-          {
-            "name": "Tartaglia",
-            "avatar": "https://img.game8.co/3295009/47a42db3c2736ef309028ccbd3cfb5cf.png/show"
-          },
-          {
-            "name": "Amber",
-            "avatar": "https://img.game8.co/3294971/3c86f28546a768018df49960a15652bf.png/show"
-          },
-          {
-            "name": "Klee",
-            "avatar": "https://img.game8.co/3294978/e0194d396700c3add4ec1b95ddce41f0.png/show"
-          }
-        ]
-      },
-      {
-        "id": "resistance",
-        "name": "Teachings of Resistance",
-        "image": "https://img.game8.co/3316481/bc331c6acd14b7c051fdf7ca64d0f28f.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Traveler (Anemo)",
-            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
-          },
-          {
-            "name": "Jean",
-            "avatar": "https://img.game8.co/3294970/8416650b93b606f33e2411387dabf550.png/show"
-          },
-          {
-            "name": "Eula",
-            "avatar": "https://img.game8.co/3357399/0681a143deeb28601cffa5fee727dd3d.png/show"
-          },
-          {
-            "name": "Razor",
-            "avatar": "https://img.game8.co/3294976/698d06f42b22301950f6eeda34cc9a37.png/show"
-          },
-          {
-            "name": "Traveler (Geo)",
-            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
-          },
-          {
-            "name": "Noelle",
-            "avatar": "https://img.game8.co/3295000/c61fa6632aeb5564203541e9c59f15f1.png/show"
-          },
-          {
-            "name": "Mona",
-            "avatar": "https://img.game8.co/3294986/edda48bf6a0908f1f00fe3211da8fd09.png/show"
-          },
-          {
-            "name": "Diluc",
-            "avatar": "https://img.game8.co/3294975/7a7f2b46d26c4458250f8fcaca0ca94c.png/show"
-          },
-          {
-            "name": "Bennett",
-            "avatar": "https://img.game8.co/3294999/853d5357be63f501a600fc776eb27256.png/show"
-          }
-        ]
-      },
-      {
-        "id": "ballad",
-        "name": "Teachings of Ballad",
-        "image": "https://img.game8.co/3316474/a2efbe275ea44783ea78c6a1151c18d3.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Traveler (Anemo)",
-            "avatar": "https://img.game8.co/3951444/77bf0f9b4d7add4544b2842571dafff0.png/show"
-          },
-          {
-            "name": "Venti",
-            "avatar": "https://img.game8.co/3294977/da7d112f0f9c44f8d123cc533a3317a8.png/show"
-          },
-          {
-            "name": "Kaeya",
-            "avatar": "https://img.game8.co/3294973/b2a3d5ca1d6d4cb47acedfa8a64375ca.png/show"
-          },
-          {
-            "name": "Rosaria",
-            "avatar": "https://img.game8.co/3341649/5d22208b443b074dfb35fdf393c8d62f.png/show"
-          },
-          {
-            "name": "Mika",
-            "avatar": "https://img.game8.co/3662046/34c5273e49bbcc42fcd0c2e29522bd3b.png/show"
-          },
-          {
-            "name": "Lisa",
-            "avatar": "https://img.game8.co/3294972/ee211ef041897cd2f129ef320e21a9f0.png/show"
-          },
-          {
-            "name": "Fischl",
-            "avatar": "https://img.game8.co/3294982/edb5c8b98147514a9ce8d20888d689b6.png/show"
-          },
-          {
-            "name": "Traveler (Geo)",
-            "avatar": "https://img.game8.co/3951449/f7f5a49dada5bb84175e0373f737ea56.png/show"
-          },
-          {
-            "name": "Albedo",
-            "avatar": "https://img.game8.co/3310758/429ff8386dab8be2f4b1de43ac783f19.png/show"
-          },
-          {
-            "name": "Durin",
-            "avatar": "https://img.game8.co/4353831/cbe1bccea7b676dd9a92177d16b83338.png/show"
-          },
-          {
-            "name": "Dahlia",
-            "avatar": "https://img.game8.co/4197403/33023da1ddf8131b4fb2a5ea73a28a9d.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "steeple-of-ignorance",
-    "name": "Clocher de l'ignorance",
-    "source": "Clocher de l'ignorance",
-    "url": "https://game8.co/games/Genshin-Impact/archives/386296",
-    "type": "talent",
-    "materials": [
-      {
-        "id": "admonition",
-        "name": "Teachings of Admonition",
-        "image": "https://img.game8.co/3566892/532de5ec64fa1d2e83837d0b88437658.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Traveler (Dendro)",
-            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
-          },
-          {
-            "name": "Tighnari",
-            "avatar": "https://img.game8.co/3569489/d290902f70d4c5e479c56286ee9a7b24.png/show"
-          },
-          {
-            "name": "Cyno",
-            "avatar": "https://img.game8.co/3585290/20da32e3dcd31625b6e1b20a82a75204.png/show"
-          },
-          {
-            "name": "Faruzan",
-            "avatar": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show"
-          },
-          {
-            "name": "Candace",
-            "avatar": "https://img.game8.co/3587463/6912b3b078d6c049633204254e222933.png/show"
-          }
-        ]
-      },
-      {
-        "id": "ingenuity",
-        "name": "Teachings of Ingenuity",
-        "image": "https://img.game8.co/3566897/4b89600c087a0513529a2f8cb281600c.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Traveler (Dendro)",
-            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
-          },
-          {
-            "name": "Alhaitham",
-            "avatar": "https://img.game8.co/3630817/6fbf0ae4e0d39cb50b32097029c48809.png/show"
-          },
-          {
-            "name": "Nahida",
-            "avatar": "https://img.game8.co/3604130/3e6db61ed6d732571e783aefb6280738.png/show"
-          },
-          {
-            "name": "Kaveh",
-            "avatar": "https://img.game8.co/3681698/fad0a8213836388b08d0ec319c749d04.png/show"
-          },
-          {
-            "name": "Dori",
-            "avatar": "https://img.game8.co/3573303/0037ca766d56b08f7d1fa40cf1a9c443.png/show"
-          },
-          {
-            "name": "Layla",
-            "avatar": "https://img.game8.co/3608042/7f1131af47c7a0e776e9c3bcd08eecf7.png/show"
-          }
-        ]
-      },
-      {
-        "id": "praxis",
-        "name": "Teachings of Praxis",
-        "image": "https://img.game8.co/3914163/69ec34dd1eda49e63b323d687baebeaa.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Wanderer",
-            "avatar": "https://img.game8.co/3619988/99ba4ee9abf0e4a88d54da22b63455ee.png/show"
-          },
-          {
-            "name": "Traveler (Dendro)",
-            "avatar": "https://img.game8.co/3951446/8cfd19bccc70f8dad32356ea7b58d52a.png/show"
-          },
-          {
-            "name": "Collei",
-            "avatar": "https://img.game8.co/3569484/b5dd2a24170529d1969d4f437e8bd568.png/show"
-          },
-          {
-            "name": "Nilou",
-            "avatar": "https://img.game8.co/3593591/8a7ec44c7177f2dcf18aaf4ee6f7075d.png/show"
-          },
-          {
-            "name": "Dehya",
-            "avatar": "https://img.game8.co/3651457/3011ca0b44c5639817f86299f3f351a0.png/show"
-          },
-          {
-            "name": "Sethos",
-            "avatar": "https://img.game8.co/3900705/b1d42851e4e0c745e756d96104a31455.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "blazing-ruins",
-    "name": "Ruines embrasées",
-    "source": "Ruines embrasées",
-    "url": "https://game8.co/games/Genshin-Impact/archives/470213",
-    "type": "talent",
-    "materials": [
-      {
-        "id": "conflict",
-        "name": "Teachings of Conflict",
-        "image": "https://img.game8.co/3970614/59394f818c2647edb4a38e48e6572e08.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Chasca",
-            "avatar": "https://img.game8.co/4040818/a2c2a790a2750143ec1b3755fefcf859.png/show"
-          },
-          {
-            "name": "Ifa",
-            "avatar": "https://img.game8.co/4164141/fc70c80e98ea2d08d73cb3451ebe0804.png/show"
-          },
-          {
-            "name": "Varesa",
-            "avatar": "https://img.game8.co/4134897/c7e57067732cb12a208d41bc5c7f1bf3.png/show"
-          },
-          {
-            "name": "Ineffa",
-            "avatar": "https://img.game8.co/4228802/2f734aa359fdbe204f0a956286123626.png/show"
-          },
-          {
-            "name": "Kachina",
-            "avatar": "https://img.game8.co/3971307/7fffb03ad36f390012ef9cc0c63eedf9.png/show"
-          }
-        ]
-      },
-      {
-        "id": "kindling",
-        "name": "Teachings of Kindling",
-        "image": "https://img.game8.co/3970616/2ce58cb884a251442c698a29f27f33ae.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Citlali",
-            "avatar": "https://img.game8.co/4073945/8da07f9a9eccf4127045ea0a388e635b.png/show"
-          },
-          {
-            "name": "Kinich",
-            "avatar": "https://img.game8.co/3988290/b40e5d6d77ac06fb29c717f28fe42f7f.png/show"
-          },
-          {
-            "name": "Ororon",
-            "avatar": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show"
-          },
-          {
-            "name": "Xilonen",
-            "avatar": "https://img.game8.co/4006625/68773fb0277285f242c5b7fa4d2c28e8.png/show"
-          }
-        ]
-      },
-      {
-        "id": "contention",
-        "name": "Teachings of Contention",
-        "image": "https://img.game8.co/3970615/64770704297a6e0928592693e5e37d1e.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Skirk",
-            "avatar": "https://img.game8.co/4194956/7a1921a73270a143aa6ee416e3dd40fe.png/show"
-          },
-          {
-            "name": "Iansan",
-            "avatar": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show"
-          },
-          {
-            "name": "Mualani",
-            "avatar": "https://img.game8.co/3971306/9a08a3efd8ed993c4397e0cce89545ed.png/show"
-          },
-          {
-            "name": "Mavuika",
-            "avatar": "https://img.game8.co/4073955/c4891728ca78e76e1590692b80a3f9cc.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "court-of-flowing-sands",
-    "name": "Cour des sables mouvants",
-    "source": "Cour des sables mouvants",
-    "url": "https://game8.co/games/Genshin-Impact/archives/337703",
-    "type": "weapon",
-    "materials": [
-      {
-        "id": "distant sea",
-        "name": "Coral Branch of a Distant Sea",
-        "image": "https://img.game8.co/3390500/642e1486b678eb90888162b2113bcbd9.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Everlasting Moonglow",
-            "avatar": "https://img.game8.co/3406916/f058c984d344ac944f12a5e62c655414.png/show"
-          },
-          {
-            "name": "Mistsplitter Reforged",
-            "avatar": "https://img.game8.co/3385777/e37e18f22714bbafe297e8a4beb96749.png/show"
-          },
-          {
-            "name": "Uraku Misugiri",
-            "avatar": "https://img.game8.co/3855357/0f1bee0c48888db48a19113a1a682e1f.png/show"
-          },
-          {
-            "name": "Hakushin Ring",
-            "avatar": "https://img.game8.co/3385778/46878fca7e70b64b50ac094446eacc53.png/show"
-          },
-          {
-            "name": "Oathsworn Eye",
-            "avatar": "https://img.game8.co/3490615/ea3ba77e89fd02f295dc2009ea949aa5.png/show"
-          },
-          {
-            "name": "Akuoumaru",
-            "avatar": "https://img.game8.co/3441954/b020641893ee0a28f44a00881a65fcb2.png/show"
-          },
-          {
-            "name": "Amenoma Kageuchi",
-            "avatar": "https://img.game8.co/3385781/11943394cc49218a47fd53753bfafc8c.png/show"
-          }
-        ]
-      },
-      {
-        "id": "mask",
-        "name": "Mask of the Wicked Lieutenant",
-        "image": "https://img.game8.co/3390479/cb21a1451bd8be08d4e4906207a2f00c.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Polar Star",
-            "avatar": "https://img.game8.co/3441955/4d6e9bd57053a0002ee39fd2c79a5ded.png/show"
-          },
-          {
-            "name": "Kagura",
-            "avatar": "https://img.game8.co/3487589/f131eb7f0d3c359c363298bb403c522b.png/show"
-          },
-          {
-            "name": "Engulfing Lightning",
-            "avatar": "https://img.game8.co/3406917/3b47d214c8da2606eaafa91926da532d.png/show"
-          },
-          {
-            "name": "Kitain Cross Spear",
-            "avatar": "https://img.game8.co/3441963/1ebaf964564175460e6bdc2e556e6947.png/show"
-          },
-          {
-            "name": "The Catch",
-            "avatar": "https://img.game8.co/3408158/aa0c7b64220627ff3c351eda77710fea.png/show"
-          },
-          {
-            "name": "Wavebreaker",
-            "avatar": "https://img.game8.co/3441959/8fdcfaaf4aaedcca596f1c4c5fae1e04.png/show"
-          },
-          {
-            "name": "Tamayuratei no Ohanashi",
-            "avatar": "https://img.game8.co/4108479/598ac8362902d48fbc96e3c51fbc09e4.png/show"
-          },
-          {
-            "name": "Kagotsurube Isshin",
-            "avatar": "https://img.game8.co/3548017/40b01ba41ad5aef43d84ce31010b0d1c.png/show"
-          }
-        ]
-      },
-      {
-        "id": "narukami",
-        "name": "Narukami",
-        "image": "https://img.game8.co/3390499/bed7ec19eeb1899ccb7a53b51942bc1d.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Thundering Pulse",
-            "avatar": "https://img.game8.co/3441958/f896203efe9ce4f6598fa5ac23c3a196.png/show"
-          },
-          {
-            "name": "Sunny Morning Sleep-In",
-            "avatar": "https://img.game8.co/4106050/1dd4dd0abc644feac5dd2695b74dc71b.png/show"
-          },
-          {
-            "name": "Redhorn Stonethresher",
-            "avatar": "https://img.game8.co/3459955/1d2415e1d932c703b8f39d30358a2ee0.png/show"
-          },
-          {
-            "name": "Haran Geppaku Futsu",
-            "avatar": "https://img.game8.co/3511222/2310c3f7ed9c13a4249fccdc256199bb.png/show"
-          },
-          {
-            "name": "Hamayumi",
-            "avatar": "https://img.game8.co/3441953/c51b98e63961d8ce32113e7c21780f8a.png/show"
-          },
-          {
-            "name": "Predator",
-            "avatar": "https://img.game8.co/3441956/a7f5b2e3e3c8e2fa82564ea94463dcd6.png/show"
-          },
-          {
-            "name": "Mouun",
-            "avatar": "https://img.game8.co/3441957/785ccf1092585ecb1c8b9b1462cd9fff.png/show"
-          },
-          {
-            "name": "Katsuragikiri Nagamasa",
-            "avatar": "https://img.game8.co/3441964/deb90f78176238f39e9f5ae332e001c1.png/show"
-          },
-          {
-            "name": "Toukabou Shigure",
-            "avatar": "https://img.game8.co/3623676/cf17c8a3bd127aa1a81876b6c27f837b.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "pale-forgotten-glory",
-    "name": "Gloire oubliée",
-    "source": "Gloire oubliée",
-    "url": "https://game8.co/games/Genshin-Impact/archives/421805",
-    "type": "talent",
-    "materials": [
-      {
-        "id": "equity",
-        "name": "Teachings of Equity",
-        "image": "https://img.game8.co/3750661/40fcd43e55e7ce5582acb9d3fb520de1.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Navia",
-            "avatar": "https://img.game8.co/3807141/f03829475fd9cf9bfe183b550b572ed5.png/show"
-          },
-          {
-            "name": "Traveler (Hydro)",
-            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
-          },
-          {
-            "name": "Sigewinne",
-            "avatar": "https://img.game8.co/3911319/73129fd543444e3c4c41a64734ec0e3e.png/show"
-          },
-          {
-            "name": "Neuvillette",
-            "avatar": "https://img.game8.co/3767456/67375a9dd425cccecf66145b20bad7be.png/show"
-          },
-          {
-            "name": "Lyney",
-            "avatar": "https://img.game8.co/3751446/9502093747d4107a0350124db0fabed9.png/show"
-          }
-        ]
-      },
-      {
-        "id": "order",
-        "name": "Teachings of Order",
-        "image": "https://img.game8.co/3750674/95e519a209cea3dbb5c1e2604f08ac80.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Lynette",
-            "avatar": "https://img.game8.co/3751436/340282c533aed31bda827b4a5d9fab5b.png/show"
-          },
-          {
-            "name": "Wriothesley",
-            "avatar": "https://img.game8.co/3779251/c65fdf738be54035d45a1b3f04d0e7bd.png/show"
-          },
-          {
-            "name": "Emilie",
-            "avatar": "https://img.game8.co/3942957/1264d1d624b096cf2009568288231da8.png/show"
-          },
-          {
-            "name": "Traveler (Hydro)",
-            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
-          },
-          {
-            "name": "Arlecchino",
-            "avatar": "https://img.game8.co/3870888/44d254ada42ac07c7ee236bea3acfec5.png/show"
-          },
-          {
-            "name": "Chevreuse",
-            "avatar": "https://img.game8.co/3807127/7f6a7b74dc05eec7c0684c95ddc9d363.png/show"
-          }
-        ]
-      },
-      {
-        "id": "justice",
-        "name": "Teachings of Justice",
-        "image": "https://img.game8.co/3750664/e15ffb16ab384e6825969702849c2e27.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Charlotte",
-            "avatar": "https://img.game8.co/3790397/c99158be1533c758ba989cd4812f43df.png/show"
-          },
-          {
-            "name": "Freminet",
-            "avatar": "https://img.game8.co/3755935/c1d3d66360d8d740357f39f89c509739.png/show"
-          },
-          {
-            "name": "Clorinde",
-            "avatar": "https://img.game8.co/3898505/981575e5aa20c7bcb8dd8feed9b8ded0.png/show"
-          },
-          {
-            "name": "Traveler (Hydro)",
-            "avatar": "https://img.game8.co/3951451/171b616bab2df3f8a6e4189dc98362e5.png/show"
-          },
-          {
-            "name": "Escoffier",
-            "avatar": "https://img.game8.co/4164128/68e538731ffd8c4851af79299f52eb3d.png/show"
-          },
-          {
-            "name": "Furina",
-            "avatar": "https://img.game8.co/3790954/846f7e8888c6580354c236409f8a7f2f.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tower-of-abject-pride",
     "name": "Tour de la fierté abjecte",
     "source": "Tour de la fierté abjecte",
@@ -1359,6 +1616,87 @@
           {
             "name": "Makhaira Aquamarine",
             "avatar": "https://img.game8.co/3594477/a20ef92a85a283e6cd0d63a19bdbbed4.png/show"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ancient-watchtower",
+    "name": "Ancienne tour de guet",
+    "source": "Ancienne tour de guet",
+    "url": "https://game8.co/games/Genshin-Impact/archives/470225",
+    "type": "weapon",
+    "materials": [
+      {
+        "id": "blazing sacrificial",
+        "name": "Blazing Sacrificial Heart",
+        "image": "https://img.game8.co/3971339/65dfc11f126d0ae0dd97a76accd423e2.png/show",
+        "availability": [
+          "Monday",
+          "Thursday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Earth Shaker",
+            "avatar": ""
+          },
+          {
+            "name": "Surf's Up",
+            "avatar": ""
+          },
+          {
+            "name": "Mountain-Bracing Bolt",
+            "avatar": ""
+          }
+        ]
+      },
+      {
+        "id": "sacred lord",
+        "name": "Delirious Decadence of the Sacred Lord",
+        "image": "https://img.game8.co/3971348/d98657db796774e7d272146733dfd57a.png/show",
+        "availability": [
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Ring of Yaxche",
+            "avatar": ""
+          },
+          {
+            "name": "Footprint of the Rainbow",
+            "avatar": ""
+          },
+          {
+            "name": "Fang of the Mountain King",
+            "avatar": ""
+          }
+        ]
+      },
+      {
+        "id": "night-wind",
+        "name": "Night-Wind",
+        "image": "https://img.game8.co/3971347/3781f42f433e9f5768f1dd29f310878c.png/show",
+        "availability": [
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "characters": [
+          {
+            "name": "Chain Breaker",
+            "avatar": ""
+          },
+          {
+            "name": "Flute of Ezpitzal",
+            "avatar": ""
+          },
+          {
+            "name": "Sturdy Bone",
+            "avatar": ""
           }
         ]
       }
@@ -1500,344 +1838,6 @@
           {
             "name": "Sword of Narzissenkreuz",
             "avatar": "https://img.game8.co/3791964/e85284abceed44ee7f5ad72e1b926b30.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "hidden-palace-of-lianshan-formula",
-    "name": "Palais de Lianshan",
-    "source": "Palais de Lianshan",
-    "url": "https://game8.co/games/Genshin-Impact/archives/297463",
-    "type": "weapon",
-    "materials": [
-      {
-        "id": "guyun",
-        "name": "Luminous Sands from Guyun",
-        "image": "https://img.game8.co/3316410/994f12158071c4a34534da79055822e9.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Aqua Simulacra",
-            "avatar": "https://img.game8.co/3528570/002bacc1da7d27ed47513dcddf5664a3.png/show"
-          },
-          {
-            "name": "Jadefall",
-            "avatar": "https://img.game8.co/3685384/2f035d2cfcb6b8afb407cb15dee9e3fa.png/show"
-          },
-          {
-            "name": "Primordial Jade Winged-Spear",
-            "avatar": "https://img.game8.co/3314371/b69ff07b01658994f8567f638e6173a1.png/show"
-          },
-          {
-            "name": "Summit Shaper",
-            "avatar": "https://img.game8.co/3311113/3b0e2ee76a9d421e3f7e4a640f7a9b99.png/show"
-          },
-          {
-            "name": "Rust",
-            "avatar": "https://img.game8.co/3314490/72c5ae525ba26d02d2b6c40b5569ad73.png/show"
-          },
-          {
-            "name": "Blackcliff Warbow",
-            "avatar": "https://img.game8.co/3314391/1d758510b397d6173177b275bf8d557e.png/show"
-          },
-          {
-            "name": "Sacrificial Jade",
-            "avatar": "https://img.game8.co/3746148/acf090d0caeb186246bd90dbfbed4f28.png/show"
-          },
-          {
-            "name": "Solar Pearl",
-            "avatar": "https://img.game8.co/3314398/d65ce89004cee8a7736c5eca7a2abfdd.png/show"
-          },
-          {
-            "name": "Blackcliff Agate",
-            "avatar": "https://img.game8.co/3314394/e7a78868c9b123ce80a813da5d05b520.png/show"
-          },
-          {
-            "name": "Whiteblind",
-            "avatar": "https://img.game8.co/3314439/146f2f95aefb8a5dde9435deb6c3da85.png/show"
-          },
-          {
-            "name": "Lithic Blade",
-            "avatar": "https://img.game8.co/3522671/a8101fa56facd26ff5291d0fb97d01ee.png/show"
-          },
-          {
-            "name": "Crescent Pike",
-            "avatar": "https://img.game8.co/3314435/bf8d35e6b621c0fc2a0a16560fb7d5dc.png/show"
-          },
-          {
-            "name": "Blackcliff Longsword",
-            "avatar": "https://img.game8.co/3314395/ed36b836606ea3bbdc2c00773157d76b.png/show"
-          },
-          {
-            "name": "Lion",
-            "avatar": "https://img.game8.co/3314480/604d2c85951b54ee14c8426aab08c908.png/show"
-          },
-          {
-            "name": "Slingshot",
-            "avatar": "https://img.game8.co/3314951/6d21f379931c8b2c3deb4dc56fb23239.png/show"
-          },
-          {
-            "name": "Emerald Orb",
-            "avatar": "https://img.game8.co/3314952/f6c5ade03ce15b449f3fdba2f45bb722.png/show"
-          },
-          {
-            "name": "White Tassel",
-            "avatar": "https://img.game8.co/3314340/fcb44b06187bfbca8c6dabcba06593d2.png/show"
-          },
-          {
-            "name": "Dark Iron Sword",
-            "avatar": "https://img.game8.co/3314950/ab54ff0cffb07b225b39bb1ea27472ff.png/show"
-          }
-        ]
-      },
-      {
-        "id": "elixir",
-        "name": "Mist Veiled Lead Elixir",
-        "image": "https://img.game8.co/3316427/af01b12c2907182c428aa82445093f32.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Crane",
-            "avatar": "https://img.game8.co/3833292/9ff5cf76c0c2694c96510fc10b28eae5.png/show"
-          },
-          {
-            "name": "The Unforged",
-            "avatar": "https://img.game8.co/3301791/2983bb1c36edb32b5e936f15973c82ab.png/show"
-          },
-          {
-            "name": "Calamity Queller",
-            "avatar": "https://img.game8.co/3466467/ce3773137658045cf6fb9be54efeddfc.png/show"
-          },
-          {
-            "name": "Primordial Jade Cutter",
-            "avatar": "https://img.game8.co/3324722/757eafc03c9cb40182204cd8af8e4163.png/show"
-          },
-          {
-            "name": "Prototype Crescent",
-            "avatar": "https://img.game8.co/3314441/3c2dc168e62eff67c7117b16e87599f7.png/show"
-          },
-          {
-            "name": "Eye of Perception",
-            "avatar": "https://img.game8.co/3314493/5346c2b9acc3860b631262eae454a9b9.png/show"
-          },
-          {
-            "name": "Prototype Amber",
-            "avatar": "https://img.game8.co/3314432/ecfc51360ac66ea8308c375a56e1f10e.png/show"
-          },
-          {
-            "name": "Rainslasher",
-            "avatar": "https://img.game8.co/3522669/6f5d4142b35e4a05a2acb89cb608a2c2.png/show"
-          },
-          {
-            "name": "Blackcliff Slasher",
-            "avatar": "https://img.game8.co/3314393/086a7d79ef72ebb44a716cdeaea286cf.png/show"
-          },
-          {
-            "name": "Blackcliff Pole",
-            "avatar": "https://img.game8.co/3314392/2294902481878d53c4a35ac31b875844.png/show"
-          },
-          {
-            "name": "Royal Spear",
-            "avatar": "https://img.game8.co/3314396/fcbb7ee3eb9a9d8481fc315b53519735.png/show"
-          },
-          {
-            "name": "Dragon",
-            "avatar": "https://img.game8.co/3314485/dea459ec1fcf67eaffc3d7ff42f99b77.png/show"
-          },
-          {
-            "name": "Prototype Rancour",
-            "avatar": "https://img.game8.co/3314434/4a89775a4222b8619253c0cb5efb43f4.png/show"
-          },
-          {
-            "name": "Messenger",
-            "avatar": "https://img.game8.co/3314302/6447976a83698ca7ab6d300502ef16c1.png/show"
-          },
-          {
-            "name": "Twin Nephrite",
-            "avatar": "https://img.game8.co/3314307/83e8a61bde175f4b4c50bcc992be5f82.png/show"
-          },
-          {
-            "name": "Debate Club",
-            "avatar": "https://img.game8.co/3314341/ae6ff3c52bf84b55b5dfe8f85a831e62.png/show"
-          },
-          {
-            "name": "Halberd",
-            "avatar": "https://img.game8.co/3314306/b9587ae2277a1d35eea3e9618d13d446.png/show"
-          },
-          {
-            "name": "Fillet Blade",
-            "avatar": "https://img.game8.co/3314301/416956bf4dabc34a2ba5687fa116745d.png/show"
-          }
-        ]
-      },
-      {
-        "id": "aerosiderite",
-        "name": "Grain of Aerosiderite",
-        "image": "https://img.game8.co/3316408/a82eb55ab2ef0d792eef4dd82448e768.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Memory of Dust",
-            "avatar": "https://img.game8.co/3314350/d958ab07423e73c246b074d4e8aa0e31.png/show"
-          },
-          {
-            "name": "Staff of Homa",
-            "avatar": "https://img.game8.co/3331190/b98501cae978bb4735562626f192b3fb.png/show"
-          },
-          {
-            "name": "Vortex Vanquisher",
-            "avatar": "https://img.game8.co/3522993/4ef7dfbd19f7ecf4656af9756c25d12c.png/show"
-          },
-          {
-            "name": "Lightbearing Moonshard",
-            "avatar": "https://img.game8.co/4420111/8e54b06783a6f365709958b4b0564994.png/show"
-          },
-          {
-            "name": "Compound Bow",
-            "avatar": "https://img.game8.co/3314438/dfed00ca17ac5fabfc26841e24ad3813.png/show"
-          },
-          {
-            "name": "Fading Twilight",
-            "avatar": "https://img.game8.co/3528571/196738ac2179f50f7f8215b8517b3e7c.png/show"
-          },
-          {
-            "name": "Cloudforged",
-            "avatar": "https://img.game8.co/3905575/b53f27536e0aa66b94009655fc2f273a.png/show"
-          },
-          {
-            "name": "Mappa Mare",
-            "avatar": "https://img.game8.co/3314436/77efad7021cc15aa9502a9881404ea5a.png/show"
-          },
-          {
-            "name": "Prototype Archaic",
-            "avatar": "https://img.game8.co/3314437/94b2ae2f09fb3f853905985f9b4135c6.png/show"
-          },
-          {
-            "name": "Serpent Spine",
-            "avatar": "https://img.game8.co/3522670/7aec98405b498e3d033db3a3696467af.png/show"
-          },
-          {
-            "name": "Luxurious Sea-Lord",
-            "avatar": "https://img.game8.co/3424574/ccdcb14165099185b9dd478662f40db3.png/show"
-          },
-          {
-            "name": "Prototype Starglitter",
-            "avatar": "https://img.game8.co/3314440/b61980bfb8c66ea9ceb63443be120f78.png/show"
-          },
-          {
-            "name": "Lithic Spear",
-            "avatar": "https://img.game8.co/3325101/bb337551b885279cf3607f2b805bbe55.png/show"
-          },
-          {
-            "name": "Iron Sting",
-            "avatar": "https://img.game8.co/3314433/4fb2afba31159663b239b33e38cb47c5.png/show"
-          },
-          {
-            "name": "Skyrider Greatsword",
-            "avatar": "https://img.game8.co/3314303/33c8280c8687394a20aa193d8d363d43.png/show"
-          },
-          {
-            "name": "Black Tassel",
-            "avatar": "https://img.game8.co/3314339/db15531019b243e2d34a4a4ccbf1c9b0.png/show"
-          },
-          {
-            "name": "Skyrider Sword",
-            "avatar": "https://img.game8.co/3314343/983a8e13a604d27e588dd545b75f5d3a.png/show"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "ancient-watchtower",
-    "name": "Ancienne tour de guet",
-    "source": "Ancienne tour de guet",
-    "url": "https://game8.co/games/Genshin-Impact/archives/470225",
-    "type": "weapon",
-    "materials": [
-      {
-        "id": "blazing sacrificial",
-        "name": "Blazing Sacrificial Heart",
-        "image": "https://img.game8.co/3971339/65dfc11f126d0ae0dd97a76accd423e2.png/show",
-        "availability": [
-          "Monday",
-          "Thursday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Earth Shaker",
-            "avatar": ""
-          },
-          {
-            "name": "Surf's Up",
-            "avatar": ""
-          },
-          {
-            "name": "Mountain-Bracing Bolt",
-            "avatar": ""
-          }
-        ]
-      },
-      {
-        "id": "sacred lord",
-        "name": "Delirious Decadence of the Sacred Lord",
-        "image": "https://img.game8.co/3971348/d98657db796774e7d272146733dfd57a.png/show",
-        "availability": [
-          "Tuesday",
-          "Friday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Ring of Yaxche",
-            "avatar": ""
-          },
-          {
-            "name": "Footprint of the Rainbow",
-            "avatar": ""
-          },
-          {
-            "name": "Fang of the Mountain King",
-            "avatar": ""
-          }
-        ]
-      },
-      {
-        "id": "night-wind",
-        "name": "Night-Wind",
-        "image": "https://img.game8.co/3971347/3781f42f433e9f5768f1dd29f310878c.png/show",
-        "availability": [
-          "Wednesday",
-          "Saturday",
-          "Sunday"
-        ],
-        "characters": [
-          {
-            "name": "Chain Breaker",
-            "avatar": ""
-          },
-          {
-            "name": "Flute of Ezpitzal",
-            "avatar": ""
-          },
-          {
-            "name": "Sturdy Bone",
-            "avatar": ""
           }
         ]
       }
