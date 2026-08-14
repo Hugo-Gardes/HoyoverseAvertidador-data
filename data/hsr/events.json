@@ -1,151 +1,9 @@
 [
   {
-    "name": "Fate/Star Rail Night",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601938",
-    "dateText": "07/24 - 08/26",
-    "status": "ongoing",
-    "rewards": [],
-    "imageUrl": "https://img.game8.co/4567846/f8446e0c9ade5acc0279e88f4e37c645.png/show"
-  },
-  {
-    "name": "Free Gilgamesh or Archer",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
-    "dateText": "07/24 - End of 4.6",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Free Gilgamesh or Archer",
-        "totalQuantity": null,
-        "icon": "",
-        "details": {
-          "type": "CHARACTER",
-          "realName": "Gilgamesh",
-          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
-          "rarity": "5-star",
-          "imageUrl": "https://img.game8.co/4510470/cab44c413c1ae484058e78385e5d4427.png/show",
-          "stats": {
-            "Element": "Lightning",
-            "Path": "Destruction",
-            "Base HP": "153",
-            "Base ATK": "97",
-            "Base DEF": "69",
-            "Base SPD": "97"
-          }
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4567787/5ccb5bfff63a3252a6ad0be9dc40f535.png/show"
-  },
-  {
-    "name": "Antigraft Brickbuster",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/608556",
-    "dateText": "07/15 - 08/26",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Self-Modeling Resin",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Tracks of Destiny",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Stellar Jade",
-        "totalQuantity": 900,
-        "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Lost Crystal",
-        "totalQuantity": 30,
-        "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Traveler",
-        "totalQuantity": 22,
-        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Refined Aether",
-        "totalQuantity": 20,
-        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Galaxy Framework",
-        "totalQuantity": 40,
-        "icon": "https://img.game8.co/4522860/e0d07ba4b454d03658bfa9b597da0b32.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Credit",
-        "totalQuantity": 780000,
-        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Trailblaze EXP",
-        "totalQuantity": 100,
-        "icon": "https://img.game8.co/3673582/05dc308fb914b8794ba6e8b880ff9afa.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      },
-      {
-        "itemName": "Honkai The Nameless EXP",
-        "totalQuantity": 1400,
-        "icon": "https://img.game8.co/3707909/c500ee876aa014616cb0b4abcd3fdac2.png/show",
-        "details": {
-          "quantityKnown": true
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4548615/559a819c70dca52fed56afbe11b43a68.png/show"
-  },
-  {
-    "name": "Fate Gift",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/462460",
-    "dateText": "07/15 - 08/26",
-    "status": "ongoing",
-    "rewards": [],
-    "imageUrl": "https://img.game8.co/4531573/1b504c8a3334e8ed855841c1c6961efb.png/show"
-  },
-  {
-    "name": "Stellar Companion",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/592091",
-    "dateText": "04/22 - End of 4.4",
-    "status": "ongoing",
-    "rewards": [],
-    "imageUrl": "https://img.game8.co/4465759/62947e7d156c6bad8b3164100abd7768.png/show"
-  },
-  {
     "name": "4.4 Garden of Plenty",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/413423",
-    "dateText": "Start: 08/14/2026 - 08/24/2026 Get double the rewards when challenging Golden and Crimson Calyxes!",
-    "status": "upcoming",
+    "dateText": "08/14 - 08/24",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Flower of Eternity",
@@ -693,5 +551,1032 @@
       }
     ],
     "imageUrl": "https://img.game8.co/3879154/dfd8d53553bb3199aee5247860190530.png/show"
+  },
+  {
+    "name": "Fate/Star Rail Night",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601938",
+    "dateText": "07/24 - 08/26",
+    "status": "ongoing",
+    "rewards": [],
+    "imageUrl": "https://img.game8.co/4567846/f8446e0c9ade5acc0279e88f4e37c645.png/show"
+  },
+  {
+    "name": "Free Gilgamesh or Archer",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
+    "dateText": "07/24 - End of 4.6",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Free Gilgamesh or Archer",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "type": "CHARACTER",
+          "realName": "Gilgamesh",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
+          "rarity": "5-star",
+          "imageUrl": "https://img.game8.co/4510470/cab44c413c1ae484058e78385e5d4427.png/show",
+          "stats": {
+            "Element": "Lightning",
+            "Path": "Destruction",
+            "Base HP": "153",
+            "Base ATK": "97",
+            "Base DEF": "69",
+            "Base SPD": "97"
+          }
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4567787/5ccb5bfff63a3252a6ad0be9dc40f535.png/show"
+  },
+  {
+    "name": "Antigraft Brickbuster",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/608556",
+    "dateText": "07/15 - 08/26",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Self-Modeling Resin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Stellar Jade",
+        "totalQuantity": 900,
+        "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Lost Crystal",
+        "totalQuantity": 30,
+        "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Traveler",
+        "totalQuantity": 22,
+        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Refined Aether",
+        "totalQuantity": 20,
+        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Galaxy Framework",
+        "totalQuantity": 40,
+        "icon": "https://img.game8.co/4522860/e0d07ba4b454d03658bfa9b597da0b32.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": 780000,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Trailblaze EXP",
+        "totalQuantity": 100,
+        "icon": "https://img.game8.co/3673582/05dc308fb914b8794ba6e8b880ff9afa.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Honkai The Nameless EXP",
+        "totalQuantity": 1400,
+        "icon": "https://img.game8.co/3707909/c500ee876aa014616cb0b4abcd3fdac2.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4548615/559a819c70dca52fed56afbe11b43a68.png/show"
+  },
+  {
+    "name": "Fate Gift",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/462460",
+    "dateText": "07/15 - 08/26",
+    "status": "ongoing",
+    "rewards": [],
+    "imageUrl": "https://img.game8.co/4531573/1b504c8a3334e8ed855841c1c6961efb.png/show"
+  },
+  {
+    "name": "Stellar Companion",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/592091",
+    "dateText": "04/22 - End of 4.4",
+    "status": "ongoing",
+    "rewards": [],
+    "imageUrl": "https://img.game8.co/4465759/62947e7d156c6bad8b3164100abd7768.png/show"
+  },
+  {
+    "name": "Overdrive: Whirlwind Grand Prix",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/615728",
+    "dateText": "Start: Sometime in 4.5 Manage a racing team in the Astropolis Cup Grand Prix and lead them to victory!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Self-Modeling Resin",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Stellar Jade",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Traveler",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Refined Aether",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Lost Crystal",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "The Fluffy Serialization Memorial Issue",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4408332/0ce17fe1377f125bc30430df0ca9bbf4.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4590825/e68e424c8513ab90f90141a78d6cba33.png/show"
+  },
+  {
+    "name": "Miniscule Great Adventure",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/615729",
+    "dateText": "Start: Sometime in 4.5 Assemble the best teams to go on assignment missions and earn rewards based on how well they do!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Tracks of Destiny",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Stellar Jade",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Relic Remains",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656583/4074f66380187a332882b5cff6e5dd74.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Traveler",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Refined Aether",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Lost Gold Fragment",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656203/6d83ee11808bd12cb8e194c4a033a6ee.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Credit",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4590832/2bb49dbc3ed4a5b53467ef8320b7fc24.png/show"
+  },
+  {
+    "name": "4.5 Gift of Odyssey",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/413645",
+    "dateText": "Start: Sometime in 4.5 Log in for 7 days to get 10 Star Rail Special Passes!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Star Rail Special Pass",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3656558/961458b923e39fa39dc2d45a06f9e9bf.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4554934/76d2021ad7d99d52eb2c6dec8591ed33.png/show"
+  },
+  {
+    "name": "4.5 Planar Fissure",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/413440",
+    "dateText": "Start: Sometime in 4.5 Get double the planar ornaments when challenging Worlds in the Simulated Universe!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Inert Salsotto",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656630/bc27a20817b1573bcb99392adeebd39b.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Inert Salsotto",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407402",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%."
+          },
+          "imageUrl": "https://img.game8.co/3656630/bc27a20817b1573bcb99392adeebd39b.png/show"
+        }
+      },
+      {
+        "itemName": "Belobog of the Architects",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3656629/cb59df45af5683ff6faad0148066d9c0.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Belobog of the Architects",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407401",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF."
+          },
+          "imageUrl": "https://img.game8.co/3656629/cb59df45af5683ff6faad0148066d9c0.png/show"
+        }
+      },
+      {
+        "itemName": "Celestial Differentiator",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654329/a7907170a2e52fcc911144a4607c6dbb.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Celestial Differentiator",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407400",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+          },
+          "imageUrl": "https://img.game8.co/3654329/a7907170a2e52fcc911144a4607c6dbb.png/show"
+        }
+      },
+      {
+        "itemName": "Pan-Cosmic Commercial Enterprise",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654332/3dd8cac060e74b6bb6614f23e44adf3f.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Pan-Cosmic Commercial Enterprise",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407399",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+          },
+          "imageUrl": "https://img.game8.co/3654332/3dd8cac060e74b6bb6614f23e44adf3f.png/show"
+        }
+      },
+      {
+        "itemName": "Sprightly Vonwacq",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654331/3add11aab1accfdd9fb10ae71b295c20.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Sprightly Vonwacq",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407398",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
+          },
+          "imageUrl": "https://img.game8.co/3654331/3add11aab1accfdd9fb10ae71b295c20.png/show"
+        }
+      },
+      {
+        "itemName": "Talia: Kingdom of Banditry",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654327/9437d7f31f81876a28655a6a17e35366.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Talia: Kingdom of Banditry",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407397",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break effect increases by an extra 20%."
+          },
+          "imageUrl": "https://img.game8.co/3654327/9437d7f31f81876a28655a6a17e35366.png/show"
+        }
+      },
+      {
+        "itemName": "Fleet of the Ageless",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654330/feb3f15590e1ac6c9ec4c981e019f03f.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Fleet of the Ageless",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407391",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+          },
+          "imageUrl": "https://img.game8.co/3654330/feb3f15590e1ac6c9ec4c981e019f03f.png/show"
+        }
+      },
+      {
+        "itemName": "Space Sealing Station",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654328/1d4ac3b10db403b5a4d1f449fda05f2c.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Space Sealing Station",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/407390",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
+          },
+          "imageUrl": "https://img.game8.co/3654328/1d4ac3b10db403b5a4d1f449fda05f2c.png/show"
+        }
+      },
+      {
+        "itemName": "Rutilant Arena",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733823/daa9fcadfc786e31240beccd5b973c30.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Rutilant Arena",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415811",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%."
+          },
+          "imageUrl": "https://img.game8.co/3733823/daa9fcadfc786e31240beccd5b973c30.png/show"
+        }
+      },
+      {
+        "itemName": "Broken Keel",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733798/3efa0fd812ce12d41551e5fe16bd0605.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Broken Keel",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415813",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%."
+          },
+          "imageUrl": "https://img.game8.co/3733798/3efa0fd812ce12d41551e5fe16bd0605.png/show"
+        }
+      },
+      {
+        "itemName": "Firmament Frontline Glamoth",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3790300/f205b4455e832cdf7012a530f2961d54.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Firmament Frontline Glamoth",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/415943",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG."
+          },
+          "imageUrl": "https://img.game8.co/3790300/f205b4455e832cdf7012a530f2961d54.png/show"
+        }
+      },
+      {
+        "itemName": "Penacony, Land of the Dreams",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Penacony, Land of the Dreams",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/414665",
+          "stats": {
+            "Effet 2 pièces": "Increases wearer's Energy Regeneration Rate by 5%. Increases DMG for all other allies with the same DMG Type as the wearer by 10%."
+          },
+          "imageUrl": "https://img.game8.co/3790299/ddc05f7b49b8fc0eebfaca7ae7a288eb.png/show"
+        }
+      },
+      {
+        "itemName": "Sigonia, the Unclaimed Desolation",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3856821/850687998c4e231d7bcd6906c8f31910.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Sigonia, the Unclaimed Desolation",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448214",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s)."
+          },
+          "imageUrl": "https://img.game8.co/3856821/850687998c4e231d7bcd6906c8f31910.png/show"
+        }
+      },
+      {
+        "itemName": "Izumo Gensei and Takama Divine Realm",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Izumo Gensei and Takama Divine Realm",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448215",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
+          },
+          "imageUrl": "https://img.game8.co/3856822/f1124541ac8136c4edc6a2dc2e4ede38.png/show"
+        }
+      },
+      {
+        "itemName": "Duran, Dynasty of Running Wolves",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3905923/64469825acbde55edb2ffc2e0bb076fe.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Duran, Dynasty of Running Wolves",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457404",
+          "stats": {
+            "Effet 2 pièces": "When allies use follow-up attacks, the wearer gains 1 stack of Merit, stacking up to 5 times. Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%."
+          },
+          "imageUrl": "https://img.game8.co/3905923/64469825acbde55edb2ffc2e0bb076fe.png/show"
+        }
+      },
+      {
+        "itemName": "Forge of the Kalpagni Lantern",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3905924/ee41b6332e0295c3862af39bac45ff39.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Forge of the Kalpagni Lantern",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457405",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s)."
+          },
+          "imageUrl": "https://img.game8.co/3905924/ee41b6332e0295c3862af39bac45ff39.png/show"
+        }
+      },
+      {
+        "itemName": "Lushaka, the Sunken Seas",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3975165/082abaafe8717dc25fe178fd24fa22d8.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Lushaka, the Sunken Seas",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/470753",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by 12%."
+          },
+          "imageUrl": "https://img.game8.co/3975165/082abaafe8717dc25fe178fd24fa22d8.png/show"
+        }
+      },
+      {
+        "itemName": "The Wondrous BananAmusement Park",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3975164/781e54bd78ae8ef38513f52151aaf5a4.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "The Wondrous BananAmusement Park",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/470754",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%."
+          },
+          "imageUrl": "https://img.game8.co/3975164/781e54bd78ae8ef38513f52151aaf5a4.png/show"
+        }
+      },
+      {
+        "itemName": "Bone Collection",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Bone Collection's Serene Demesne",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/499796",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Max HP by 12%. When the wearer's Max HP is 5000 or higher, increases the wearer's and their memosprite's CRIT DMG by 28%."
+          },
+          "imageUrl": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show"
+        }
+      },
+      {
+        "itemName": "Giant Tree of Rapt Brooding",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4109333/ec9648c2b749c3db32e1ba2ab7042184.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Giant Tree of Rapt Brooding",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/499797",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's SPD by 6%. When the wearer's Speed is 135/180 or higher, increases the wearer and their memosprite's Outgoing Healing by 12%/20%."
+          },
+          "imageUrl": "https://img.game8.co/4109333/ec9648c2b749c3db32e1ba2ab7042184.png/show"
+        }
+      },
+      {
+        "itemName": "Arcadia of Woven Dreams",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4202356/cec884edbe2174266304e95bfce2cba6.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Arcadia of Woven Dreams",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/531320",
+          "stats": {
+            "Effet 2 pièces": "When there are currently more or less than 4 ally targets in battle, each additional/missing ally target increases the wearer and their memosprite's DMG by 9%/12%, up to a maximum of 4/3 stacks."
+          },
+          "imageUrl": "https://img.game8.co/4202356/cec884edbe2174266304e95bfce2cba6.png/show"
+        }
+      },
+      {
+        "itemName": "Revelry by the Sea",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4202355/3b8fe90ed65fc9b6dca684cc3abe7d9d.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Revelry by the Sea",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/531331",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's ATK by 12%. When the wearer's ATK is higher than or equal to 2,400/3,600, increases the DoT DMG dealt by 12%/24%."
+          },
+          "imageUrl": "https://img.game8.co/4202355/3b8fe90ed65fc9b6dca684cc3abe7d9d.png/show"
+        }
+      },
+      {
+        "itemName": "Amphoreus, The Eternal Land",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4316950/c11e8a2f5e33d80dd00fed1c8f76d63e.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Amphoreus, The Eternal Land",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/560899",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. While the wearer's memosprite is on the field, increases all allies' SPD by 8%. This effect cannot be stacked."
+          },
+          "imageUrl": "https://img.game8.co/4316950/c11e8a2f5e33d80dd00fed1c8f76d63e.png/show"
+        }
+      },
+      {
+        "itemName": "Tengoku Livestream",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Tengoku Livestream",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/560900",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT DMG by 16%. If 3 or more Skill Points are consumed in the same turn, additionally increases CRIT DMG by 32% for 3 turns."
+          },
+          "imageUrl": "https://img.game8.co/4316949/1626600e819117ba7ff923863831058b.png/show"
+        }
+      },
+      {
+        "itemName": "Punklorde Stage Zero",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4441022/cdb8372bc5e0396c42a6a33e1c4cb600.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Punklorde Stage Zero",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/586430",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's Elation by 8%. When Elation reaches 40%/80% for the first time in battle, increases the wearer's CRIT DMG by 20%/32%."
+          },
+          "imageUrl": "https://img.game8.co/4441022/cdb8372bc5e0396c42a6a33e1c4cb600.png/show"
+        }
+      },
+      {
+        "itemName": "City of Converging Stars",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "City of Converging Stars",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/586432",
+          "stats": {
+            "Effet 2 pièces": "When the wearer uses a Follow-Up ATK, increases their ATK by 24% for 2 turns. When an enemy target is defeated, increases CRIT DMG for all allies by 12% for the rest of the current battle. This effect cannot stack."
+          },
+          "imageUrl": "https://img.game8.co/4441021/5ccc41e6329b6ce04a14c8e96f06c53e.png/show"
+        }
+      },
+      {
+        "itemName": "Cosmic Life Sciences Institute",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Cosmic Life Sciences Institute",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608557",
+          "stats": {
+            "Effet 2 pièces": "When entering combat, if the wearer's Max Energy is greater than or equal to 200, increases the wearer's DMG dealt by 0.2% for every 1 point exceeding this value, up to a max increase of 32%."
+          },
+          "imageUrl": "https://img.game8.co/4548613/7bdc0728794d6ed1b0cc15d33c028ed1.png/show"
+        }
+      },
+      {
+        "itemName": "Fallen Star Anchorage",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4548614/6f647f2fbb3bf4f8cd633b21629c54aa.png/show",
+        "details": {
+          "type": "PLANAR_ORNAMENT",
+          "realName": "Fallen Star Anchorage",
+          "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608555",
+          "stats": {
+            "Effet 2 pièces": "Increases the wearer's CRIT Rate by 8%. When entering combat, if the wearer and another teammate are both Trailblaze Companions characters, increases the wearer's CRIT DMG by 32%."
+          },
+          "imageUrl": "https://img.game8.co/4548614/6f647f2fbb3bf4f8cd633b21629c54aa.png/show"
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 3",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733815/bd5e51e5715c56a3dbaadef1824bbd95.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 4",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733816/61ee1d697bd483e5fa50545cdb7ace36.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 5",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733817/0f64a512079408002121e9cb36472e66.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 6",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733818/40b77f18e55c03544be653ef0587f3c5.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 7",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733819/2eec99e4609f1558a2cc6b079f6f02e5.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 8",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3802033/4eb26cf95402270cb8e10d66b4248ea1.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Simulated Universe World 9",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3856918/c70ab5e11abfa6f7091b6953ee29d86b.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Honkai Divergent Universe",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3905967/73483a3e036596c817c47abad9f6361b.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/3868033/2c18a3945dd42c91268e80f38208cabf.png/show"
+  },
+  {
+    "name": "4.5 Realm of the Strange",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/417674",
+    "dateText": "Start: Sometime in 4.5 Get double the relics when challenging Caverns of Corrosion!",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Wastelander of Banditry Desert",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654316/81f43bfa6538008c9de73a88e76a1ec3.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Firesmith of Lava-Forging",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654310/a2146e4b9c266e6417d6b0db6c53bdce.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Eagle of Twilight Line",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654312/9fd9a86ea051ae9033d33a3b0d606165.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Genius of Brilliant Stars",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654307/8dd1b8aacb2bfba8edef66a2e4370891.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Guard of Wuthering Snow",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654309/63f46cb0f55e5a8eabdcec835a768b11.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Thief of Shooting Meteor",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654337/f779082b941a1a0858910bf6e16d31b8.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Champion of Streetwise Boxing",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654313/51b2c495278a0711622b6f96ec237cf8.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Band of Sizzling Thunder",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654314/90cf6c66825688704c5d0785a9961af5.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Knight of Purity Palace",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654224/0ae4a6d2fe10d003601682961d98ba72.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Hunter of Glacial Forest",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654311/f30b46f257b8d79f58a69461f1abfabc.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Musketeer of Wild Wheat",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654252/9523268786cc89c1faf8cf3d6fa57811.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Passerby of Wandering Cloud",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3654308/0b48f6ffd08194f12347818f4916660b.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Longevous Disciple",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733822/4bf63c392c5a68cc9a4f5a956b71e616.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Messenger Traversing Hackerspace",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3733791/b71daa003a5dbe028e296844c131d851.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "The Ashblazing Grand Duke",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3790301/6c28bd78095fdad984b87ade33a9e8c1.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Prisoner in Deep Confinement",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3790302/f89cea6f41134650ff7ce87d4eefc5a5.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Pioneer Diver of Dead Waters",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3828134/0d9827da3026a7d2522a750d459f7654.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Watchmaker, Master of Dream Machinations",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3828135/3c411f0a480e94e300565e3881efcbf1.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Iron Cavalry Against the Scourge",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3905922/1c3706822a4484a3765f41d6f04316aa.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "The Wind-Soaring Valorous",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3905921/9c56f37e1a430052970059f1ed733ac2.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Scholar Lost in Erudition",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4015301/f4f772b5e0130f4b01a0d184109855f9.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Sacerdos",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4015302/2dd33774607aa01aa5d6b6dc7d327425.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Hero of Triumphant Song",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4075071/79cdcd77b0ca249e82c6ed16bfd63255.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Poet of Mourning Collapse",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4075072/204b63ae1d2fc8fa652910b0be93ddc5.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Warrior Goddess of Sun and Thunder",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4168899/f88d4d9e367119e644b3d6a21430c276.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Wavestrider Captain",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4168900/ad2d1f4062163f79833501194d4423b0.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "World-Remaking Deliverer",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4277536/1bc8b5b473fd082fe6510c72f8a0e015.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Self-Enshrouded Recluse",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4277535/84041b966adcdd7750f2cc48644a4eb0.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Diviner of Distant Reach",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4408597/3f6645a818ec1fd2d5f10426583e7f05.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Ever-Glorious Magical Girl",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4408598/71b110b17c67ba80bfb1105b3f2f7dcd.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "As Navigator Isee Sees It",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4511362/ed7c42e6d14a6631edcc0a1e5feb7867.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Divine-Querying Master Smith",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4511361/630e161272987ab39a584e6009a45cc8.png/show",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/3873594/d47a446373bf2920531dd30112d1dcc5.png/show"
   }
 ]
