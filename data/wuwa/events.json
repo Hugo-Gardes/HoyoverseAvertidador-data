@@ -34,6 +34,20 @@
     ]
   },
   {
+    "name": "Chord Cleansing",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
+    "dateText": "August 12, 2026 - August 19, 2026 Reach Union Level 19",
+    "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Complete Tacet Suppressions For Double Drop",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ]
+  },
+  {
     "name": "Lollo Campaign: New Journey",
     "link": "https://game8.co/games/Wuthering-Waves/archives/458245",
     "dateText": "August 6, 2026 - August 19, 2026 Reach Union Level 14 and activate the Four Chime Shaftpost in Chapter 4 Act 1 \"The Wind Before the Storm\"",
@@ -509,20 +523,6 @@
     "rewards": [
       {
         "itemName": "Astrites and Materials",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ]
-  },
-  {
-    "name": "Chord Cleansing",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
-    "dateText": "August 12, 2026 - August 19, 2026 Earn double echo and echo leveling material drops during this event!",
-    "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
-    "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "Complete Tacet Suppressions For Double Drop",
         "icon": "",
         "totalQuantity": null
       }

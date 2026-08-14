@@ -235,7 +235,7 @@
         },
         {
           "name": "Heartcrusher",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
+          "icon": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
           "description": "Agent CRIT DMG increases by 30%. · ATK of Agents with Attack specialty increases by 10%. Their Basic Attack DMG increases by 30% and ignore 15% of enemy DEF."
         }
       ],
