@@ -221,7 +221,7 @@
       "nameFr": "Assaut mortel",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
       "version": "3.1",
-      "phaseName": "2026-07-29",
+      "phaseName": "2026-08-14",
       "selectableBuffs": [
         {
           "name": "United Strength",
@@ -229,19 +229,19 @@
           "description": "If there are 2/3 Agents in the squad with Anomaly specialty, the whole squad's Anomaly Proficiency increases by 30/70 respectively, and Attribute Anomaly DMG dealt increases by 10%/25% respectively. · After inflicting an Attribute Anomaly on an enemy, the enemy's All-Attribute RES is reduced by 15% for 10s. Repeated triggers reset the duration."
         },
         {
-          "name": "Sneak Attack",
+          "name": "Frost Reins",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
-          "description": "Agent ATK increases by 10%, their Anomaly Proficiency increases by 30 pts, and their CRIT DMG increases by 40%. · After an Agent inflicts Attribute Anomaly on an enemy, their DEF decreases by 10% for 10s. Repeated triggers reset the duration."
+          "description": "For Agents with Attack specialty, their ATK increases by 25%. When their Basic Attack, EX Special Attack, or Chain Attack hits an enemy, it ignores 30% of the target's Ice RES and Ether RES. · When an Agent hits a Stunned enemy, the target's Stun DMG Multiplier increases by 40% for 5s. Repeated triggers reset the duration."
         },
         {
-          "name": "Heartcrusher",
-          "icon": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-          "description": "Agent CRIT DMG increases by 30%. · ATK of Agents with Attack specialty increases by 10%. Their Basic Attack DMG increases by 30% and ignore 15% of enemy DEF."
+          "name": "Breakthrough",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Icon_Deadly_Assault_Buff_%28Ruin%29.png/revision/latest/scale-to-width-down/45?cb=20251017135136",
+          "description": "Rupture specialty Agent Sheer DMG increases by 15%, and reduces Miasma Shield 30% faster. · While in Ether Veil, Agent Ether DMG increases by 25%, and hitting an enemy makes its Stun DMG Multiplier increase by 25% for 10s. Repeated triggers reset the duration."
         }
       ],
       "sharedMechanics": [],
-      "startTime": 1785290400,
-      "endTime": 1786651199,
+      "startTime": 1786651200,
+      "endTime": 1787860799,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -303,19 +303,23 @@
           "waves": []
         },
         {
-          "name": "Notorious - Dead End Butcher",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/35/Enemy_Notorious_-_Dead_End_Butcher.png/revision/latest/scale-to-width-down/185?cb=20250126004610",
+          "name": "Ye Shiyuan the Thrall",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Ye_Shiyuan_the_Thrall.png/revision/latest/scale-to-width-down/185?cb=20251126232024",
           "stage": "Trial Mode: Second Challenge",
           "level": "70",
           "weaknesses": [
             "Ice",
-            "Ether"
+            "Physical",
+            "Wind"
           ],
-          "resistances": [],
+          "resistances": [
+            "Electric"
+          ],
           "isBonus": false,
           "mechanics": [
-            "DMG dealt to boss enemies by Attribute Anomaly is increased by 50%. While Notorious - Dead End Butcher is in Ether Enhanced state, the DMG it takes is reduced by 15%, and the Daze value dealt by Agents to it is reduced by 30%. Triggering Disorder on Notorious - Dead End Butcher immediately forces it to exit the Ether Enhanced state.",
-            "Successfully inflicting Disorder grants 300 Performance Points, up to a maximum of 5,000."
+            "When Sobek and The Thrall alternate turns, The Thrall gains 1 stack of Contract and Self-Sacrifice. Contract and Self-Sacrifice can stack up to 3 times. Each stack of Contract increases All-Attribute Anomaly Buildup RES by 15%, each stack of Self-Sacrifice increases The Thrall's Stun DMG Multiplier by 10%. When The Thrall is Stunned, CRIT DMG taken increases by 50%.",
+            "When Agents inflict Weakened on Sobek and The Thrall, 1,500 Performance Points will be awarded. When an Agent eliminates Sobek, 2,000 Performance Points will be awarded. Up to a maximum of 5,000 Performance Points can be earned.",
+            "Suitable for Agents with Stun specialty."
           ],
           "objectives": [
             "1 étoile — Reach 6,000 points within the time limit",
@@ -325,40 +329,44 @@
           "waves": []
         },
         {
-          "name": "Unknown Corruption Complex",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/15/Enemy_Unknown_Corruption_Complex.png/revision/latest/scale-to-width-down/185?cb=20240725120604",
+          "name": "Miasma Priest",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/31/Enemy_Miasma_Priest.png/revision/latest/scale-to-width-down/185?cb=20250607225806",
           "stage": "Trial Mode: Third Challenge",
           "level": "70",
           "weaknesses": [
-            "Electric",
             "Ether"
           ],
-          "resistances": [],
+          "resistances": [
+            "Ice"
+          ],
           "isBonus": false,
           "mechanics": [
-            "When dealing sufficient DMG to the boss enemy's legs, Impaired will be triggered. Upon successfully breaking the boss enemy's legs, the Agent restores 1,000 Decibels, and the boss gains 1 stack of Disintegration for 20 seconds, up to a maximum of 4 stacks. When the Agent's attacks hit an enemy, for each stack of Disintegration the target has, CRIT DMG is increased by 25%.",
-            "Successfully impairing an enemy grants 800 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+            "When the Miasma Priest switches phase, their Anomaly Buildup RES increases by 10% and CRIT DMG taken increases by 30%. This effect can stack up to 2 times and is cleared when Miasmic Shield breaks.",
+            "When an Agent successfully performs 3 Defensive Assists within 3 seconds, earn 1,000 Performance Points. A maximum of 5,000 Performance Points can be obtained.",
+            "Suitable for Agents with Rupture specialty."
           ],
           "objectives": [
-            "1 étoile — Reach 6,000 points within the time limit",
-            "2 étoiles — Reach 14,000 points within the time limit",
-            "3 étoiles — Reach 20,000 points within the time limit"
+            "1 étoile — Reach 6000 points within the time limit",
+            "2 étoiles — Reach 14000 points within the time limit",
+            "3 étoiles — Reach 20000 points within the time limit"
           ],
           "waves": []
         },
         {
-          "name": "Integrated - Girtablullu",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/Enemy_Integrated_-_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260803005102",
+          "name": "Rewritten - Sanguine Sweeper",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2c/Enemy_Rewritten_-_Sanguine_Sweeper.png/revision/latest/scale-to-width-down/185?cb=20260506205432",
           "stage": "Adversity Mode",
           "level": "70",
-          "weaknesses": [],
-          "resistances": [],
+          "weaknesses": [
+            "Ice"
+          ],
+          "resistances": [
+            "Physical"
+          ],
           "isBonus": true,
           "mechanics": [
-            "When an Agent's attack hits a Boss, the Boss gains 1 point of Dissonance. The same Agent can apply at most 1 point of Dissonance every 1s.",
-            "When a Boss accumulates 10 points of Dissonance, all Dissonance points are immediately removed and the Boss enters the Dissonant state. While in the Dissonant state, enemies take 40% bonus Attribute Anomaly DMG for 10s. Re-entering the Dissonant state resets the duration.",
-            "When an Agent successfully inflicts an Attribute Anomaly on a Boss, all Agents on the squad gain the Transmutation effect: DMG dealt increases by 15% and Anomaly Proficiency increases by 20 points. The Transmutation effect lasts 10s, and repeated triggers reset the duration.",
-            "Each time you successfully parry an attack from Girtablullu's summoned minions and trigger Active Conversion, you gain 500 Performance Points; successfully triggering Chain Parry against Girtablullu's attacks grants 1000 Performance Points, up to 3 times; if you successfully break the Corruptive Barrier within 25s of Girtablullu first activating Corruptive Barrier, you gain 1500 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+            "When an Agent lands Shutdown on an enemy, the enemy's All-Attribute RES decreases by 10%, Agents with Attack specialty gain 20% bonus ATK, 25% bonus PEN Ratio, and their Ice and Ether CRIT DMG increases by 60%. Upon triggering a special stagger, the whole squad's Anomaly Proficiency increases by 40 pts and their Anomaly DMG increases by 30%.",
+            "Each successful counter and subsequent trigger of a special stagger against the Boss's attacks grants 1,000 Performance Points. During the Control Skill, each successful counter against the Boss's attacks grants 500 Performance Points. Performing a Shutdown on the Boss's Control Skill grants 1,500 Performance Points. Maximum obtainable Performance Points: 5,000."
           ],
           "objectives": [
             "1 étoile — Reach 10,000 points within the time limit",
