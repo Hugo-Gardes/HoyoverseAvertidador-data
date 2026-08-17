@@ -48,21 +48,21 @@
       "stages": [
         {
           "stage": "Floor 1",
-          "name": "Feilian Beringal",
-          "icon": "https://img.game8.co/4306583/b8acf6ded0bcc0f9224d4b1fbf2d9bf9.png/show",
+          "name": "Sentry Construct",
+          "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Aero"
+            "Glacio"
           ],
           "effects": [
             {
               "name": "",
-              "description": "Enemies' Fusion RES & Spectro RES are decreased by 10%, and their Aero RES & Electro RES are increased by 10%."
+              "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
             },
             {
               "name": "",
-              "description": "Resonators gain 30% Fusion and Spectro DMG Bonus. Inflicting Tunability - Shifting increases ATK by 30% for 30s."
+              "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
             }
           ],
           "objectives": [
@@ -72,30 +72,30 @@
           ],
           "enemies": [
             {
-              "name": "Feilian Beringal",
-              "icon": "https://img.game8.co/4306583/b8acf6ded0bcc0f9224d4b1fbf2d9bf9.png/show",
+              "name": "Sentry Construct",
+              "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 2",
-          "name": "Nameless Explorer",
-          "icon": "https://img.game8.co/4403557/87c5ac6b0bf96ca51e111271e3751822.png/show",
+          "name": "Lampylumen Myriad",
+          "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Aero",
-            "Electro"
+            "Electro",
+            "Glacio"
           ],
           "effects": [
             {
               "name": "",
-              "description": "Enemies' Fusion RES & Spectro RES are decreased by 10%, and their Aero RES & Electro RES are increased by 10%."
+              "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
             },
             {
               "name": "",
-              "description": "Resonators gain 30% Fusion and Spectro DMG Bonus. Inflicting Tunability - Shifting increases ATK by 30% for 30s."
+              "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
             }
           ],
           "objectives": [
@@ -115,20 +115,20 @@
               "count": 1
             },
             {
-              "name": "Nameless Explorer",
-              "icon": "https://img.game8.co/4403557/87c5ac6b0bf96ca51e111271e3751822.png/show",
+              "name": "Lampylumen Myriad",
+              "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 3",
-          "name": "Tempest Mephis",
-          "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+          "name": "Mourning Aix",
+          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Electro"
+            "Spectro"
           ],
           "effects": [
             {
@@ -137,11 +137,11 @@
             },
             {
               "name": "",
-              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tunability - Shifting."
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
             },
             {
               "name": "",
-              "description": "When the Resonator casts a Tune Break skill, the total DMG of all Resonators in the team is increased by 10%. This effect can be triggered once every 15s and can stack up to 3 times. Resonators deal 45% more total DMG to enemies after inflicting Havoc Bane for 30s."
+              "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
             }
           ],
           "objectives": [
@@ -151,35 +151,40 @@
           ],
           "enemies": [
             {
-              "name": "Spacetrek Explorer",
-              "icon": "https://img.game8.co/4364351/562d030947d24b8c355492ee1a3e909a.png/show",
+              "name": "Rocksteady Guardian",
+              "icon": "https://img.game8.co/4306618/536a011aff51b718fc78cce3db35a67c.png/show",
               "count": 1
             },
             {
-              "name": "Mining Reindeer",
-              "icon": "https://img.game8.co/4364348/8b16ac59e4c1799fad14d3aaa1fad42a.png/show",
+              "name": "Cruisewing",
+              "icon": "https://img.game8.co/4306811/54fc93300cc1b8e69f5cea8eff52cebc.png/show",
               "count": 1
             },
             {
-              "name": "Questless Knight",
-              "icon": "https://img.game8.co/4306621/3068ed26a4510868774f148afd6bd68c.png/show",
+              "name": "Voidwing Moth",
+              "icon": "https://img.game8.co/4485572/704000b8b492511e104e5a9c7ce81de7.png/show",
               "count": 1
             },
             {
-              "name": "Tempest Mephis",
-              "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+              "name": "Diurnus Knight",
+              "icon": "https://img.game8.co/4306586/0af5e7ece9a9c12b210c586392f57cf1.png/show",
+              "count": 1
+            },
+            {
+              "name": "Mourning Aix",
+              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 4",
-          "name": "Thundering Mephis",
-          "icon": "https://img.game8.co/4306518/625feef085ed72f54ffcb8c93ecd7589.png/show",
+          "name": "Fallacy of No Return",
+          "icon": "https://img.game8.co/4306582/1b7a3068230f5da90e7cd8eb820a7364.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Electro"
+            "Spectro"
           ],
           "effects": [
             {
@@ -188,11 +193,11 @@
             },
             {
               "name": "",
-              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tunability - Shifting."
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
             },
             {
               "name": "",
-              "description": "When the Resonator casts a Tune Break skill, the total DMG of all Resonators in the team is increased by 10%. This effect can be triggered once every 15s and can stack up to 3 times. Resonators deal 45% more total DMG to enemies after inflicting Havoc Bane for 30s."
+              "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
             }
           ],
           "objectives": [
@@ -202,13 +207,13 @@
           ],
           "enemies": [
             {
-              "name": "Mech Abomination",
-              "icon": "https://img.game8.co/4306601/b6c1a8ac399238277263c5208572beb6.png/show",
+              "name": "Sigillum",
+              "icon": "https://img.game8.co/4403553/42705d25a4ac895943f61016455af71f.png/show",
               "count": 1
             },
             {
-              "name": "Thundering Mephis",
-              "icon": "https://img.game8.co/4306518/625feef085ed72f54ffcb8c93ecd7589.png/show",
+              "name": "Fallacy of No Return",
+              "icon": "https://img.game8.co/4306582/1b7a3068230f5da90e7cd8eb820a7364.png/show",
               "count": 1
             }
           ]
