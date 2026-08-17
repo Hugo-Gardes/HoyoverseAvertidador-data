@@ -1993,15 +1993,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451739",
         "details": {
-          "Type": "Attack",
-          "Base ATK": "46",
-          "Advanced Stat": "CRIT Rate 9.60%",
-          "Effect": "Metal Cat Claws Increases Physical DMG by 20%. The equipper's DMG increases by 25% when attacking the enemy from behind.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "684",
-          "Max Advanced Stat (CRIT Rate)": "24.00%",
           "Availability": "Selectable S-Rank W-Engine option"
         }
       },

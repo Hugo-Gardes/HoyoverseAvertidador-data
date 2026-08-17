@@ -5,12 +5,12 @@
       "name": "Memory of Chaos",
       "icon": "https://img.game8.co/3994389/b13cbf6cab0fd2378d6d6f50f4eb536f.png/show",
       "version": "4.3",
-      "phaseName": "Academy Ghost Story",
-      "buff": "Increases Ultimate and Follow-Up ATK DMG dealt by ally targets by 50%. After an ally character uses an Ultimate or Follow-Up ATK, adds 1 hit(s) to \"Memory Turbulence,\" stacking up to 15 hit(s). At the start of each Cycle, each hit of \"Memory Turbulence\" deals 1 instance of True DMG to one random enemy target.",
+      "phaseName": "Stormcleanse",
+      "buff": "At the beginning of each Cycle, randomly causes an ally target following the Path of The Hunt or the Path of Erudition to take action immediately, and increases their DMG dealt by 80% for 1 turn(s).",
       "buffs": [],
       "selectableBuffs": [],
-      "startTime": 1783296000,
-      "endTime": 1786924800,
+      "startTime": 1786924800,
+      "endTime": 1790553600,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/419660",
       "rewards": [
         {

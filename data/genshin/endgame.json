@@ -1,11 +1,11 @@
 {
   "spiralAbyss": {
-    "version": "6.7",
+    "version": "7.0",
     "blessing": "Ice-Surging Moon",
     "firstHalfBuff": "First Half Characters' Superconduct DMG increased by 200% and Stellar-Conduct DMG increased by 75%.",
-    "secondHalfBuff": "Second Half Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.",
-    "startTime": 1785542400,
-    "endTime": 1786838400,
+    "secondHalfBuff": "Second Half Characters' Normal Attack Pyro DMG increased by 75%.",
+    "startTime": 1788220800,
+    "endTime": 1789516800,
     "chambers": [
       {
         "chamber": 1,
@@ -14,14 +14,19 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Thundering Wayob Manifestation",
-                "count": 4,
-                "icon": "https://img.game8.co/4139756/8408dbfdcbbb0aa0a307f93fe9016ff3.png/show"
+                "name": "Ruin Scout",
+                "count": 1,
+                "icon": "https://img.game8.co/3394505/a766c96103e93f3fa75e61bb3634aad3.png/show"
               },
               {
-                "name": "Gleaming Charge: Frostnight Scion",
+                "name": "Ruin Cruiser",
                 "count": 1,
-                "icon": "https://img.game8.co/4276607/92f7f43e6c71aad5e4782a9864e30a88.png/show"
+                "icon": "https://img.game8.co/3394503/dfe1d3b026458b5ca94bafe4e5fdf2d1.png/show"
+              },
+              {
+                "name": "Perpetual Mechanical Array",
+                "count": 1,
+                "icon": "https://img.game8.co/3393127/3c2d91cb79abbd5007d30f4b7512cd68.png/show"
               }
             ]
           },
@@ -29,14 +34,14 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Maguu Kenki",
+                "name": "Construction Specialist Mek",
                 "count": 1,
-                "icon": "https://img.game8.co/3664740/aed34d7edf9bb66a7e7f317ce1c1ee8d.png/show"
+                "icon": "https://img.game8.co/3752652/dfe3c50c14184e4a0d8ea22c3d2efc10.png/show"
               },
               {
-                "name": "Wilderness Hunter",
+                "name": "Icewind Suite",
                 "count": 1,
-                "icon": "https://img.game8.co/4275252/74a53445db3a33411b05b0d86f718d07.png/show"
+                "icon": "https://img.game8.co/3755388/c2778918781015aac8adaac432d35237.png/show"
               }
             ]
           }
@@ -49,14 +54,14 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Ruin Drake - Earthguard",
-                "count": 2,
-                "icon": "https://img.game8.co/3570616/542ff400a33e8263dd529da8f9145800.png/show"
+                "name": "Chimeric Horned Bear",
+                "count": 1,
+                "icon": "https://img.game8.co/4590099/d1776bf2a10b6a7638f439426ee54951.png/show"
               },
               {
-                "name": "Aeonblight Drake",
+                "name": "Chimeric Winged Lion",
                 "count": 1,
-                "icon": "https://img.game8.co/3588123/dc7148337f052d42a701591aa1630d96.png/show"
+                "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
               }
             ]
           },
@@ -64,19 +69,14 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Jadeplume Terrorshroom",
+                "name": "Cryo Abyss Mage",
                 "count": 1,
-                "icon": "https://img.game8.co/3570408/347ee7bf9425110cc92739ccd3863832.png/show"
+                "icon": "https://img.game8.co/3345414/a6da7c1ff151bfe5d99f4d8e3da7eac0.png/show"
               },
               {
-                "name": "Grounded Geoshroom",
-                "count": 3,
-                "icon": "https://img.game8.co/3589928/04d4790b15e1ebbc3cc8aef20ac4ff76.png/show"
-              },
-              {
-                "name": "Grounded Hydroshroom",
-                "count": 3,
-                "icon": "https://img.game8.co/3567689/0a441b716add1fac7c4b2e820bd29a69.png/show"
+                "name": "Iniquitous Baptist",
+                "count": 1,
+                "icon": "https://img.game8.co/3674926/b2c8ad06396b2500fa18c33f68fcd20b.png/show"
               }
             ]
           }
@@ -89,9 +89,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Battle-Hardened Precursor's Secret Source Matrix of Overseer Network",
+                "name": "Furiosa",
                 "count": 1,
-                "icon": ""
+                "icon": "https://img.game8.co/4588827/295909deef50108328353f88026af41a.png/show"
               }
             ]
           },
@@ -99,14 +99,14 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Iktomisaurus Warrior - Icy Tidebearer",
+                "name": "Secret Source Automaton: Hunter-Seeker",
                 "count": 1,
-                "icon": "https://img.game8.co/4049717/19a012c6ca4d572ea7bfb2742655f5d0.png/show"
+                "icon": "https://img.game8.co/3973677/471ec4556f5837af2ae7437065e6d4af.png/show"
               },
               {
-                "name": "Battle-Hardened Pipilpan Idol",
+                "name": "Gluttonous Yumkasaur Mountain King",
                 "count": 1,
-                "icon": "https://img.game8.co/4242757/799399fad660c0fdfba89a0f89779658.png/show"
+                "icon": "https://img.game8.co/4019342/7ad958c116cbe952a0069989eb97e62e.png/show"
               }
             ]
           }
