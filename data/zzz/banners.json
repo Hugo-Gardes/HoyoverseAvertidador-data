@@ -265,7 +265,12 @@
           "Attribute": "Ice",
           "Specialty": "Attack",
           "Type": "Pierce",
-          "Faction": "Airspace Patrol Department"
+          "Faction": "Airspace Patrol Department",
+          "HP": "TBD",
+          "ATK": "TBD",
+          "DEF": "TBD",
+          "Impact": "TBD",
+          "Anomaly Mastery": "TBD"
         }
       }
     ],
@@ -1155,9 +1160,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611634",
         "details": {
+          "Type": "Attack",
+          "Base ATK": "48",
+          "Advanced Stat": "CRIT DMG 19.20%",
+          "Effect": "Knight's Rite When the Agent's Basic or EX Special Attack heavy attack hits an enemy, gain 1 Battle Edge, increasing CRIT DMG by 32% for 25s. Battle Edge stacks up to 2 times, and each skill type provides up to 1 stack. Repeated triggers refresh the duration of all Battle Edge. At 2 stacks of Battle Edge, the Agent gains Bonechill, ignoring 20% of Ice RES.",
           "Attribute": "Ice",
           "Specialty": "Attack",
-          "Faction": "Roscaelifer Airspace Patrol Department"
+          "Faction": "Roscaelifer Airspace Patrol Department",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (CRIT DMG)": "48%"
         }
       }
     ],

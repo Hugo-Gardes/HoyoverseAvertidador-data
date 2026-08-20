@@ -1,677 +1,108 @@
 [
   {
-    "name": "The Lifeline",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/613170",
-    "image": "https://img.game8.co/4571063/6a2886fde22ec3618e3641cfcc822c72.jpeg/show",
-    "rateUp5Star": [
-      {
-        "name": "Iroi",
-        "icon": "https://img.game8.co/4528915/707ae81c46026619dae1758d3a063f26.png/show",
-        "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/604678",
-        "details": {
-          "Element": "Anima",
-          "Role": "Survival"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Haniel",
-        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
-        "type": "Psyche",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596596",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Buff"
-        }
-      },
-      {
-        "name": "Aurelia",
-        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
-        "type": "Psyche",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596599",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Damage"
-        }
-      },
-      {
-        "name": "Skia",
-        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
-        "type": "Lakshana",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596598",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
-      }
-    ],
+    "name": "Alluring Shadows",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "image": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
     "status": "active",
-    "startTime": 1785283200,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Dreamgate Special",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/613178",
-    "image": "https://img.game8.co/4571071/c2435b99d2f6e3e9e820af64cdfa441a.jpeg/show",
     "rateUp5Star": [
       {
-        "name": "The Wrong Gate",
-        "icon": "https://img.game8.co/4544539/a41c2c0120f59a7e182c3083d1344e62.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/607111",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Reality Refuge",
-        "icon": "https://img.game8.co/4484734/94d97ab1991a75d89a50dfdfa682d0fe.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597523",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Youthful Fantasy",
-        "icon": "https://img.game8.co/4484741/b3fdbbaf8007695003907aafe723b747.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597543",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Good Boy's Grand Adventure",
-        "icon": "https://img.game8.co/4485139/208dd0edceff419aa1a3aa893dcff659.png/show",
-        "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597512",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "31",
-          "Substat": "ATK",
-          "Type": "Gas"
-        }
-      },
-      {
-        "name": "Camellia Society",
-        "icon": "https://img.game8.co/4485138/4e913a3e05c74ef7fcfa14b329a6cb85.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597560",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Raging Flames",
-        "icon": "https://img.game8.co/4484726/daea9a61e0eb415f774732f71d9de33b.png/show",
-        "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597536",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT DMG",
-          "Type": "Plasma"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "status": "active",
-    "startTime": 1785283200,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Before the Dawn",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/608875",
-    "image": "https://img.game8.co/4551211/e5f02b8c0e1dede94043d7cb584e819a.png/show",
-    "rateUp5Star": [
-      {
-        "name": "Shinku",
-        "icon": "https://img.game8.co/4528654/e7eec170eea0a3bc3c7b547ba1a47e3b.png/show",
-        "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/604677",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Edgar",
-        "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
-        "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596589",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Survival"
-        }
-      },
-      {
-        "name": "Mint",
-        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
-        "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596587",
-        "details": {
-          "Element": "Anima",
-          "Role": "Damage"
-        }
-      },
-      {
-        "name": "Adler",
-        "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
-        "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596593",
-        "details": {
-          "Element": "Incantation",
-          "Role": "Survival"
-        }
-      }
-    ],
-    "status": "history",
-    "startTime": 1783468800,
-    "endTime": 1785283200
-  },
-  {
-    "name": "Resolve Special",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/608874",
-    "image": "https://img.game8.co/4551006/c2be39bf598868ff0cc37b44c20e3501.png/show",
-    "rateUp5Star": [
-      {
-        "name": "Blushing Mirage",
-        "icon": "https://img.game8.co/4551079/eff939fd5bb2678cc229c2e6e2ef2509.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/607110",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Reality Refuge",
-        "icon": "https://img.game8.co/4484734/94d97ab1991a75d89a50dfdfa682d0fe.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597523",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Youthful Fantasy",
-        "icon": "https://img.game8.co/4484741/b3fdbbaf8007695003907aafe723b747.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597543",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Good Boy's Grand Adventure",
-        "icon": "https://img.game8.co/4485139/208dd0edceff419aa1a3aa893dcff659.png/show",
-        "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597512",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "31",
-          "Substat": "ATK",
-          "Type": "Gas"
-        }
-      },
-      {
-        "name": "Camellia Society",
-        "icon": "https://img.game8.co/4485138/4e913a3e05c74ef7fcfa14b329a6cb85.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597560",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Raging Flames",
-        "icon": "https://img.game8.co/4484726/daea9a61e0eb415f774732f71d9de33b.png/show",
-        "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597536",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT DMG",
-          "Type": "Plasma"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "status": "history",
-    "startTime": 1783468800,
-    "endTime": 1785283200
-  },
-  {
-    "name": "Forsaken Path",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/606538",
-    "image": "https://img.game8.co/4540922/634b8a172e717195a813913f57380e1d.png/show",
-    "rateUp5Star": [
-      {
-        "name": "Chaos",
-        "icon": "https://img.game8.co/4540720/f8b1f6921369b6423d8ebeb5b7158b6b.png/show",
-        "type": "Lakshana",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/599593",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Haniel",
-        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
-        "type": "Psyche",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596596",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Buff"
-        }
-      },
-      {
-        "name": "Aurelia",
-        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
-        "type": "Psyche",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596599",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Damage"
-        }
-      },
-      {
-        "name": "Skia",
-        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
-        "type": "Lakshana",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596598",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "status": "history",
-    "startTime": 1782259200,
-    "endTime": 1783468800
-  },
-  {
-    "name": "Pursuit Special",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/606543",
-    "image": "https://img.game8.co/4540921/ed90063f62288194a3173b075d9b3c9d.png/show",
-    "rateUp5Star": [
-      {
-        "name": "What's Desired",
-        "icon": "https://img.game8.co/4541045/10ed7d9c94924565377e65cce816a9df.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/606611",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Reality Refuge",
-        "icon": "https://img.game8.co/4484734/94d97ab1991a75d89a50dfdfa682d0fe.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597523",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Youthful Fantasy",
-        "icon": "https://img.game8.co/4484741/b3fdbbaf8007695003907aafe723b747.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597543",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Good Boy's Grand Adventure",
-        "icon": "https://img.game8.co/4485139/208dd0edceff419aa1a3aa893dcff659.png/show",
-        "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597512",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "31",
-          "Substat": "ATK",
-          "Type": "Gas"
-        }
-      },
-      {
-        "name": "Camellia Society",
-        "icon": "https://img.game8.co/4485138/4e913a3e05c74ef7fcfa14b329a6cb85.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597560",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Raging Flames",
-        "icon": "https://img.game8.co/4484726/daea9a61e0eb415f774732f71d9de33b.png/show",
-        "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597536",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT DMG",
-          "Type": "Plasma"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "status": "history",
-    "startTime": 1782259200,
-    "endTime": 1783468800
-  },
-  {
-    "name": "Fading Reverie",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/603840",
-    "image": "https://img.game8.co/4522438/b2aeaf496f1c6c2b95982127da2c55fe.png/show",
-    "rateUp5Star": [
-      {
-        "name": "Lacrimosa",
-        "icon": "https://img.game8.co/4521484/72db0032994afcf51667bd06e86f50d7.png/show",
-        "type": "Chaos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/598465",
-        "details": {
-          "Element": "Chaos",
-          "Role": "Damage"
-        }
+        "name": "Zankou",
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
     "rateUp4Star": [
       {
         "name": "Mint",
-        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
-        "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596587",
-        "details": {
-          "Element": "Anima",
-          "Role": "Damage"
-        }
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       },
       {
         "name": "Edgar",
-        "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
-        "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596589",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Survival"
-        }
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       },
       {
         "name": "Adler",
-        "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
-        "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596593",
-        "details": {
-          "Element": "Incantation",
-          "Role": "Survival"
-        }
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
-    "status": "history",
-    "startTime": 1780444800,
-    "endTime": 1782259200
+    "startTime": null,
+    "endTime": 1788904740
   },
   {
-    "name": "Nocturne Special",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/603921",
-    "image": "https://img.game8.co/4522439/37c3382edd41b629e6737984fdb1dce9.png/show",
+    "name": "Spellbound Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "image": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "The Last Rose",
-        "icon": "https://img.game8.co/4522974/373b344b3d61fb096efba779db8235f8.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597544",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Reality Refuge",
-        "icon": "https://img.game8.co/4484734/94d97ab1991a75d89a50dfdfa682d0fe.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597523",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Youthful Fantasy",
-        "icon": "https://img.game8.co/4484741/b3fdbbaf8007695003907aafe723b747.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597543",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Good Boy's Grand Adventure",
-        "icon": "https://img.game8.co/4485139/208dd0edceff419aa1a3aa893dcff659.png/show",
-        "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597512",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "31",
-          "Substat": "ATK",
-          "Type": "Gas"
-        }
-      },
-      {
-        "name": "Camellia Society",
-        "icon": "https://img.game8.co/4485138/4e913a3e05c74ef7fcfa14b329a6cb85.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597560",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Raging Flames",
-        "icon": "https://img.game8.co/4484726/daea9a61e0eb415f774732f71d9de33b.png/show",
-        "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597536",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT DMG",
-          "Type": "Plasma"
-        }
+        "name": "Ravenous Blade",
+        "icon": "",
+        "type": "arc",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
     "rateUp4Star": [],
-    "status": "history",
-    "startTime": 1780444800,
-    "endTime": 1782259200
+    "startTime": null,
+    "endTime": 1788904740
   },
   {
-    "name": "Misty Tipsy Style",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/599330",
-    "image": "https://img.game8.co/4498502/1b2ad08528dc7ddd28072f109b137774.png/show",
+    "name": "The Ichi-daime",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "image": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "Hotori",
-        "icon": "https://img.game8.co/4476585/cc4e03cc4bff70ca00c7ec1710d6b493.png/show",
-        "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596586",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Buff"
-        }
+        "name": "Nanally",
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
     "rateUp4Star": [
       {
-        "name": "Haniel",
-        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
-        "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596596",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Buff"
-        }
+        "name": "Mint",
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       },
       {
-        "name": "Aurelia",
-        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
-        "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596599",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Damage"
-        }
+        "name": "Edgar",
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       },
       {
-        "name": "Skia",
-        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
-        "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596598",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
+        "name": "Adler",
+        "icon": "",
+        "type": "character",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
-    "status": "history",
-    "startTime": 1778630400,
-    "endTime": 1780444800
+    "startTime": null,
+    "endTime": 1788904740
   },
   {
-    "name": "Bright Moon Special",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/599331",
-    "image": "https://img.game8.co/4498503/a63dd8d6a4bd790e5f2136802764c590.png/show",
+    "name": "Tiger Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "image": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "Marching Beyond Time",
-        "icon": "https://img.game8.co/4498737/1de12d52d9c478d64b7c2c811353ef80.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597525",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Reality Refuge",
-        "icon": "https://img.game8.co/4484734/94d97ab1991a75d89a50dfdfa682d0fe.png/show",
-        "type": "arc:Solid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597523",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Solid"
-        }
-      },
-      {
-        "name": "Youthful Fantasy",
-        "icon": "https://img.game8.co/4484741/b3fdbbaf8007695003907aafe723b747.png/show",
-        "type": "arc:Liquid",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597543",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "ATK",
-          "Type": "Liquid"
-        }
-      },
-      {
-        "name": "Good Boy's Grand Adventure",
-        "icon": "https://img.game8.co/4485139/208dd0edceff419aa1a3aa893dcff659.png/show",
-        "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597512",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "31",
-          "Substat": "ATK",
-          "Type": "Gas"
-        }
-      },
-      {
-        "name": "Camellia Society",
-        "icon": "https://img.game8.co/4485138/4e913a3e05c74ef7fcfa14b329a6cb85.png/show",
-        "type": "arc:Condensate",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597560",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT Rate",
-          "Type": "Condensate"
-        }
-      },
-      {
-        "name": "Raging Flames",
-        "icon": "https://img.game8.co/4484726/daea9a61e0eb415f774732f71d9de33b.png/show",
-        "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597536",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "43",
-          "Substat": "CRIT DMG",
-          "Type": "Plasma"
-        }
+        "name": "Ready-Ready",
+        "icon": "",
+        "type": "arc",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html"
       }
     ],
     "rateUp4Star": [],
-    "status": "history",
-    "startTime": 1778630400,
-    "endTime": 1780444800
+    "startTime": null,
+    "endTime": 1788904740
   }
 ]

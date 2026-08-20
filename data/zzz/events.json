@@ -188,12 +188,36 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/611927",
     "dateText": "08/19/2026 - 09/07/2026",
     "imageUrl": "https://img.game8.co/4564412/605f0c167f922da02c0a80b0618f1f4e.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Proxy Wardrobe",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 300,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 100000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
         "details": null
       }
     ]
@@ -218,11 +242,11 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/612051",
     "dateText": "08/19/2026 - 09/08/2026",
     "imageUrl": "https://img.game8.co/4564420/0c15ddd1b9ac7ec20a604cd3519e7d54.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Encrypted Master Tape",
-        "totalQuantity": 7,
+        "totalQuantity": 10,
         "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
@@ -596,9 +620,9 @@
   {
     "name": "Extensive Patrol - Triple Bounty",
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/523546",
-    "dateText": "08/12/2026 - 08/17/2026",
+    "dateText": "Sometime in Version 3.1",
     "imageUrl": "https://img.game8.co/4565605/32d4a70e27e0ba61b03c29b84af75ab6.png/show",
-    "status": "past",
+    "status": "upcoming",
     "rewards": [
       {
         "itemName": "Routine Cleanup materials (triple drops)",

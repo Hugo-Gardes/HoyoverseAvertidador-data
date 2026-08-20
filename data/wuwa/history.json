@@ -1,107 +1,79 @@
 {
   "events": [
     {
-      "name": "Nightmare Challenge (Adam Smasher)",
-      "link": "https://game8.co/games/Wuthering-Waves/archives/604892",
-      "dateText": "Milestone Challenge",
-      "imageUrl": "https://img.game8.co/4530434/39b7a6e261272411c3bcb558ae5f3a35.png/show",
+      "name": "Lollo Campaign: New Journey",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/458245",
+      "dateText": "Virtual Crisis: Quadrant Trials",
+      "imageUrl": "https://img.game8.co/4298202/e12fac42565bd459156fe29106d56407.png/show",
       "status": "past",
       "rewards": [
+        {
+          "itemName": "Lustrous Tide",
+          "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+          "totalQuantity": null
+        },
         {
           "itemName": "Astrite",
           "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 130
+          "totalQuantity": null
         },
         {
-          "itemName": "Premium Sealed Tube",
-          "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-          "totalQuantity": 22
+          "itemName": "Premium Resonance Potion",
+          "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+          "totalQuantity": null
         },
         {
-          "itemName": "Shell Credit",
-          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-          "totalQuantity": 450000
-        },
-        {
-          "itemName": "Reminiscence: Nightmare Adam Smasher  - 5-Star",
-          "icon": "https://img.game8.co/4518196/9c0c9bcee683887ec41468adc90d317a.png/show",
-          "totalQuantity": 6
-        },
-        {
-          "itemName": "Premium Enclosure Tank - Lahai-Roi",
-          "icon": "https://img.game8.co/4374448/5c74b2a3d06d85bd75c9613eb2bde0f6.png/show",
-          "totalQuantity": 10
-        }
-      ]
-    },
-    {
-      "name": "Sweetdream Tuning",
-      "link": "https://game8.co/games/Wuthering-Waves/archives/603717",
-      "dateText": "3.4 Depths of Illusive Realm: Dreamchasers",
-      "imageUrl": "https://img.game8.co/4521401/cf972fa9fe34e2567f0de4e45a39af13.png/show",
-      "status": "past",
-      "rewards": [
-        {
-          "itemName": "Lucy",
-          "icon": "",
-          "totalQuantity": 580
-        }
-      ]
-    },
-    {
-      "name": "Dream of Azure Sky",
-      "link": "https://game8.co/games/Wuthering-Waves/archives/603529",
-      "dateText": "Startorch Racing, Rerun!",
-      "imageUrl": "https://img.game8.co/4520130/6b99cc4e00831317bbba8dc8d527392d.png/show",
-      "status": "past",
-      "rewards": [
-        {
-          "itemName": "Astrite",
-          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 300
-        },
-        {
-          "itemName": "Premium Sealed Tube",
-          "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-          "totalQuantity": 10
-        },
-        {
-          "itemName": "Shell Credit",
-          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-          "totalQuantity": 200000
+          "itemName": "Forgery Premium Supply - Lahai-Roi",
+          "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
+          "totalQuantity": null
         },
         {
           "itemName": "Premium Tuner",
           "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
-          "totalQuantity": 100
-        }
-      ]
-    },
-    {
-      "name": "Gifts of Dreamchasers",
-      "link": "https://game8.co/games/Wuthering-Waves/archives/603544",
-      "dateText": "Matrix Reform",
-      "imageUrl": "https://img.game8.co/4520329/804edeb237221c34f42ac3683209f03b.png/show",
-      "status": "past",
-      "rewards": [
+          "totalQuantity": null
+        },
         {
-          "itemName": "10 Dreamcatcher Tide for 10 Days",
-          "icon": "",
+          "itemName": "Crystal Solvent",
+          "icon": "https://img.game8.co/4312367/f148e79cb7a4a3b69e9863926c2bbcce.png/show",
+          "totalQuantity": null
+        },
+        {
+          "itemName": "Shell Credit",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
           "totalQuantity": null
         }
       ]
     },
     {
-      "name": "Night City Roaming",
-      "link": "https://game8.co/games/Wuthering-Waves/archives/603610",
-      "dateText": "Instant Flashlight",
-      "imageUrl": "https://img.game8.co/4520127/0576bd28c8dbce52ebb368b494b30a81.png/show",
+      "name": "Gifts of Starpath",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/607465",
+      "dateText": "In Search of Lost Jade",
+      "imageUrl": "https://img.game8.co/4545675/f4ea01765af6d92ed9d9fbc624686c31.png/show",
       "status": "past",
       "rewards": [
         {
-          "itemName": "Astrite",
-          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 250
+          "itemName": "Radiant Tide",
+          "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+          "totalQuantity": 21
+        }
+      ]
+    },
+    {
+      "name": "Gifts of Aftertune",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/607276",
+      "dateText": "Recaptured: Action Highlights",
+      "imageUrl": "https://img.game8.co/4545671/7e9209c2f88d80fe770a9e4d1bfd5417.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Lustrous Tide",
+          "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+          "totalQuantity": 5
+        },
+        {
+          "itemName": "Radiant Tide",
+          "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+          "totalQuantity": 5
         }
       ]
     }

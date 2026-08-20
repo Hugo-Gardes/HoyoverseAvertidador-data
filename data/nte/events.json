@@ -1,481 +1,243 @@
 [
   {
-    "name": "Fons Rush",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/604593",
-    "dateText": "08/10/2026 - 08/17/2026",
-    "status": "past",
-    "rewards": [
-      {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false,
-          "multiplier": 2
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4524809/e4497c9901ba7334bf72d83df9d41de6.png/show"
-  },
-  {
-    "name": "Pixel Surge",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/606837",
-    "dateText": "08/03/2026 - 08/10/2026",
-    "status": "past",
-    "rewards": [],
-    "imageUrl": "https://img.game8.co/4524807/394d53bc786ff856fe4f3a352a15203f.png/show"
-  },
-  {
-    "name": "Fishing Frenzy",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/592073",
-    "dateText": "08/03/2026 - 08/19/2026",
+    "name": "Lucent Tides",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 19, 17:00 – September 30, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Annulith",
+        "itemName": "Tide",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Elite Hunter Guide",
+        "itemName": "Nanally's limited outfit Sunny Surf",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_11.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Chaotic Dye",
+        "itemName": "Mint's limited outfit Saltwater Taffy",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_36.png",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4544510/087f421439f4049f8f0dac65196da90f.png/show"
-  },
-  {
-    "name": "Warren Lucky Flip",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/592073",
-    "dateText": "08/05/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
+        "icon": ""
+      },
       {
-        "itemName": "Annulith",
+        "itemName": "Esper Zero's limited outfit Cloudless Summer",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
+      },
+      {
+        "itemName": "limited avatar frame Endless Summer",
+        "totalQuantity": null,
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4544511/4db3d302371c2b33997e29f158deacb7.png/show"
-  },
-  {
-    "name": "Market Opening Rehearsal",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/598722",
-    "dateText": "07/29/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Expansion Core",
+        "itemName": "A Handwritten Letter",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_23.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
+      },
+      {
+        "itemName": "Anomaly Pilgrimage Material Selection Box",
+        "totalQuantity": null,
+        "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4571741/74d0567f14c9f0faffbc8f1be2925768.jpeg/show"
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
   },
   {
-    "name": "Circle Gift",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/603996",
-    "dateText": "07/08/2026 - 08/19/2026",
+    "name": "Circle Gifts",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
         "itemName": "Solid Dice",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_2.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "totalQuantity": 10,
+        "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4551201/a0bff409f7228d1ebf24d9a787dbc6bb.png/show"
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
   },
   {
-    "name": "999 Nights",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/607064",
-    "dateText": "07/08/2026 - 08/19/2026",
+    "name": "Volley Star",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
+        "itemName": "Summer Glow event avatar frame",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Imaginist Court event namecard",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Floe Cinema Ticket",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_204.png",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle_s/76677.png?date=1783502100"
-  },
-  {
-    "name": "Gold Clash",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/611834",
-    "dateText": "07/20/2026 - 08/03/2026",
-    "status": "past",
-    "rewards": [
-      {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4544507/49cb771f11f5c715c6c1ed7e94e044ae.png/show"
-  },
-  {
-    "name": "Mews Flash",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/608946",
-    "dateText": "07/08/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Beyond the Screen",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-specialgift-paper1.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Hethereau Daily",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-specialgift-paper2.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "What Do Cats Dream Of",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-specialgift-book1.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "The Art of Ramen",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-specialgift-book2.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Beyond the Book",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-specialgift-book3.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.gamewith.net/article/thumbnail/rectangle/76699.png"
-  },
-  {
-    "name": "Neon Rift Mystery Box",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/608883",
-    "dateText": "07/08/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Draco",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-carcard22.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Glory Days",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-009-10-256.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Recolor - Glory Days - Braveheart",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-1051-rpg-level3-dye1.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Recolor - Glory Days - Starfall",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-1051-rpg-level3-dye2.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Ember Trail",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-manghe-shinku-256.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Fabricated Dice",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_1.png",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4551527/ff45fd8ff83d92dc53812b6dfda50b97.png/show"
-  },
-  {
-    "name": "Shadow-n-Seek",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/611849",
-    "dateText": "07/17/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Floe Cinema Ticket",
+        "itemName": "Floe Cinema Tickets",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_204.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
+      },
+      {
+        "itemName": "Elite Hunter Guides",
+        "totalQuantity": null,
+        "icon": ""
       },
       {
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_36.png",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Manhole Boss",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_37.png",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Elite Hunter Guide",
-        "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_11.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4544517/d50c00f7da38ce554c5e914fa191bc39.png/show"
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
   },
   {
-    "name": "Wayfarer Perks",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/610820",
-    "dateText": "07/29/2026 - 08/19/2026",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Sheepcopter - Glider",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-glide-1075.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Threes Company - Livery",
-        "totalQuantity": null,
-        "icon": "",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Archmage",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-yiluoyi-256.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4571737/a567f3033853c7dd7909e9d11560a7f1.png/show"
-  },
-  {
-    "name": "Going, Going, Gone",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/610892",
-    "dateText": "07/29/2026 - 08/19/2026",
+    "name": "Surf Breaker",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_321.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Floe Cinema Ticket",
+        "itemName": "Floe Cinema Tickets",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_204.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Beetle Coins",
+        "itemName": "Elite Hunter Guides",
         "totalQuantity": null,
-        "icon": "",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       },
       {
-        "itemName": "Growth Materials",
+        "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4544514/8941777d8fba5a8873ecbd2ff4dc36b7.png/show"
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
+  },
+  {
+    "name": "Hunter's Crucible",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Hunter's Crucible - Steel Tempered event title",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Annulith",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Fabricated Dice",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Elite Hunter Guides",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Chaotic Dye",
+        "totalQuantity": null,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
+  },
+  {
+    "name": "Shipwreck Salvage",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 28, 10:00 – September 30, 05:59 (UTC+8)",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Full Haul event avatar frame",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Treasure Hunt event namecard",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Annulith",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Fabricated Dice",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
   },
   {
     "name": "Stamina Recharge",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/592073",
-    "dateText": "07/13/2026 - 07/20/2026",
-    "status": "past",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 24, 05:00 – August 31, 04:59 (server time)",
+    "status": "upcoming",
+    "rewards": [],
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
+  },
+  {
+    "name": "Gold Clash",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "dateText": "August 31, 05:00 – September 14, 04:59 (server time)",
+    "status": "upcoming",
     "rewards": [
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://img.gamewith.jp/article_tools/nte/gacha/item_319.png",
-        "details": {
-          "quantityKnown": false
-        }
+        "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4544518/61a294cbb0d294a7b50e4f9f73282568.png/show"
-  },
-  {
-    "name": "Resolve Perks",
-    "link": "https://game8.co/games/Neverness-to-Everness/archives/608899",
-    "dateText": "07/08/2026 - 07/29/2026",
-    "status": "past",
-    "rewards": [
-      {
-        "itemName": "Overcast Canopy - Glider Skin",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-glide-1076.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Hidden Dragon - Livery",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/fashion-vehicle-1076-v024.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      },
-      {
-        "itemName": "Student of Terrasea",
-        "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-zhenhong5-256.webp",
-        "details": {
-          "quantityKnown": false
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4544520/db909373a460fe56c4a52acee7a7b68e.png/show"
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg"
   }
 ]

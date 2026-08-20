@@ -115,25 +115,25 @@
     ]
   },
   "stygianOnslaught": {
-    "version": "6.7 Luna VIII",
+    "version": null,
     "cycleName": "Savage Tremors",
     "startTime": 1787184000,
     "endTime": 1790035200,
     "bosses": [
       {
         "stage": 1,
-        "name": "Shadow of the Precursor",
-        "icon": "https://img.game8.co/4544889/887dd5e31a7f625965e1d6e3d64d49f1.png/show"
+        "name": "Chimeric Winged Lion",
+        "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
       },
       {
         "stage": 2,
-        "name": "Lord of the Hidden Depths - Whisperer of Nightmares",
-        "icon": "https://img.game8.co/4377175/327e3ec15b1bb16955ee74576c3649db.png/show"
+        "name": "Wind Operative",
+        "icon": "https://img.game8.co/3772354/592f3463aac766447335bfcd44acfde2.png/show"
       },
       {
         "stage": 3,
-        "name": "Secret Source Automaton - Configuration Device",
-        "icon": "https://img.game8.co/4012107/d760c4522b5ad61a4904f1b5224d38a5.png/show"
+        "name": "Knuckle Duckle",
+        "icon": "https://img.game8.co/4282545/e136f8361ebf307ca7b192a018b6a5f1.png/show"
       }
     ]
   },

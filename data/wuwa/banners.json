@@ -1,349 +1,9 @@
 [
   {
-    "name": "Blessings From Dewy Wings",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/451864",
-    "image": "https://img.game8.co/4543819/b26765d9e15eb981debc805fc5a92053.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Suisui",
-        "icon": "https://img.game8.co/4535729/c9fa446cf56e72453e943b2173e3f97a.png/show",
-        "type": "Glacio",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/605302",
-        "details": {
-          "Rarity": "★★★★★",
-          "Attribute": "Glacio",
-          "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "1337 16712",
-          "ATK": "23 287",
-          "DEF": "90 1099"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Baizhi",
-        "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
-        "type": "Glacio",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Glacio",
-          "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "1025 12,812",
-          "ATK": "17 212",
-          "DEF": "82 1,002"
-        }
-      },
-      {
-        "name": "Mortefi",
-        "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
-        "type": "Fusion",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Fusion",
-          "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "802 10,025",
-          "ATK": "20 250",
-          "DEF": "93 1,136"
-        }
-      },
-      {
-        "name": "Lumi",
-        "icon": "https://img.game8.co/4303102/5df7e6360328e600dab33212fd2050eb.png/show",
-        "type": "Electro",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/473488",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Electro",
-          "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "680 8500",
-          "ATK": "27 337",
-          "DEF": "72 879"
-        }
-      }
-    ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Take Flight in Spring",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/575840",
-    "image": "https://img.game8.co/4543809/71c1791b5ab67cc43188b878a6ae33db.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Aemeath",
-        "icon": "https://img.game8.co/4377292/832335bfa4f1e0f5a704437908739837.png/show",
-        "type": "Fusion",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/572587",
-        "details": {
-          "Rarity": "★★★★★",
-          "Attribute": "Fusion",
-          "Weapon": "Sword",
-          "Role": "Endgame",
-          "HP": "882 11025",
-          "ATK": "34 425",
-          "DEF": "94 1148"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Baizhi",
-        "icon": "https://img.game8.co/4303116/fee43219645462f11309ac6b33074947.png/show",
-        "type": "Glacio",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454224",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Glacio",
-          "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "1025 12,812",
-          "ATK": "17 212",
-          "DEF": "82 1,002"
-        }
-      },
-      {
-        "name": "Mortefi",
-        "icon": "https://img.game8.co/4303090/7d10a26422687b1e19bf0a30661332dc.png/show",
-        "type": "Fusion",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454222",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Fusion",
-          "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "802 10,025",
-          "ATK": "20 250",
-          "DEF": "93 1,136"
-        }
-      },
-      {
-        "name": "Lumi",
-        "icon": "https://img.game8.co/4303102/5df7e6360328e600dab33212fd2050eb.png/show",
-        "type": "Electro",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/473488",
-        "details": {
-          "Rarity": "★★★★",
-          "Attribute": "Electro",
-          "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "680 8500",
-          "ATK": "27 337",
-          "DEF": "72 879"
-        }
-      }
-    ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Absolute Pulsation",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
-    "image": "https://img.game8.co/4543816/45ffe486e552a7724bef597c0e9ef79f.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Firstlight's Herald",
-        "icon": "https://img.game8.co/4572304/bbd01244eeab0074fc0e409aab5eb4f8.png/show",
-        "type": "Rectifier",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/606963",
-        "details": {
-          "Rarity": "5",
-          "Base ATK (Lv. 90)": "412",
-          "Substat (Lv. 90)": "Energy Regen+77.0%",
-          "Type": "Rectifier",
-          "Weapon Skill": "Spring Wreath Increases Max HP by 12%. Casting Resonance Liberation restores 8 points of Concerto Energy, triggered once every 20s. Inflicting Glacio Chafe grants Snow Tain for 6s. Applying healing grants Ripples for 6s. If the wielder has done both while on the field, the next Outro Skill grants both effects for 6s. When the wielder has both Snow Taint and Ripples, the ATK of all nearby Resonators in the team is increased by 20%. Effects of the same name do not stack.",
-          "Max ATK": "412",
-          "Max Bonus Stat (Energy Regen)": "77.0%"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Variation",
-        "icon": "https://img.game8.co/4302948/db070e6a7088a135d9ce41a8b15aaab0.png/show",
-        "type": "Rectifier",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "337",
-          "Substat (Lv. 90)": "Energy Regen+51.8%",
-          "Type": "Rectifier",
-          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
-          "Max ATK": "337",
-          "Max Bonus Stat (Energy Regen)": "51.8%"
-        }
-      },
-      {
-        "name": "Endless Collapse",
-        "icon": "https://img.game8.co/4302890/8b10845e4ba3a98f182eb6fbd94fdb81.png/show",
-        "type": "Sword",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "462",
-          "Substat (Lv. 90)": "ATK+18.2%",
-          "Type": "Sword",
-          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
-          "Max ATK": "462",
-          "Max Bonus Stat (ATK)": "18.2%"
-        }
-      },
-      {
-        "name": "Relativistic Jet",
-        "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
-        "type": "Pistol",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "462",
-          "Substat (Lv. 90)": "ATK+18.2%",
-          "Type": "Pistol",
-          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
-          "Max ATK": "462",
-          "Max Bonus Stat (ATK)": "18.2%"
-        }
-      }
-    ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Absolute Pulsation",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
-    "image": "https://img.game8.co/4543810/125db0202fbaa38d0575084571297e02.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Everbright Polestar",
-        "icon": "https://img.game8.co/4406719/2b31a3f455cfa1adb2f1099a1a39c042.png/show",
-        "type": "Sword",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/575684",
-        "details": {
-          "Rarity": "5",
-          "Base ATK (Lv. 90)": "587",
-          "Substat (Lv. 90)": "Crit Rate+24.3%",
-          "Type": "Sword",
-          "Weapon Skill": "Starchaser Increases All-Attribute DMG Bonus by 12%. When inflicting Tune Rupture - Shifting or Fusion Burst, the wielder's Resonance Liberation DMG ignores 32% DEF and 10% Fusion RES on targets for 8s.",
-          "Max ATK": "587",
-          "Max Bonus Stat (Crit Rate)": "24.3%"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Variation",
-        "icon": "https://img.game8.co/4302948/db070e6a7088a135d9ce41a8b15aaab0.png/show",
-        "type": "Rectifier",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455923",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "337",
-          "Substat (Lv. 90)": "Energy Regen+51.8%",
-          "Type": "Rectifier",
-          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
-          "Max ATK": "337",
-          "Max Bonus Stat (Energy Regen)": "51.8%"
-        }
-      },
-      {
-        "name": "Endless Collapse",
-        "icon": "https://img.game8.co/4302890/8b10845e4ba3a98f182eb6fbd94fdb81.png/show",
-        "type": "Sword",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474515",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "462",
-          "Substat (Lv. 90)": "ATK+18.2%",
-          "Type": "Sword",
-          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
-          "Max ATK": "462",
-          "Max Bonus Stat (ATK)": "18.2%"
-        }
-      },
-      {
-        "name": "Relativistic Jet",
-        "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
-        "type": "Pistol",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
-        "details": {
-          "Rarity": "4",
-          "Base ATK (Lv. 90)": "462",
-          "Substat (Lv. 90)": "ATK+18.2%",
-          "Type": "Pistol",
-          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
-          "Max ATK": "462",
-          "Max Bonus Stat (ATK)": "18.2%"
-        }
-      }
-    ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Starpath Reverbs",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/606968",
-    "image": "https://img.game8.co/4543808/a058a29fbe440a6d74f6a72fb8b5d469.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Jiyan",
-        "icon": "https://img.game8.co/4303125/b8167e215c344e45fb232d1483c39315.png/show",
-        "type": "Aero",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/454216",
-        "details": {
-          "Rarity": "★★★★★",
-          "Attribute": "Aero",
-          "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "839 10,487",
-          "ATK": "55 437",
-          "DEF": "97 1,185"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": 1785369600,
-    "endTime": 1787097600
-  },
-  {
-    "name": "Tideforge Reverbs",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/606976",
-    "image": "https://img.game8.co/4543818/260a31901d8dbc59b117592ed60be8ff.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Verdant Summit",
-        "icon": "https://img.game8.co/4302953/c37741f9c0a35fbe698037cfd6eb2dea.png/show",
-        "type": "Broadblade",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455951",
-        "details": {
-          "Rarity": "5",
-          "Base ATK (Lv. 90)": "587",
-          "Substat (Lv. 90)": "Crit DMG+48.6%",
-          "Type": "Broadblade",
-          "Weapon Skill": "Swordsworn Increases DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s.",
-          "Max ATK": "587",
-          "Max Bonus Stat (Crit DMG)": "48.6%"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": 1785369600,
-    "endTime": 1787097600
-  },
-  {
     "name": "Wind of Transcendence",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614636",
     "image": "https://img.game8.co/4581383/a039394ed8eed7f6c8f13d6c10b45614.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Qingxiao",
@@ -353,7 +13,11 @@
         "details": {
           "Rarity": "★★★★★",
           "Attribute": "Aero",
-          "Weapon": "Sword"
+          "Weapon": "Sword",
+          "Role": "Endgame",
+          "HP": "824 10300",
+          "ATK": "37 462",
+          "DEF": "91 1112"
         }
       }
     ],
@@ -404,14 +68,14 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1787184000,
+    "endTime": 1788991200
   },
   {
     "name": "False Promise For Tomorrow",
     "link": "https://game8.co/games/Wuthering-Waves/archives/595039",
     "image": "https://img.game8.co/4581381/c6c6c828fb40fd9c4cd9fe36b0c3e1e2.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Denia",
@@ -477,20 +141,29 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1787184000,
+    "endTime": 1788991200
   },
   {
     "name": "Absolute Pulsation",
     "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
     "image": "https://img.game8.co/4581385/b6e97bc6a12ce89c4df5058f56cede41.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Glint of Clouds",
         "icon": "https://img.game8.co/4581375/1a4f8cbe252754a138e9aed0abfae7dd.png/show",
         "type": "Sword",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614634"
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614634",
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "500",
+          "Substat (Lv. 90)": "Crit. Rate+36.0%",
+          "Type": "Sword",
+          "Weapon Skill": "Evil's Scourge ATK is increased by 12%. Inflicting Tune Strain - Shifting grants 11.2% Aero DMG Bonus for 2s, stacking up to 5 times. This effect can be triggered once every 0.5s. Upon reaching the max stack limit, gain the following effects: - This Aero DMG Bonus effect's duration is extended to 30s. - Aero DMG ignores 10% of the target's DEF during this effect.",
+          "Max ATK": "500",
+          "Max Bonus Stat (Crit. Rate)": "36.0%"
+        }
       }
     ],
     "rateUp4Star": [
@@ -540,14 +213,14 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1787184000,
+    "endTime": 1788991200
   },
   {
     "name": "Absolute Pulsation",
     "link": "https://game8.co/games/Wuthering-Waves/archives/455400",
     "image": "https://img.game8.co/4581387/eb9f5cc619a1ba947c80f5e2aadd3bbd.png/show",
-    "status": "upcoming",
+    "status": "active",
     "rateUp5Star": [
       {
         "name": "Forged Dwarf Star",
@@ -612,8 +285,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1787184000,
+    "endTime": 1788991200
   },
   {
     "name": "Where Santu Beckons",
@@ -680,8 +353,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   },
   {
     "name": "Thousand Futures Mirrored In Snow",
@@ -752,8 +425,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   },
   {
     "name": "Distant May the Starlights Be",
@@ -825,8 +498,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   },
   {
     "name": "Absolute Pulsation",
@@ -888,8 +561,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   },
   {
     "name": "Absolute Pulsation",
@@ -960,8 +633,8 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   },
   {
     "name": "Absolute Pulsation",
@@ -1032,7 +705,7 @@
         }
       }
     ],
-    "startTime": 1787090400,
-    "endTime": 1787097600
+    "startTime": 1788991200,
+    "endTime": 1788998400
   }
 ]

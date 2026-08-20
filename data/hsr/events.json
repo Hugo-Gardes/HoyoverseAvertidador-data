@@ -697,31 +697,31 @@
   {
     "name": "Overdrive: Whirlwind Grand Prix",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/615728",
-    "dateText": "Start: Sometime in 4.5 Manage a racing team in the Astropolis Cup Grand Prix and lead them to victory!",
+    "dateText": "Start: 08/26/2026 - 09/28/2026 Manage a racing team in the Astropolis Cup Grand Prix and lead them to victory!",
     "status": "upcoming",
     "rewards": [
       {
         "itemName": "Self-Modeling Resin",
-        "totalQuantity": null,
+        "totalQuantity": 1,
         "icon": "https://img.game8.co/3656582/7167bf807e94ea2340bfeb5737677ee2.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Tracks of Destiny",
-        "totalQuantity": null,
+        "totalQuantity": 2,
         "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Stellar Jade",
-        "totalQuantity": null,
+        "totalQuantity": 1000,
         "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
@@ -770,23 +770,23 @@
   {
     "name": "Miniscule Great Adventure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/615729",
-    "dateText": "Start: Sometime in 4.5 Assemble the best teams to go on assignment missions and earn rewards based on how well they do!",
+    "dateText": "Start: 09/12/2026 - 09/28/2026 Assemble the best teams to go on assignment missions and earn rewards based on how well they do!",
     "status": "upcoming",
     "rewards": [
       {
         "itemName": "Tracks of Destiny",
-        "totalQuantity": null,
+        "totalQuantity": 1,
         "icon": "https://img.game8.co/3656146/a1bfea0047127fa914fce4d9c1b40801.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Stellar Jade",
-        "totalQuantity": null,
+        "totalQuantity": 500,
         "icon": "https://img.game8.co/3671963/3db0ccc7872e144c24a041453e9b7772.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
@@ -835,7 +835,7 @@
   {
     "name": "4.5 Gift of Odyssey",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/413645",
-    "dateText": "Start: Sometime in 4.5 Log in for 7 days to get 10 Star Rail Special Passes!",
+    "dateText": "Start: 08/26/2026 - 09/28/2026 Log in for 7 days to get 10 Star Rail Special Passes!",
     "status": "upcoming",
     "rewards": [
       {
@@ -852,7 +852,7 @@
   {
     "name": "4.5 Planar Fissure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/413440",
-    "dateText": "Start: Sometime in 4.5 Get double the planar ornaments when challenging Worlds in the Simulated Universe!",
+    "dateText": "Start: 09/07/2026 - 09/21/2026 Get double the planar ornaments when challenging Worlds in the Simulated Universe!",
     "status": "upcoming",
     "rewards": [
       {
@@ -1317,7 +1317,7 @@
   {
     "name": "4.5 Realm of the Strange",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/417674",
-    "dateText": "Start: Sometime in 4.5 Get double the relics when challenging Caverns of Corrosion!",
+    "dateText": "Start: 09/19/2026 - 09/28/2026 Get double the relics when challenging Caverns of Corrosion!",
     "status": "upcoming",
     "rewards": [
       {

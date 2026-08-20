@@ -227,5 +227,101 @@
     ],
     "startTime": 1786485600,
     "endTime": 1788299999
+  },
+  {
+    "name": "Epitome Invocation",
+    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
+    "image": "https://img.game8.co/4590029/51e6b228011e6d3ce9aa1687678bf37b.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Whitelake Frostfeather",
+        "icon": "https://img.game8.co/4589646/e659e25e5346f50cb89c86062b7d0ed2.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/613892",
+        "details": {
+          "Type": "Sword",
+          "Base ATK": "48",
+          "Rarity": "★★★★★",
+          "Skill": "Snow Swan's Finale• When the equipping character hits an opponent with their Elemental Skill, they gain \"Lake-Hued Lament\": ATK increases by 8% for 8s. This effect can trigger once every 0.1s. Max 3 stacks, and each stack's duration is independent. At 3 stacks, the CRIT DMG of any Stellar Glimmer reaction DMG caused by the equipping character is increased by 50%, and triggering Stellar Glimmer reactions or Stellar Glimmer reaction DMG will also restore 4 Elemental Energy to the character. This Energy recovery effect can trigger once every 3.5s. Can be triggered even when the equipping character is off-field."
+        }
+      },
+      {
+        "name": "Crimson Moon",
+        "icon": "https://img.game8.co/3872861/38528afd4ec060d4f675d09e74bd7582.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/451025",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "47",
+          "Rarity": "★★★★★",
+          "Skill": "Ashen Sun's ShadowGrants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24% DMG Bonus."
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Favonius Sword",
+        "icon": "https://img.game8.co/3314483/042ba3ca7e48cb6c7a8d3c8d5be805c6.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301925",
+        "details": {
+          "Type": "Sword",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        }
+      },
+      {
+        "name": "The Bell",
+        "icon": "https://img.game8.co/3314478/58ceb4cfcb54e9dcceaeb8c99cf7116b.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301933",
+        "details": {
+          "Type": "Claymore",
+          "Base ATK": "42",
+          "Rarity": "★★★★",
+          "Skill": "Rebellious GuardianTaking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 12% increased DMG."
+        }
+      },
+      {
+        "name": "Dragon",
+        "icon": "https://img.game8.co/3314485/dea459ec1fcf67eaffc3d7ff42f99b77.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301952",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "Bane of Flame and WaterIncreases DMG against enemies affected by Hydro or Pyro by 20%."
+        }
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "icon": "https://img.game8.co/3314492/c23eb4f6fe804b7e3a9a997fac937c94.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301943",
+        "details": {
+          "Type": "Catalyst",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        }
+      },
+      {
+        "name": "Rust",
+        "icon": "https://img.game8.co/3314490/72c5ae525ba26d02d2b6c40b5569ad73.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301958",
+        "details": {
+          "Type": "Bow",
+          "Base ATK": "42",
+          "Rarity": "★★★★",
+          "Skill": "Rapid FiringIncreases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
+        }
+      }
+    ],
+    "startTime": 1786492800,
+    "endTime": 1788220800
   }
 ]
