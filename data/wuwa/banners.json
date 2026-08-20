@@ -511,7 +511,13 @@
         "name": "Thousandfold Deliverance",
         "icon": "https://img.game8.co/4581376/08b1a02ad6368fc51b25f2b20285cb68.png/show",
         "type": "Broadblade",
-        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614635"
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614635",
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "412",
+          "Substat (Lv. 90)": "HP+72.2%",
+          "Type": "Broadblade"
+        }
       }
     ],
     "rateUp4Star": [
