@@ -6,14 +6,14 @@
       "nameFr": "Défense de Shiyu : Nœud critique",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6a/Shiyu_Defense_Critical_Node.png/revision/latest/scale-to-width-down/256?cb=20240901202649",
       "version": "3.1",
-      "phaseName": "2026-08-07",
+      "phaseName": "2026-08-21",
       "selectableBuffs": [],
       "sharedMechanics": [
         "In this stage, dealing DMG to enemies earns you DMG Score. Defeating a single normal/elite enemy will grant you an instance of Elimination Score.",
         "In this stage, scores earned at different times will receive additional multiplier bonuses. The earlier in the challenge, the higher the multiplier. The total score cap (including bonus) is 50,000."
       ],
-      "startTime": 1786046400,
-      "endTime": 1787255999,
+      "startTime": 1787256000,
+      "endTime": 1788465599,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/457183",
       "rewards": [
         {
@@ -57,7 +57,8 @@
           ],
           "isBonus": false,
           "mechanics": [
-            "If there are 2/3 Agents with the Anomaly specialty in the squad, Attribute Anomaly DMG dealt by Agents increases by 10%/60%, and the whole squad initially gains 500/1,500 Decibels upon entering combat."
+            "Attribute Anomaly DMG dealt by Agents increases by 15%.",
+            "If there are 2/3 Agents in the squad with Anomaly specialty, Agent Anomaly Proficiency increases by 40/120 pts."
           ],
           "objectives": [],
           "waves": [
@@ -102,21 +103,21 @@
           ]
         },
         {
-          "name": "Doppelganger - Starlight - Billy",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
+          "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
           "stage": "Room 2",
           "level": "70",
           "weaknesses": [
-            "Fire",
-            "Electric"
+            "Ether",
+            "Physical"
           ],
           "resistances": [
-            "Physical"
+            "Fire"
           ],
           "isBonus": false,
           "mechanics": [
-            "Agent's Ultimate and Chain Attack DMG increase by 40%.",
-            "When Chain Attack hits an enemy, the enemy's Stun DMG Multiplier increases by 20% and Daze recovery speed slows down by 15% for 15s. Repeated triggers reset the duration."
+            "Agent Ether DMG increases by 20%.",
+            "When Agents inflict an Attribute Anomaly on enemies, their DEF is reduced by 15%, and All-Attribute RES is reduced by 15% for 10s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [
@@ -125,8 +126,8 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Miasmic Trooper - Shieldguard",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
+                  "name": "Private Jaeger",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fb/Enemy_Private_Jaeger.png/revision/latest/scale-to-width-down/185?cb=20240812160825",
                   "count": 3
                 }
               ]
@@ -136,13 +137,13 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "Ionized - Doppelganger - Pulchra",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/63/Enemy_Ionized_-_Doppelganger_-_Pulchra.png/revision/latest/scale-to-width-down/185?cb=20240926215531",
+                  "name": "Autonomous Support Unit - Guardian MK II",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d1/Enemy_Autonomous_Support_Unit_-_Guardian_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726233556",
                   "count": 1
                 },
                 {
-                  "name": "Miasmic Trooper - Cannoneer",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
+                  "name": "Demolition Jaeger",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4e/Enemy_Demolition_Jaeger.png/revision/latest/scale-to-width-down/185?cb=20241107174057",
                   "count": 2
                 }
               ]
@@ -152,8 +153,8 @@
               "index": 3,
               "enemies": [
                 {
-                  "name": "Doppelganger - Starlight - Billy",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
+                  "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
                   "count": 1
                 }
               ]
@@ -161,21 +162,19 @@
           ]
         },
         {
-          "name": "Sacrifice - Heretic Jester",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4e/Enemy_Sacrifice_-_Heretic_Jester.png/revision/latest/scale-to-width-down/185?cb=20250716182900",
+          "name": "Thracian",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/58/Enemy_Thracian.png/revision/latest/scale-to-width-down/185?cb=20241107174055",
           "stage": "Room 3",
           "level": "70",
           "weaknesses": [
-            "Electric",
-            "Physical"
-          ],
-          "resistances": [
+            "Ice",
             "Ether"
           ],
+          "resistances": [],
           "isBonus": false,
           "mechanics": [
-            "Agent Ice DMG and Electric DMG increase by 30%.",
-            "After an Agent with Attack specialty uses an EX Special Attack, their CRIT DMG increases by 30% for 20s. Repeated triggers reset the duration."
+            "When an Agent with Attack specialty lands Basic Attack, it ignores 30% of enemy Ice RES.",
+            "After an Agent with Attack specialty uses a Chain Attack or EX Special Attack, their Ice DMG increases by 20% and CRIT DMG increases by 40% for 15s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [
@@ -184,19 +183,14 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Autonomous Support Unit - Lightfoot Rover MK II",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3d/Enemy_Autonomous_Support_Unit_-_Lightfoot_Rover_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726232333",
+                  "name": "Hollow Thug - Bulky Intimidator",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c6/Enemy_Hollow_Thug_-_Bulky_Intimidator.png/revision/latest/scale-to-width-down/185?cb=20240725155044",
                   "count": 1
                 },
                 {
-                  "name": "Miasmic Trooper - Shieldguard",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
-                  "count": 3
-                },
-                {
-                  "name": "Miasmic Trooper - Cannoneer",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
-                  "count": 2
+                  "name": "Hollow Thug - Bulky Enforcer",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c1/Enemy_Hollow_Thug_-_Bulky_Enforcer.png/revision/latest/scale-to-width-down/185?cb=20240725155033",
+                  "count": 1
                 }
               ]
             },
@@ -205,8 +199,8 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "Sacrifice - Heretic Jester",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4e/Enemy_Sacrifice_-_Heretic_Jester.png/revision/latest/scale-to-width-down/185?cb=20250716182900",
+                  "name": "Thracian",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/58/Enemy_Thracian.png/revision/latest/scale-to-width-down/185?cb=20241107174055",
                   "count": 1
                 }
               ]

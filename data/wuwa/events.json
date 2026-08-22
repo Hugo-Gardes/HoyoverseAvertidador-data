@@ -39,30 +39,11 @@
     ]
   },
   {
-    "name": "Gifts of Drifting Mist",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614684",
-    "dateText": "August 20, 2026 - September 29, 2026 Reach Union Level 8",
-    "imageUrl": "https://img.game8.co/4581497/1136c715bb89f440c35544f4968a3e58.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Lustrous Tide",
-        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
-        "totalQuantity": 5
-      },
-      {
-        "itemName": "Radiant Tide",
-        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
-        "totalQuantity": 5
-      }
-    ]
-  },
-  {
     "name": "Resonance Sim Realm",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614775",
-    "dateText": "August 22, 2026 - September 29, 2026 Combat event where you can use abilities provided by your other resonator friends to win and get rewards!",
+    "dateText": "August 22, 2026 - September 29, 2026 Reach Union Level 14",
     "imageUrl": "https://img.game8.co/4581498/d278407594d92161347c0df03d317b0d.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Astrite",
@@ -118,6 +99,25 @@
         "itemName": "Phantom",
         "icon": "",
         "totalQuantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Gifts of Drifting Mist",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614684",
+    "dateText": "August 20, 2026 - September 29, 2026 Reach Union Level 8",
+    "imageUrl": "https://img.game8.co/4581497/1136c715bb89f440c35544f4968a3e58.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 5
       }
     ]
   },
