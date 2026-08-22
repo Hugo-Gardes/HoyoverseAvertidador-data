@@ -1029,29 +1029,17 @@
       ],
       "start_date": "2025-08-18",
       "end_date": "2025-08-28"
-    },
-    {
-      "title": "Hunting Quest: Part 13 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250808 Hunting Quest 13 Pickup Summon.png?width=480&height=173",
-      "servants": [
-        "Okita Souji (Saber Alter)",
-        "Kama (Avenger)",
-        "Caenis (Rider)",
-        "Sessyoin Kiara (Moon Cancer)",
-        "Abigail Williams (Summer)",
-        "BB (Summer)",
-        "Anastasia & Viy (Archer)",
-        "Charlotte Corday (Caster)",
-        "Illyasviel von Einzbern (Archer)",
-        "Brynhild (Berserker)",
-        "Archer of Inferno (Saber)",
-        "Murasaki Shikibu (Rider)"
-      ],
-      "start_date": "2025-08-08",
-      "end_date": "2025-08-22"
     }
   ],
   "predicted_na_banners": [
+    {
+      "title": "[JP]  OVER THE SAME SKY -SEPTEMBER- Pickup Summon (Daily)",
+      "image": "https://static.mana.wiki/grandorder/20250922 OVER THE SAME SKY SEPTEMBER Pickup Daily.png?width=480&height=173",
+      "servants": [],
+      "start_date": "2027-08-22",
+      "end_date": "2027-09-05",
+      "original_jp_start": "2025-09-22"
+    },
     {
       "title": "[JP] Crowning Match Saber & Berserker Pickup (Daily)",
       "image": "https://static.mana.wiki/grandorder/20250917 Crowning Match Saber Berserker.png?width=480&height=173",
