@@ -65,9 +65,59 @@
     "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Astrites and Materials",
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 650
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 6
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 7
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Resonance! Best Combo Title",
+        "icon": "https://img.game8.co/4596779/bb7789c3c3ab03aaee4ddd96612c4022.png/show",
+        "totalQuantity": 1
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 150
+      },
+      {
+        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
+        "totalQuantity": 6
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 200000
+      },
+      {
+        "itemName": "Echo Modifier",
+        "icon": "https://img.game8.co/4312863/f5950222ac4eab8d210b08158903a777.png/show",
+        "totalQuantity": 4
+      },
+      {
+        "itemName": "Threshold Sigil",
+        "icon": "https://img.game8.co/4596780/25bb699b2aea5b0f6a6fbd94515ebab3.png/show",
+        "totalQuantity": 1320
+      },
+      {
+        "itemName": "Phantom",
         "icon": "",
-        "totalQuantity": null
+        "totalQuantity": 1
       }
     ]
   },
