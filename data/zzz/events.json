@@ -173,7 +173,38 @@
     "dateText": "08/24/2026 - 09/07/2026",
     "imageUrl": "https://img.game8.co/4564413/e220ce39412e8efcf2dbcbffec2f0405.png/show",
     "status": "ongoing",
-    "rewards": []
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 300,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 150000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 24,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      }
+    ]
   },
   {
     "name": "Ding-Dong! Delivery Training in Progress",
