@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T12:53:49.753Z",
+  "generatedAt": "2026-08-24T18:35:57.396Z",
   "sourceCommit": "27046f7f54f7b2948379b7bcb70771363099f461",
   "files": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "path": "data/fgo/loot_table.json",
-      "bytes": 49787,
-      "items": 844,
-      "sha256": "d366710dc4d94440744c3fb4435b8a6b7e57478744188d4671eaf77740fae799",
-      "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 832
+      "bytes": 49942,
+      "items": 846,
+      "sha256": "0a88b8fe164978cb20be63dc183421f07668c8e71a62473a6a35bdcbbf52a67c",
+      "changedAt": "2026-08-24T18:35:57.396Z",
+      "itemsBefore": 844
     },
     {
       "path": "data/genshin/banners.json",
@@ -39,8 +39,8 @@
       "path": "data/genshin/daily_domains.json",
       "bytes": 64935,
       "items": 12,
-      "sha256": "766cf38177687741995bcf7a896ed1dac7c96acd958381998d1746fcddd1e0d6",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "53ee49434551d0b9dd6980870feab8b2e1a0ba05d7c31fdd29404c2173d72f20",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 12
     },
     {
@@ -117,11 +117,11 @@
     },
     {
       "path": "data/nte/events.json",
-      "bytes": 14414,
+      "bytes": 14413,
       "items": 12,
-      "sha256": "3b73da120100513d22582a8be196864106afab539e9052a0e506a0796c20c9f5",
-      "changedAt": "2026-08-24T12:13:57.987Z",
-      "itemsBefore": 8
+      "sha256": "4c8d808c38df93fe87bf8d25e3e17f27bd90cca07053e85e0d7fa23a1fcd5f02",
+      "changedAt": "2026-08-24T18:35:57.396Z",
+      "itemsBefore": 12
     },
     {
       "path": "data/nte/patch.json",
@@ -223,8 +223,8 @@
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "f8c791a2c6848d79d66e85425c98f38efb402521d22461154b0d4649b6910bed",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "e23312210451f09b473869a7ecea606ed087fbf76f8f695cb6f53bee482ec79a",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     },
     {
@@ -239,8 +239,8 @@
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "fecd82698fd42e31c4a8c99e602dd0020967d115a3997025f07875ea3c4f37e9",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "25f264082042d40c1a6acc482bcf53a65c5dc517af9bb8bda4127224f25fedd3",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     },
     {
@@ -255,8 +255,8 @@
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "1db830b76c95aec5168680c0b62a3d741c424a37ce32038c6fac675acec24c79",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "5c08c962c21b4615941094cb9beb3f220d091c48590693b6f81e580a0a140afc",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     },
     {
@@ -271,8 +271,8 @@
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "5b8569f381bc9707714e4955a6d887717acfc886aa097cb382204f81640acf55",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "a8d21ce9531c64ca0f68d54a59d444c119bfb793984b71466a356a99c935ac98",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     },
     {
@@ -295,8 +295,8 @@
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "b1453c8709e4039138050bd3741a1f1051ceeacff2d79712007d99aca9c20744",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "7a315dc090337ce9fdeb2186d0fb5677c97005235aef6fdfaea646c6e91ec529",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     },
     {
@@ -311,8 +311,8 @@
       "path": "data/zzz/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "dda68e9e98a5fd84bc9f47ca108e36001b50f865afb085d38f5b1833d85a7d9e",
-      "changedAt": "2026-08-24T12:53:49.753Z",
+      "sha256": "f8488dc17e1fac1aec00613e7b53f550d173b324fa58edd187f72e1e5bb57f1a",
+      "changedAt": "2026-08-24T18:35:57.396Z",
       "itemsBefore": 9
     }
   ]
