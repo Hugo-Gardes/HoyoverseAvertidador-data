@@ -1033,6 +1033,17 @@
   ],
   "predicted_na_banners": [
     {
+      "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Kawakami Gensai Pickup Summon",
+      "image": "https://static.mana.wiki/grandorder/20250924 GUDAGUDA Revenge of Makoto Kawakami Gensai Pickup.png?width=480&height=173",
+      "servants": [
+        "Kawakami Gensai",
+        "Todo Heisuke"
+      ],
+      "start_date": "2027-08-24",
+      "end_date": "2027-09-14",
+      "original_jp_start": "2025-09-24"
+    },
+    {
       "title": "[JP]  OVER THE SAME SKY -SEPTEMBER- Pickup Summon (Daily)",
       "image": "https://static.mana.wiki/grandorder/20250922 OVER THE SAME SKY SEPTEMBER Pickup Daily.png?width=480&height=173",
       "servants": [],
