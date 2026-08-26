@@ -458,19 +458,19 @@
       "buffs": [],
       "selectableBuffs": [
         {
-          "name": "Navigator's Oath",
+          "name": "Marvelous Laughter",
           "icon": "",
-          "description": "Increases the All-Type RES PEN for the Skill DMG and Ultimate DMG dealt by the character in position 1 in the lineup by 50%."
+          "description": "Increases all ally targets' Elation by 40%, and incrass the All-Type RES Pen of Elation DMG dealt by 20%. This effect is doubled when using an Elation Skill."
         },
         {
-          "name": "Add Insult to Injury",
+          "name": "Finale's Kiss",
           "icon": "",
-          "description": "After an enemy target is hit by an ally's Follow-Up ATK, DMG taken by them increases by 15% for 2 turn(s). This effect can stack up to 3 time(s)."
+          "description": "At the start of any ally's target's turn, all ally targets regenerate 25% Energy. This effect can only be triggered 1 time per battle. Increases Skill and Ultimate DMG dealt by all ally targets by 40%."
         },
         {
-          "name": "Endless Euphoria",
+          "name": "Memoria Swarm",
           "icon": "",
-          "description": "All ally targets' All-Type RES PEN increases by 20%, and the All-Type RES PEN of Elation DMG dealt additionally increases by 20%."
+          "description": "When the number of ally memosprites is 1/2/3/4, DMG dealt by all allies increases by 20%/25%/30%/50%."
         }
       ],
       "startTime": null,
@@ -505,11 +505,11 @@
       ],
       "bosses": [
         {
-          "name": "Argenti",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Enemy_Argenti.png/revision/latest/scale-to-width-down/256?cb=20260725075922",
+          "name": "Cocolia",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Enemy_Cocolia.png/revision/latest/scale-to-width-down/256?cb=20260725080526",
           "weaknesses": [
-            "Fire",
-            "Ice"
+            "Quantum",
+            "Fire"
           ],
           "level": "95",
           "isBonus": false,
@@ -517,22 +517,9 @@
           "axiomBuffs": []
         },
         {
-          "name": "Svarog",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Enemy_Svarog.png/revision/latest/scale-to-width-down/256?cb=20260725083301",
+          "name": "@SparxiConOfficial",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
           "weaknesses": [
-            "Fire",
-            "Lightning"
-          ],
-          "level": "95",
-          "isBonus": false,
-          "traits": [],
-          "axiomBuffs": []
-        },
-        {
-          "name": "Paramount Bliss Inverted: Illwish Archlotus",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Enemy_Paramount_Bliss_Inverted_Illwish_Archlotus.png/revision/latest/scale-to-width-down/256?cb=20260725082619",
-          "weaknesses": [
-            "Physical",
             "Imaginary"
           ],
           "level": "95",
@@ -541,10 +528,23 @@
           "axiomBuffs": []
         },
         {
-          "name": "Murata Graphia, Founding Artist",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
+          "name": "Flame Reaver of the Deepest Dark",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Enemy_Flame_Reaver_of_the_Deepest_Dark.png/revision/latest/scale-to-width-down/256?cb=20260725081300",
           "weaknesses": [
-            "Fire",
+            "Quantum",
+            "Ice"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Hatred Inundate",
+          "icon": "",
+          "weaknesses": [
+            "Ice",
+            "Lightning",
             "Quantum"
           ],
           "level": "100",
@@ -553,10 +553,11 @@
           "axiomBuffs": []
         },
         {
-          "name": "Murata Graphia, Founding Artist",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
+          "name": "Hatred Inundate",
+          "icon": "",
           "weaknesses": [
-            "Fire",
+            "Ice",
+            "Lightning",
             "Quantum"
           ],
           "level": "120",

@@ -106,7 +106,8 @@
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615721",
         "details": {
           "Rarity": "★★★★★",
-          "Path": "The Remembrance"
+          "Path": "The Remembrance",
+          "Max ATK": "582"
         }
       },
       {
@@ -151,7 +152,8 @@
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615724",
         "details": {
           "Rarity": "★★★★",
-          "Path": "The Elation"
+          "Path": "The Elation",
+          "Max ATK": "423"
         }
       }
     ],
