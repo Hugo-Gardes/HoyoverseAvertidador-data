@@ -1,330 +1,162 @@
 [
   {
-    "name": "Himeko - Nova Banner",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/601027",
-    "image": "https://img.game8.co/4548471/96d765d641e01c21ac1c817a59a80203.png/show",
+    "name": "Robin - Summeretto Banner",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/607259",
+    "image": "https://img.game8.co/4590732/f1d6f375cd8e919b5a2d9f4212990c66.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Nova",
-        "icon": "https://img.game8.co/4504326/caae4de9f9923e57d6e53c5c7bc7a6de.png/show",
+        "name": "HSR - Summeretto",
+        "icon": "https://img.game8.co/4545735/072aef95b6c00cda6a69104583a940ab.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601025",
-        "details": {
-          "Rarity": "5-star",
-          "Element": "Fire",
-          "Path": "Erudition",
-          "HP (17th)": "153",
-          "ATK (2nd)": "102",
-          "DEF (15th)": "66",
-          "ATK": "3000 or above",
-          "Skill": "★★★☆☆ - High PriorityUpgrade Himeko - Nova's Skill to increase the damage boost it provides."
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "HSR - Moze",
-        "icon": "https://img.game8.co/3935762/b1833d89976ab075e844361beb6a9dc8.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/462333",
-        "details": {
-          "Rarity": "4-star",
-          "Element": "Lightning",
-          "Path": "Hunt",
-          "HP (32nd)": "110",
-          "ATK (14th)": "81",
-          "DEF (27th)": "48",
-          "ATK": "2800 or above",
-          "Skill": "★★★☆☆ - Medium Priority Moze's Skill simply increases the damage dealt when upgraded.",
-          "Faction": "The Xianzhou Yaoqing"
-        }
-      },
-      {
-        "name": "HSR - Hanya",
-        "icon": "https://img.game8.co/3772186/6e56fdd4049875718bea6b1a3671fcc0.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/428424",
-        "details": {
-          "Rarity": "4-star",
-          "Element": "Physical",
-          "Path": "Harmony",
-          "HP (26th)": "124",
-          "ATK (16th)": "76",
-          "DEF (27th)": "48",
-          "HP": "3800 or above",
-          "DEF": "1000 or above",
-          "Skill": "★★★☆☆ - Medium PriorityUpgrading Hanya's Skill only improves the Skill DMG. This doesn't enhance Hanya's Support capability.",
-          "Faction": "The Xianzhou Luofu"
-        }
-      },
-      {
-        "name": "HSR - Serval",
-        "icon": "https://img.game8.co/3899420/7e27bdb2ecc16409f7fea515c66fb41b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405752",
-        "details": {
-          "Rarity": "4-star",
-          "Element": "Lightning",
-          "Path": "Erudition",
-          "HP (26th)": "124",
-          "ATK (8th)": "88",
-          "DEF (25th)": "51",
-          "ATK": "2400 or above",
-          "Skill": "★★★★☆ - High PriorityDecent AoE DMG with Shock application; Prioritize if in a DoT team.",
-          "Faction": "Belobog"
-        }
-      }
-    ],
-    "startTime": 1783980000,
-    "endTime": 1787608800
-  },
-  {
-    "name": "A Star That Lights the Night Banner",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/408767",
-    "image": "https://img.game8.co/4548479/692a1e7cd983fba579c2832ccb657893.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "HSR - A Star That Lights the Night",
-        "icon": "https://img.game8.co/4548483/1113bfbefd8de7dd0f4f14dd6d31ce60.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608550",
-        "details": {
-          "Rarity": "★★★★★",
-          "Path": "The Erudition",
-          "Max ATK": "635"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "HSR - After the Charmony Fall",
-        "icon": "https://img.game8.co/3905960/c0cd7cc72b99f0078857ea4bcf101049.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/442035",
-        "details": {
-          "Rarity": "★★★★",
-          "Path": "The Erudition",
-          "Max ATK": "476"
-        }
-      },
-      {
-        "name": "HSR - Under the Blue Sky",
-        "icon": "https://img.game8.co/3680524/f89641ef1c1fff98ea05943cee37d9df.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/410443",
-        "details": {
-          "Rarity": "★★★★",
-          "Path": "The Destruction",
-          "Max ATK": "476"
-        }
-      },
-      {
-        "name": "HSR - The Birth of the Self",
-        "icon": "https://img.game8.co/3647978/692dd04068743fc06a4c99ab727f79d4.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/408550",
-        "details": {
-          "Rarity": "★★★★",
-          "Path": "The Erudition",
-          "Max ATK": "476"
-        }
-      }
-    ],
-    "startTime": 1783980000,
-    "endTime": 1787608800
-  },
-  {
-    "name": "Indelible Coterie",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/470223",
-    "image": "https://img.game8.co/4548474/f27da6b79d2956d4ae54dee43f4027b5.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "HSR - Cerydra",
-        "icon": "https://img.game8.co/4198742/c7e8758b57025c346759b7f2db800f3d.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530015",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/607261",
         "details": {
           "Rarity": "5-star",
           "Element": "Wind",
-          "Path": "Harmony",
-          "HP (7th)": "184",
-          "ATK (11th)": "84",
-          "DEF (15th)": "66",
-          "ATK": "4000 (outside of combat)",
-          "Skill": "★★★★★ - Highest Priority Cerydra's Skill is important to upgrade for the Skill DMG buff it provides."
-        }
-      },
-      {
-        "name": "HSR - Anaxa",
-        "icon": "https://img.game8.co/4105938/a7a620b0c9969474e506afc27d57874b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/486296",
-        "details": {
-          "Rarity": "5-star",
-          "Element": "Wind",
-          "Path": "Erudition",
-          "HP (23rd)": "132",
-          "ATK (2nd)": "102",
-          "DEF (10th)": "75",
-          "ATK": "2500 or above",
-          "Skill": "★★★★★ - Highest Priority More times than not, you will be using Anaxa's Skill, so max this out as soon as you can for optimal damage."
-        }
-      },
-      {
-        "name": "HSR - Aventurine",
-        "icon": "https://img.game8.co/3899365/ede5865f0e72fa872d5765e0664d78de.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/429966",
-        "details": {
-          "Rarity": "5-star",
-          "Element": "Imaginary",
-          "Path": "Preservation",
+          "Path": "Remembrance",
           "HP (14th)": "163",
-          "ATK (26th)": "60",
-          "DEF (5th)": "89",
-          "DEF": "4000",
-          "Skill": "★★★★★ - Highest PriorityAventurine's Skill is the most important part of his kit as it helps make his shields tankier.",
-          "Faction": "Interastral Peace Corporation (IPC)"
+          "ATK (13th)": "81",
+          "DEF (15th)": "66",
+          "HP": "6000 or above",
+          "Skill": "★★☆☆☆ - Low PriorityUpgrading Robin - Summeretto's Skill isn't necessary since it only increases the healing it provides for the Summer Songbirds."
+        }
+      },
+      {
+        "name": "HSR - Hyacine",
+        "icon": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/486300",
+        "details": {
+          "Rarity": "5-star",
+          "Element": "Wind",
+          "Path": "Remembrance",
+          "HP (18th)": "147",
+          "ATK (28th)": "52",
+          "DEF (6th)": "85",
+          "HP": "4500+ outside combat",
+          "Skill": "★★★★★ - Highest PriorityHyacine's Skill is where most of her healing comes from, so max this one out."
         }
       }
     ],
     "rateUp4Star": [
       {
-        "name": "HSR - Moze",
-        "icon": "https://img.game8.co/3935762/b1833d89976ab075e844361beb6a9dc8.png/show",
+        "name": "HSR - Dan Heng",
+        "icon": "https://img.game8.co/3899468/85afc52c45735db3262189e165d24232.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/462333",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405749",
         "details": {
           "Rarity": "4-star",
-          "Element": "Lightning",
+          "Element": "Wind",
           "Path": "Hunt",
-          "HP (32nd)": "110",
-          "ATK (14th)": "81",
-          "DEF (27th)": "48",
-          "ATK": "2800 or above",
-          "Skill": "★★★☆☆ - Medium Priority Moze's Skill simply increases the damage dealt when upgraded.",
-          "Faction": "The Xianzhou Yaoqing"
+          "HP (28th)": "120",
+          "ATK (18th)": "74",
+          "DEF (23rd)": "54",
+          "ATK": "2400 or above",
+          "Skill": "★★★★★ - Highest PriorityDan Heng's secondary source of damage for when his Ultimate is not up.",
+          "Faction": "Astral Express"
         }
       },
       {
-        "name": "HSR - Hanya",
-        "icon": "https://img.game8.co/3772186/6e56fdd4049875718bea6b1a3671fcc0.png/show",
+        "name": "HSR - Qingque",
+        "icon": "https://img.game8.co/3899437/48e666d9c04a350f0195f74b7fd59aac.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/428424",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405759",
         "details": {
           "Rarity": "4-star",
-          "Element": "Physical",
-          "Path": "Harmony",
-          "HP (26th)": "124",
-          "ATK (16th)": "76",
-          "DEF (27th)": "48",
-          "HP": "3800 or above",
-          "DEF": "1000 or above",
-          "Skill": "★★★☆☆ - Medium PriorityUpgrading Hanya's Skill only improves the Skill DMG. This doesn't enhance Hanya's Support capability.",
+          "Element": "Quantum",
+          "Path": "Erudition",
+          "HP (21st)": "139",
+          "ATK (8th)": "88",
+          "DEF (18th)": "60",
+          "ATK": "2500 or above",
+          "Skill": "★★★★☆ - High PriorityIncreases her DMG buff which can stack up to four times.",
           "Faction": "The Xianzhou Luofu"
         }
       },
       {
-        "name": "HSR - Serval",
-        "icon": "https://img.game8.co/3899420/7e27bdb2ecc16409f7fea515c66fb41b.png/show",
+        "name": "HSR - Gallagher",
+        "icon": "https://img.game8.co/3826180/39fbc415ce51174f6da010ff8a758d91.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405752",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/437255",
         "details": {
           "Rarity": "4-star",
-          "Element": "Lightning",
-          "Path": "Erudition",
-          "HP (26th)": "124",
-          "ATK (8th)": "88",
-          "DEF (25th)": "51",
-          "ATK": "2400 or above",
-          "Skill": "★★★★☆ - High PriorityDecent AoE DMG with Shock application; Prioritize if in a DoT team.",
-          "Faction": "Belobog"
+          "Element": "Fire",
+          "Path": "Abundance",
+          "HP (10th)": "177",
+          "ATK (20th)": "72",
+          "DEF (18th)": "60",
+          "Skill": "★★★★☆ - High PriorityGallagher's Skill increases his manual healing.",
+          "Faction": "Penacony"
         }
       }
     ],
-    "startTime": 1785880800,
-    "endTime": 1787608800
+    "startTime": 1787608800,
+    "endTime": 1789164000
   },
   {
-    "name": "Coalesced Truths",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/470762",
-    "image": "https://img.game8.co/4548475/2a9ed4afde17e2c6247444414f9e567d.png/show",
+    "name": "Rise and Sing Banner",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/408767",
+    "image": "https://img.game8.co/4590789/954fde2de744ec69e877632cc258deae.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Epoch Etched in Golden Blood",
-        "icon": "https://img.game8.co/4240012/bb7a5c8c13f25e7886fdd2d2eb3a79a1.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/541345",
+        "name": "HSR - Rise and Sing",
+        "icon": "https://img.game8.co/4590783/1606b7dcc53fa05655c57f2769a7e09d.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615721",
         "details": {
           "Rarity": "★★★★★",
-          "Path": "The Harmony",
-          "Max ATK": "635"
+          "Path": "The Remembrance"
         }
       },
       {
-        "name": "HSR - Life Should Be Cast to Flames",
-        "icon": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/507471",
+        "name": "HSR - Long May Rainbows Adorn the Sky",
+        "icon": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/521509",
         "details": {
           "Rarity": "★★★★★",
-          "Path": "The Erudition",
-          "Max ATK": "582"
+          "Path": "The Remembrance",
+          "Max ATK": "476"
         }
-      },
+      }
+    ],
+    "rateUp4Star": [
       {
-        "name": "HSR - Inherently Unjust Destiny",
-        "icon": "https://img.game8.co/3856782/f44f3a523b22d0b423efc82a952e6897.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448205",
+        "name": "HSR - Dream",
+        "icon": "https://img.game8.co/4015240/79b3f4e22c48946d47b803bd9bd18271.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448342",
         "details": {
-          "Rarity": "★★★★★",
-          "Path": "The Preservation",
+          "Rarity": "★★★★",
+          "Path": "The Abundance",
           "Max ATK": "423"
         }
-      }
-    ],
-    "rateUp4Star": [
+      },
       {
-        "name": "HSR - After the Charmony Fall",
-        "icon": "https://img.game8.co/3905960/c0cd7cc72b99f0078857ea4bcf101049.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/442035",
+        "name": "HSR - Geniuses",
+        "icon": "https://img.game8.co/4075014/188c36ca2be293949a58e622f1cf75d9.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/492458",
         "details": {
           "Rarity": "★★★★",
-          "Path": "The Erudition",
+          "Path": "The Remembrance",
           "Max ATK": "476"
         }
       },
       {
-        "name": "HSR - Under the Blue Sky",
-        "icon": "https://img.game8.co/3680524/f89641ef1c1fff98ea05943cee37d9df.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/410443",
+        "name": "HSR - A Little Getaway",
+        "icon": "https://img.game8.co/4590785/b08d60e465f30fb8f173d109c7bbc472.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615724",
         "details": {
           "Rarity": "★★★★",
-          "Path": "The Destruction",
-          "Max ATK": "476"
-        }
-      },
-      {
-        "name": "HSR - The Birth of the Self",
-        "icon": "https://img.game8.co/3647978/692dd04068743fc06a4c99ab727f79d4.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/408550",
-        "details": {
-          "Rarity": "★★★★",
-          "Path": "The Erudition",
-          "Max ATK": "476"
+          "Path": "The Elation"
         }
       }
     ],
-    "startTime": 1785880800,
-    "endTime": 1787608800
+    "startTime": 1787608800,
+    "endTime": 1789164000
   },
   {
     "name": "Rin Tohsaka Banner",
