@@ -224,8 +224,8 @@
       "id": "endstate-matrix",
       "name": "Endstate Matrix",
       "nameFr": "Matrice Finale",
-      "icon": "https://img.game8.co/4533179/fe55204c2a803dcc77ebe60db045a4a4.png/show",
-      "version": "3.5",
+      "icon": "https://img.game8.co/4603201/1198679bbb49a0ac768b1bd396a2b761.png/show",
+      "version": "3.6",
       "phaseName": null,
       "startTime": 1784232000,
       "endTime": 1787144340,
@@ -235,66 +235,29 @@
       "selectableBuffs": [
         {
           "name": "General Enhancement",
-          "icon": "https://img.game8.co/4563024/10eb013ef58dc19140a407988f3d1929.png/show",
-          "description": "Enemies take 20% more total DMG. Enemies take 20% more total Resonance Skill DMG."
+          "icon": "https://img.game8.co/4413260/1849fb253a2b59b2960d4926544e82c2.png/show",
+          "description": "Enemies take 20% more total DMG and 20% more total Heavy Attack DMG."
         },
         {
           "name": "Enhancement: Negative Status",
-          "icon": "https://img.game8.co/4563026/5a9f2de6f2233d922cb85a7d1d8ee8f0.png/show",
-          "description": "When affected by Negative Statuses, the taget's total DMG taken is increased by 25% for 30s.Inflicting Havoc Bane increases Reasonators' total DMG dealt by 30% for 15s."
+          "icon": "https://img.game8.co/4494128/559026dac3dca54ee4a0cd1ec5e70c17.png/show",
+          "description": "When inflicted with Negative Statuses, the target's total DMG taken is increased by 25% for 30s.Enemies take 80% more total Glacio Chafe DMG."
         },
         {
           "name": "Enhancement: Echo Skill",
-          "icon": "https://img.game8.co/4563023/9119b458548b2753ca6532d78902eab6.png/show",
-          "description": "Echo Skill Total DMG is increased by 30%, Fusion Total DMG by 20%, and Heavy Attack Total DMG by 20%."
+          "icon": "https://img.game8.co/4494131/3d03931b5899dd9d5cb763e23e7abbeb.png/show",
+          "description": "Total Echo Skill DMG is increased by 30%. Total Havoc DMG is increased by 20%. Total Resonance Skill DMG is increased by 20%."
         },
         {
           "name": "Enhancement: Tune Break",
-          "icon": "https://img.game8.co/4563025/6fb38e3e7d7a63dbd88d3acb057c09ae.png/show",
-          "description": "Resonators' total Tune Rupture DMG is increased by 150%.Inflicting Tunability - Shifting increases total DMG by 25% for 30s."
+          "icon": "https://img.game8.co/4494130/4415c2792f2d3f89f3b24c8b522516c5.png/show",
+          "description": "When a Resonator inflicts Tunability - Shifting, the total DMG dealt by all Resonators in the team is increased by 25% for 30s.When a Resonaor inflicts Tune Strain - Shifting, their total DMG is increased by 30% for 15s."
         }
       ],
       "rewards": [],
       "stages": [
         {
-          "stage": "Boss 1: Matrix Swarm",
-          "name": "Flautist",
-          "icon": "https://img.game8.co/4306574/985e8b96b705d9390debc9aaec6378bd.png/show",
-          "level": null,
-          "vigorCost": null,
-          "resistances": [
-            "Havoc"
-          ],
-          "effects": [
-            {
-              "name": "Stability Accords",
-              "description": "For 15s after defeating this enemy wave, all Resonators in the team are immune to all types of damage and interruptions."
-            },
-            {
-              "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics Enemy ATK is increased by 50%. Enemies take 10% more total Havoc DMG, or 40% when affected by Havoc Bane."
-            },
-            {
-              "name": "Round 2 Onwards - Additional Infections",
-              "description": "Flautists' ATK is increased by 100% when they are the only remaining enemy units on the field."
-            }
-          ],
-          "objectives": [],
-          "enemies": [
-            {
-              "name": "Flautist",
-              "icon": "https://img.game8.co/4306574/985e8b96b705d9390debc9aaec6378bd.png/show",
-              "count": 1
-            },
-            {
-              "name": "Tremor Warrior",
-              "icon": "https://img.game8.co/4364339/afdc6e62d6f231b90ca9a5c5e7a67cc9.png/show",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "stage": "Boss 2: Mourning Aix",
+          "stage": "Boss 1: Mourning Aix",
           "name": "Mourning Aix",
           "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
           "level": null,
@@ -309,11 +272,11 @@
             },
             {
               "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics Mourning Aix's Vibration Strength Reduction Rate is decreased by 15%. Counterattacks restore 10 Resonance Energy and reduce the target's Vibration Strength by 30% upon hit."
+              "description": "- All Stability Accords Mechanics - The Vibration Strength Reduction Rate against Mourning Aix is reduced by 15%. Counterattacks restore 10 points of Resonance Energy on hit and additionally reduces the Vibration Strength of the target by 30% of its maximum."
             },
             {
               "name": "Round 2 Onwards - Additional Infections",
-              "description": "Mourning Aix''s ATK is increased by 6% every 5s, up to 72%. Immobilizing it clears all stacks and pauses stacking."
+              "description": "- Mourning Aix''s ATK is increased by 6% every 5s, up to 72%. Immobilizing it clears all stacks and pauses stacking."
             }
           ],
           "objectives": [],
@@ -326,41 +289,9 @@
           ]
         },
         {
-          "stage": "Boss 3: Fleurdelys",
-          "name": "Fleurdelys",
-          "icon": "https://img.game8.co/4306571/c4094f3ea5b26a2e227713efcba93f49.png/show",
-          "level": null,
-          "vigorCost": null,
-          "resistances": [
-            "Aero"
-          ],
-          "effects": [
-            {
-              "name": "Stability Accords",
-              "description": "For 15s after defeating Fleurdelys, all Resonators in the team are immune to all types of damage and interruptions."
-            },
-            {
-              "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics Fleurdelys's Vibration Strength Reduction Rate is decreased by 15%. Dodge Counters reduce the target's Vibration Strength by 15% of the Max, cooldown 6s."
-            },
-            {
-              "name": "Round 2 Onwards - Additional Infections",
-              "description": "Fleurdelys's Vibration Strength Reduction Rate is now decreased by 30%."
-            }
-          ],
-          "objectives": [],
-          "enemies": [
-            {
-              "name": "Fleurdelys",
-              "icon": "https://img.game8.co/4306571/c4094f3ea5b26a2e227713efcba93f49.png/show",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "stage": "Boss 4: Reactor Husk",
-          "name": "Reactor Husk",
-          "icon": "https://img.game8.co/4367478/dff756506b41e69acff86fa6ae0277ed.png/show",
+          "stage": "Boss 2: Rustfire Chassis",
+          "name": "Myriad Snare: Rustfire Chassis",
+          "icon": "https://img.game8.co/4545901/569d57e159e0699c7af1689901402834.png/show",
           "level": null,
           "vigorCost": null,
           "resistances": [
@@ -369,22 +300,86 @@
           "effects": [
             {
               "name": "Stability Accords",
-              "description": "For 15s after defeating Reactor Husk, all Resonators in the team are immune to all types of damage and interruptions."
+              "description": "Upon defeating Myriad Snare: Rustfire Chassis, all Resonators in the current team become immune to all DMG and interruptions for 15s."
             },
             {
               "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics Reactor Husk's ATK is increased by 20%. After taking Negative Status DMG, Reactor Husk's ATK is decreased by 20% instead."
+              "description": "- All Stability Accords Mechanics - Myriad Snare: Rustfire Chassis has its ATK increased by 30%. Dodge Counter restors 10 points of Resonance Energy on hit and additionally reduces the target's Vibration Strength by 20% of its maximum. CD: 2s."
             },
             {
               "name": "Round 2 Onwards - Additional Infections",
-              "description": "Reactor Husk's ATK is permanently increased by 25%."
+              "description": "- Vibration Strength Reduction taken by Myriad Snare: Rustfire Chassis is reduced by 20%."
             }
           ],
           "objectives": [],
           "enemies": [
             {
-              "name": "Reactor Husk",
-              "icon": "https://img.game8.co/4367478/dff756506b41e69acff86fa6ae0277ed.png/show",
+              "name": "Myriad Snare: Rustfire Chassis",
+              "icon": "https://img.game8.co/4545901/569d57e159e0699c7af1689901402834.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 3: Sentry Construct",
+          "name": "Sentry Construct",
+          "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Glacio"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating Sentry Construct, all Resonators in the current team become immunite to all DMG and interruptions for 15s."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics - Vibration Strength Reduction taken by Sentry Construct is reduced by 25%. When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by Negative Statuses or Tunability - Shifting, Resonators' Vibration Strength Reduction Rate is increased by 50%."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "- Sentry Construct's ATK is increased by 3% every 5s, stacking up to 10 times. Immobilizing it clears all stacks and pauses the stacking."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Sentry Construct",
+              "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 4: Tempest Mephis",
+          "name": "Tempest Mephis",
+          "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Electro"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "Upon defeating Tempest Mephis, all Resonators in the current team become immune to all DMG and interruptions for 15s."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "- All Stability Accords Mechanics - Counterattack increases the target's Off-Tune Level by 20% of the maximum and reduces their Vibration Strength by 30% of the maximum on hit."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "- Tempest Mephis' ATK is increased by 30%. This effect is disabled when it is affected by Tune Strain - Shifting or Tune Strain - Interfered."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Tempest Mephis",
+              "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
               "count": 1
             }
           ]
