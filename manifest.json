@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T12:35:51.551Z",
+  "generatedAt": "2026-08-28T18:36:04.299Z",
   "sourceCommit": "9372f02fdccdf966c76de8ccc68e86c45ff8bce8",
   "files": [
     {
@@ -39,8 +39,8 @@
       "path": "data/genshin/daily_domains.json",
       "bytes": 64935,
       "items": 12,
-      "sha256": "c27932074aa11dc2051d167f037db97673bdb57f856bfc323ca8079b8d338324",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "a6046510e6ab29b9dc0876323082f2eb04ff708f56b1c9a21e6956c387026714",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 12
     },
     {
@@ -197,10 +197,10 @@
     },
     {
       "path": "data/zzz/events.json",
-      "bytes": 25570,
+      "bytes": 25574,
       "items": 14,
-      "sha256": "96d2ac396a03c298523da8fdd2f5b8432a54f69a084e1ff97579b00adeebe04d",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "862cf55932f081da75b0093bfa51572c0ae8072440b01531d454afdea8687165",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 14
     },
     {
@@ -223,8 +223,8 @@
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "b288f7b8738b0b1278e6743b1ec3631c84bce8bc9e4b946c1ae4998555d1af32",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "3579f380f8d3faf7bd4df6ccadae1bc2b352a1cc787a8542453323faaaf8554e",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     },
     {
@@ -239,8 +239,8 @@
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "a7e08432c7d452a6ff3c902ea384e92e135a9ca7b073f99301ea810fb09d3a4a",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "e2fd1cd2458370cee8c790bc5b01dbfd2e0436814bb2a80231d69a5bbbf90f1a",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     },
     {
@@ -255,8 +255,8 @@
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "506272f72f97d484955e10058494836983db6d76da99750f59bf311372746f80",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "88e0dcd759fdeb8a2ddb32d2fb69f956e6cf7ba913bedb6ffc44d891ded0ea59",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     },
     {
@@ -271,8 +271,8 @@
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "e5b7c63d37391b0b11b3bd169eb24be59b4fa9b04329c741198374b894592600",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "d7763fb108669738d0bec90d5e67c14cfd5f941770b3a90923ebbf8cfd1d93f1",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     },
     {
@@ -295,8 +295,8 @@
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "b74aacc2d2e1e331c889f9b0bb706d9cefdb333b62ff39b910aba1aaa69a0734",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "3a43ba3ddeeb766ccf775c3c99129b0e0f73ee2f65f01ef46c4dbee5d0ce7644",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     },
     {
@@ -311,8 +311,8 @@
       "path": "data/zzz/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "0bb20eaa7793da5bef1cb462f84aae6d97c533b1b3dd584e72d7265c95097593",
-      "changedAt": "2026-08-28T12:35:51.551Z",
+      "sha256": "ad9e8ce952a8abee88ad27889b00546179207e90dfa5de88aefa2d490aaded1e",
+      "changedAt": "2026-08-28T18:36:04.299Z",
       "itemsBefore": 9
     }
   ]
