@@ -36,39 +36,99 @@
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Crown of Insight",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3297733/73197e58d99d02cd709277cef3c31f7d.png/show"
-      },
-      {
         "itemName": "Primogem",
-        "totalQuantity": null,
+        "totalQuantity": 470,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
-        "itemName": "Hero's Wit",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
-      },
-      {
         "itemName": "Mora",
-        "totalQuantity": null,
+        "totalQuantity": 360000,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
-        "itemName": "Sanctifying Unction",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+        "itemName": "Hero's Wit",
+        "totalQuantity": 15,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
       },
       {
-        "itemName": "Talent Book Materials",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3316477/3894c955f0c21b84434559e1964c4e8f.png/show"
+        "itemName": "The Frost Emperor's Lament",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586653/31e09f37710ca0a44ec65b9cce323ae0.png/show"
       },
       {
-        "itemName": "Weapon Ascension Materials",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
+        "itemName": "Exhilaration of the Cellared Spiritual Nectar",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586658/19a356619110fb1734e7d1f5f8f89c04.png/show"
+      },
+      {
+        "itemName": "Clarion of the Pale Star Army",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586651/6f927fcb263e7d9de80b1ce792031f96.png/show"
+      },
+      {
+        "itemName": "Philosophies of Glory",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586652/6f5af492faca670ff03c02d6d825074a.png/show"
+      },
+      {
+        "itemName": "Philosophies of Fortitude",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586640/e3d555a7039e0ae6d4b9beab2102a1cf.png/show"
+      },
+      {
+        "itemName": "Philosophies of Charity",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/4586641/7c435216bb06bb283f3397c5391b5798.png/show"
+      },
+      {
+        "itemName": "Crown of Insight",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3297733/73197e58d99d02cd709277cef3c31f7d.png/show"
+      },
+      {
+        "itemName": "Guide to Charity",
+        "totalQuantity": 11,
+        "icon": "https://img.game8.co/4586307/42115f81d46164a02830f976e1641566.png/show"
+      },
+      {
+        "itemName": "Guide to Fortitude",
+        "totalQuantity": 11,
+        "icon": "https://img.game8.co/4586642/8070fdeea31981859c370660fd4ddad3.png/show"
+      },
+      {
+        "itemName": "Mystic Enhancement Ore",
+        "totalQuantity": 33,
+        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+      },
+      {
+        "itemName": "Agnidus Agate Fragment",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/3316516/fd516a1f7a6b94a96d07ac4e8ed2d3d8.png/show"
+      },
+      {
+        "itemName": "Varunada Lazurite Fragment",
+        "totalQuantity": 2,
+        "icon": "https://img.game8.co/3316844/910ab3e7cdf9faa7403bf943a376c4a0.png/show"
+      },
+      {
+        "itemName": "Guide to Glory",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/4586650/5cac5494dc6ba8f69ef159ec0ece3185.png/show"
+      },
+      {
+        "itemName": "Muster of the Pale Star Army",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/4586649/88a115215de13014eb7a3a8161f419c1.png/show"
+      },
+      {
+        "itemName": "Intoxication of the Cellared Spiritual Nectar",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/4586655/2416a9097637dc73f15617baa2a03421.png/show"
+      },
+      {
+        "itemName": "Guide to Light",
+        "totalQuantity": 9,
+        "icon": "https://img.game8.co/3390466/8b120a55bcffa0e790837079c29d03c0.png/show"
       }
     ]
   },
