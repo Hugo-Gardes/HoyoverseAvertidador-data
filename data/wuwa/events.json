@@ -131,17 +131,17 @@
       {
         "itemName": "Astrite",
         "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 50
+        "totalQuantity": 100
       },
       {
         "itemName": "Forgery Premium Supply - Lahai-Roi",
         "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-        "totalQuantity": 4
+        "totalQuantity": 8
       },
       {
         "itemName": "Premium Enclosure Tank - Land of Xuanfang",
         "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-        "totalQuantity": 8
+        "totalQuantity": 16
       }
     ]
   },

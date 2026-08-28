@@ -212,7 +212,14 @@
     "dateText": "08/28/2026 - 09/14/2026",
     "imageUrl": "https://img.game8.co/4564417/65bb9032d2085499befad7a556046665.png/show",
     "status": "ongoing",
-    "rewards": []
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 420,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      }
+    ]
   },
   {
     "name": "Crispy Meal Deployment Plan",

@@ -31,42 +31,58 @@
       },
       {
         "itemName": "Traveler",
-        "totalQuantity": null,
+        "totalQuantity": 34,
         "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Refined Aether",
-        "totalQuantity": null,
+        "totalQuantity": 26,
         "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Lost Crystal",
-        "totalQuantity": null,
+        "totalQuantity": 26,
         "icon": "https://img.game8.co/3656126/f034875d5689c72ecc78eeff33312792.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "The Fluffy Serialization Memorial Issue",
-        "totalQuantity": null,
+        "totalQuantity": 40,
         "icon": "https://img.game8.co/4408332/0ce17fe1377f125bc30430df0ca9bbf4.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Credit",
-        "totalQuantity": null,
+        "totalQuantity": 760000,
         "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Trailblaze EXP",
+        "totalQuantity": 100,
+        "icon": "https://img.game8.co/3673582/05dc308fb914b8794ba6e8b880ff9afa.png/show",
+        "details": {
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Honkai The Nameless EXP",
+        "totalQuantity": 1400,
+        "icon": "https://img.game8.co/3707909/c500ee876aa014616cb0b4abcd3fdac2.png/show",
+        "details": {
+          "quantityKnown": true
         }
       }
     ],
