@@ -215,27 +215,27 @@
       "nameFr": "Assaut mortel",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
       "version": "3.1",
-      "phaseName": "2026-08-14",
+      "phaseName": "2026-08-28",
       "selectableBuffs": [
         {
-          "name": "United Strength",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Icon_Deadly_Assault_Buff_%28Element%29.png/revision/latest/scale-to-width-down/45?cb=20250130111815",
-          "description": "If there are 2/3 Agents in the squad with Anomaly specialty, the whole squad's Anomaly Proficiency increases by 30/70 respectively, and Attribute Anomaly DMG dealt increases by 10%/25% respectively. · After inflicting an Attribute Anomaly on an enemy, the enemy's All-Attribute RES is reduced by 15% for 10s. Repeated triggers reset the duration."
-        },
-        {
-          "name": "Frost Reins",
+          "name": "Icy Raid",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
-          "description": "For Agents with Attack specialty, their ATK increases by 25%. When their Basic Attack, EX Special Attack, or Chain Attack hits an enemy, it ignores 30% of the target's Ice RES and Ether RES. · When an Agent hits a Stunned enemy, the target's Stun DMG Multiplier increases by 40% for 5s. Repeated triggers reset the duration."
+          "description": "DMG dealt by Agents' Basic Attack and Ultimate increases by 30%. When an Agent with Attack specialty hits an enemy, their attacks ignore 20% of the target's Ice RES. · After an Agent uses an EX Special Attack, their own Ice DMG increases by 30% for 15s. Repeated triggers reset the duration."
         },
         {
-          "name": "Breakthrough",
-          "icon": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-          "description": "Rupture specialty Agent Sheer DMG increases by 15%, and reduces Miasma Shield 30% faster. · While in Ether Veil, Agent Ether DMG increases by 25%, and hitting an enemy makes its Stun DMG Multiplier increase by 25% for 10s. Repeated triggers reset the duration."
+          "name": "Mutation II",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Icon_Deadly_Assault_Buff_%28Element%29.png/revision/latest/scale-to-width-down/45?cb=20250130111815",
+          "description": "If there are 2/3 Agents with Anomaly specialty in your squad, the whole squad's Attribute Anomaly DMG increases by 10%/30%, and their ATK increases by 5%/15% respectively. · When dealing Attribute Anomaly DMG to an enemy, ignore 10% of their All-Attribute RES and 10% of their DEF."
+        },
+        {
+          "name": "Heartcrusher",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
+          "description": "Agent CRIT DMG increases by 30%. · ATK of Agents with Attack specialty increases by 10%. Their Basic Attack DMG increases by 30% and ignore 15% of enemy DEF."
         }
       ],
       "sharedMechanics": [],
-      "startTime": 1786651200,
-      "endTime": 1787860799,
+      "startTime": 1787860800,
+      "endTime": 1789070399,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -276,17 +276,40 @@
       ],
       "bosses": [
         {
-          "name": "Girtablullu - Stagnant Aberrant",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Enemy_Girtablullu_-_Stagnant_Aberrant.png/revision/latest/scale-to-width-down/185?cb=20260803004623",
+          "name": "Dead End Butcher",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/56/Enemy_Dead_End_Butcher.png/revision/latest/scale-to-width-down/185?cb=20240725155137",
           "stage": "Trial Mode: First Challenge",
           "level": "70",
-          "weaknesses": [],
+          "weaknesses": [
+            "Ice",
+            "Ether"
+          ],
           "resistances": [],
           "isBonus": false,
           "mechanics": [
-            "When an Agent inflicts an Attribute Anomaly on an enemy, the target enemy gains 1 stack of Blight Mark of the corresponding attribute, lasting 30s and stacking up to 2 times. Repeated triggers of same-attribute Blight Mark reset its duration.",
-            "For every stack of Blight Mark inflicted, the enemies take 8% more Attribute Anomaly DMG, and DMG taken by Corruptive Barrier increases by 8%.",
-            "When inflicting Impaired or Shutdown on an enemy, the whole squad's Anomaly Proficiency increases by 60 pts, lasting 30s. Repeated triggers reset the duration.",
+            "When not in a Stunned state, Boss enemies gain 1 stack of All or Nothing every 6s, stacking up to 3 stacks. Each stack of All or Nothing increases the DMG dealt by the Boss enemy by 10%. When an Agent's attack hits an enemy, for each stack of All or Nothing the target has, CRIT DMG from the Agent's attacks increases by 25% and Attribute Anomaly DMG decreases by 15%. When an enemy enters a Stunned state, they gain 1 stack of All or Nothing. All or Nothing stacks will be reset when the enemy recovers from being Stunned.",
+            "Successfully triggering Perfect Dodge or Perfect Assist grants 300 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
+          "name": "Girtablullu",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/37/Enemy_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260618093736",
+          "stage": "Trial Mode: Second Challenge",
+          "level": "70",
+          "weaknesses": [
+            "Wind"
+          ],
+          "resistances": [],
+          "isBonus": false,
+          "mechanics": [
+            "Whenever an Agent inflicts an Anomaly on the Boss, they apply 1 stack of Shadow to it. Each stack of Shadow increases the Boss's Anomaly DMG taken by 7.5% and additionally increases its Vortex DMG taken by 5% for 10s. Shadow can stack up to 3 times. The duration of each stack is calculated separately. During Corruptive Barrier, applying Shadow to the Boss additionally reduces the Corruptive Barrier by 20% of its max value and accumulates 15% Daze (cannot be repeatedly triggered within 15s). When the Corruptive Barrier is broken, the Boss immediately gains max stacks of Shadow. When the Boss is Stunned, all Shadow stacks are removed and an equal number of Laceration stacks are applied. Each stack of Laceration reduces the Boss's Anomaly Buildup RES by 5% and increases its Stun DMG Multiplier by 10%. When the Boss's Stunned state ends, all Laceration stacks are removed.",
+            "Each successful parry against Girtablullu's consecutive downward smashes after it activates Corruptive Barrier grants 1,000 Performance Points. Successfully triggering a Chain Parry against the final slam grants an additional 1,000 Performance Points. Successfully breaking the Corruptive Barrier grants 1,500 Performance Points. Maximum obtainable Performance Points: 5,000.",
             "Suitable for Agents with Anomaly specialty."
           ],
           "objectives": [
@@ -297,52 +320,27 @@
           "waves": []
         },
         {
-          "name": "Ye Shiyuan the Thrall",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Ye_Shiyuan_the_Thrall.png/revision/latest/scale-to-width-down/185?cb=20251126232024",
-          "stage": "Trial Mode: Second Challenge",
+          "name": "Primordial Nightmare - \"The Creator\"",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5b/Enemy_Primordial_Nightmare_-_%22The_Creator%22.png/revision/latest/scale-to-width-down/185?cb=20260101153418",
+          "stage": "Trial Mode: Third Challenge",
           "level": "70",
           "weaknesses": [
-            "Ice",
-            "Physical",
-            "Wind"
+            "Physical"
           ],
           "resistances": [
-            "Electric"
+            "Ice",
+            "Ether"
           ],
           "isBonus": false,
           "mechanics": [
-            "When Sobek and The Thrall alternate turns, The Thrall gains 1 stack of Contract and Self-Sacrifice. Contract and Self-Sacrifice can stack up to 3 times. Each stack of Contract increases All-Attribute Anomaly Buildup RES by 15%, each stack of Self-Sacrifice increases The Thrall's Stun DMG Multiplier by 10%. When The Thrall is Stunned, CRIT DMG taken increases by 50%.",
-            "When Agents inflict Weakened on Sobek and The Thrall, 1,500 Performance Points will be awarded. When an Agent eliminates Sobek, 2,000 Performance Points will be awarded. Up to a maximum of 5,000 Performance Points can be earned.",
-            "Suitable for Agents with Stun specialty."
+            "Boss Anomaly DMG taken is reduced by 30%. When switching from Miasmic Shield state to normal state, or from normal state to Miasmic Shield state, Agent CRIT DMG against them is increased by 20%. This effect can stack up to 3 times and resets when the boss recovers from Stun.",
+            "Triggering Miasmic Shield Purification grants 1,000 Performance Points. During the Control Skill, each successful counter against the Boss's attacks grants 500 Performance Points. Performing a Shutdown on the Boss's Control Skill grants 2,000 Performance Points. Maximum obtainable Performance Points: 5,000.",
+            "Suitable for Agents with Attack specialty."
           ],
           "objectives": [
             "1 étoile — Reach 6,000 points within the time limit",
             "2 étoiles — Reach 14,000 points within the time limit",
             "3 étoiles — Reach 20,000 points within the time limit"
-          ],
-          "waves": []
-        },
-        {
-          "name": "Miasma Priest",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/31/Enemy_Miasma_Priest.png/revision/latest/scale-to-width-down/185?cb=20250607225806",
-          "stage": "Trial Mode: Third Challenge",
-          "level": "70",
-          "weaknesses": [
-            "Ether"
-          ],
-          "resistances": [
-            "Ice"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "When the Miasma Priest switches phase, their Anomaly Buildup RES increases by 10% and CRIT DMG taken increases by 30%. This effect can stack up to 2 times and is cleared when Miasmic Shield breaks.",
-            "When an Agent successfully performs 3 Defensive Assists within 3 seconds, earn 1,000 Performance Points. A maximum of 5,000 Performance Points can be obtained.",
-            "Suitable for Agents with Rupture specialty."
-          ],
-          "objectives": [
-            "1 étoile — Reach 6000 points within the time limit",
-            "2 étoiles — Reach 14000 points within the time limit",
-            "3 étoiles — Reach 20000 points within the time limit"
           ],
           "waves": []
         },

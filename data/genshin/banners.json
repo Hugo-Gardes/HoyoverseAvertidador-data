@@ -312,13 +312,7 @@
         "name": "Rust",
         "icon": "https://img.game8.co/3314490/72c5ae525ba26d02d2b6c40b5569ad73.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301958",
-        "details": {
-          "Type": "Bow",
-          "Base ATK": "42",
-          "Rarity": "★★★★",
-          "Skill": "Rapid FiringIncreases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
-        }
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301958"
       }
     ],
     "startTime": 1786492800,
