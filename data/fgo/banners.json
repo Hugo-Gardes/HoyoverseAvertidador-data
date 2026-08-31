@@ -1022,6 +1022,17 @@
   ],
   "predicted_na_banners": [
     {
+      "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Kondo Isami Pickup Summon",
+      "image": "https://static.mana.wiki/grandorder/20251001 GUDAGUDA Revenge of Makoto Kondo Isami Pickup 3.png?width=480&height=173",
+      "servants": [
+        "Kondo Isami",
+        "Todo Heisuke"
+      ],
+      "start_date": "2027-08-31",
+      "end_date": "2027-09-14",
+      "original_jp_start": "2025-10-01"
+    },
+    {
       "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Pickup 2 Summon (Daily)",
       "image": "https://static.mana.wiki/grandorder/20250926 GUDAGUDA Revenge of Makoto Pickup 2 Summon.png?width=480&height=173",
       "servants": [
