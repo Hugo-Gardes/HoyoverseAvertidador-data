@@ -242,13 +242,13 @@
       "id": "apocalyptic-shadow",
       "name": "Apocalyptic Shadow",
       "icon": "https://img.game8.co/3994391/c78c829517b34601fdcdcec2b13f6f52.png/show",
-      "version": "4.4",
+      "version": "4.5",
       "phaseName": "Ruinous Embers Effect",
-      "buff": "When an enemy with \"Steadfast Safeguard\" is Weakness Broken, dispels control states for all allies, recovers their Skill Points, and activates their Ultimates. Increases the Skill DMG taken by all enemies by 25% and increases Ultimate DMG taken by 15%.",
+      "buff": "When an enemy target with \"Steadfast Safeguard\" is Weakness Broken, dispels control debuffs for all ally targets and activates their Ultimates. Increases Skill DMG taken by all enemy targets by 25% and increases Elation DMG taken by 15%.",
       "buffs": [],
       "selectableBuffs": [],
-      "startTime": 1784505600,
-      "endTime": 1788134400,
+      "startTime": 1788134400,
+      "endTime": 1791158400,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457411",
       "rewards": [
         {
@@ -296,7 +296,7 @@
       "bosses": [
         {
           "name": "Unwaning Ageless Immortal",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Enemy_Abundant_Ebon_Deer.png/revision/latest/scale-to-width-down/256?cb=20260725075739",
+          "icon": "https://img.game8.co/3685059/0cd64deaa3bcd9723038a96c52220e29.png/show",
           "weaknesses": [
             "Physical",
             "Fire",
@@ -398,7 +398,7 @@
         },
         {
           "name": "Super Idol: Center of Attention",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
+          "icon": "https://img.game8.co/4410518/fa31b69057cb421aebb67fc6504bdf6c.png/show",
           "weaknesses": [
             "Physical",
             "Fire",

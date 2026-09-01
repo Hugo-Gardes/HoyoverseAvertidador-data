@@ -1,15 +1,19 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-08-31T18:36:05.469Z",
-  "sourceCommit": "9372f02fdccdf966c76de8ccc68e86c45ff8bce8",
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-01T12:36:13.590Z",
+  "sourceCommit": "61ff303ea51ea30851086da96328e6af3b231463",
   "files": [
     {
       "path": "data/fgo/banners.json",
-      "bytes": 93796,
+      "bytes": 93533,
       "items": 2,
-      "sha256": "e85430dba488138e1c50360dc54876cf54edd2a007a8bb8fe9bdc1654ef257b7",
-      "changedAt": "2026-08-31T00:35:52.729Z",
-      "itemsBefore": 2
+      "sha256": "2e7afe23b198215c85f2414d3086f0ebeba628d640387f7dcbe808f9955a8898",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 2,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/fgo/events.json",
@@ -17,7 +21,11 @@
       "items": 2,
       "sha256": "902d7ea7870541aabdeb381077d56eeff91db4bfb211b8c88de188b52dbd48ef",
       "changedAt": "2026-08-26T06:35:52.439Z",
-      "itemsBefore": 2
+      "itemsBefore": 2,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/fgo/loot_table.json",
@@ -25,39 +33,59 @@
       "items": 858,
       "sha256": "3fbd4b1c1206e8ebe2b170951491e95198727ae9a6f73950384f0401344767f8",
       "changedAt": "2026-08-31T12:36:04.035Z",
-      "itemsBefore": 856
+      "itemsBefore": 856,
+      "lastObservedAt": null,
+      "sourceHealth": "unknown",
+      "contentChangedAtLastObservation": null,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/banners.json",
-      "bytes": 11971,
-      "items": 3,
-      "sha256": "6ba6e18a77bfb18e6ec78303851f55c2d577bbd28456729edb18539d773c3335",
-      "changedAt": "2026-08-30T12:35:55.118Z",
-      "itemsBefore": 3
+      "bytes": 9887,
+      "items": 4,
+      "sha256": "c05d7ac5a0180d20a346a6ba8e8ff6c6765af68f8ee1df5539faa2e543fdb8e4",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 3,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/daily_domains.json",
       "bytes": 64935,
       "items": 12,
-      "sha256": "6cc00f568ad284c35d509b491a2f69a45cb3807138e0c5aea331a15dba4c53d7",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 12
+      "sha256": "2870d3b15f166e735296333dd376768da9430d03c9836b7e87526aa490891975",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 12,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/endgame.json",
-      "bytes": 7545,
+      "bytes": 6952,
       "items": 3,
-      "sha256": "d50706830f1f7c38cf32ecaba0fd8e057a52008556d659725c7eb19cf8e8f39c",
-      "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "sha256": "beedef4d2e40abac0eb1958f9f2685367975daa26e312ab4333288125a61ad1f",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 3,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/events.json",
-      "bytes": 6172,
-      "items": 4,
-      "sha256": "05058fd00ea9293a8b01768955f381feceeade777818e01f1b0695f922494088",
-      "changedAt": "2026-08-28T06:35:54.481Z",
-      "itemsBefore": 4
+      "bytes": 6401,
+      "items": 3,
+      "sha256": "401076a43cb7b3ee46b9994a9a5e96039f2abee635f83a9fed5aa0d2fb7b8268",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 4,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/patch.json",
@@ -65,31 +93,47 @@
       "items": 3,
       "sha256": "d5f3eda5f35096944427c2e1c062f91f0fe1f3326fdd8dbd27cc2a1b72e0e66d",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/banners.json",
-      "bytes": 11110,
+      "bytes": 12115,
       "items": 6,
-      "sha256": "3cb6d9b6ddfd5c0661b250019a6cdb6ca424457cb7c0179c0bd18b5bd432f3e2",
-      "changedAt": "2026-08-26T12:36:18.900Z",
-      "itemsBefore": 6
+      "sha256": "16263796eb1d4582fea97111f766d028e2357b05c98b0958ba54f8305b3d56db",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 6,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/endgame.json",
-      "bytes": 22193,
+      "bytes": 22021,
       "items": 1,
-      "sha256": "c849e4985a01b052c80709615fec31ed8a045fd2f8032d15d39db9170a1b1bcb",
-      "changedAt": "2026-08-31T12:36:04.035Z",
-      "itemsBefore": 1
+      "sha256": "9cea3ff278bf11c05baa4cefac5adaf8ea8590f92c55e5acdf27e1387876db33",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/events.json",
-      "bytes": 36398,
+      "bytes": 36636,
       "items": 5,
-      "sha256": "676aff6d8cc6d183ad335e9b539966c9a19c03d88a3488ef667dad461dda562d",
-      "changedAt": "2026-08-28T12:35:51.551Z",
-      "itemsBefore": 5
+      "sha256": "cbfe2e686b566e97449a412a59f28a8243e7eec25eb6c9239c27bc0e646eb5b4",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 5,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/patch.json",
@@ -97,15 +141,23 @@
       "items": 3,
       "sha256": "912e44a494f9acae0c35c952e78d443af054dbecdfd1d50fd691d45b73c73173",
       "changedAt": "2026-08-26T12:36:18.900Z",
-      "itemsBefore": 3
+      "itemsBefore": 3,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/banners.json",
-      "bytes": 5165,
+      "bytes": 5853,
       "items": 4,
-      "sha256": "e1e91aadfdcb6d331ad3bce72645c3072d72fc6457d80e1fe264c511544d4b72",
-      "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "sha256": "6816b5f01ebf00ef6e155739c1b09a44890eef8bdcae43bfb9802897666b56c5",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 4,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/codes.json",
@@ -113,15 +165,23 @@
       "items": 11,
       "sha256": "7350d21a9f57889a5d206fe1f876b259f462cce55b8f3c63c60442f2d35e1259",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/events.json",
-      "bytes": 14408,
+      "bytes": 14868,
       "items": 12,
-      "sha256": "ab72293d0c12ef79bf52a2c8f0aa0342d0483ff1748a65c4c5f5c97ca3e73c15",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 12
+      "sha256": "260126e579b6c6a926f2e0f633e84aa63d5ff0be21af40befb95e2da81861f3f",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 12,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/patch.json",
@@ -129,15 +189,23 @@
       "items": 3,
       "sha256": "4365257640917c24e239b6ca24f8f9e58ad62af6f0fd4e7d4a555cef04fbdec7",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/banners.json",
-      "bytes": 27357,
+      "bytes": 29692,
       "items": 10,
-      "sha256": "7da89f3a67af04a77d63e8c2d74a676561d3767fc1b779920863def34f398f67",
-      "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "sha256": "d5012a801c737cc1662bf32fb01d68bd6ede364c6e59f5807b13e32f481ec58d",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 10,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/codes.json",
@@ -145,7 +213,11 @@
       "items": 1,
       "sha256": "47dd76301102d99f3e4603a0fd2d8e2c8eac8eeff24a08b8d21b76eaf3506881",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/endgame.json",
@@ -153,15 +225,23 @@
       "items": 1,
       "sha256": "d7bb3c8d895b957fe138fbc68bce97898ffa64e746b0ed8f6153487501133a55",
       "changedAt": "2026-08-27T12:36:10.091Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/events.json",
-      "bytes": 7772,
+      "bytes": 8275,
       "items": 9,
-      "sha256": "53e40ae823da81447f20cbaae0be75652c17665f8e1d685a51c36b79b9317a29",
-      "changedAt": "2026-08-28T12:35:51.551Z",
-      "itemsBefore": 9
+      "sha256": "c1c898bc23a3a7909b60873468a3abae96bc1902969b2aeb42aa9b08b0ef6bfc",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/history.json",
@@ -169,7 +249,11 @@
       "items": 2,
       "sha256": "2698e5cfa59e6b9b7236e0161a79256dfd828638afb1c18684bd629a9141bb28",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/patch.json",
@@ -177,15 +261,23 @@
       "items": 3,
       "sha256": "f8ee5ef0e7171e46cb44da243fff9e9b97a5e5b8a83ff8f7f65c890cc0eb3609",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/banners.json",
-      "bytes": 92911,
+      "bytes": 115348,
       "items": 7,
-      "sha256": "9f27a02c17e7a1177764ead6bbe1cebe9d83948e53e37b9cec4d174a6fda5b1b",
-      "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "sha256": "33af448fea7cd1d1a448b1c01a2c6aca0a2805503a6c3bf6708259a7f5fde52e",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 7,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/endgame.json",
@@ -193,15 +285,23 @@
       "items": 1,
       "sha256": "8c99205dfd99e2d790d2f6f8883d6b0be9bfc914577486fbdb3e256805730178",
       "changedAt": "2026-08-30T12:35:55.118Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/events.json",
-      "bytes": 25574,
+      "bytes": 26820,
       "items": 14,
-      "sha256": "862cf55932f081da75b0093bfa51572c0ae8072440b01531d454afdea8687165",
-      "changedAt": "2026-08-28T18:36:04.299Z",
-      "itemsBefore": 14
+      "sha256": "ed298fbcecf80e4687ad0e61be2e93a1b3e88c14106a2f7801e55f648775e264",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 14,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/patch.json",
@@ -209,7 +309,11 @@
       "items": 3,
       "sha256": "3ed295208dc72d92540f84a674ef60184a1fa029f78d7da8dc95a8c94f0b8f59",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/fgo/keyvisual.avif",
@@ -217,15 +321,23 @@
       "items": 1,
       "sha256": "acd56b0d9620f2f3cae6e0d317b349146194b05278f0a74130df86e767a1d507",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "29726784584fe9306ec18e02f18a7172136a98298e14a57ec6dca84fd7cf41a7",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "ff1e0b97c9e605d78a4f295b981fa379e38a9478f1d04704404def80cb7dca33",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/keyvisual.avif",
@@ -233,15 +345,23 @@
       "items": 1,
       "sha256": "e8220e22971472405ef264a46ce09a6ab0d53aa591fa1de7345051a7ddc9d47f",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "a1829cb7872f17792e571d111ad4fc04612204ce206f0e469716fbfac7753933",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "03554b2e103f40282f6c70da5f2f1aef844b4248661c1944579a5d8a29e340c3",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/keyvisual.avif",
@@ -249,15 +369,23 @@
       "items": 1,
       "sha256": "955b082491b1562b72a480ab740719af74a40c1543fb3ea855965eda683e0fb0",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "210086312770397dd5a0168f6e76cbb5f6b408b32cd2697eb492c6e6f3eb595b",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "eb5bc0ace15918ec2942423e604a1a57d8a5db8eabc8d57378abcd55882c3ada",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/keyvisual.avif",
@@ -265,15 +393,23 @@
       "items": 1,
       "sha256": "3fe3e3ed29512822b060d0f030273c525e3b860fba0d229d1c5cbf64269602be",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "7b0b095304e80467961513b3c4525d34b4b234c12c9a20033e695c0e5fd42dca",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "fd95f66c44213838f160ac3e112ed0c99996de2e626d0b6f7f48ce7944771861",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/portal/announcements.json",
@@ -281,7 +417,11 @@
       "items": 3,
       "sha256": "47894d31d18fed703ac06f7a697818dd3e27f085b89e91043c717af52b9450ac",
       "changedAt": "2026-08-20T17:27:34.423Z",
-      "itemsBefore": null
+      "itemsBefore": null,
+      "lastObservedAt": null,
+      "sourceHealth": "unknown",
+      "contentChangedAtLastObservation": null,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/keyvisual.avif",
@@ -289,15 +429,23 @@
       "items": 1,
       "sha256": "6b401f1378d2971ca418f6b33bdb64649932ab8f5bf862093d41017c3b9f0ffb",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "1759b8c7e8a9ce81e5a4bf85bd6ca4ab7a3c2741051f9b63e34817f19e27a178",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "68cc33593c4642c6f561f8a01b81684c16642c65276dfbac8c327da0d9f17c7f",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/keyvisual.avif",
@@ -305,15 +453,23 @@
       "items": 1,
       "sha256": "c7f6a76a155a9c3a97e1b47af1f22f2c3207aa96da8181baca37c1992f2f76a4",
       "changedAt": "2026-08-24T12:53:49.753Z",
-      "itemsBefore": 1
+      "itemsBefore": 1,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": false,
+      "dataState": "populated"
     },
     {
       "path": "data/zzz/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "bd88199485cbdf0cc1d0f3d322846295c8df02749d76e2dce3cf4dd60f1c90d7",
-      "changedAt": "2026-08-31T18:36:05.469Z",
-      "itemsBefore": 9
+      "sha256": "c9f446f971872ffddb34b74a759b27c0e8bc36c2e13157ce9ff2e81a61aded9d",
+      "changedAt": "2026-09-01T12:36:13.590Z",
+      "itemsBefore": 9,
+      "lastObservedAt": "2026-09-01T12:30:21.854Z",
+      "sourceHealth": "healthy",
+      "contentChangedAtLastObservation": true,
+      "dataState": "populated"
     }
   ]
 }

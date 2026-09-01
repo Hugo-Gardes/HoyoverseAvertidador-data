@@ -138,65 +138,65 @@
     ]
   },
   "imaginariumTheater": {
-    "season": "26",
-    "version": "6.7",
-    "startTime": 1785535200,
-    "endTime": 1788127200,
+    "season": "27",
+    "version": null,
+    "startTime": 1788213600,
+    "endTime": 1790719200,
     "elements": [
       "Hydro",
-      "Cryo",
-      "Electro"
+      "Electro",
+      "Dendro"
     ],
     "openingCharacters": [
       {
-        "name": "Yelan",
-        "icon": "https://img.game8.co/3530017/258a68ae18705bbd1d276f65c2e94c27.png/show"
+        "name": "Columbina",
+        "icon": "https://img.game8.co/4383821/1792ce751a6cc1bf6eeddda7ecdeb340.png/show"
       },
       {
-        "name": "Flins",
-        "icon": "https://img.game8.co/4288768/dff063329711022276370582ceefecf3.png/show"
+        "name": "Cyno",
+        "icon": "https://img.game8.co/3585290/20da32e3dcd31625b6e1b20a82a75204.png/show"
       },
       {
-        "name": "Skirk",
-        "icon": "https://img.game8.co/4194956/7a1921a73270a143aa6ee416e3dd40fe.png/show"
+        "name": "Lauma",
+        "icon": "https://img.game8.co/4269760/0ae338d81812aeb15f6b4bcb196a8060.png/show"
       },
       {
-        "name": "Aino",
-        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show"
+        "name": "Xingqiu",
+        "icon": "https://img.game8.co/3294994/78be634e3a6f78d37e12b16e572762ef.png/show"
       },
       {
-        "name": "Ororon",
-        "icon": "https://img.game8.co/4043774/b27342109c0c0bc875632bf238473ffd.png/show"
+        "name": "Shinobu",
+        "icon": "https://img.game8.co/3539169/6dc2b1ce3d5bb8fe449d38c4416b2de4.png/show"
       },
       {
-        "name": "Layla",
-        "icon": "https://img.game8.co/3608042/7f1131af47c7a0e776e9c3bcd08eecf7.png/show"
+        "name": "Kaveh",
+        "icon": "https://img.game8.co/3681698/fad0a8213836388b08d0ec319c749d04.png/show"
       }
     ],
     "bosses": [
       {
         "act": "Act 3",
-        "name": "Knuckle Duckle",
+        "name": "Jadeplume Terrorshroom",
         "level": 90,
-        "icon": "https://img.game8.co/4282545/e136f8361ebf307ca7b192a018b6a5f1.png/show"
+        "icon": "https://img.game8.co/3570408/347ee7bf9425110cc92739ccd3863832.png/show"
       },
       {
         "act": "Act 6",
-        "name": "Hiljetta",
+        "name": "Emperor of Fire and Iron",
         "level": 92,
-        "icon": "https://img.game8.co/4384707/dfbe21e7da46f80a7c829319298caf9f.png/show"
+        "icon": "https://img.game8.co/3755389/3a55edb6b2f29c4f6978f76473da2107.png/show"
       },
       {
         "act": "Act 8",
-        "name": "Mushteshir",
+        "name": "Battle-Hardened Pipilpan Idol",
         "level": 95,
-        "icon": "https://img.game8.co/4544889/887dd5e31a7f625965e1d6e3d64d49f1.png/show"
+        "icon": "https://img.game8.co/4242757/799399fad660c0fdfba89a0f89779658.png/show"
       },
       {
         "act": "Act 10",
-        "name": "Perpetual Mechanical Array",
+        "name": "Radiant Moonfly",
         "level": 100,
-        "icon": "https://img.game8.co/3393127/3c2d91cb79abbd5007d30f4b7512cd68.png/show"
+        "icon": "https://img.game8.co/4282546/c2bf513d46267539353208166afc4734.png/show"
       }
     ],
     "extraBosses": [
@@ -220,27 +220,9 @@
       },
       {
         "act": "Arcana Challenge II",
-        "name": "Eremite - Daythunder",
+        "name": "Primordial Bathysmal Vishap",
         "level": 100,
-        "icon": "https://img.game8.co/3572523/73a6e45a6d401f39b83567accd2aec31.png/show"
-      },
-      {
-        "act": "Arcana Challenge II",
-        "name": "Eremite - Desert Clearwater",
-        "level": 100,
-        "icon": "https://img.game8.co/3572524/0b21fd0eaec6354da55042b48adb54fb.png/show"
-      },
-      {
-        "act": "Arcana Challenge II",
-        "name": "Eremite - Stone Enchanter",
-        "level": 100,
-        "icon": "https://img.game8.co/3589909/68dfe7c2b3e567ec091c1b0b57cce982.png/show"
-      },
-      {
-        "act": "Arcana Challenge II",
-        "name": "Eremite - Scorching Loremaster",
-        "level": 100,
-        "icon": "https://img.game8.co/3640440/bf127e4d9be936017f8ea6627b24dade.png/show"
+        "icon": "https://img.game8.co/3464875/eaf08aed8e91771013687b6913865122.png/show"
       }
     ]
   }

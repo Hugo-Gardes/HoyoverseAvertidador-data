@@ -51,6 +51,7 @@
     "endTime": 1790719140,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -71,6 +72,7 @@
     "displayStartTime": 1787097600,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -126,6 +128,7 @@
     "displayStartTime": 1787097600,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -166,6 +169,7 @@
     "displayStartTime": 1787097600,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -211,6 +215,7 @@
     "displayStartTime": 1787097600,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -250,6 +255,7 @@
     "endTime": 1790719140,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -274,6 +280,7 @@
     "displayEndTime": 1788134400,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -295,6 +302,7 @@
     "displayEndTime": 1789344000,
     "scheduleSourceName": "Perfect World",
     "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
@@ -310,6 +318,7 @@
     "displayEndTime": 1790726400,
     "scheduleSourceName": "GameWith",
     "scheduleSourceUrl": "https://gamewith.net/nte/77418",
+    "scheduleSourceType": "secondary",
     "sourceType": "official"
   },
   {
@@ -325,6 +334,7 @@
     "displayEndTime": 1790726400,
     "scheduleSourceName": "GameWith",
     "scheduleSourceUrl": "https://gamewith.net/nte/77415",
+    "scheduleSourceType": "secondary",
     "sourceType": "official"
   },
   {
@@ -350,6 +360,7 @@
     "displayEndTime": 1790553600,
     "scheduleSourceName": "Game8",
     "scheduleSourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/604593",
+    "scheduleSourceType": "secondary",
     "sourceType": "secondary",
     "pageAccessible": true
   },
@@ -366,6 +377,7 @@
     "displayEndTime": 1789948800,
     "scheduleSourceName": "Game8",
     "scheduleSourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/606837",
+    "scheduleSourceType": "secondary",
     "sourceType": "secondary",
     "pageAccessible": true
   }

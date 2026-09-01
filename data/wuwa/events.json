@@ -2,7 +2,7 @@
   {
     "name": "Ascendant Aces",
     "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
-    "dateText": "August 20, 2026 - September 10, 2026 Unlocked by default",
+    "dateText": "August 20, 2026 - September 10, 2026",
     "imageUrl": "https://img.game8.co/4594425/f8bd7ceb7baf206174a08efcb9d87578.png/show",
     "status": "ongoing",
     "rewards": [
@@ -36,12 +36,16 @@
         "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
         "totalQuantity": 10000
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787184000,
+    "displayEndTime": 1788998400
   },
   {
     "name": "Resonance Sim Realm",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614775",
-    "dateText": "August 22, 2026 - September 29, 2026 Reach Union Level 14",
+    "dateText": "August 22, 2026 - September 29, 2026",
     "imageUrl": "https://img.game8.co/4581498/d278407594d92161347c0df03d317b0d.png/show",
     "status": "ongoing",
     "rewards": [
@@ -100,12 +104,16 @@
         "icon": "",
         "totalQuantity": 1
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787356800,
+    "displayEndTime": 1790640000
   },
   {
     "name": "Gifts of Drifting Mist",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614684",
-    "dateText": "August 20, 2026 - September 29, 2026 Reach Union Level 8",
+    "dateText": "August 20, 2026 - September 29, 2026",
     "imageUrl": "https://img.game8.co/4581497/1136c715bb89f440c35544f4968a3e58.png/show",
     "status": "ongoing",
     "rewards": [
@@ -119,36 +127,44 @@
         "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
         "totalQuantity": 5
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787184000,
+    "displayEndTime": 1790640000
   },
   {
     "name": "Second Coming of Solaris: Coded Deception",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614757",
-    "dateText": "August 27, 2026 - September 14, 2026 Return of the wacky event where you must fix anomalies or make them worse to gain rewards!",
+    "dateText": "August 27, 2026 - September 14, 2026",
     "imageUrl": "https://img.game8.co/4581499/5b74c89c9e3f5d486e4ed3c76dc052ff.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Astrite",
         "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 100
+        "totalQuantity": 340
       },
       {
         "itemName": "Forgery Premium Supply - Lahai-Roi",
         "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-        "totalQuantity": 8
+        "totalQuantity": 24
       },
       {
         "itemName": "Premium Enclosure Tank - Land of Xuanfang",
         "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-        "totalQuantity": 16
+        "totalQuantity": 48
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787788800,
+    "displayEndTime": 1789344000
   },
   {
     "name": "Bountiful Crescendo",
     "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
-    "dateText": "September 3, 2026 - September 10, 2026 Earn double leveling material drops during this event!",
+    "dateText": "September 3, 2026 - September 10, 2026",
     "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
     "status": "upcoming",
     "rewards": [
@@ -157,12 +173,16 @@
         "icon": "",
         "totalQuantity": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788393600,
+    "displayEndTime": 1788998400
   },
   {
     "name": "The Strings Remember",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614773",
-    "dateText": "September 3, 2026 - September 21, 2026 Play the Qin with Qingxiao and play the requested melodies, with new melodies unlocked for 7 days.",
+    "dateText": "September 3, 2026 - September 21, 2026",
     "imageUrl": "https://img.game8.co/4581501/c06381ba427f3a143cbb69d0bfa9ebee.png/show",
     "status": "upcoming",
     "rewards": [
@@ -171,12 +191,16 @@
         "icon": "",
         "totalQuantity": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788393600,
+    "displayEndTime": 1789948800
   },
   {
     "name": "If Dreams Still Reverberate",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614765",
-    "dateText": "September 10, 2026 - September 29, 2026 Cooperate with other players to defeat dangerous enemies in this combat event!",
+    "dateText": "September 10, 2026 - September 29, 2026",
     "imageUrl": "https://img.game8.co/4581502/4dccd8a26495219600c3e0b1a7d92327.png/show",
     "status": "upcoming",
     "rewards": [
@@ -185,12 +209,16 @@
         "icon": "",
         "totalQuantity": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788998400,
+    "displayEndTime": 1790640000
   },
   {
     "name": "3.6 Wuthering Exploration",
     "link": "https://game8.co/games/Wuthering-Waves/archives/457210",
-    "dateText": "September 17, 2026 - September 29, 2026 Fulfill daily tasks to complete milestones and earn various rewards!",
+    "dateText": "September 17, 2026 - September 29, 2026",
     "imageUrl": "https://img.game8.co/4581500/51a74acd26c03e9814eb2e9dcfcd0ff1.png/show",
     "status": "upcoming",
     "rewards": [
@@ -199,12 +227,16 @@
         "icon": "",
         "totalQuantity": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789603200,
+    "displayEndTime": 1790640000
   },
   {
     "name": "Chord Cleansing",
     "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
-    "dateText": "September 22, 2026 - September 29, 2026 Earn double echo and echo leveling material drops during this event!",
+    "dateText": "September 22, 2026 - September 29, 2026",
     "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
     "status": "upcoming",
     "rewards": [
@@ -213,6 +245,10 @@
         "icon": "",
         "totalQuantity": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790035200,
+    "displayEndTime": 1790640000
   }
 ]

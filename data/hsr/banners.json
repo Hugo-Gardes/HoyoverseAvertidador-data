@@ -19,10 +19,12 @@
           "DEF (15th)": "66",
           "HP": "6000 or above",
           "Skill": "★★☆☆☆ - Low PriorityUpgrading Robin - Summeretto's Skill isn't necessary since it only increases the healing it provides for the Summer Songbirds."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       },
       {
-        "name": "HSR - Hyacine",
+        "name": "Hyacine",
         "icon": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/486300",
@@ -35,12 +37,14 @@
           "DEF (6th)": "85",
           "HP": "4500+ outside combat",
           "Skill": "★★★★★ - Highest PriorityHyacine's Skill is where most of her healing comes from, so max this one out."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
       {
-        "name": "HSR - Dan Heng",
+        "name": "Dan Heng",
         "icon": "https://img.game8.co/3899468/85afc52c45735db3262189e165d24232.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405749",
@@ -54,10 +58,12 @@
           "ATK": "2400 or above",
           "Skill": "★★★★★ - Highest PriorityDan Heng's secondary source of damage for when his Ultimate is not up.",
           "Faction": "Astral Express"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "HSR - Qingque",
+        "name": "Qingque",
         "icon": "https://img.game8.co/3899437/48e666d9c04a350f0195f74b7fd59aac.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405759",
@@ -71,10 +77,12 @@
           "ATK": "2500 or above",
           "Skill": "★★★★☆ - High PriorityIncreases her DMG buff which can stack up to four times.",
           "Faction": "The Xianzhou Luofu"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "HSR - Gallagher",
+        "name": "Gallagher",
         "icon": "https://img.game8.co/3826180/39fbc415ce51174f6da010ff8a758d91.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/437255",
@@ -87,7 +95,9 @@
           "DEF (18th)": "60",
           "Skill": "★★★★☆ - High PriorityGallagher's Skill increases his manual healing.",
           "Faction": "Penacony"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1787608800,
@@ -100,61 +110,71 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Rise and Sing",
+        "name": "Rise and Sing",
         "icon": "https://img.game8.co/4590783/1606b7dcc53fa05655c57f2769a7e09d.png/show",
-        "type": "character",
+        "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615721",
         "details": {
           "Rarity": "★★★★★",
           "Path": "The Remembrance",
           "Max ATK": "582"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       },
       {
-        "name": "HSR - Long May Rainbows Adorn the Sky",
+        "name": "Long May Rainbows Adorn the Sky",
         "icon": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show",
-        "type": "character",
+        "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/521509",
         "details": {
           "Rarity": "★★★★★",
           "Path": "The Remembrance",
           "Max ATK": "476"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
       {
-        "name": "HSR - Dream",
+        "name": "Dream's Montage",
         "icon": "https://img.game8.co/4015240/79b3f4e22c48946d47b803bd9bd18271.png/show",
-        "type": "character",
+        "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448342",
         "details": {
           "Rarity": "★★★★",
           "Path": "The Abundance",
           "Max ATK": "423"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 4
       },
       {
-        "name": "HSR - Geniuses",
+        "name": "Geniuses' Greetings",
         "icon": "https://img.game8.co/4075014/188c36ca2be293949a58e622f1cf75d9.png/show",
-        "type": "character",
+        "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/492458",
         "details": {
           "Rarity": "★★★★",
           "Path": "The Remembrance",
           "Max ATK": "476"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 4
       },
       {
-        "name": "HSR - A Little Getaway",
+        "name": "A Little Getaway",
         "icon": "https://img.game8.co/4590785/b08d60e465f30fb8f173d109c7bbc472.png/show",
-        "type": "character",
+        "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615724",
         "details": {
           "Rarity": "★★★★",
           "Path": "The Elation",
           "Max ATK": "423"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 4
       }
     ],
     "startTime": 1787608800,
@@ -167,7 +187,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Rin Tohsaka",
+        "name": "Rin Tohsaka",
         "icon": "https://img.game8.co/4510469/d15fb19c8abe09dde57e23caca1f2045.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601938",
@@ -179,10 +199,12 @@
           "ATK (5th)": "95",
           "DEF (17th)": "62",
           "Skill": "★★★★★ - Highest PriorityUpgrade Rin Tohsaka's Skill to increase the damage it provides."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       },
       {
-        "name": "HSR - Gilgamesh",
+        "name": "Gilgamesh",
         "icon": "https://img.game8.co/4510470/cab44c413c1ae484058e78385e5d4427.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/601941",
@@ -195,11 +217,14 @@
           "DEF (13th)": "69",
           "ATK": "2600 to 3000+",
           "Skill": "★★★★☆ - High PriorityUpgrade Gilgamesh's Skill to increase the damage it deals and the DEF ignore it provides."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784844000
+    "startTime": 1784844000,
+    "endTime": null
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -208,7 +233,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Flickering Stars",
+        "name": "Flickering Stars",
         "icon": "https://img.game8.co/4548484/8105fea98b660bcab9b80b1f8fb1ac01.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608552",
@@ -216,10 +241,12 @@
           "Rarity": "★★★★★",
           "Path": "The Erudition",
           "Max ATK": "635"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       },
       {
-        "name": "HSR - I Am As You Behold",
+        "name": "I Am As You Behold",
         "icon": "https://img.game8.co/4548485/695c41c2075cfa875011d7f552ad4d73.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/608551",
@@ -227,11 +254,14 @@
           "Rarity": "★★★★★",
           "Path": "The Destruction",
           "Max ATK": "635"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784844000
+    "startTime": 1784844000,
+    "endTime": null
   },
   {
     "name": "Saber Banner",
@@ -240,7 +270,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Saber",
+        "name": "Saber",
         "icon": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/519564",
@@ -253,10 +283,12 @@
           "DEF (5th)": "89",
           "ATK": "2500+",
           "Skill": "★★★★★ - Highest Priority Most of Saber's DMG will come from her Skill, so max this out along with her Ultimate."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       },
       {
-        "name": "HSR - Archer",
+        "name": "Archer",
         "icon": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/519877",
@@ -269,11 +301,14 @@
           "ATK (11th)": "84",
           "DEF (15th)": "66",
           "Skill": "★★★★★ - Highest Priority Most of Archer's DMG will come from his Skill, so max this out along with his Ultimate."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752184800
+    "startTime": 1752184800,
+    "endTime": null
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -282,7 +317,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - A Thankless Coronation",
+        "name": "A Thankless Coronation",
         "icon": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530841",
@@ -290,10 +325,12 @@
           "Rarity": "★★★★★",
           "Path": "The Destruction",
           "Max ATK": "582"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       },
       {
-        "name": "HSR - The Hell Where Ideals Burn",
+        "name": "The Hell Where Ideals Burn",
         "icon": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530842",
@@ -301,10 +338,13 @@
           "Rarity": "★★★★★",
           "Path": "The Hunt",
           "Max ATK": "582"
-        }
+        },
+        "entityKind": "light_cone",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752184800
+    "startTime": 1752184800,
+    "endTime": null
   }
 ]

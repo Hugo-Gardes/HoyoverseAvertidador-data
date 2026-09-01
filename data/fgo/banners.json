@@ -1,8 +1,18 @@
 {
   "confirmed_na_banners": [
     {
+      "title": "Back to School Campaign 2026 Pickup Summon (Daily)",
+      "image": "https://img.mana.wiki/grandorder/20260901 Back to School 2026 Pickup.png?width=480&height=173",
+      "servants": [
+        "Morgan",
+        "Koyanskaya of Light"
+      ],
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-08"
+    },
+    {
       "title": "Ordeal Call III: Archetype Inception Pickup 3 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260812 OC3 Archetype Inception Pickup 3 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260812 OC3 Archetype Inception Pickup 3 Summon.png?width=480&height=173",
       "servants": [
         "Archetype Earth",
         "Sessyoin Kiara",
@@ -13,7 +23,7 @@
     },
     {
       "title": "Ordeal Call III: Archetype Inception Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260804 OC3 Archetype Inception Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260804 OC3 Archetype Inception Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Koyanskaya of Dark",
         "Astolfo (Saber)",
@@ -27,8 +37,22 @@
       "end_date": "2026-08-17"
     },
     {
+      "title": "Lostbelt No.4 Clear Support Pickup Summon (Daily)",
+      "image": "https://img.mana.wiki/grandorder/20260901 LB4 Clear Support Pickup Summon.png?width=480&height=173",
+      "servants": [
+        "Arjuna (Alter)",
+        "Arjuna",
+        "Asvatthaman",
+        "Lakshmi Bai",
+        "William Tell",
+        "Asclepius"
+      ],
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-09"
+    },
+    {
       "title": "Ordeal Call III: Archetype Inception BB (Dubai) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260729 OC3 Archetype Inception BB Dubai Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260729 OC3 Archetype Inception BB Dubai Pickup.png?width=480&height=173",
       "servants": [
         "BB (Dubai)",
         "Tenochtitlan (Moon Cancer)",
@@ -39,7 +63,7 @@
     },
     {
       "title": "FGO Summer 2026 - BB Presents☆Celeb Summer Experience! Free Quest Backup Beni-Enma Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260726 Summer 2026 Free Quest Backup Beni Enma Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260726 Summer 2026 Free Quest Backup Beni Enma Pickup.png?width=480&height=173",
       "servants": [
         "Beni-Enma",
         "Chiron"
@@ -49,7 +73,7 @@
     },
     {
       "title": "Swimsuit 2020 - 2022 Revival Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260719 Swimsuit 2020 to 2022 Revival Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260719 Swimsuit 2020 to 2022 Revival Pickup.png?width=480&height=173",
       "servants": [
         "Altria Pendragon (Ruler)",
         "Sessyoin Kiara (Moon Cancer)",
@@ -66,7 +90,7 @@
     },
     {
       "title": "FGO Summer 2026 - BB Presents☆Celeb Summer Experience! Karna Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260715 Summer 2026 Karna Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260715 Summer 2026 Karna Pickup 2.png?width=480&height=173",
       "servants": [
         "Karna",
         "Percival"
@@ -76,7 +100,7 @@
     },
     {
       "title": "FGO Summer 2026 - BB Presents☆Celeb Summer Experience! Mysterious Executor C.I.E.L. Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260715 Summer 2026 CIEL Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260715 Summer 2026 CIEL Pickup 1.png?width=480&height=173",
       "servants": [
         "Mysterious Executor C.I.E.L",
         "Dobrynya Nikitich (Lancer)",
@@ -87,7 +111,7 @@
     },
     {
       "title": "9th Anniversary Limited Servant Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260704 9th Anniv Limited Servant Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260704 9th Anniv Limited Servant Pickup Daily.png?width=480&height=173",
       "servants": [
         "Yang Guifei",
         "Osakabehime (Archer)",
@@ -109,21 +133,21 @@
     },
     {
       "title": "9th Anniversary Destiny Order Summon",
-      "image": "https://static.mana.wiki/grandorder/20260704 Destiny Order Summon 2026.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260704 Destiny Order Summon 2026.png?width=480&height=173",
       "servants": [],
       "start_date": "2026-07-04",
       "end_date": "2026-07-14"
     },
     {
       "title": "9th Anniversary Guaranteed Summon: 5 Years+ × 17 Pavilions",
-      "image": "https://static.mana.wiki/grandorder/20260704 9th Anniv Guaranteed Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260704 9th Anniv Guaranteed Pickup.png?width=480&height=173",
       "servants": [],
       "start_date": "2026-07-04",
       "end_date": "2026-07-14"
     },
     {
       "title": "9th Anniversary Space Ereshkigal Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260704 9th Anniv Space Ereshkigal Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260704 9th Anniv Space Ereshkigal Pickup.png?width=480&height=173",
       "servants": [
         "Space Ereshkigal"
       ],
@@ -132,7 +156,7 @@
     },
     {
       "title": "Swimsuit Event 2026 Participation Support: Part 2 Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260624 Swimsuit Event Participation Pt2 Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260624 Swimsuit Event Participation Pt2 Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Tamamo-no-Mae (Lancer)",
         "Altria Pendragon (Archer)",
@@ -146,7 +170,7 @@
     },
     {
       "title": "The Dancing Dragon Castle! Free Quest Backup Ashiya Douman Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260621 Dancing Dragon Castle Free Quest Backup Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260621 Dancing Dragon Castle Free Quest Backup Pickup.png?width=480&height=173",
       "servants": [
         "Ashiya Douman",
         "Assassin of Paraiso"
@@ -156,7 +180,7 @@
     },
     {
       "title": "Swimsuit Event 2026 Participation Support: Part 2 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260620 Swimsuit Event Participation Pt2 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260620 Swimsuit Event Participation Pt2 Pickup.png?width=480&height=173",
       "servants": [
         "Abigail Williams (Summer)",
         "Jeanne d'Arc (Archer)",
@@ -170,7 +194,7 @@
     },
     {
       "title": "Swimsuit Event 2026 Participation Support Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260604 Swimsuit Event 2026 Participation Support.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260604 Swimsuit Event 2026 Participation Support.png?width=480&height=173",
       "servants": [
         "Aesc the Savior",
         "Altria Caster (Berserker)",
@@ -185,7 +209,7 @@
     },
     {
       "title": "The Dancing Dragon Castle! Sei Shounagon Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260618 Dancing Dragon Castle Sei Shounagon Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260618 Dancing Dragon Castle Sei Shounagon Pickup 3.png?width=480&height=173",
       "servants": [
         "Sei Shounagon",
         "Kiyohime (Lancer)",
@@ -196,7 +220,7 @@
     },
     {
       "title": "The Dancing Dragon Castle! Zhuge Liang Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260616 Dancing Dragon Castle Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260616 Dancing Dragon Castle Pickup 2.png?width=480&height=173",
       "servants": [
         "Zhuge Liang (El-Melloi II)",
         "Kiyohime (Lancer)",
@@ -207,7 +231,7 @@
     },
     {
       "title": "The Dancing Dragon Castle! Hibiki & Chikagi Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260612 Dancing Dragon Castle Hibiki Chikagi Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260612 Dancing Dragon Castle Hibiki Chikagi Pickup.png?width=480&height=173",
       "servants": [
         "Hibiki & Chikagi",
         "Kiyohime (Lancer)",
@@ -218,7 +242,7 @@
     },
     {
       "title": "Interlude Campaign: Part 20 Taigong Wang Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260604 Interlude 20 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260604 Interlude 20 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Taigong Wang",
         "Dobrynya Nikitich"
@@ -228,7 +252,7 @@
     },
     {
       "title": "Revival: FGO Arcade Collab Free Quest Backup Vlad III Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260522 Revival FGO Arcade Collab Free Quest Backup Vlad III Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260522 Revival FGO Arcade Collab Free Quest Backup Vlad III Pickup.png?width=480&height=173",
       "servants": [
         "Vlad III",
         "Carmilla"
@@ -238,7 +262,7 @@
     },
     {
       "title": "Revival: FGO Arcade Collab Pickup 4 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260522 Revival FGO Arcade Collab Pickup 4.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260522 Revival FGO Arcade Collab Pickup 4.png?width=480&height=173",
       "servants": [
         "Nightingale",
         "Mordred",
@@ -252,7 +276,7 @@
     },
     {
       "title": "Revival: FGO Arcade Collab Larva / Tiamat Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260520 Revival FGO Arcade Collab Tiamat Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260520 Revival FGO Arcade Collab Tiamat Pickup 3.png?width=480&height=173",
       "servants": [
         "Larva / Tiamat",
         "Locusta"
@@ -262,7 +286,7 @@
     },
     {
       "title": "Revival: FGO Arcade Collab Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260516 Revival FGO Arcade Collab Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260516 Revival FGO Arcade Collab Pickup 2.png?width=480&height=173",
       "servants": [
         "Jacques de Molay",
         "Scathach",
@@ -273,7 +297,7 @@
     },
     {
       "title": "Revival: FGO Arcade Collab Sodom's Beast / Draco Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260515 Revival FGO Arcade Collab Draco Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260515 Revival FGO Arcade Collab Draco Pickup.png?width=480&height=173",
       "servants": [
         "Sodom's Beast / Draco",
         "Locusta"
@@ -283,7 +307,7 @@
     },
     {
       "title": "Interlude Campaign: Part 19 Konstantinos XI Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260510 Interlude Campaign 19 Konstantinos XI Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260510 Interlude Campaign 19 Konstantinos XI Pickup.png?width=480&height=173",
       "servants": [
         "Konstantinos XI",
         "Don Quixote"
@@ -293,7 +317,7 @@
     },
     {
       "title": "Revival: Chaldea Summer Adventure Free Quest Backup Ptolemaios Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260427 Revival Chaldea Summer Adventure Free Quest Backup Ptolemaios Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260427 Revival Chaldea Summer Adventure Free Quest Backup Ptolemaios Pickup.png?width=480&height=173",
       "servants": [
         "Ptolemaios",
         "Oda Nobunaga (Berserker)"
@@ -303,7 +327,7 @@
     },
     {
       "title": "Revival: Chaldea Summer Adventure Kama (Avenger) Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260426 Revival Chaldea Summer Adventure Kama Avenger Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260426 Revival Chaldea Summer Adventure Kama Avenger Pickup.png?width=480&height=173",
       "servants": [
         "Kama (Avenger)",
         "Caenis (Rider)",
@@ -314,7 +338,7 @@
     },
     {
       "title": "Revival: Chaldea Summer Adventure! Okita Souji (Saber Alter) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260420 Revival Chaldea Summer Adventure Okita Souji Saber Alter Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260420 Revival Chaldea Summer Adventure Okita Souji Saber Alter Pickup.png?width=480&height=173",
       "servants": [
         "Okita Souji (Saber Alter)",
         "Anastasia & Viy (Archer)",
@@ -325,7 +349,7 @@
     },
     {
       "title": "Revival: Chaldea Summer Adventure! Achilles Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260420 Revival Chaldea Summer Adventure Achilles Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260420 Revival Chaldea Summer Adventure Achilles Pickup 2.png?width=480&height=173",
       "servants": [
         "Achilles",
         "Mandricardo"
@@ -335,7 +359,7 @@
     },
     {
       "title": "Witch on the Holy Night Collaboration Event Free Quest Backup Amor (Caren) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260405 Witch on the Holy Night Free Quest Backup Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260405 Witch on the Holy Night Free Quest Backup Pickup Summon.png?width=480&height=173",
       "servants": [
         "Amor (Caren)",
         "Watanabe-no-Tsuna"
@@ -345,7 +369,7 @@
     },
     {
       "title": "Witch on the Holy Night × FGO Collaboration Event Pickup 4 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20240503 Mahoyo Collab 4 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20240503 Mahoyo Collab 4 Pickup.png?width=480&height=173",
       "servants": [
         "Ryougi Shiki (Saber)",
         "Senji Muramasa",
@@ -358,7 +382,7 @@
     },
     {
       "title": "Witch on the Holy Night × FGO Collaboration Event Kuonji Alice Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260403 Witch on the Holy Night Alice Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260403 Witch on the Holy Night Alice Pickup 3.png?width=480&height=173",
       "servants": [
         "Kuonji Alice"
       ],
@@ -367,7 +391,7 @@
     },
     {
       "title": "Witch on the Holy Night × FGO Collaboration Event Space Ishtar Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260331 Witch on the Holy Night Space Ishtar Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260331 Witch on the Holy Night Space Ishtar Pickup 2.png?width=480&height=173",
       "servants": [
         "Space Ishtar",
         "Calamity Jane"
@@ -377,7 +401,7 @@
     },
     {
       "title": "Witch on the Holy Night × FGO Collaboration Event Aozaki Aoko Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260330 Witch on the Holy Night Aoko Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260330 Witch on the Holy Night Aoko Pickup.png?width=480&height=173",
       "servants": [
         "Aozaki Aoko"
       ],
@@ -386,7 +410,7 @@
     },
     {
       "title": "Past Collaboration Event Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260327 Past Collaboration Event Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260327 Past Collaboration Event Pickup.png?width=480&height=173",
       "servants": [
         "Super Bunyan",
         "Daikokuten",
@@ -400,7 +424,7 @@
     },
     {
       "title": "Ordeal Call New Duties Unlocked: Part 6 Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260322 Ordeal Call Duties Pt6 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260322 Ordeal Call Duties Pt6 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Lady Avalon",
         "Hephaistion"
@@ -410,7 +434,7 @@
     },
     {
       "title": "Pilgrimage Festival: Part 8 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260322 Pilgrimage Fes 8 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260322 Pilgrimage Fes 8 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Meltryllis",
         "Quetzalcoatl",
@@ -426,7 +450,7 @@
     },
     {
       "title": "Spring 2026 New Master Support Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260322 Spring 2026 New Master Support Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260322 Spring 2026 New Master Support Pickup Summon.png?width=480&height=173",
       "servants": [
         "Jeanne d'Arc",
         "Altria Caster",
@@ -438,7 +462,7 @@
     },
     {
       "title": "Ordeal Call II: Id Monte Cristo Pickup 4 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260317 Ordeal Call II Monte Cristo Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260317 Ordeal Call II Monte Cristo Pickup.png?width=480&height=173",
       "servants": [
         "Monte Cristo",
         "Alessandro di Cagliostro"
@@ -448,7 +472,7 @@
     },
     {
       "title": "Ordeal Call II: Id Taira-no-Kagekiyo Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260315 Ordeal Call II Taira no Kagekiyo Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260315 Ordeal Call II Taira no Kagekiyo Pickup.png?width=480&height=173",
       "servants": [
         "Taira-no-Kagekiyo",
         "Marie Antoinette"
@@ -458,7 +482,7 @@
     },
     {
       "title": "Ordeal Call II: Id Jeanne d'Arc (Alter) Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20260313 Ordeal Call II Jeanne dArc Alter Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260313 Ordeal Call II Jeanne dArc Alter Pickup.png?width=480&height=173",
       "servants": [
         "Jeanne d'Arc (Alter)",
         "Antonio Salieri"
@@ -468,7 +492,7 @@
     },
     {
       "title": "Ordeal Call II: Id Marie Antoinette (Alter) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260311 Ordeal Call II Marie Alter Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260311 Ordeal Call II Marie Alter Pickup Summon.png?width=480&height=173",
       "servants": [
         "Marie Antoinette (Alter)",
         "Hassan of the Shining Star"
@@ -478,7 +502,7 @@
     },
     {
       "title": "Fate/strange Fake Premiere Celebration Gilgamesh Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260306 Fate strange Fake Premiere Gilgamesh Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260306 Fate strange Fake Premiere Gilgamesh Pickup.png?width=480&height=173",
       "servants": [
         "Gilgamesh"
       ],
@@ -487,7 +511,7 @@
     },
     {
       "title": "Chaldea Boys Collection (CBC) 2026: Chivalrous Montjoie! Free Quest Backup Sigurd Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260304 CBC2026 Free Quest Backup Sigurd Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260304 CBC2026 Free Quest Backup Sigurd Pickup.png?width=480&height=173",
       "servants": [
         "Sigurd",
         "Rama"
@@ -497,7 +521,7 @@
     },
     {
       "title": "White Day Memorial 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260303 White Day Memorial Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260303 White Day Memorial Pickup.png?width=480&height=173",
       "servants": [
         "Takasugi Shinsaku",
         "Arthur Pendragon (Prototype)",
@@ -513,7 +537,7 @@
     },
     {
       "title": "Chaldea Boys Collection (CBC) 2026 Astolfo (Saber) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260226 CBC2026 Astolfo Saber Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260226 CBC2026 Astolfo Saber Pickup Summon.png?width=480&height=173",
       "servants": [
         "Astolfo (Saber)",
         "Roland"
@@ -523,7 +547,7 @@
     },
     {
       "title": "Chaldea Boys Collection (CBC) 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260228 CBC 2026 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260228 CBC 2026 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Cu Chulainn (Alter)",
         "Nikola Tesla",
@@ -547,7 +571,7 @@
     },
     {
       "title": "Chaldea Boys Collection (CBC) 2026: Chivalrous Montjoie! Charlemagne Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260225 CBC2026 Charlemagne Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260225 CBC2026 Charlemagne Pickup Summon.png?width=480&height=173",
       "servants": [
         "Charlemagne",
         "Don Quixote"
@@ -557,7 +581,7 @@
     },
     {
       "title": "Ordeal Call II Prerelease Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260217 OC2 Prerelease Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260217 OC2 Prerelease Pickup Summon.png?width=480&height=173",
       "servants": [
         "Medusa (Saber)",
         "Durga",
@@ -569,7 +593,7 @@
     },
     {
       "title": "Valentine's 2026 Free Quest Backup Kyokutei Bakin Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260212 Valentines 2024 Free Quest Backup Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260212 Valentines 2024 Free Quest Backup Pickup.png?width=480&height=173",
       "servants": [
         "Kyokutei Bakin",
         "Suzuka Gozen (Vacay)"
@@ -579,7 +603,7 @@
     },
     {
       "title": "Fate/strange Fake Premiere Celebration Richard I Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260206 Fate strange Fake Premiere Richard I Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260206 Fate strange Fake Premiere Richard I Pickup.png?width=480&height=173",
       "servants": [
         "Richard I"
       ],
@@ -588,7 +612,7 @@
     },
     {
       "title": "Valentine's 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260204 Valentines 2026 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260204 Valentines 2026 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Andromeda",
         "Altera",
@@ -623,7 +647,7 @@
     },
     {
       "title": "Pilgrimage Festival: Part 7 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260121 Pilgrimage Fes 7 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260121 Pilgrimage Fes 7 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Altria Pendragon (Rider Alter)",
         "Ishtar",
@@ -635,7 +659,7 @@
     },
     {
       "title": "Fate/Samurai Remnant Collaboration Event Free Quest Backup Ibuki-Douji Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260116 Fate Samurai Remnant Free Quest Backup Ibuki Douji Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260116 Fate Samurai Remnant Free Quest Backup Ibuki Douji Pickup.png?width=480&height=173",
       "servants": [
         "Ibuki-Douji",
         "Siegfried"
@@ -645,7 +669,7 @@
     },
     {
       "title": "Fate/Samurai Remnant Collaboration Event Miyamoto Musashi (Berserker) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260114 Fate Samurai Remnant Collab Musashi Berserker Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260114 Fate Samurai Remnant Collab Musashi Berserker Pickup.png?width=480&height=173",
       "servants": [
         "Miyamoto Musashi (Berserker)",
         "Yui Shousetsu"
@@ -655,7 +679,7 @@
     },
     {
       "title": "Fate/Samurai Remnant Collaboration Event Minamoto-no-Raikou / Ushi Gozen Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20260107 Fate Samurai Remnant Collab Ushi Gozen Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260107 Fate Samurai Remnant Collab Ushi Gozen Pickup.png?width=480&height=173",
       "servants": [
         "Minamoto-no-Raikou / Ushi Gozen",
         "Yui Shousetsu"
@@ -665,14 +689,14 @@
     },
     {
       "title": "FGO New Year 2026 Guaranteed Lucky Bag Summon (Gender x NP Type)",
-      "image": "https://static.mana.wiki/grandorder/20251231 New Year 2026 Guaranteed Lucky Bag Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251231 New Year 2026 Guaranteed Lucky Bag Summon.png?width=480&height=173",
       "servants": [],
       "start_date": "2025-12-31",
       "end_date": "2026-01-09"
     },
     {
       "title": "New Year's 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251231 New Year 2026 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251231 New Year 2026 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Yamato Takeru",
         "Koyanskaya of Light",
@@ -695,7 +719,7 @@
     },
     {
       "title": "Christmas 2025 - Merry Christmas in the Snowy Field 2025 Free Quest Backup Ozymandias Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251227 Christmas 2025 Ozymandias Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251227 Christmas 2025 Ozymandias Pickup.png?width=480&height=173",
       "servants": [
         "Ozymandias",
         "Gilgamesh (Caster)"
@@ -705,7 +729,7 @@
     },
     {
       "title": "New Year's 2026 Countdown Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251225 New Year 2026 Countdown Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251225 New Year 2026 Countdown Pickup Summon.png?width=480&height=173",
       "servants": [
         "Tezcatlipoca",
         "Kukulcan",
@@ -717,7 +741,7 @@
     },
     {
       "title": "Christmas 2025 - Merry Christmas in the Snowy Field 2025 Scathach-Skadi Pickup 4 Summon",
-      "image": "https://static.mana.wiki/grandorder/20251223 Christmas 2025 ScathachSkadi Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251223 Christmas 2025 ScathachSkadi Pickup.png?width=480&height=173",
       "servants": [
         "Scathach-Skadi",
         "Asvatthaman"
@@ -727,7 +751,7 @@
     },
     {
       "title": "Christmas 2025 - Merry Christmas in the Snowy Field 2025 BB (Summer) Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20251222 Christmas 2025 BB Summer Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251222 Christmas 2025 BB Summer Pickup.png?width=480&height=173",
       "servants": [
         "BB (Summer)",
         "Asvatthaman"
@@ -737,7 +761,7 @@
     },
     {
       "title": "Christmas 2025 - Merry Christmas in the Snowy Field 2025 Britomart Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20251219 Christmas 2025 Britomart Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251219 Christmas 2025 Britomart Pickup.png?width=480&height=173",
       "servants": [
         "Britomart"
       ],
@@ -746,7 +770,7 @@
     },
     {
       "title": "Christmas 2025 - Merry Christmas in the Snowy Field 2025 Nemo Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251219 Christmas 2025 Nemo Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251219 Christmas 2025 Nemo Pickup.png?width=480&height=173",
       "servants": [
         "Nemo"
       ],
@@ -755,7 +779,7 @@
     },
     {
       "title": "Christmas 2025 Pre-Release Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251210 Christmas 2025 Prerelease Pickup Summon (Daily).png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251210 Christmas 2025 Prerelease Pickup Summon (Daily).png?width=480&height=173",
       "servants": [
         "Amakusa Shirou",
         "First Hassan"
@@ -765,7 +789,7 @@
     },
     {
       "title": "GUDAGUDA 2025 Super Goryokaku Pickup 4 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251206 GUDAGUDA Super Goryoukaku Pickup 4 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251206 GUDAGUDA Super Goryoukaku Pickup 4 Summon.png?width=480&height=173",
       "servants": [
         "Izumo-no-Okuni",
         "Okita Souji (Alter)",
@@ -777,7 +801,7 @@
     },
     {
       "title": "GUDAGUDA 2025 Super Goryoukaku Uesugi Kenshin Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20251203 GUDAGUDA Super Goryoukaku Uesugi Kenshin Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251203 GUDAGUDA Super Goryoukaku Uesugi Kenshin Pickup.png?width=480&height=173",
       "servants": [
         "Uesugi Kenshin",
         "Nagakura Shinpachi",
@@ -788,7 +812,7 @@
     },
     {
       "title": "GUDAGUDA 2025 Super Goryoukaku Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251128 GUDAGUDA Super Goryoukaku Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251128 GUDAGUDA Super Goryoukaku Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Okita Souji",
         "Hijikata Toshizo",
@@ -800,7 +824,7 @@
     },
     {
       "title": "GUDAGUDA 2025 Super Goryoukaku - Takeda Shingen (Takeda Harunobu) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251127 GUDAGUDA Super Goryoukaku Takeda Shingen Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251127 GUDAGUDA Super Goryoukaku Takeda Shingen Pickup.png?width=480&height=173",
       "servants": [
         "Takeda Shingen (Takeda Harunobu)",
         "Nagakura Shinpachi",
@@ -811,14 +835,14 @@
     },
     {
       "title": "Part 2 Clear Backup Guaranteed Summon",
-      "image": "https://static.mana.wiki/grandorder/20251120 Part 2 Clear Backup Guaranteed Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251120 Part 2 Clear Backup Guaranteed Summon.png?width=480&height=173",
       "servants": [],
       "start_date": "2025-11-20",
       "end_date": "2025-12-19"
     },
     {
       "title": "Thanksgiving 2025 Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251120 Thanksgiving 2025 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251120 Thanksgiving 2025 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Yang Guifei",
         "Super Orion",
@@ -831,7 +855,7 @@
     },
     {
       "title": "Pilgrimage Festival: Part 6 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251111 Pilgrimage Fes 6 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251111 Pilgrimage Fes 6 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Demon King Nobunaga (Oda Nobunaga)",
         "Oda Nobunaga (Berserker)",
@@ -845,7 +869,7 @@
     },
     {
       "title": "24 Million Downloads Melusine Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251106 24M DL Melusine Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251106 24M DL Melusine Pickup Summon.png?width=480&height=173",
       "servants": [
         "Melusine",
         "Barghest"
@@ -855,7 +879,7 @@
     },
     {
       "title": "Ordeal Call New Duties Unlocked: Part 4 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251104 Ordeal Call Duties Part 4 Pickup Summon Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251104 Ordeal Call Duties Part 4 Pickup Summon Daily.png?width=480&height=173",
       "servants": [
         "Arjuna (Alter)",
         "Ganesha (Jinako)",
@@ -868,7 +892,7 @@
     },
     {
       "title": "Grail Front Free Quest Support Sei Shounagon Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251022 Grail Front Free Quest Support Sei Shounagon Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251022 Grail Front Free Quest Support Sei Shounagon Pickup.png?width=480&height=173",
       "servants": [
         "Sei Shounagon",
         "Zenobia",
@@ -880,7 +904,7 @@
     },
     {
       "title": "Grail Front - Castle of Shining Dawn, Castle of Shadowed Dusk Iskandar Pickup 3 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20251021 Grail Front Castle Dawn Dusk Iskandar Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251021 Grail Front Castle Dawn Dusk Iskandar Pickup 3.png?width=480&height=173",
       "servants": [
         "Iskandar",
         "Zhuge Liang (El-Melloi II)",
@@ -892,7 +916,7 @@
     },
     {
       "title": "Grail Front - Castle of Shining Dawn, Castle of Shadowed Dusk Taigong Wang Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20251019 Grail Front Castle Dawn Dusk Taigong Wang Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251019 Grail Front Castle Dawn Dusk Taigong Wang Pickup.png?width=480&height=173",
       "servants": [
         "Taigong Wang",
         "Nezha",
@@ -903,7 +927,7 @@
     },
     {
       "title": "Grail Front - Castle of Shining Dawn, Castle of Shadowed Dusk Ptolemaios Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251015 Grail Front Castle Dawn Dusk Ptolemaios Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251015 Grail Front Castle Dawn Dusk Ptolemaios Pickup.png?width=480&height=173",
       "servants": [
         "Ptolemaios",
         "Berserker of El Dorado",
@@ -914,7 +938,7 @@
     },
     {
       "title": "Grail Front: Castle of Shining Dawn, Castle of Shadowed Dusk Pre-Release Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251006 Grail Front Prerelease Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251006 Grail Front Prerelease Pickup Summon.png?width=480&height=173",
       "servants": [
         "Scathach",
         "Altria Pendragon (Lancer)",
@@ -925,7 +949,7 @@
     },
     {
       "title": "3000 Days Anniversary Celebration Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250910 3000 Days Anniversary Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250910 3000 Days Anniversary Pickup Summon.png?width=480&height=173",
       "servants": [
         "Altria Caster",
         "Morgan"
@@ -935,7 +959,7 @@
     },
     {
       "title": "Pilgrimage Festival: Part 5 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250928 Pilgrimage Fes 5 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250928 Pilgrimage Fes 5 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Ryougi Shiki (Saber)",
         "Osakabehime",
@@ -949,7 +973,7 @@
     },
     {
       "title": "Ordeal Call New Duties Unlocked: Part 3 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250921 Ordeal Call New Duties Part 3 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250921 Ordeal Call New Duties Part 3 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Sigurd",
         "Qin Shi Huang",
@@ -962,7 +986,7 @@
     },
     {
       "title": "The Great Spirit's World Tour! Free Quest Backup Sakata Kintoki (Berserker) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250911 Great Spirit World Tour Kintoki Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250911 Great Spirit World Tour Kintoki Pickup.png?width=480&height=173",
       "servants": [
         "Sakata Kintoki",
         "Mysterious Heroine XX"
@@ -972,7 +996,7 @@
     },
     {
       "title": "The Great Spirit's World Tour! Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250907 Great Spirit World Tour Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250907 Great Spirit World Tour Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Ozymandias",
         "Cleopatra",
@@ -983,7 +1007,7 @@
     },
     {
       "title": "The Great Spirit's World Tour! Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250904 Great Spirit World Tour Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250904 Great Spirit World Tour Pickup Summon.png?width=480&height=173",
       "servants": [
         "Wandjina",
         "Voyager",
@@ -995,7 +1019,7 @@
     },
     {
       "title": "Back to School Campaign 2025 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250828 Back to School 2025 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250828 Back to School 2025 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Merlin",
         "Gilgamesh",
@@ -1007,7 +1031,7 @@
     },
     {
       "title": "Pilgrimage Festival: Part 4 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250822 Pilgrimage Fes 4 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250822 Pilgrimage Fes 4 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Altria Pendragon",
         "EMIYA (Assassin)",
@@ -1023,7 +1047,7 @@
   "predicted_na_banners": [
     {
       "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Kondo Isami Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20251001 GUDAGUDA Revenge of Makoto Kondo Isami Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20251001 GUDAGUDA Revenge of Makoto Kondo Isami Pickup 3.png?width=480&height=173",
       "servants": [
         "Kondo Isami",
         "Todo Heisuke"
@@ -1034,7 +1058,7 @@
     },
     {
       "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250926 GUDAGUDA Revenge of Makoto Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250926 GUDAGUDA Revenge of Makoto Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Hijikata Toshizo",
         "Okita Souji",
@@ -1048,7 +1072,7 @@
     },
     {
       "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Kawakami Gensai Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250924 GUDAGUDA Revenge of Makoto Kawakami Gensai Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250924 GUDAGUDA Revenge of Makoto Kawakami Gensai Pickup.png?width=480&height=173",
       "servants": [
         "Kawakami Gensai",
         "Todo Heisuke"
@@ -1059,7 +1083,7 @@
     },
     {
       "title": "[JP]  OVER THE SAME SKY -SEPTEMBER- Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250922 OVER THE SAME SKY SEPTEMBER Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250922 OVER THE SAME SKY SEPTEMBER Pickup Daily.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-08-22",
       "end_date": "2027-09-05",
@@ -1067,7 +1091,7 @@
     },
     {
       "title": "[JP] Crowning Match Saber & Berserker Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250917 Crowning Match Saber Berserker.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250917 Crowning Match Saber Berserker.png?width=480&height=173",
       "servants": [
         "Altria Pendragon",
         "Altera",
@@ -1158,7 +1182,7 @@
     },
     {
       "title": "[JP] Vanishing Beginning Nemo / Noah Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250905 Vanishing Beginning Nemo Noah Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250905 Vanishing Beginning Nemo Noah Pickup Summon.png?width=480&height=173",
       "servants": [
         "Nemo / Noah",
         "Caster of Okeanos"
@@ -1169,7 +1193,7 @@
     },
     {
       "title": "[JP] Crowning Match Rider Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250903 Crowning Match Rider Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250903 Crowning Match Rider Pickup.png?width=480&height=173",
       "servants": [
         "Francis Drake",
         "Queen Medb",
@@ -1214,7 +1238,7 @@
     },
     {
       "title": "[JP] 32M Downloads Campaign Morgan Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250829 32M DL Campaign Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250829 32M DL Campaign Pickup.png?width=480&height=173",
       "servants": [
         "Morgan",
         "Baobhan Sith"
@@ -1225,7 +1249,7 @@
     },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Aesc the Savior Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250820 Chalde U Summer Island 5 Aesc Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250820 Chalde U Summer Island 5 Aesc Pickup Summon.png?width=480&height=173",
       "servants": [
         "Aesc the Savior",
         "Osakabehime (Archer)",
@@ -1237,7 +1261,7 @@
     },
     {
       "title": "[JP]  OVER THE SAME SKY -AUGUST- Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250818 OVER THE SAME SKY AUGUST Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250818 OVER THE SAME SKY AUGUST Pickup Daily.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-07-18",
       "end_date": "2027-08-01",
@@ -1245,7 +1269,7 @@
     },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Larva / Tiamat (Archer) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250817 Chaldea U Summer Island Larva Tiamat Archer Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250817 Chaldea U Summer Island Larva Tiamat Archer Pickup.png?width=480&height=173",
       "servants": [
         "Larva / Tiamat (Archer)",
         "Jeunesse Crane"
@@ -1256,7 +1280,7 @@
     },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Jade Rabbit / Ryougi Shiki (Moon Cancer) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250815 Chaldea U Summer Island 3 Ryougi Moon Cancer Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250815 Chaldea U Summer Island 3 Ryougi Moon Cancer Pickup.png?width=480&height=173",
       "servants": [
         "Ryougi Shiki (Moon Cancer)",
         "Miyu Edelfelt (Lancer)"
@@ -1267,7 +1291,7 @@
     },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Tezcatlipoca Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250813 Chaldea U Summer Island 2 Tezcatlipoca Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250813 Chaldea U Summer Island 2 Tezcatlipoca Pickup.png?width=480&height=173",
       "servants": [
         "Tezcatlipoca",
         "Saito Hajime",
@@ -1279,7 +1303,7 @@
     },
     {
       "title": "[JP] FGO Summer 2027 Chaldea U Summer Island Passionlip (Saber) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250813 Chaldea U Summer Island Passionlip (Saber) Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250813 Chaldea U Summer Island Passionlip (Saber) Pickup.png?width=480&height=173",
       "servants": [
         "Passionlip (Saber)",
         "Kriemhild (Rider)"
@@ -1290,7 +1314,7 @@
     },
     {
       "title": "[JP] Crowning Match Extra Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250805 Crowning Match Extra Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250805 Crowning Match Extra Pickup.png?width=480&height=173",
       "servants": [
         "Okita Souji",
         "Sigurd",
@@ -1372,7 +1396,7 @@
     },
     {
       "title": "[JP] 10th Anniversary Destiny Order - Extra Classes Pickup",
-      "image": "https://static.mana.wiki/grandorder/20250803 Destiny Order Extra Class Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250803 Destiny Order Extra Class Pickup.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-07-03",
       "end_date": "2027-07-13",
@@ -1380,7 +1404,7 @@
     },
     {
       "title": "[JP] 10th Anniversary Destiny Order - Seven Basic Classes Pickup",
-      "image": "https://static.mana.wiki/grandorder/20250803 Destiny Order Basic Seven Class Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250803 Destiny Order Basic Seven Class Pickup.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-07-03",
       "end_date": "2027-07-13",
@@ -1388,7 +1412,7 @@
     },
     {
       "title": "[JP] FGO 10th Anniversary Lucky Bag Guaranteed Pickup Summon (Class x NP Effect)",
-      "image": "https://static.mana.wiki/grandorder/20250803 10th Anniversary Lucky Bag Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250803 10th Anniversary Lucky Bag Pickup.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-07-03",
       "end_date": "2027-07-13",
@@ -1396,7 +1420,7 @@
     },
     {
       "title": "[JP] FGO 10th Anniversary U-Olga Marie Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250803 10th Anniversary U Olga Marie Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250803 10th Anniversary U Olga Marie Pickup.png?width=480&height=173",
       "servants": [
         "U-Olga Marie"
       ],
@@ -1406,7 +1430,7 @@
     },
     {
       "title": "[JP]  OVER THE SAME SKY -JULY- Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250728 FGO Over the Same Sky July Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250728 FGO Over the Same Sky July Pickup.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-06-27",
       "end_date": "2027-07-11",
@@ -1414,7 +1438,7 @@
     },
     {
       "title": "[JP] Fate/Grand Order Fes 2027 -10th Anniversary- Countdown Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250723 FGO Fes 2025 10th Anniv Countdown Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250723 FGO Fes 2025 10th Anniv Countdown Pickup.png?width=480&height=173",
       "servants": [
         "Leonardo da Vinci",
         "Leonardo da Vinci (Rider)"
@@ -1425,7 +1449,7 @@
     },
     {
       "title": "[JP] Indra's Great Trial Kingprotea Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250709 Indra Great Trial Kingprotea Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250709 Indra Great Trial Kingprotea Pickup.png?width=480&height=173",
       "servants": [
         "Kingprotea"
       ],
@@ -1435,7 +1459,7 @@
     },
     {
       "title": "[JP] Indra's Great Trial Anastasia Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250708 Indra Great Trial Anastasia Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250708 Indra Great Trial Anastasia Pickup.png?width=480&height=173",
       "servants": [
         "Anastasia Nikolaevna Romanova",
         "Tlaloc"
@@ -1446,7 +1470,7 @@
     },
     {
       "title": "[JP] Crowning Match Lancer Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250705 Crowning Match Lancer Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250705 Crowning Match Lancer Pickup.png?width=480&height=173",
       "servants": [
         "Scathach",
         "Karna",
@@ -1496,7 +1520,7 @@
     },
     {
       "title": "[JP] Indra's Great Trial Wandjina Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250705 Indra Great Trial Wandjina Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250705 Indra Great Trial Wandjina Pickup.png?width=480&height=173",
       "servants": [
         "Wandjina"
       ],
@@ -1506,7 +1530,7 @@
     },
     {
       "title": "[JP] Indra's Great Trial Indra Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250702 Indra Great Trial Indra Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250702 Indra Great Trial Indra Pickup.png?width=480&height=173",
       "servants": [
         "Indra"
       ],
@@ -1516,7 +1540,7 @@
     },
     {
       "title": "[JP]  OVER THE SAME SKY -JUNE- Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250630 OVER THE SAME SKY JUNE Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250630 OVER THE SAME SKY JUNE Pickup Daily.png?width=480&height=173",
       "servants": [
         "Romulus=Quirinus",
         "Kyokutei Bakin",
@@ -1544,7 +1568,7 @@
     },
     {
       "title": "[JP] July Box Event Prerelease Campaign Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250625 July Box Event Prerelease Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250625 July Box Event Prerelease Pickup.png?width=480&height=173",
       "servants": [
         "Arjuna",
         "Himiko",
@@ -1558,7 +1582,7 @@
     },
     {
       "title": "[JP] Wings of Tears Ryougi Shiki (Saber) Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20250610 Wings of Tears Ryougi Saber Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250610 Wings of Tears Ryougi Saber Pickup.png?width=480&height=173",
       "servants": [
         "Ryougi Shiki (Saber)"
       ],
@@ -1568,7 +1592,7 @@
     },
     {
       "title": "[JP] Crowning Match Berserker Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250609 Crowning Match Berserker Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250609 Crowning Match Berserker Pickup.png?width=480&height=173",
       "servants": [
         "Vlad III",
         "Nightingale",
@@ -1611,7 +1635,7 @@
     },
     {
       "title": "[JP] Wings of Tears Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250609 Wings of Tears Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250609 Wings of Tears Pickup 2.png?width=480&height=173",
       "servants": [
         "Zhuge Liang (El-Melloi II)",
         "Iskandar",
@@ -1623,7 +1647,7 @@
     },
     {
       "title": "[JP] Wings of Tears Typhon Ephemeros Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250604 Wings of Tears Typhon Ephemeros Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250604 Wings of Tears Typhon Ephemeros Pickup.png?width=480&height=173",
       "servants": [
         "Typhon Ephemeros"
       ],
@@ -1633,7 +1657,7 @@
     },
     {
       "title": "[JP] Wings of Tears Prerelease Campaign Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250528 Wings of Tears Prerelease Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250528 Wings of Tears Prerelease Pickup.png?width=480&height=173",
       "servants": [
         "Sima Yi (Reines)",
         "Odysseus",
@@ -1651,7 +1675,7 @@
     },
     {
       "title": "[JP] Weekly Pretender & Beast Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250519 Weekly Pretender and Beast Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250519 Weekly Pretender and Beast Pickup.png?width=480&height=173",
       "servants": [
         "Oberon",
         "Lady Avalon",
@@ -1669,7 +1693,7 @@
     },
     {
       "title": "[JP] Weekly Moon Cancer Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250512 Weekly Moon Cancer Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250512 Weekly Moon Cancer Pickup.png?width=480&height=173",
       "servants": [
         "BB (Summer)",
         "Ganesha (Jinako)",
@@ -1685,7 +1709,7 @@
     },
     {
       "title": "[JP] Crowning Match Saber Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250509 Crowning Match Saber Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250509 Crowning Match Saber Pickup.png?width=480&height=173",
       "servants": [
         "Altria Pendragon",
         "Altera",
@@ -1741,7 +1765,7 @@
     },
     {
       "title": "[JP] Ordeal Call IV Trinity Metatronius Pickup 4 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250509 OC4 Trinity Metatronius Pickup 4.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250509 OC4 Trinity Metatronius Pickup 4.png?width=480&height=173",
       "servants": [
         "Cleopatra",
         "Pope Johanna",
@@ -1757,7 +1781,7 @@
     },
     {
       "title": "[JP] Ordeal Call IV Trinity Metatronius Lilith Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20250507 Trinity Metatronius Lilith Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250507 Trinity Metatronius Lilith Pickup.png?width=480&height=173",
       "servants": [
         "Lilith",
         "Ashoka the Great"
@@ -1768,7 +1792,7 @@
     },
     {
       "title": "[JP] Weekly Assassin Pickup 2 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250505 Weekly Assassin Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250505 Weekly Assassin Pickup 2.png?width=480&height=173",
       "servants": [
         "Li Shuwen (Assassin)",
         "Kama",
@@ -1795,7 +1819,7 @@
     },
     {
       "title": "[JP] Ordeal Call IV Trinity Metatronius Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250502 OC4 Trinity Metatronius Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250502 OC4 Trinity Metatronius Pickup 2.png?width=480&height=173",
       "servants": [
         "Amakusa Shirou",
         "James Moriarty (Ruler)"
@@ -1806,7 +1830,7 @@
     },
     {
       "title": "[JP] Ordeal Call IV Trinity Metatronius Metatron Jeanne Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250430 OC4 Trinity Metatronius Metatron Jeanne Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250430 OC4 Trinity Metatronius Metatron Jeanne Pickup.png?width=480&height=173",
       "servants": [
         "Metatron Jeanne",
         "Ashoka the Great"
@@ -1817,7 +1841,7 @@
     },
     {
       "title": "[JP] Weekly Assassin Pickup 1 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250428 Weekly Assassin Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250428 Weekly Assassin Pickup 1.png?width=480&height=173",
       "servants": [
         "Jack the Ripper",
         "Mysterious Heroine X",
@@ -1846,7 +1870,7 @@
     },
     {
       "title": "[JP] Weekly Berserker Pickup 2 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250421 Weekly Berserker Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250421 Weekly Berserker Pickup 2.png?width=480&height=173",
       "servants": [
         "Arjuna (Alter)",
         "Miyamoto Musashi (Berserker)",
@@ -1875,7 +1899,7 @@
     },
     {
       "title": "[JP] Weekly Berserker Pickup 1 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250414 Weekly Berserker Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250414 Weekly Berserker Pickup 1.png?width=480&height=173",
       "servants": [
         "Vlad III",
         "Sakata Kintoki",
@@ -1904,7 +1928,7 @@
     },
     {
       "title": "[JP] 31M Downloads Campaign Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250409 31M DL Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250409 31M DL Pickup.png?width=480&height=173",
       "servants": [
         "Lady Avalon",
         "Gareth (Saber)"
@@ -1915,7 +1939,7 @@
     },
     {
       "title": "[JP] Weekly Foreigner Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250407 Weekly Foreigner Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250407 Weekly Foreigner Pickup.png?width=480&height=173",
       "servants": [
         "Abigail Williams",
         "Katsushika Hokusai",
@@ -1937,7 +1961,7 @@
     },
     {
       "title": "[JP] Pilgrimage Festival 11 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/202500404 Pilgrimage 11 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/202500404 Pilgrimage 11 Pickup.png?width=480&height=173",
       "servants": [
         "Hai Ba Trung",
         "Takeda Shingen (Takeda Harunobu)"
@@ -1948,7 +1972,7 @@
     },
     {
       "title": "[JP] Revival: GUDAGUDA 2023 Ryouma's Narrow Escape Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250402 Revival GUDAGUDA Narrow Escape Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250402 Revival GUDAGUDA Narrow Escape Pickup.png?width=480&height=173",
       "servants": [
         "Izumo-no-Okuni",
         "Sakamoto Ryouma (Lancer)",
@@ -1960,7 +1984,7 @@
     },
     {
       "title": "[JP] Weekly Caster Pickup 2 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250331 Weekly Caster Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250331 Weekly Caster Pickup 2.png?width=480&height=173",
       "servants": [
         "Anastasia Nikolaevna Romanova",
         "Caster of Midrash",
@@ -1993,7 +2017,7 @@
     },
     {
       "title": "[JP] Weekly Caster Pickup 1 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250324 Weekly Caster Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250324 Weekly Caster Pickup 1.png?width=480&height=173",
       "servants": [
         "Zhuge Liang (El-Melloi II)",
         "Medea (Lily)",
@@ -2026,7 +2050,7 @@
     },
     {
       "title": "[JP] Weekly Rider Pickup 2 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250317 Weekly Rider Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250317 Weekly Rider Pickup 2.png?width=480&height=173",
       "servants": [
         "Leonardo da Vinci (Rider)",
         "Huang Feihu",
@@ -2060,7 +2084,7 @@
     },
     {
       "title": "[JP] Weekly Rider Pickup 1 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250310 Weekly Rider Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250310 Weekly Rider Pickup 1.png?width=480&height=173",
       "servants": [
         "Francis Drake",
         "Marie Antoinette",
@@ -2094,7 +2118,7 @@
     },
     {
       "title": "[JP] CBC 2027 Archer of Shinjuku Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250307 CBC2025 Archer Shinjuku Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250307 CBC2025 Archer Shinjuku Pickup.png?width=480&height=173",
       "servants": [
         "Archer of Shinjuku",
         "Siegfried",
@@ -2106,7 +2130,7 @@
     },
     {
       "title": "[JP] CBC 2027 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250309 CBC2025 Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250309 CBC2025 Pickup Daily.png?width=480&height=173",
       "servants": [
         "Cu Chulainn (Alter)",
         "Nikola Tesla",
@@ -2133,7 +2157,7 @@
     },
     {
       "title": "[JP] CBC 2027 Dante Alighieri Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250305 CBC2025 Dante Alighieri Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250305 CBC2025 Dante Alighieri Pickup Summon.png?width=480&height=173",
       "servants": [],
       "start_date": "2027-02-02",
       "end_date": "2027-02-23",
@@ -2141,7 +2165,7 @@
     },
     {
       "title": "[JP] Weekly Avenger Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250303 Weekly Avenger Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250303 Weekly Avenger Pickup.png?width=480&height=173",
       "servants": [
         "Edmond Dantes",
         "Jeanne d'Arc (Alter)",
@@ -2165,7 +2189,7 @@
     },
     {
       "title": "[JP] Weekly Lancer Pickup 2 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250224 Weekly Lancer Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250224 Weekly Lancer Pickup 2.png?width=480&height=173",
       "servants": [
         "Bradamante",
         "Cu Chulainn",
@@ -2196,7 +2220,7 @@
     },
     {
       "title": "[JP] Weekly Lancer Pickup 1 (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250217 Weekly Lancer Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250217 Weekly Lancer Pickup 1.png?width=480&height=173",
       "servants": [
         "Scathach",
         "Karna",
@@ -2229,7 +2253,7 @@
     },
     {
       "title": "[JP] Valentine's 2027 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250212 Valentines 2025 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250212 Valentines 2025 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Ono no Komachi",
         "Osakabehime",
@@ -2267,7 +2291,7 @@
     },
     {
       "title": "[JP] Weekly Alter Ego Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250210 Weekly Alter Ego Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250210 Weekly Alter Ego Pickup.png?width=480&height=173",
       "servants": [
         "Meltryllis",
         "Sessyoin Kiara",
@@ -2290,7 +2314,7 @@
     },
     {
       "title": "[JP] Weekly Archer Pickup 2",
-      "image": "https://static.mana.wiki/grandorder/20250203 Weekly Archer Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250203 Weekly Archer Pickup 2.png?width=480&height=173",
       "servants": [
         "Jeanne d'Arc (Archer)",
         "Asvatthaman",
@@ -2323,7 +2347,7 @@
     },
     {
       "title": "[JP] Ordeal Call II Clear Support Campaign Count of Monte Cristo Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250201 Ordeal Call II Clear Support Count of Monte Cristo Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250201 Ordeal Call II Clear Support Count of Monte Cristo Pickup.png?width=480&height=173",
       "servants": [
         "Monte Cristo",
         "Alessandro di Cagliostro",
@@ -2335,7 +2359,7 @@
     },
     {
       "title": "[JP] Weekly Archer Pickup 1",
-      "image": "https://static.mana.wiki/grandorder/20250127 Weekly Archer Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250127 Weekly Archer Pickup 1.png?width=480&height=173",
       "servants": [
         "Gilgamesh",
         "Robin Hood",
@@ -2369,7 +2393,7 @@
     },
     {
       "title": "[JP] Evocation Festival 9 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250124 Evocation Festival 9 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250124 Evocation Festival 9 Pickup.png?width=480&height=173",
       "servants": [
         "Taira-no-Kagekiyo",
         "Brynhild",
@@ -2382,7 +2406,7 @@
     },
     {
       "title": "[JP] Raise! My Little Dragon Medusa (Saber) Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250123 My Little Dragon Medusa Saber Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250123 My Little Dragon Medusa Saber Pickup.png?width=480&height=173",
       "servants": [
         "Medusa (Saber)",
         "Medusa (Lancer)",
@@ -2394,7 +2418,7 @@
     },
     {
       "title": "[JP] Weekly Ruler Pickup",
-      "image": "https://static.mana.wiki/grandorder/20250120 Weekly Ruler Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250120 Weekly Ruler Pickup.png?width=480&height=173",
       "servants": [
         "Jeanne d'Arc",
         "Amakusa Shirou",
@@ -2417,7 +2441,7 @@
     },
     {
       "title": "[JP] Raise! My Little Dragon Biscione Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250115 Raise My Little Dragon Biscione Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250115 Raise My Little Dragon Biscione Pickup.png?width=480&height=173",
       "servants": [
         "Biscione",
         "Kurohime",
@@ -2430,7 +2454,7 @@
     },
     {
       "title": "[JP] Weekly Saber Pickup 2",
-      "image": "https://static.mana.wiki/grandorder/20250113 Weekly Saber Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250113 Weekly Saber Pickup 2.png?width=480&height=173",
       "servants": [
         "Astolfo (Saber)",
         "Prince of Lan Ling",
@@ -2462,7 +2486,7 @@
     },
     {
       "title": "[JP] Ordeal Call I Clear Support Campaign Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20250111 Ordeal Call I Clear Campaign Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250111 Ordeal Call I Clear Campaign Pickup.png?width=480&height=173",
       "servants": [
         "Bhima",
         "Kama",
@@ -2476,7 +2500,7 @@
     },
     {
       "title": "[JP] Weekly Saber Pickup 1",
-      "image": "https://static.mana.wiki/grandorder/20250106 Saber Pickup 1.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250106 Saber Pickup 1.png?width=480&height=173",
       "servants": [
         "Altria Pendragon",
         "Altera",
@@ -2512,7 +2536,7 @@
     },
     {
       "title": "[JP] New Year's 2027 Guaranteed Lucky Bag Summon (Gender x Class x NP Type)",
-      "image": "https://static.mana.wiki/grandorder/20250101 New Year 2025 Lucky Bag Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250101 New Year 2025 Lucky Bag Summon.png?width=480&height=173",
       "servants": [],
       "start_date": "2026-12-01",
       "end_date": "2026-12-15",
@@ -2520,7 +2544,7 @@
     },
     {
       "title": "[JP] New Year's 2027 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20250101 New Year 2025 Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20250101 New Year 2025 Pickup Summon.png?width=480&height=173",
       "servants": [
         "Richard I",
         "Aozaki Aoko",
@@ -2544,7 +2568,7 @@
     },
     {
       "title": "[JP] Space Phantasmoon Another Christmas Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241225 Space Phantasmoon Another Christmas Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241225 Space Phantasmoon Another Christmas Pickup Summon.png?width=480&height=173",
       "servants": [
         "Phantasmoon"
       ],
@@ -2554,7 +2578,7 @@
     },
     {
       "title": "[JP] Christmas 2026 Pickup 4 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241219 Christmas 2026 Hokusai Abigail Pickup 4.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241219 Christmas 2026 Hokusai Abigail Pickup 4.png?width=480&height=173",
       "servants": [
         "Katsushika Hokusai",
         "Abigail Williams",
@@ -2569,7 +2593,7 @@
     },
     {
       "title": "[JP] Christmas 2026 Sima Yi (Reines) Pickup 3 Summon",
-      "image": "https://static.mana.wiki/grandorder/20241215 Christmas 2026 Reines Pickup 3.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241215 Christmas 2026 Reines Pickup 3.png?width=480&height=173",
       "servants": [
         "Sima Yi (Reines)",
         "Assassin of the Nightless City"
@@ -2580,7 +2604,7 @@
     },
     {
       "title": "[JP] Christmas 2026 Sitonai Pickup 2 Summon",
-      "image": "https://static.mana.wiki/grandorder/20241213 Christmas 2026 Sitonai Pickup 2.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241213 Christmas 2026 Sitonai Pickup 2.png?width=480&height=173",
       "servants": [
         "Sitonai",
         "Daikokuten"
@@ -2591,7 +2615,7 @@
     },
     {
       "title": "[JP] Christmas 2026 Louhi Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241211 Christmas 2026 Louhi Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241211 Christmas 2026 Louhi Pickup.png?width=480&height=173",
       "servants": [
         "Louhi"
       ],
@@ -2601,7 +2625,7 @@
     },
     {
       "title": "[JP] Lostbelt No.7 Clear Campaign 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241201 Lostbelt 7 Clear Support Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241201 Lostbelt 7 Clear Support Pickup.png?width=480&height=173",
       "servants": [
         "Tezcatlipoca",
         "Tlaloc",
@@ -2617,7 +2641,7 @@
     },
     {
       "title": "[JP] Interlude Campaign 21 Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241128 Interlude Campaign 21 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241128 Interlude Campaign 21 Pickup.png?width=480&height=173",
       "servants": [
         "Hai Ba Trung",
         "Zenobia"
@@ -2628,7 +2652,7 @@
     },
     {
       "title": "[JP] Mystery House Crafters Pickup 3 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241121 Mystery House Crafters Pickup 3 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241121 Mystery House Crafters Pickup 3 Summon.png?width=480&height=173",
       "servants": [
         "Super Bunyan",
         "Van Gogh"
@@ -2639,7 +2663,7 @@
     },
     {
       "title": "[JP] Mystery House Crafters Pickup 2 Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241115 Mystery House Crafters Pickup 2 Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241115 Mystery House Crafters Pickup 2 Summon.png?width=480&height=173",
       "servants": [
         "Britomart",
         "Demon King Nobunaga (Oda Nobunaga)",
@@ -2653,7 +2677,7 @@
     },
     {
       "title": "[JP] Mystery House Crafters Tutankhamun Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241113 Mystery House Crafters Tutankhamun Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241113 Mystery House Crafters Tutankhamun Pickup.png?width=480&height=173",
       "servants": [
         "Tutankhamun"
       ],
@@ -2663,7 +2687,7 @@
     },
     {
       "title": "[JP] Mystery House Crafters Prerelease Campaign Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241106 Mystery House Crafters Prerelease Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241106 Mystery House Crafters Prerelease Pickup.png?width=480&height=173",
       "servants": [
         "Ishtar",
         "Ozymandias"
@@ -2674,7 +2698,7 @@
     },
     {
       "title": "[JP] Lostbelt No.6 Clear Campaign 2026 Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241101 LB6 Clear Campaign 2026 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241101 LB6 Clear Campaign 2026 Pickup.png?width=480&height=173",
       "servants": [
         "Morgan",
         "Melusine",
@@ -2691,7 +2715,7 @@
     },
     {
       "title": "[JP] Fairy Sugoroku Event Meltryllis Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241023 Faerie Sugoroku Meltryllis Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241023 Faerie Sugoroku Meltryllis Pickup.png?width=480&height=173",
       "servants": [
         "Meltryllis",
         "Huang Feihu"
@@ -2702,7 +2726,7 @@
     },
     {
       "title": "[JP] Fairy Sugoroku Event Kazuradrop Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241016 KazuraDrop Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241016 KazuraDrop Pickup.png?width=480&height=173",
       "servants": [
         "Kazuradrop",
         "Geronimo",
@@ -2715,7 +2739,7 @@
     },
     {
       "title": "[JP] Revival Download Milestones Campaign Pickup (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241006 Revival DL Campaign Pickup Daily.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241006 Revival DL Campaign Pickup Daily.png?width=480&height=173",
       "servants": [
         "Gilgamesh",
         "Sakata Kintoki",
@@ -2750,7 +2774,7 @@
     },
     {
       "title": "[JP] 30M Downloads Oberon Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20241004 30M DL Oberon Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241004 30M DL Oberon Pickup.png?width=480&height=173",
       "servants": [
         "Oberon"
       ],
@@ -2760,7 +2784,7 @@
     },
     {
       "title": "[JP] Lostbelt 5 Clear Support Campaign Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20241001 LB5 Clear Campaign 2026 Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20241001 LB5 Clear Campaign 2026 Pickup.png?width=480&height=173",
       "servants": [
         "Super Orion",
         "Odysseus",
@@ -2776,7 +2800,7 @@
     },
     {
       "title": "[JP] Kyomaf 2026 Sen-no-Rikyu Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20240921 Kyomaf2024 Sen no Rikyu Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20240921 Kyomaf2024 Sen no Rikyu Pickup.png?width=480&height=173",
       "servants": [
         "Sen-no-Rikyu",
         "Saito Hajime",
@@ -2787,23 +2811,8 @@
       "original_jp_start": "2024-09-21"
     },
     {
-      "title": "[JP] Lostbelt 4 Clear Support Campaign Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20240901 Lostbelt 4 Clear Campaign Pickup.png?width=480&height=173",
-      "servants": [
-        "Arjuna (Alter)",
-        "Arjuna",
-        "Asvatthaman",
-        "Lakshmi Bai",
-        "William Tell",
-        "Asclepius"
-      ],
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-10",
-      "original_jp_start": "2024-09-01"
-    },
-    {
       "title": "Valentine's 2026 Prerelease Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20260127 Valentines 2026 Prerelease Pickup Summon.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20260127 Valentines 2026 Prerelease Pickup Summon.png?width=480&height=173",
       "servants": [
         "Pope Johanna",
         "Manannan mac Lir (Bazett)",
@@ -2819,7 +2828,7 @@
     },
     {
       "title": "[JP] Fate/stay night 20th Anniversary Altria Pendragon Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20240130 FSN 20YR Altria Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20240130 FSN 20YR Altria Pickup.png?width=480&height=173",
       "servants": [
         "Altria Pendragon",
         "EMIYA",
@@ -2834,7 +2843,7 @@
     },
     {
       "title": "[JP] FGO Chaldea Satellite Station 2025-2026 Pickup Summon",
-      "image": "https://static.mana.wiki/grandorder/20240110 FGO Chaldea Satellite Station Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20240110 FGO Chaldea Satellite Station Pickup.png?width=480&height=173",
       "servants": [
         "Huyan Zhuo",
         "Tlaloc"
@@ -2845,7 +2854,7 @@
     },
     {
       "title": "[JP] Fate/Samurai Remnant Release Commemoration Pickup Summon (Daily)",
-      "image": "https://static.mana.wiki/grandorder/20230928 Samurai Remnant Commemorative Pickup.png?width=480&height=173",
+      "image": "https://img.mana.wiki/grandorder/20230928 Samurai Remnant Commemorative Pickup.png?width=480&height=173",
       "servants": [
         "Miyamoto Musashi",
         "Arjuna",

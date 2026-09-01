@@ -45,7 +45,9 @@
         "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null
   },
   {
     "name": "Summer Waves Roll In",
@@ -114,7 +116,11 @@
         "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1785283200,
+    "displayEndTime": 1788739200
   },
   {
     "name": "Snap! Focus Showdown!",
@@ -165,7 +171,9 @@
         "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null
   },
   {
     "name": "Dangerous Fugitive's Leisurely Vacation",
@@ -204,7 +212,11 @@
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787529600,
+    "displayEndTime": 1788739200
   },
   {
     "name": "Ding-Dong! Delivery Training in Progress",
@@ -219,7 +231,11 @@
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787875200,
+    "displayEndTime": 1789344000
   },
   {
     "name": "Crispy Meal Deployment Plan",
@@ -258,7 +274,11 @@
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787097600,
+    "displayEndTime": 1788739200
   },
   {
     "name": "Gift from the Clouds",
@@ -273,7 +293,11 @@
         "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1785283200,
+    "displayEndTime": 1788825600
   },
   {
     "name": "The Great En-Nah Giveaway",
@@ -288,7 +312,11 @@
         "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787097600,
+    "displayEndTime": 1788825600
   },
   {
     "name": "Filmgoer Thank-You Event",
@@ -552,7 +580,11 @@
         "icon": "https://img.game8.co/4564101/f116a3dd54bd177afb96dc7b1b94633a.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1785283200,
+    "displayEndTime": 1788912000
   },
   {
     "name": "Phaethon's Grand Reveal of the Year",
@@ -579,7 +611,11 @@
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1785283200,
+    "displayEndTime": 1788912000
   },
   {
     "name": "First-Generation Void Hunter Returns",
@@ -624,7 +660,9 @@
         "icon": "https://img.game8.co/4565259/b2ed30eecc3e893d743763e1c68662b1.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null
   },
   {
     "name": "En-normous Surprise!",
@@ -639,7 +677,9 @@
         "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null
   },
   {
     "name": "Combat Training - Triple Bounty",
@@ -653,7 +693,11 @@
         "totalQuantity": null,
         "icon": ""
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788307200,
+    "displayEndTime": 1788739200
   },
   {
     "name": "Extensive Patrol - Triple Bounty",
@@ -667,6 +711,8 @@
         "totalQuantity": null,
         "icon": ""
       }
-    ]
+    ],
+    "startTime": null,
+    "endTime": null
   }
 ]

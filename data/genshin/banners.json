@@ -17,8 +17,12 @@
           "HP": "2621",
           "ATK": "68",
           "DEF": "159"
-        }
-      },
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
       {
         "name": "Alyosha",
         "icon": "https://img.game8.co/4586532/60af32e95a213435899658504e8a4325.png/show",
@@ -31,7 +35,9 @@
           "HP": "2577",
           "ATK": "57",
           "DEF": "151"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Lynette",
@@ -46,10 +52,12 @@
           "ATK": "50",
           "DEF": "153",
           "Faction": "Hotel Bouffes d'ete"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "Sucrose",
+        "name": "Sucrose Rating and",
         "icon": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297525",
@@ -61,53 +69,9 @@
           "ATK": "37",
           "DEF": "151",
           "Faction": "Knights of Favonius"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Alyosha",
-        "icon": "https://img.game8.co/4543347/f19431497f0fa642d71af666e7d8f42c.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606884",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Electro",
-          "Weapon": "Polearm",
-          "HP": "2577",
-          "ATK": "57",
-          "DEF": "151"
-        }
-      },
-      {
-        "name": "Sucrose",
-        "icon": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297525",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Catalyst",
-          "HP": "1991",
-          "ATK": "37",
-          "DEF": "151",
-          "Faction": "Knights of Favonius"
-        }
-      },
-      {
-        "name": "Lynette",
-        "icon": "https://img.game8.co/3751436/340282c533aed31bda827b4a5d9fab5b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345879",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Sword",
-          "HP": "2670",
-          "ATK": "50",
-          "DEF": "153",
-          "Faction": "Hotel Bouffes d'ete"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1786485600,
@@ -132,8 +96,12 @@
           "ATK": "69",
           "DEF": "154",
           "Faction": "Fatui"
-        }
-      },
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
       {
         "name": "Alyosha",
         "icon": "https://img.game8.co/4586532/60af32e95a213435899658504e8a4325.png/show",
@@ -146,7 +114,9 @@
           "HP": "2577",
           "ATK": "57",
           "DEF": "151"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Lynette",
@@ -161,10 +131,12 @@
           "ATK": "50",
           "DEF": "153",
           "Faction": "Hotel Bouffes d'ete"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "Sucrose",
+        "name": "Sucrose Rating and",
         "icon": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297525",
@@ -176,152 +148,171 @@
           "ATK": "37",
           "DEF": "151",
           "Faction": "Knights of Favonius"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Alyosha",
-        "icon": "https://img.game8.co/4543347/f19431497f0fa642d71af666e7d8f42c.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606884",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Electro",
-          "Weapon": "Polearm",
-          "HP": "2577",
-          "ATK": "57",
-          "DEF": "151"
-        }
-      },
-      {
-        "name": "Sucrose",
-        "icon": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297525",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Catalyst",
-          "HP": "1991",
-          "ATK": "37",
-          "DEF": "151",
-          "Faction": "Knights of Favonius"
-        }
-      },
-      {
-        "name": "Lynette",
-        "icon": "https://img.game8.co/3751436/340282c533aed31bda827b4a5d9fab5b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345879",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Sword",
-          "HP": "2670",
-          "ATK": "50",
-          "DEF": "153",
-          "Faction": "Hotel Bouffes d'ete"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1786485600,
     "endTime": 1788299999
   },
   {
-    "name": "Epitome Invocation",
-    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
-    "image": "https://img.game8.co/4590029/51e6b228011e6d3ce9aa1687678bf37b.png/show",
+    "name": "Astral Actuation",
+    "link": "https://game8.co/games/Genshin-Impact/archives/538073",
+    "image": "https://img.game8.co/4574301/5d768fb502f764b9919bd2fee786d4fe.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Whitelake Frostfeather",
-        "icon": "https://img.game8.co/4589646/e659e25e5346f50cb89c86062b7d0ed2.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/613892",
+        "name": "Ineffa",
+        "icon": "https://img.game8.co/4228802/2f734aa359fdbe204f0a956286123626.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/531360",
         "details": {
-          "Type": "Sword",
-          "Base ATK": "48",
           "Rarity": "★★★★★",
-          "Skill": "Snow Swan's Finale• When the equipping character hits an opponent with their Elemental Skill, they gain \"Lake-Hued Lament\": ATK increases by 8% for 8s. This effect can trigger once every 0.1s. Max 3 stacks, and each stack's duration is independent. At 3 stacks, the CRIT DMG of any Stellar Glimmer reaction DMG caused by the equipping character is increased by 50%, and triggering Stellar Glimmer reactions or Stellar Glimmer reaction DMG will also restore 4 Elemental Energy to the character. This Energy recovery effect can trigger once every 3.5s. Can be triggered even when the equipping character is off-field."
-        }
-      },
-      {
-        "name": "Crimson Moon",
-        "icon": "https://img.game8.co/3872861/38528afd4ec060d4f675d09e74bd7582.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/451025",
-        "details": {
-          "Type": "Polearm",
-          "Base ATK": "47",
-          "Rarity": "★★★★★",
-          "Skill": "Ashen Sun's ShadowGrants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24% DMG Bonus."
-        }
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2508",
+          "ATK": "72",
+          "DEF": "163",
+          "Faction": "Clink-Clank Krumkake Craftshop"
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
       {
-        "name": "Favonius Sword",
-        "icon": "https://img.game8.co/3314483/042ba3ca7e48cb6c7a8d3c8d5be805c6.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301925",
+        "name": "Aino",
+        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/537903",
         "details": {
-          "Type": "Sword",
-          "Base ATK": "41",
           "Rarity": "★★★★",
-          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
-        }
+          "Element": "Hydro",
+          "Weapon": "Claymore",
+          "HP": "2413",
+          "ATK": "52",
+          "DEF": "131",
+          "Faction": "Clink-Clank Krumkake Craftshop"
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "The Bell",
-        "icon": "https://img.game8.co/3314478/58ceb4cfcb54e9dcceaeb8c99cf7116b.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301933",
+        "name": "Lan Yan",
+        "icon": "https://img.game8.co/4085060/13b6c8885432b5ae7e46d52e0551b031.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/486709",
         "details": {
-          "Type": "Claymore",
-          "Base ATK": "42",
           "Rarity": "★★★★",
-          "Skill": "Rebellious GuardianTaking DMG generates a shield which absorbs DMG up to 20% of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 12% increased DMG."
-        }
+          "Element": "Anemo",
+          "Weapon": "Catalyst",
+          "HP": "1991",
+          "ATK": "54",
+          "DEF": "125",
+          "Faction": "Chenyu Vale Artisans Association"
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
-        "name": "Dragon",
-        "icon": "https://img.game8.co/3314485/dea459ec1fcf67eaffc3d7ff42f99b77.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301952",
+        "name": "Iansan",
+        "icon": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345881",
         "details": {
-          "Type": "Polearm",
-          "Base ATK": "41",
           "Rarity": "★★★★",
-          "Skill": "Bane of Flame and WaterIncreases DMG against enemies affected by Hydro or Pyro by 20%."
-        }
-      },
-      {
-        "name": "Sacrificial Fragments",
-        "icon": "https://img.game8.co/3314492/c23eb4f6fe804b7e3a9a997fac937c94.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301943",
-        "details": {
-          "Type": "Catalyst",
-          "Base ATK": "41",
-          "Rarity": "★★★★",
-          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
-        }
-      },
-      {
-        "name": "Rust",
-        "icon": "https://img.game8.co/3314490/72c5ae525ba26d02d2b6c40b5569ad73.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301958",
-        "details": {
-          "Type": "Bow",
-          "Base ATK": "42",
-          "Rarity": "★★★★",
-          "Skill": "Rapid FiringIncreases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
-        }
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2296",
+          "ATK": "55",
+          "DEF": "137",
+          "Faction": "Collective of Plenty"
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
-    "startTime": 1786492800,
-    "endTime": 1788220800
+    "startTime": 1788213600,
+    "endTime": 1790114399
+  },
+  {
+    "name": "The Lone Light Knocks at Night",
+    "link": "https://game8.co/games/Genshin-Impact/archives/546714",
+    "image": "https://img.game8.co/4574304/1973fcd6639fbc786d27f29bcd8160c1.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Flins",
+        "icon": "https://img.game8.co/4288768/dff063329711022276370582ceefecf3.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538451",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2522",
+          "ATK": "71",
+          "DEF": "163"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Aino",
+        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/537903",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Claymore",
+          "HP": "2413",
+          "ATK": "52",
+          "DEF": "131",
+          "Faction": "Clink-Clank Krumkake Craftshop"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Lan Yan",
+        "icon": "https://img.game8.co/4085060/13b6c8885432b5ae7e46d52e0551b031.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/486709",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Catalyst",
+          "HP": "1991",
+          "ATK": "54",
+          "DEF": "125",
+          "Faction": "Chenyu Vale Artisans Association"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Iansan",
+        "icon": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345881",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2296",
+          "ATK": "55",
+          "DEF": "137",
+          "Faction": "Collective of Plenty"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": 1788213600,
+    "endTime": 1790114399
   }
 ]

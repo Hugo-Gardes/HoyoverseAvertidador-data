@@ -9,7 +9,9 @@
         "name": "Zankou",
         "icon": "https://img.game8.co/4559433/638475cdedd8a2e80b9a9403ede94591.png/show",
         "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/610918",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Incantation",
           "Role": "Damage",
@@ -22,7 +24,9 @@
         "name": "Mint",
         "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
         "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596587",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Anima",
           "Role": "Damage"
@@ -32,7 +36,9 @@
         "name": "Edgar",
         "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
         "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596589",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Cosmos",
           "Role": "Survival"
@@ -42,7 +48,9 @@
         "name": "Adler",
         "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
         "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596593",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Incantation",
           "Role": "Survival"
@@ -64,7 +72,9 @@
         "name": "Ravenous Blade",
         "icon": "https://img.game8.co/4593678/2bb8f2b87ef7caaea33c76f50df53563.png/show",
         "type": "arc:Gas",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/616233",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Rarity": "S Rank",
           "Base ATK": "37",
@@ -89,7 +99,9 @@
         "name": "Nanally",
         "icon": "https://img.game8.co/4476578/19db92921cf30e4329f02a7bc5fb4ab7.png/show",
         "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596559",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Anima",
           "Role": "Damage"
@@ -101,7 +113,9 @@
         "name": "Mint",
         "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
         "type": "Anima",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596587",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Anima",
           "Role": "Damage"
@@ -111,7 +125,9 @@
         "name": "Edgar",
         "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
         "type": "Cosmos",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596589",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Cosmos",
           "Role": "Survival"
@@ -121,7 +137,9 @@
         "name": "Adler",
         "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
         "type": "Incantation",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/596593",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Element": "Incantation",
           "Role": "Survival"
@@ -143,7 +161,9 @@
         "name": "Ready-Ready",
         "icon": "https://img.game8.co/4491634/14fa2a0ee4a4adbc7e49c58f6c7ad52e.png/show",
         "type": "arc:Plasma",
-        "sourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/597509",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
         "details": {
           "Rarity": "S Rank",
           "Base ATK": "37",

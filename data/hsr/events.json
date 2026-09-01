@@ -86,7 +86,11 @@
         }
       }
     ],
-    "imageUrl": "https://img.game8.co/4590825/e68e424c8513ab90f90141a78d6cba33.png/show"
+    "imageUrl": "https://img.game8.co/4590825/e68e424c8513ab90f90141a78d6cba33.png/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787702400,
+    "displayEndTime": 1790553600
   },
   {
     "name": "Free Gilgamesh or Archer",
@@ -115,12 +119,14 @@
         }
       }
     ],
-    "imageUrl": "https://img.game8.co/4567787/5ccb5bfff63a3252a6ad0be9dc40f535.png/show"
+    "imageUrl": "https://img.game8.co/4567787/5ccb5bfff63a3252a6ad0be9dc40f535.png/show",
+    "startTime": null,
+    "endTime": null
   },
   {
     "name": "Miniscule Great Adventure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/615729",
-    "dateText": "Start: 09/12/2026 - 09/28/2026 Assemble the best teams to go on assignment missions and earn rewards based on how well they do!",
+    "dateText": "09/12/2026 - 09/28/2026",
     "status": "upcoming",
     "rewards": [
       {
@@ -180,12 +186,16 @@
         }
       }
     ],
-    "imageUrl": "https://img.game8.co/4590832/2bb49dbc3ed4a5b53467ef8320b7fc24.png/show"
+    "imageUrl": "https://img.game8.co/4590832/2bb49dbc3ed4a5b53467ef8320b7fc24.png/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789171200,
+    "displayEndTime": 1790553600
   },
   {
     "name": "4.5 Planar Fissure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/413440",
-    "dateText": "Start: 09/07/2026 - 09/21/2026 Get double the planar ornaments when challenging Worlds in the Simulated Universe!",
+    "dateText": "09/07/2026 - 09/21/2026",
     "status": "upcoming",
     "rewards": [
       {
@@ -645,12 +655,16 @@
         }
       }
     ],
-    "imageUrl": "https://img.game8.co/3868033/2c18a3945dd42c91268e80f38208cabf.png/show"
+    "imageUrl": "https://img.game8.co/3868033/2c18a3945dd42c91268e80f38208cabf.png/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788739200,
+    "displayEndTime": 1789948800
   },
   {
     "name": "4.5 Realm of the Strange",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/417674",
-    "dateText": "Start: 09/19/2026 - 09/28/2026 Get double the relics when challenging Caverns of Corrosion!",
+    "dateText": "09/19/2026 - 09/28/2026",
     "status": "upcoming",
     "rewards": [
       {
@@ -910,6 +924,10 @@
         }
       }
     ],
-    "imageUrl": "https://img.game8.co/3873594/d47a446373bf2920531dd30112d1dcc5.png/show"
+    "imageUrl": "https://img.game8.co/3873594/d47a446373bf2920531dd30112d1dcc5.png/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789776000,
+    "displayEndTime": 1790553600
   }
 ]

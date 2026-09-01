@@ -18,7 +18,9 @@
           "HP": "824 10300",
           "ATK": "37 462",
           "DEF": "91 1112"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -35,7 +37,9 @@
           "HP": "816 10,200",
           "ATK": "20 250",
           "DEF": "90 1,099"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Baizhi",
@@ -50,7 +54,9 @@
           "HP": "1025 12,812",
           "ATK": "17 212",
           "DEF": "82 1,002"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Sanhua",
@@ -65,7 +71,9 @@
           "HP": "805 10,062",
           "ATK": "22 275",
           "DEF": "77 941"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1787184000,
@@ -91,7 +99,9 @@
           "ATK": "34 425",
           "DEF": "94 1148",
           "Effect": "• Deals 136.33% DMG (Lvl. 10) every 4s per tick at S0 for 30s. ┗ At S4, ticks occur every 3s instead of 4s. • Pulls in nearby targets, great for AoE coverage. • Considered Resonance Liberation DMG. In Fusion Burst Mode: • Inflicts 2 stacks of Fusion Burst. In Tune Strain Mode: • Inflicts Tune Strain - Shifting on targets. • Resets Tune Strain - Interfered duration on targets."
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -108,7 +118,9 @@
           "HP": "816 10,200",
           "ATK": "20 250",
           "DEF": "90 1,099"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Baizhi",
@@ -123,7 +135,9 @@
           "HP": "1025 12,812",
           "ATK": "17 212",
           "DEF": "82 1,002"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Sanhua",
@@ -138,7 +152,9 @@
           "HP": "805 10,062",
           "ATK": "22 275",
           "DEF": "77 941"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1787184000,
@@ -151,7 +167,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Glint of Clouds",
+        "name": "Glint of Clouds - Qingxiao Weapon Skills and",
         "icon": "https://img.game8.co/4581375/1a4f8cbe252754a138e9aed0abfae7dd.png/show",
         "type": "Sword",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614634",
@@ -163,7 +179,9 @@
           "Weapon Skill": "Evil's Scourge ATK is increased by 12%. Inflicting Tune Strain - Shifting grants 11.2% Aero DMG Bonus for 2s, stacking up to 5 times. This effect can be triggered once every 0.5s. Upon reaching the max stack limit, gain the following effects: - This Aero DMG Bonus effect's duration is extended to 30s. - Aero DMG ignores 10% of the target's DEF during this effect.",
           "Max ATK": "500",
           "Max Bonus Stat (Crit. Rate)": "36.0%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -180,7 +198,9 @@
           "Weapon Skill": "Unyielding When Intro Skill is cast, increases ATK by 15%, lasting for 15s.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Fusion Accretion",
@@ -195,7 +215,9 @@
           "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
           "Max ATK": "462",
           "Max Bonus Stat (ATK)": "18.2%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Lunar Cutter",
@@ -210,7 +232,9 @@
           "Weapon Skill": "Preordained Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. The equipped Resonator loses 1 stack(s) of Oath every 2s, and gains 6 stack(s) upon defeating an enemy.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       }
     ],
     "startTime": 1787184000,
@@ -223,7 +247,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Forged Dwarf Star",
+        "name": "Forged Dwarf Star - Denia Weapon Skill and Effect",
         "icon": "https://img.game8.co/4507096/17f6303ea17e79f0090d03a2a10cf4fd.png/show",
         "type": "Rectifier",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/595088",
@@ -235,7 +259,9 @@
           "Weapon Skill": "Dissolution Increases ATK by 12%. After the wielder inflicts Fusion Burst or Tune Strain - Shifting on the target, it increases their Resonance Liberation DMG Bonus by 36% for 5s. While the effect lasts, after Resonators in the team inflict Fusion Burst or Tune Strain - Shifting, their ATK is increased by 24% for 15s. Effects of the same name cannot be stacked.",
           "Max ATK": "500",
           "Max Bonus Stat (Crit. Rate)": "36.0%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -252,7 +278,9 @@
           "Weapon Skill": "Unyielding When Intro Skill is cast, increases ATK by 15%, lasting for 15s.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Fusion Accretion",
@@ -267,7 +295,9 @@
           "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
           "Max ATK": "462",
           "Max Bonus Stat (ATK)": "18.2%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Lunar Cutter",
@@ -282,7 +312,9 @@
           "Weapon Skill": "Preordained Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. The equipped Resonator loses 1 stack(s) of Oath every 2s, and gains 6 stack(s) upon defeating an enemy.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       }
     ],
     "startTime": 1787184000,
@@ -303,7 +335,9 @@
           "Rarity": "★★★★★",
           "Attribute": "Fusion",
           "Weapon": "Broadblade"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -320,7 +354,9 @@
           "HP": "802 10,025",
           "ATK": "20 250",
           "DEF": "93 1,136"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Aalto",
@@ -335,7 +371,9 @@
           "HP": "788 9,850",
           "ATK": "21 262",
           "DEF": "88 1,075"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Yuanwu",
@@ -350,7 +388,9 @@
           "HP": "682 8,525",
           "ATK": "18 225",
           "DEF": "134 1,637"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
@@ -375,7 +415,9 @@
           "HP": "824 10300",
           "ATK": "37 462",
           "DEF": "91 1112"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -392,7 +434,9 @@
           "HP": "802 10,025",
           "ATK": "20 250",
           "DEF": "93 1,136"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Aalto",
@@ -407,7 +451,9 @@
           "HP": "788 9,850",
           "ATK": "21 262",
           "DEF": "88 1,075"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Yuanwu",
@@ -422,7 +468,9 @@
           "HP": "682 8,525",
           "ATK": "18 225",
           "DEF": "134 1,637"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
@@ -448,7 +496,9 @@
           "ATK": "23 287",
           "DEF": "111 1356",
           "Skill": "Requirement"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -465,7 +515,9 @@
           "HP": "802 10,025",
           "ATK": "20 250",
           "DEF": "93 1,136"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Aalto",
@@ -480,7 +532,9 @@
           "HP": "788 9,850",
           "ATK": "21 262",
           "DEF": "88 1,075"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       },
       {
         "name": "Yuanwu",
@@ -495,7 +549,9 @@
           "HP": "682 8,525",
           "ATK": "18 225",
           "DEF": "134 1,637"
-        }
+        },
+        "entityKind": "character",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
@@ -508,7 +564,7 @@
     "status": "upcoming",
     "rateUp5Star": [
       {
-        "name": "Thousandfold Deliverance",
+        "name": "Thousandfold Deliverance - Jingran Weapon Skills and",
         "icon": "https://img.game8.co/4581376/08b1a02ad6368fc51b25f2b20285cb68.png/show",
         "type": "Broadblade",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614635",
@@ -517,7 +573,9 @@
           "Base ATK (Lv. 90)": "412",
           "Substat (Lv. 90)": "HP+72.2%",
           "Type": "Broadblade"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -534,7 +592,9 @@
           "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
           "Max ATK": "462",
           "Max Bonus Stat (ATK)": "18.2%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Discord",
@@ -549,7 +609,9 @@
           "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
           "Max ATK": "337",
           "Max Bonus Stat (Energy Regen)": "51.8%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Novaburst",
@@ -564,7 +626,9 @@
           "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
@@ -577,7 +641,7 @@
     "status": "upcoming",
     "rateUp5Star": [
       {
-        "name": "Frostburn",
+        "name": "Frostburn - Hiyuki Weapon Skill and Effect",
         "icon": "https://img.game8.co/4484921/afe46f1c94551974f8f8e4bc3ea8d6da.png/show",
         "type": "Sword",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/595087",
@@ -589,7 +653,9 @@
           "Weapon Skill": "Self No More ATK is increased by 12%. When the wielder applies Glacio Chafe, Glacio DMG is amplified by 28%, and Resonance Liberation DMG ignores 10% of the target's DEF. If the wielder is the active Resonator in the team, Glacio Chafe DMG dealt to all targets within a certain range is Amplified by 20% for 6s. This effect can be triggered once every 0.1s. Only the strongest effect of the same name applies.",
           "Max ATK": "587",
           "Max Bonus Stat (Crit Rate)": "24.3%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -606,7 +672,9 @@
           "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
           "Max ATK": "462",
           "Max Bonus Stat (ATK)": "18.2%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Discord",
@@ -621,7 +689,9 @@
           "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
           "Max ATK": "337",
           "Max Bonus Stat (Energy Regen)": "51.8%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Novaburst",
@@ -636,7 +706,9 @@
           "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
@@ -649,7 +721,7 @@
     "status": "upcoming",
     "rateUp5Star": [
       {
-        "name": "Starfield Calibrator",
+        "name": "Starfield Calibrator - Mornye Weapon Skill and Effect",
         "icon": "https://img.game8.co/4384969/bbe56b282c9b7111b531a54aa8d5d131.png/show",
         "type": "Broadblade",
         "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570864",
@@ -661,7 +733,9 @@
           "Weapon Skill": "Definite Solution Increases DEF by 16%. Casting Resonance Liberation restores 8 points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4s. Effects of the same name cannot be stacked.",
           "Max ATK": "412",
           "Max Bonus Stat (Energy Regen)": "77.0%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 5
       }
     ],
     "rateUp4Star": [
@@ -678,7 +752,9 @@
           "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
           "Max ATK": "462",
           "Max Bonus Stat (ATK)": "18.2%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Discord",
@@ -693,7 +769,9 @@
           "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
           "Max ATK": "337",
           "Max Bonus Stat (Energy Regen)": "51.8%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       },
       {
         "name": "Novaburst",
@@ -708,7 +786,9 @@
           "Weapon Skill": "Ever-Changing When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s.",
           "Max ATK": "412",
           "Max Bonus Stat (ATK)": "30.4%"
-        }
+        },
+        "entityKind": "weapon",
+        "rarity": 4
       }
     ],
     "startTime": 1788991200,
