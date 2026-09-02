@@ -6,7 +6,7 @@
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "HSR - Summeretto",
+        "name": "Summeretto",
         "icon": "https://img.game8.co/4545735/072aef95b6c00cda6a69104583a940ab.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/607261",
@@ -138,7 +138,7 @@
     ],
     "rateUp4Star": [
       {
-        "name": "Dream's Montage",
+        "name": "HSR - Dream",
         "icon": "https://img.game8.co/4015240/79b3f4e22c48946d47b803bd9bd18271.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448342",
@@ -151,7 +151,7 @@
         "rarity": 4
       },
       {
-        "name": "Geniuses' Greetings",
+        "name": "HSR - Geniuses",
         "icon": "https://img.game8.co/4075014/188c36ca2be293949a58e622f1cf75d9.png/show",
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/492458",

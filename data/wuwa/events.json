@@ -1,5 +1,23 @@
 [
   {
+    "name": "Way to Sword Transcendent",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/617622",
+    "dateText": "August 26, 2026 - September 9, 2026",
+    "imageUrl": "https://img.game8.co/4604893/b99daa0def8712bab90e35172b60888d.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Post Your Results to Enter a Raffle",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787702400,
+    "displayEndTime": 1788912000
+  },
+  {
     "name": "Ascendant Aces",
     "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
     "dateText": "August 20, 2026 - September 10, 2026",
@@ -41,6 +59,34 @@
     "endTime": null,
     "displayStartTime": 1787184000,
     "displayEndTime": 1788998400
+  },
+  {
+    "name": "Second Coming of Solaris: Coded Deception",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614757",
+    "dateText": "August 27, 2026 - September 14, 2026",
+    "imageUrl": "https://img.game8.co/4581499/5b74c89c9e3f5d486e4ed3c76dc052ff.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 400
+      },
+      {
+        "itemName": "Forgery Premium Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
+        "totalQuantity": 28
+      },
+      {
+        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
+        "totalQuantity": 56
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1787788800,
+    "displayEndTime": 1789344000
   },
   {
     "name": "Resonance Sim Realm",
@@ -132,34 +178,6 @@
     "endTime": null,
     "displayStartTime": 1787184000,
     "displayEndTime": 1790640000
-  },
-  {
-    "name": "Second Coming of Solaris: Coded Deception",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614757",
-    "dateText": "August 27, 2026 - September 14, 2026",
-    "imageUrl": "https://img.game8.co/4581499/5b74c89c9e3f5d486e4ed3c76dc052ff.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Astrite",
-        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 340
-      },
-      {
-        "itemName": "Forgery Premium Supply - Lahai-Roi",
-        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-        "totalQuantity": 24
-      },
-      {
-        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
-        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-        "totalQuantity": 48
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1787788800,
-    "displayEndTime": 1789344000
   },
   {
     "name": "Bountiful Crescendo",
