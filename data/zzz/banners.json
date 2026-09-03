@@ -2214,6 +2214,15 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/488243",
         "details": {
+          "Type": "Attack",
+          "Base ATK": "48",
+          "Advanced Stat": "CRIT DMG 19.00%",
+          "Effect": "Growth Through Adversity CRIT Rate increases by 10%. Dash Attack Electric DMG increases by 40%. When any squad member applies an Attribute Anomaly or Stuns an enemy, the equipper's CRIT Rate increases by an additional 10% for 12s.",
+          "Attribute": "Electric",
+          "Specialty": "Attack",
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (CRIT DMG)": "48.00%",
           "Availability": "Featured limited S-Rank W-Engine"
         },
         "rarity": 5,

@@ -89,6 +89,34 @@
     "displayEndTime": 1789344000
   },
   {
+    "name": "The Strings Remember",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614773",
+    "dateText": "September 3, 2026 - September 21, 2026",
+    "imageUrl": "https://img.game8.co/4581501/c06381ba427f3a143cbb69d0bfa9ebee.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 50
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 40000
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 5
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788393600,
+    "displayEndTime": 1789948800
+  },
+  {
     "name": "Resonance Sim Realm",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614775",
     "dateText": "August 22, 2026 - September 29, 2026",
@@ -184,7 +212,7 @@
     "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
     "dateText": "September 3, 2026 - September 10, 2026",
     "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Double Leveling Material Drops",
@@ -196,24 +224,6 @@
     "endTime": null,
     "displayStartTime": 1788393600,
     "displayEndTime": 1788998400
-  },
-  {
-    "name": "The Strings Remember",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614773",
-    "dateText": "September 3, 2026 - September 21, 2026",
-    "imageUrl": "https://img.game8.co/4581501/c06381ba427f3a143cbb69d0bfa9ebee.png/show",
-    "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "Astrites and Materials",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1788393600,
-    "displayEndTime": 1789948800
   },
   {
     "name": "If Dreams Still Reverberate",

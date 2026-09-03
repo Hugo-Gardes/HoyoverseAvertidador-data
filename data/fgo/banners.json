@@ -1,6 +1,49 @@
 {
   "confirmed_na_banners": [
     {
+      "title": "25 Million Downloads Pickup Summon (Daily)",
+      "image": "https://img.gamepress.gg/grandorder/20260903 25M DL Pickup Daily.png?width=480&height=173",
+      "servants": [
+        "Gilgamesh",
+        "Sakata Kintoki",
+        "Brynhild",
+        "Scathach",
+        "Jeanne d'Arc (Alter)",
+        "Leonardo da Vinci",
+        "Ishtar",
+        "Merlin",
+        "First Hassan",
+        "Sessyoin Kiara",
+        "Tamamo-no-Mae (Lancer)",
+        "Altria Pendragon (Archer)",
+        "Abigail Williams",
+        "Mysterious Heroine X (Alter)",
+        "Nero Claudius (Bride)",
+        "Scathach-Skadi",
+        "Ereshkigal",
+        "Miyamoto Musashi",
+        "Qin Shi Huang",
+        "Murasaki Shikibu",
+        "Arthur Pendragon (Prototype)",
+        "Ibuki-Douji",
+        "Altria Caster",
+        "Space Ishtar",
+        "Altria Pendragon (Ruler)",
+        "Melusine"
+      ],
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-30"
+    },
+    {
+      "title": "25 Million Downloads Oberon Pickup Summon",
+      "image": "https://img.gamepress.gg/grandorder/20260903 25M DL Oberon Pickup.png?width=480&height=173",
+      "servants": [
+        "Oberon"
+      ],
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-17"
+    },
+    {
       "title": "Back to School Campaign 2026 Pickup Summon (Daily)",
       "image": "https://img.gamepress.gg/grandorder/20260901 Back to School 2026 Pickup.png?width=480&height=173",
       "servants": [
@@ -1031,6 +1074,47 @@
     }
   ],
   "predicted_na_banners": [
+    {
+      "title": "[JP] Crowning Match Assassin Pickup (Daily)",
+      "image": "https://img.gamepress.gg/grandorder/20251004 Crowning Match Assassin Pickup.png?width=480&height=173",
+      "servants": [
+        "Jack the Ripper",
+        "Mysterious Heroine X",
+        "Shuten-Douji",
+        "Cleopatra",
+        "First Hassan",
+        "Osakabehime",
+        "Semiramis",
+        "Li Shuwen (Assassin)",
+        "Kama",
+        "Koyanskaya of Light",
+        "Huyan Zhuo",
+        "Tezcatlipoca",
+        "Kashin Koji",
+        "Stheno",
+        "Carmilla",
+        "EMIYA (Assassin)",
+        "Assassin of Shinjuku",
+        "Assassin of the Nightless City",
+        "Nitocris (Assassin)",
+        "Assassin of Paraiso",
+        "Katou Danzo",
+        "Ushiwakamaru (Assassin)",
+        "Yu Mei-ren",
+        "Okita J Souji",
+        "Locusta",
+        "Hassan of the Shining Star",
+        "Jing Ke",
+        "Henry Jekyll & Hyde",
+        "Hassan of the Hundred Personas",
+        "Fuuma Kotarou",
+        "Hassan of the Serenity",
+        "Okada Izo"
+      ],
+      "start_date": "2027-09-03",
+      "end_date": "2027-09-21",
+      "original_jp_start": "2025-10-04"
+    },
     {
       "title": "[JP] GUDAGUDA Shinsengumi The End REVENGE OF MAKOTO Pickup 4 Summon (Daily)",
       "image": "https://img.gamepress.gg/grandorder/20251003 GUDAGUDA Revenge of Makoto Pickup 4 Summon.png?width=480&height=173",
@@ -2734,51 +2818,6 @@
       "start_date": "2026-09-15",
       "end_date": "2026-10-05",
       "original_jp_start": "2024-10-16"
-    },
-    {
-      "title": "[JP] Revival Download Milestones Campaign Pickup (Daily)",
-      "image": "https://img.gamepress.gg/grandorder/20241006 Revival DL Campaign Pickup Daily.png?width=480&height=173",
-      "servants": [
-        "Gilgamesh",
-        "Sakata Kintoki",
-        "Brynhild",
-        "Scathach",
-        "Jeanne d'Arc (Alter)",
-        "Leonardo da Vinci",
-        "Ishtar",
-        "Merlin",
-        "First Hassan",
-        "Sessyoin Kiara",
-        "Tamamo-no-Mae (Lancer)",
-        "Altria Pendragon (Archer)",
-        "Abigail Williams",
-        "Mysterious Heroine X (Alter)",
-        "Nero Claudius (Bride)",
-        "Scathach-Skadi",
-        "Ereshkigal",
-        "Miyamoto Musashi",
-        "Qin Shi Huang",
-        "Murasaki Shikibu",
-        "Arthur Pendragon (Prototype)",
-        "Ibuki-Douji",
-        "Altria Caster",
-        "Space Ishtar",
-        "Altria Pendragon (Ruler)",
-        "Melusine"
-      ],
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-30",
-      "original_jp_start": "2024-10-06"
-    },
-    {
-      "title": "[JP] 30M Downloads Oberon Pickup Summon",
-      "image": "https://img.gamepress.gg/grandorder/20241004 30M DL Oberon Pickup.png?width=480&height=173",
-      "servants": [
-        "Oberon"
-      ],
-      "start_date": "2026-09-03",
-      "end_date": "2026-09-17",
-      "original_jp_start": "2024-10-04"
     },
     {
       "title": "[JP] Lostbelt 5 Clear Support Campaign Pickup Summon (Daily)",
