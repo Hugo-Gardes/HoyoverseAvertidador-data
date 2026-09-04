@@ -185,14 +185,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "HP": "6976",
-          "ATK": "683",
-          "DEF": "612",
-          "Impact": "86",
-          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -204,14 +196,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "HP": "8701",
-          "ATK": "568",
-          "DEF": "746",
-          "Impact": "94",
-          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -261,6 +245,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
+          "Attribute": "Fire",
+          "Specialty": "Rupture",
+          "Faction": "Spook Shack",
+          "HP": "7724",
+          "ATK": "680",
+          "DEF": "443",
+          "Impact": "95",
+          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -283,6 +275,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
         "rarity": 5,
+        "details": {
+          "Attribute": "Ice",
+          "Specialty": "Attack",
+          "Type": "Pierce",
+          "Faction": "Airspace Patrol Department"
+        },
         "entityKind": "character"
       }
     ],
@@ -446,14 +444,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "HP": "6976",
-          "ATK": "683",
-          "DEF": "612",
-          "Impact": "86",
-          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -465,14 +455,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "HP": "8701",
-          "ATK": "568",
-          "DEF": "746",
-          "Impact": "94",
-          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -522,6 +504,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
+          "Attribute": "Fire",
+          "Specialty": "Rupture",
+          "Faction": "Spook Shack",
+          "HP": "7724",
+          "ATK": "680",
+          "DEF": "443",
+          "Impact": "95",
+          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -544,6 +534,16 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572601",
         "rarity": 5,
+        "details": {
+          "Attribute": "Ether",
+          "Specialty": "Anomaly",
+          "Faction": "Angels of Delusion",
+          "HP": "7749",
+          "ATK": "788",
+          "DEF": "619",
+          "Impact": "87",
+          "Anomaly Mastery": "115"
+        },
         "entityKind": "character"
       }
     ],
@@ -707,14 +707,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "HP": "6976",
-          "ATK": "683",
-          "DEF": "612",
-          "Impact": "86",
-          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -726,14 +718,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "HP": "8701",
-          "ATK": "568",
-          "DEF": "746",
-          "Impact": "94",
-          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -783,6 +767,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
+          "Attribute": "Fire",
+          "Specialty": "Rupture",
+          "Faction": "Spook Shack",
+          "HP": "7724",
+          "ATK": "680",
+          "DEF": "443",
+          "Impact": "95",
+          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -805,6 +797,17 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611632",
         "rarity": 5,
+        "details": {
+          "Type": "Anomaly",
+          "Base ATK": "50",
+          "Advanced Stat": "ATK 14.4%",
+          "Effect": "Paradise Lost Increases Anomaly Proficiency by 96. When the equipper triggers a Refringe reaction, they gain 20% increased Anomaly DMG, and all squad members gain 30% increased DMG dealt. Both effects last 30s. Repeated triggers reset the duration.",
+          "Attribute": "Lumiflux",
+          "Specialty": "Anomaly",
+          "Faction": "Covenant of Dayat",
+          "Max Base ATK": "743",
+          "Max Advanced Stat (ATK)": "36%"
+        },
         "entityKind": "w_engine"
       }
     ],
@@ -921,6 +924,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1043,6 +1052,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
+          "Attribute": "Physical",
+          "Specialty": "Attack",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1349,6 +1367,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1471,6 +1495,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
+          "Attribute": "Physical",
+          "Specialty": "Attack",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1777,6 +1810,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1899,6 +1938,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
+          "Attribute": "Physical",
+          "Specialty": "Attack",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2246,6 +2294,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2368,6 +2422,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
+          "Type": "Attack",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
+          "Attribute": "Physical",
+          "Specialty": "Attack",
+          "Faction": "Victoria Housekeeping Co.",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
