@@ -845,17 +845,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611632",
         "rarity": 5,
-        "details": {
-          "Type": "Anomaly",
-          "Base ATK": "50",
-          "Advanced Stat": "ATK 14.4%",
-          "Effect": "Paradise Lost Increases Anomaly Proficiency by 96. When the equipper triggers a Refringe reaction, they gain 20% increased Anomaly DMG, and all squad members gain 30% increased DMG dealt. Both effects last 30s. Repeated triggers reset the duration.",
-          "Attribute": "Lumiflux",
-          "Specialty": "Anomaly",
-          "Faction": "Covenant of Dayat",
-          "Max Base ATK": "743",
-          "Max Advanced Stat (ATK)": "36%"
-        },
         "entityKind": "w_engine"
       }
     ],
@@ -887,12 +876,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -904,12 +887,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -921,12 +898,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "HP 10.00%",
-          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -938,12 +909,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "40",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -955,6 +920,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1134,6 +1105,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
+          "Attribute": "Fire",
+          "Specialty": "Defense",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1273,6 +1253,17 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611634",
         "rarity": 5,
+        "details": {
+          "Type": "Attack",
+          "Base ATK": "48",
+          "Advanced Stat": "CRIT DMG 19.20%",
+          "Effect": "Knight's Rite When the Agent's Basic or EX Special Attack heavy attack hits an enemy, gain 1 Battle Edge, increasing CRIT DMG by 32% for 25s. Battle Edge stacks up to 2 times, and each skill type provides up to 1 stack. Repeated triggers refresh the duration of all Battle Edge. At 2 stacks of Battle Edge, the Agent gains Bonechill, ignoring 20% of Ice RES.",
+          "Attribute": "Ice",
+          "Specialty": "Attack",
+          "Faction": "Roscaelifer Airspace Patrol Department",
+          "Max Base ATK": "713",
+          "Max Advanced Stat (CRIT DMG)": "48%"
+        },
         "entityKind": "w_engine"
       }
     ],
@@ -1304,12 +1295,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1321,12 +1306,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1338,12 +1317,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "HP 10.00%",
-          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1355,12 +1328,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "40",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1372,6 +1339,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1551,6 +1524,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
+          "Attribute": "Fire",
+          "Specialty": "Defense",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1732,12 +1714,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1749,12 +1725,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1766,12 +1736,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "HP 10.00%",
-          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1783,12 +1747,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "40",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1800,6 +1758,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1979,6 +1943,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
+          "Attribute": "Fire",
+          "Specialty": "Defense",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2201,12 +2174,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2218,12 +2185,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2235,12 +2196,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "40",
-          "Advanced Stat": "HP 10.00%",
-          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2252,12 +2207,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "40",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2269,6 +2218,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451800",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Energy Regen 20.00%",
+          "Effect": "Thick Broth For every 10 Energy accumulated, the equipper's Impact increases by 2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2448,6 +2403,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "42",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
+          "Attribute": "Fire",
+          "Specialty": "Defense",
+          "Faction": "Belobog Heavy Industries",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
