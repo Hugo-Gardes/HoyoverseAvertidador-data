@@ -98,16 +98,21 @@
       {
         "itemName": "Astrite",
         "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 50
+        "totalQuantity": 100
       },
       {
         "itemName": "Shell Credit",
         "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-        "totalQuantity": 40000
+        "totalQuantity": 80000
       },
       {
         "itemName": "Premium Resonance Potion",
         "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Premium Energy Core",
+        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
         "totalQuantity": 5
       }
     ],

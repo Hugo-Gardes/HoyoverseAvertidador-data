@@ -261,14 +261,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
-          "Attribute": "Fire",
-          "Specialty": "Rupture",
-          "Faction": "Spook Shack",
-          "HP": "7724",
-          "ATK": "680",
-          "DEF": "443",
-          "Impact": "95",
-          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -291,12 +283,6 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
         "rarity": 5,
-        "details": {
-          "Attribute": "Ice",
-          "Specialty": "Attack",
-          "Type": "Pierce",
-          "Faction": "Airspace Patrol Department"
-        },
         "entityKind": "character"
       }
     ],
@@ -536,14 +522,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
-          "Attribute": "Fire",
-          "Specialty": "Rupture",
-          "Faction": "Spook Shack",
-          "HP": "7724",
-          "ATK": "680",
-          "DEF": "443",
-          "Impact": "95",
-          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -566,16 +544,6 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/572601",
         "rarity": 5,
-        "details": {
-          "Attribute": "Ether",
-          "Specialty": "Anomaly",
-          "Faction": "Angels of Delusion",
-          "HP": "7749",
-          "ATK": "788",
-          "DEF": "619",
-          "Impact": "87",
-          "Anomaly Mastery": "115"
-        },
         "entityKind": "character"
       }
     ],
@@ -815,14 +783,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/545823",
         "rarity": 4,
         "details": {
-          "Attribute": "Fire",
-          "Specialty": "Rupture",
-          "Faction": "Spook Shack",
-          "HP": "7724",
-          "ATK": "680",
-          "DEF": "443",
-          "Impact": "95",
-          "Anomaly Mastery": "87",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -876,6 +836,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -887,6 +853,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -898,6 +870,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -909,6 +887,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -937,12 +921,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1065,15 +1043,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1295,6 +1264,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1306,6 +1281,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1317,6 +1298,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1328,6 +1315,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1356,12 +1349,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1484,15 +1471,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1714,6 +1692,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1725,6 +1709,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1736,6 +1726,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1747,6 +1743,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1775,12 +1777,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1903,15 +1899,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2174,6 +2161,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2185,6 +2178,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2196,6 +2195,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451802",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "HP 10.00%",
+          "Effect": "Starlight Knight Flying Kick Increases Max HP by 8%. When attacked, the equipper's Impact is increased by 10% for 12s.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (HP)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2207,6 +2212,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451801",
         "rarity": 4,
         "details": {
+          "Type": "Stun",
+          "Base ATK": "40",
+          "Advanced Stat": "Impact 6.00%",
+          "Effect": "Behemoth Hunter When the target's HP is no lower than 50%, the equipper inflicts 10% more Daze to the target. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2235,12 +2246,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451799",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "40",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight's Combo Launching a Dodge Counter or Quick Assist increases the equipper's ATK by 12% for 12s.",
-          "Max Base ATK": "594",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2363,15 +2368,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
