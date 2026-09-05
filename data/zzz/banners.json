@@ -223,6 +223,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
+          "HP": "7612",
+          "ATK": "590",
+          "DEF": "606",
+          "Impact": "118",
+          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -490,6 +498,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
+          "HP": "7612",
+          "ATK": "590",
+          "DEF": "606",
+          "Impact": "118",
+          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -761,6 +777,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Stun",
+          "Faction": "Sons of Calydon",
+          "HP": "7612",
+          "ATK": "590",
+          "DEF": "606",
+          "Impact": "118",
+          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -1056,15 +1080,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "rarity": 4,
         "details": {
-          "Type": "Support",
-          "Base ATK": "42",
-          "Advanced Stat": "Energy Regen 20.00%",
-          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
-          "Attribute": "Ether",
-          "Specialty": "Support",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1076,15 +1091,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1096,15 +1102,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1116,15 +1113,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
-          "Attribute": "Fire",
-          "Specialty": "Defense",
-          "Faction": "Belobog Heavy Industries",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1136,15 +1124,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1499,15 +1478,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "rarity": 4,
         "details": {
-          "Type": "Support",
-          "Base ATK": "42",
-          "Advanced Stat": "Energy Regen 20.00%",
-          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
-          "Attribute": "Ether",
-          "Specialty": "Support",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1519,15 +1489,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1539,15 +1500,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1559,15 +1511,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
-          "Attribute": "Fire",
-          "Specialty": "Defense",
-          "Faction": "Belobog Heavy Industries",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1579,15 +1522,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1942,15 +1876,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "rarity": 4,
         "details": {
-          "Type": "Support",
-          "Base ATK": "42",
-          "Advanced Stat": "Energy Regen 20.00%",
-          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
-          "Attribute": "Ether",
-          "Specialty": "Support",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1962,15 +1887,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1982,15 +1898,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2002,15 +1909,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
-          "Attribute": "Fire",
-          "Specialty": "Defense",
-          "Faction": "Belobog Heavy Industries",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2022,15 +1920,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2426,15 +2315,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
         "rarity": 4,
         "details": {
-          "Type": "Support",
-          "Base ATK": "42",
-          "Advanced Stat": "Energy Regen 20.00%",
-          "Effect": "Money-Lover Dealing Ether DMG using an EX Special Attack, Chain Attack, or Ultimate increases all units' DMG against the target by 15% and increases the equipper's Energy Regen by 0.5/s for 2s. Passive effects of the same name do not stack.",
-          "Attribute": "Ether",
-          "Specialty": "Support",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Energy Regen)": "50.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2446,15 +2326,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Safe Household Saw While off-field, Energy Regen increases by 0.45/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Victoria Housekeeping Co.",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2466,15 +2337,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
         "rarity": 4,
         "details": {
-          "Type": "Attack",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Knight Beam: Change Increases the equipper's Physical DMG against the target by 36% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
-          "Attribute": "Physical",
-          "Specialty": "Attack",
-          "Faction": "Cunning Hares AKA Gentle House",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2486,15 +2348,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451771",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "DEF 16.00%",
-          "Effect": "Ten Ton Top Reduces DMG taken by 7.5%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
-          "Attribute": "Fire",
-          "Specialty": "Defense",
-          "Faction": "Belobog Heavy Industries",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2506,15 +2359,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460150",
         "rarity": 4,
         "details": {
-          "Type": "Anomaly",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Collision Potential When EX Special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. The same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: increases the equipper's ATK by 8%, increases the equipper's Anomaly Proficiency by 40, or increases the equipper's Anomaly Buildup Rate by 25%.",
-          "Attribute": "Physical",
-          "Specialty": "Anomaly",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
