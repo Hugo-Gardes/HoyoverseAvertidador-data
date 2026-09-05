@@ -185,6 +185,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Anomaly",
+          "Faction": "Sons of Calydon",
+          "HP": "6976",
+          "ATK": "683",
+          "DEF": "612",
+          "Impact": "86",
+          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -196,6 +204,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
+          "Attribute": "Electric",
+          "Specialty": "Defense",
+          "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "HP": "8701",
+          "ATK": "568",
+          "DEF": "746",
+          "Impact": "94",
+          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -207,14 +223,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "HP": "7612",
-          "ATK": "590",
-          "DEF": "606",
-          "Impact": "118",
-          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -444,6 +452,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Anomaly",
+          "Faction": "Sons of Calydon",
+          "HP": "6976",
+          "ATK": "683",
+          "DEF": "612",
+          "Impact": "86",
+          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -455,6 +471,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
+          "Attribute": "Electric",
+          "Specialty": "Defense",
+          "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "HP": "8701",
+          "ATK": "568",
+          "DEF": "746",
+          "Impact": "94",
+          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -466,14 +490,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "HP": "7612",
-          "ATK": "590",
-          "DEF": "606",
-          "Impact": "118",
-          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -707,6 +723,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459818",
         "rarity": 4,
         "details": {
+          "Attribute": "Physical",
+          "Specialty": "Anomaly",
+          "Faction": "Sons of Calydon",
+          "HP": "6976",
+          "ATK": "683",
+          "DEF": "612",
+          "Impact": "86",
+          "Anomaly Mastery": "116",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -718,6 +742,14 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/460687",
         "rarity": 4,
         "details": {
+          "Attribute": "Electric",
+          "Specialty": "Defense",
+          "Faction": "Public Security - Criminal Investigation Special Response Team",
+          "HP": "8701",
+          "ATK": "568",
+          "DEF": "746",
+          "Impact": "94",
+          "Anomaly Mastery": "90",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
@@ -729,14 +761,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/495110",
         "rarity": 4,
         "details": {
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "HP": "7612",
-          "ATK": "590",
-          "DEF": "606",
-          "Impact": "118",
-          "Anomaly Mastery": "92",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "character"
