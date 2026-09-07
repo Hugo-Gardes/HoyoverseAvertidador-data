@@ -291,6 +291,12 @@
         "type": "character",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597649",
         "rarity": 5,
+        "details": {
+          "Attribute": "Ice",
+          "Specialty": "Attack",
+          "Type": "Pierce",
+          "Faction": "Airspace Patrol Department"
+        },
         "entityKind": "character"
       }
     ],
@@ -861,6 +867,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "rarity": 4,
         "details": {
+          "Type": "Support",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
+          "Attribute": "Ice",
+          "Specialty": "Support",
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -872,6 +887,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -883,6 +904,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1173,15 +1200,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1193,15 +1211,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "42",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1261,17 +1270,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/611634",
         "rarity": 5,
-        "details": {
-          "Type": "Attack",
-          "Base ATK": "48",
-          "Advanced Stat": "CRIT DMG 19.20%",
-          "Effect": "Knight's Rite When the Agent's Basic or EX Special Attack heavy attack hits an enemy, gain 1 Battle Edge, increasing CRIT DMG by 32% for 25s. Battle Edge stacks up to 2 times, and each skill type provides up to 1 stack. Repeated triggers refresh the duration of all Battle Edge. At 2 stacks of Battle Edge, the Agent gains Bonechill, ignoring 20% of Ice RES.",
-          "Attribute": "Ice",
-          "Specialty": "Attack",
-          "Faction": "Roscaelifer Airspace Patrol Department",
-          "Max Base ATK": "713",
-          "Max Advanced Stat (CRIT DMG)": "48%"
-        },
         "entityKind": "w_engine"
       }
     ],
@@ -1283,6 +1281,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "rarity": 4,
         "details": {
+          "Type": "Support",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
+          "Attribute": "Ice",
+          "Specialty": "Support",
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1294,6 +1301,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1305,6 +1318,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1595,15 +1614,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1615,15 +1625,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "42",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1683,17 +1684,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/577362",
         "rarity": 5,
-        "details": {
-          "Type": "Anomaly",
-          "Base ATK": "48",
-          "Advanced Stat": "Anomaly Mastery 12%",
-          "Effect": "Energetic Strike Increases the equipper's Anomaly Proficiency by 90. When the equipper is an Ether character, and comes on-field or uses a Special Attack or EX Special Attack, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomalies increases by 20%, and all Attribute Anomaly DMG they trigger increases by 10%, lasting 15s. Repeated triggers reset the duration, and the effect is removed when switching off-field.",
-          "Attribute": "Ether",
-          "Specialty": "Anomaly",
-          "Faction": "Angels of Delusion",
-          "Max Base ATK": "713",
-          "Max Advanced Stat (Anomaly Mastery)": "30%"
-        },
         "entityKind": "w_engine"
       }
     ],
@@ -1705,6 +1695,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "rarity": 4,
         "details": {
+          "Type": "Support",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
+          "Attribute": "Ice",
+          "Specialty": "Support",
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1716,6 +1715,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -1727,6 +1732,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2017,15 +2028,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2037,15 +2039,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "42",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2105,15 +2098,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/565530",
         "details": {
-          "Type": "Stun",
-          "Base ATK": "48",
-          "Advanced Stat": "CRIT Rate 9.60%",
-          "Effect": "24/7 While off-field, the equipper's Energy Regen increases by 1.5/s. When the equipper deals Physical DMG with an EX Special Attack, the Daze dealt by the equipper's attacks increases by 9% for 10s, stacking up to 3 times. At 3 stacks, all squad members gain 30% additional CRIT DMG for 40s. Repeated triggers reset the duration. Only one instance of this CRIT DMG boost effect can exist in the same squad.",
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Krampus Compliance Authority",
-          "Max Base ATK": "713",
-          "Max Advanced Stat (CRIT Rate)": "24%",
           "Availability": "Featured limited S-Rank W-Engine"
         },
         "rarity": 5,
@@ -2125,15 +2109,6 @@
         "type": "weapon",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/533766",
         "details": {
-          "Type": "Support",
-          "Base ATK": "48",
-          "Advanced Stat": "Energy Regen 24%",
-          "Effect": "Exquisitely Ingenious When the equipper's EX Special Attack or Ultimate deals Physical DMG, their Anomaly Mastery increases by 30 for 40s. When the equipper's Aftershock hits an enemy, all squad members' Anomaly Proficiency increases by 60 for 40s. Only one instance of this effect can exist in the same squad.",
-          "Attribute": "Physical",
-          "Specialty": "Support",
-          "Faction": "Spook Shack",
-          "Max Base ATK": "713",
-          "Max Advanced Stat (Energy Regen)": "60%",
           "Availability": "Featured limited S-Rank W-Engine"
         },
         "rarity": 5,
@@ -2168,6 +2143,15 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451809",
         "rarity": 4,
         "details": {
+          "Type": "Support",
+          "Base ATK": "42",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Visage of Greed Increases Ice DMG by 15%. When launching an EX Special Attack, all squad members' ATK increases by 2% for 12s, stacking up to 4 times. Repeated triggers refresh the duration. Passive effects of the same name do not stack.",
+          "Attribute": "Ice",
+          "Specialty": "Support",
+          "Faction": "Hollow Special Operations Section 6",
+          "Max Base ATK": "624",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2179,6 +2163,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451737",
         "rarity": 4,
         "details": {
+          "Type": "Defense",
+          "Base ATK": "40",
+          "Advanced Stat": "DEF 16.00%",
+          "Effect": "Pet the Bunny Increases Max HP by 8%. Increases the equipper's ATK by 10% when they are shielded.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (DEF)": "40.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2190,6 +2180,12 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451803",
         "rarity": 4,
         "details": {
+          "Type": "Anomaly",
+          "Base ATK": "40",
+          "Advanced Stat": "ATK 10.00%",
+          "Effect": "Lingering Cries Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+          "Max Base ATK": "594",
+          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2480,15 +2476,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463663",
         "rarity": 4,
         "details": {
-          "Type": "Defense",
-          "Base ATK": "42",
-          "Advanced Stat": "ATK 10.00%",
-          "Effect": "Standard Blocking Technique While Shielded, the equipper's Energy Regen increases by 0.4/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%.",
-          "Attribute": "Electric",
-          "Specialty": "Defense",
-          "Faction": "Public Security - Criminal Investigation Special Response Team",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (ATK)": "25.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"
@@ -2500,15 +2487,6 @@
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/502060",
         "rarity": 4,
         "details": {
-          "Type": "Stun",
-          "Base ATK": "42",
-          "Advanced Stat": "Impact 6.00%",
-          "Effect": "Watch Your Fingers When launching an Aftershock, the equipper's Physical DMG increases by 15%, and their Daze inflicted increases by 10% for 10s.",
-          "Attribute": "Physical",
-          "Specialty": "Stun",
-          "Faction": "Sons of Calydon",
-          "Max Base ATK": "624",
-          "Max Advanced Stat (Impact)": "15.00%",
           "Availability": "Selectable A-Rank rate-up option"
         },
         "entityKind": "w_engine"

@@ -1059,21 +1059,20 @@
       ],
       "start_date": "2025-09-04",
       "end_date": "2025-09-24"
-    },
-    {
-      "title": "Back to School Campaign 2025 Pickup Summon (Daily)",
-      "image": "https://img.gamepress.gg/grandorder/20250828 Back to School 2025 Pickup Summon.png?width=480&height=173",
-      "servants": [
-        "Merlin",
-        "Gilgamesh",
-        "EMIYA",
-        "Astolfo"
-      ],
-      "start_date": "2025-08-28",
-      "end_date": "2025-09-07"
     }
   ],
   "predicted_na_banners": [
+    {
+      "title": "[JP] 33M Downloads Campaign Metatron Jeanne Pickup Summon",
+      "image": "https://img.gamepress.gg/grandorder/20251008 33M DL Pickup.png?width=480&height=173",
+      "servants": [
+        "Metatron Jeanne",
+        "Ashoka the Great"
+      ],
+      "start_date": "2027-09-07",
+      "end_date": "2027-09-21",
+      "original_jp_start": "2025-10-08"
+    },
     {
       "title": "[JP] Crowning Match Assassin Pickup (Daily)",
       "image": "https://img.gamepress.gg/grandorder/20251004 Crowning Match Assassin Pickup.png?width=480&height=173",
@@ -2888,20 +2887,6 @@
       "start_date": "2025-12-09",
       "end_date": "2025-12-16",
       "original_jp_start": "2024-01-10"
-    },
-    {
-      "title": "[JP] Fate/Samurai Remnant Release Commemoration Pickup Summon (Daily)",
-      "image": "https://img.gamepress.gg/grandorder/20230928 Samurai Remnant Commemorative Pickup.png?width=480&height=173",
-      "servants": [
-        "Miyamoto Musashi",
-        "Arjuna",
-        "Li Shuwen (Assassin)",
-        "Caster of Okeanos",
-        "Cu Chulainn"
-      ],
-      "start_date": "2025-08-27",
-      "end_date": "2025-09-07",
-      "original_jp_start": "2023-09-28"
     }
   ]
 }

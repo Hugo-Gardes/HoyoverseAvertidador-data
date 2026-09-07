@@ -1,5 +1,84 @@
 [
   {
+    "name": "The Lone Light Knocks at Night",
+    "link": "https://game8.co/games/Genshin-Impact/archives/546714",
+    "image": "https://img.game8.co/4574304/1973fcd6639fbc786d27f29bcd8160c1.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Flins",
+        "icon": "https://img.game8.co/4288768/dff063329711022276370582ceefecf3.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538451",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2522",
+          "ATK": "71",
+          "DEF": "163"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Aino",
+        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/537903",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Claymore",
+          "HP": "2413",
+          "ATK": "52",
+          "DEF": "131",
+          "Faction": "Clink-Clank Krumkake Craftshop"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Lan Yan",
+        "icon": "https://img.game8.co/4085060/13b6c8885432b5ae7e46d52e0551b031.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/486709",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Catalyst",
+          "HP": "1991",
+          "ATK": "54",
+          "DEF": "125",
+          "Faction": "Chenyu Vale Artisans Association"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Iansan",
+        "icon": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345881",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Electro",
+          "Weapon": "Polearm",
+          "HP": "2296",
+          "ATK": "55",
+          "DEF": "137",
+          "Faction": "Collective of Plenty"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": 1788213600,
+    "endTime": 1790114399
+  },
+  {
     "name": "Astral Actuation",
     "link": "https://game8.co/games/Genshin-Impact/archives/538073",
     "image": "https://img.game8.co/4574301/5d768fb502f764b9919bd2fee786d4fe.png/show",
@@ -80,82 +159,113 @@
     "endTime": 1790114399
   },
   {
-    "name": "The Lone Light Knocks at Night",
-    "link": "https://game8.co/games/Genshin-Impact/archives/546714",
-    "image": "https://img.game8.co/4574304/1973fcd6639fbc786d27f29bcd8160c1.png/show",
+    "name": "Epitome Invocation",
+    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
+    "image": "https://img.game8.co/4606030/37f9b3a411561a5b0aae0beac97466db.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Flins",
-        "icon": "https://img.game8.co/4288768/dff063329711022276370582ceefecf3.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538451",
+        "name": "Fractured Halo",
+        "icon": "https://img.game8.co/4235462/64e34fff82210953fcec5f99eab1cf32.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/538082",
         "details": {
+          "Type": "Polearm",
+          "Base ATK": "46",
           "Rarity": "★★★★★",
-          "Element": "Electro",
-          "Weapon": "Polearm",
-          "HP": "2522",
-          "ATK": "71",
-          "DEF": "163"
+          "Skill": "Purifying CrownAfter an Elemental Skill or Elemental Burst is used, ATK is increased by 24% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 40% more Lunar-Charged DMG."
         },
-        "entityKind": "character",
+        "entityKind": "weapon",
+        "rarity": 5
+      },
+      {
+        "name": "Bloodsoaked Ruins",
+        "icon": "https://img.game8.co/4292635/7964faaea6d24f430b5b50e3024a0ca0.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/546785",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "48",
+          "Rarity": "★★★★★",
+          "Skill": "Mournful TributeFor 3.5s after using an Elemental Burst, the equipping character's Lunar-Charged DMG dealt to opponents is increased by 36%. Additionally, after triggering a Lunar-Charged reaction, the equipping character will gain Requiem of Ruin: CRIT DMG is increased by 28% for 6s. They will also regain 12 Elemental Energy. Elemental Energy can be restored this way once every 14s."
+        },
+        "entityKind": "weapon",
         "rarity": 5
       }
     ],
     "rateUp4Star": [
       {
-        "name": "Aino",
-        "icon": "https://img.game8.co/4271080/dadd8837cc518b38eb110eafd6c78bb2.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/537903",
+        "name": "The Flute",
+        "icon": "https://img.game8.co/3314484/da0eb7a3ce075d51f970fda9644d6271.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301924",
         "details": {
+          "Type": "Sword",
+          "Base ATK": "42",
           "Rarity": "★★★★",
-          "Element": "Hydro",
-          "Weapon": "Claymore",
-          "HP": "2413",
-          "ATK": "52",
-          "DEF": "131",
-          "Faction": "Clink-Clank Krumkake Craftshop"
+          "Skill": "ChordNormal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 100% ATK DMG to surrounding enemies. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
         },
-        "entityKind": "character",
+        "entityKind": "weapon",
         "rarity": 4
       },
       {
-        "name": "Lan Yan",
-        "icon": "https://img.game8.co/4085060/13b6c8885432b5ae7e46d52e0551b031.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/486709",
+        "name": "Favonius Greatsword",
+        "icon": "https://img.game8.co/3314476/0a40ecf6456acb15bd8ab7203f982a30.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301934",
         "details": {
+          "Type": "Claymore",
+          "Base ATK": "41",
           "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Catalyst",
-          "HP": "1991",
-          "ATK": "54",
-          "DEF": "125",
-          "Faction": "Chenyu Vale Artisans Association"
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
         },
-        "entityKind": "character",
+        "entityKind": "weapon",
         "rarity": 4
       },
       {
-        "name": "Iansan",
-        "icon": "https://img.game8.co/4138520/0ed35caf60d92e1c2778e42dd36fee45.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/345881",
+        "name": "Favonius Lance",
+        "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301951",
         "details": {
+          "Type": "Polearm",
+          "Base ATK": "44",
           "Rarity": "★★★★",
-          "Element": "Electro",
-          "Weapon": "Polearm",
-          "HP": "2296",
-          "ATK": "55",
-          "DEF": "137",
-          "Faction": "Collective of Plenty"
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
         },
-        "entityKind": "character",
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "icon": "https://img.game8.co/3314493/5346c2b9acc3860b631262eae454a9b9.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301942",
+        "details": {
+          "Type": "Catalyst",
+          "Base ATK": "41",
+          "Rarity": "★★★★",
+          "Skill": "EchoNormal and Charged Attacks have a 50% chance to fire a bolt of Perception, dealing 240% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 12s."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "icon": "https://img.game8.co/3314487/79dd9495f5329d39595706ccc31cd8f6.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301960",
+        "details": {
+          "Type": "Bow",
+          "Base ATK": "42",
+          "Rarity": "★★★★",
+          "Skill": "Arrowless SongIncreases Elemental Skill and Elemental Burst DMG by 24%"
+        },
+        "entityKind": "weapon",
         "rarity": 4
       }
     ],
-    "startTime": 1788213600,
-    "endTime": 1790114399
+    "startTime": 1788220800,
+    "endTime": 1790035200
   }
 ]
