@@ -98,12 +98,12 @@
       {
         "itemName": "Astrite",
         "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 280
+        "totalQuantity": 340
       },
       {
         "itemName": "Shell Credit",
         "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-        "totalQuantity": 200000
+        "totalQuantity": 240000
       },
       {
         "itemName": "Premium Resonance Potion",
@@ -118,7 +118,7 @@
       {
         "itemName": "Premium Sealed Tube",
         "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-        "totalQuantity": 5
+        "totalQuantity": 10
       }
     ],
     "startTime": null,

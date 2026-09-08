@@ -1,5 +1,155 @@
 [
   {
+    "name": "Surfing All Channels!",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+    "image": "",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Linko",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Haniel",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Aurelia",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Skia",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "startTime": null,
+    "endTime": 1790719140,
+    "displayStartTime": 1788912000,
+    "sourceType": "official"
+  },
+  {
+    "name": "Soundscape Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+    "image": "",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Voice of the Voyager",
+        "icon": "",
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": null,
+    "endTime": 1790719140,
+    "displayStartTime": 1788912000,
+    "sourceType": "official"
+  },
+  {
+    "name": "Misty Tipsy Style",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+    "image": "",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Rerun: Hotori",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Hotori",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Haniel",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Aurelia",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Skia",
+        "icon": "",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "startTime": null,
+    "endTime": 1790719140,
+    "displayStartTime": 1788912000,
+    "sourceType": "official"
+  },
+  {
+    "name": "Bright Moon Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+    "image": "",
+    "status": "upcoming",
+    "rateUp5Star": [
+      {
+        "name": "Rerun: Marching Beyond Time",
+        "icon": "",
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      },
+      {
+        "name": "Marching Beyond Time",
+        "icon": "",
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": null,
+    "endTime": 1790719140,
+    "displayStartTime": 1788912000,
+    "sourceType": "official"
+  },
+  {
     "name": "Alluring Shadows",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
     "image": "https://img.game8.co/4593573/5be313a8219c3e9d3df67e10b210d5a2.png/show",
