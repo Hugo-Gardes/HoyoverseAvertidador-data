@@ -18,6 +18,24 @@
     "displayEndTime": 1788912000
   },
   {
+    "name": "Bountiful Crescendo",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
+    "dateText": "September 3, 2026 - September 10, 2026",
+    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Double Leveling Material Drops",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788393600,
+    "displayEndTime": 1788998400
+  },
+  {
     "name": "Ascendant Aces",
     "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
     "dateText": "August 20, 2026 - September 10, 2026",
@@ -216,24 +234,6 @@
     "endTime": null,
     "displayStartTime": 1787184000,
     "displayEndTime": 1790640000
-  },
-  {
-    "name": "Bountiful Crescendo",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
-    "dateText": "September 3, 2026 - September 10, 2026",
-    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Double Leveling Material Drops",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1788393600,
-    "displayEndTime": 1788998400
   },
   {
     "name": "If Dreams Still Reverberate",
