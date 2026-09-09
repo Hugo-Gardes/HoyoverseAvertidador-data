@@ -8,28 +8,33 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 80,
+        "totalQuantity": 240,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
         "itemName": "Muster of the Pale Star Army",
-        "totalQuantity": 2,
+        "totalQuantity": 4,
         "icon": "https://img.game8.co/4586649/88a115215de13014eb7a3a8161f419c1.png/show"
       },
       {
         "itemName": "Intoxication of the Cellared Spiritual Nectar",
-        "totalQuantity": 2,
+        "totalQuantity": 4,
         "icon": "https://img.game8.co/4586655/2416a9097637dc73f15617baa2a03421.png/show"
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 30000,
+        "totalQuantity": 90000,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
         "itemName": "Mystic Enhancement Ore",
-        "totalQuantity": 6,
+        "totalQuantity": 18,
         "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+      },
+      {
+        "itemName": "The Frost Emperor's Ceremony",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/4586662/9fe5ddbb2e54a42002330ed4ebc4fb97.png/show"
       }
     ],
     "startTime": null,
