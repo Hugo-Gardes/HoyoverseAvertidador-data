@@ -23,42 +23,50 @@
       },
       {
         "itemName": "Relic Remains",
-        "totalQuantity": null,
+        "totalQuantity": 200,
         "icon": "https://img.game8.co/3656583/4074f66380187a332882b5cff6e5dd74.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Traveler's Guide",
-        "totalQuantity": null,
+        "totalQuantity": 12,
         "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Refined Aether",
-        "totalQuantity": null,
+        "totalQuantity": 12,
         "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Lost Gold Fragment",
-        "totalQuantity": null,
+        "totalQuantity": 32,
         "icon": "https://img.game8.co/3656203/6d83ee11808bd12cb8e194c4a033a6ee.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
         }
       },
       {
         "itemName": "Credit",
-        "totalQuantity": null,
+        "totalQuantity": 40000,
         "icon": "https://img.game8.co/3714201/5035667c4a87fab2ad217ace2dd1c071.png/show",
         "details": {
-          "quantityKnown": false
+          "quantityKnown": true
+        }
+      },
+      {
+        "itemName": "Honkai The Nameless EXP",
+        "totalQuantity": 1400,
+        "icon": "https://img.game8.co/3707909/c500ee876aa014616cb0b4abcd3fdac2.png/show",
+        "details": {
+          "quantityKnown": true
         }
       }
     ],
