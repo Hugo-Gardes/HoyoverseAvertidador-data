@@ -1,42 +1,41 @@
 [
   {
-    "name": "Robin - Summeretto Banner",
-    "link": "https://game8.co/games/Honkai-Star-Rail/archives/607259",
-    "image": "https://img.game8.co/4590732/f1d6f375cd8e919b5a2d9f4212990c66.png/show",
-    "status": "history",
+    "name": "Aventurine - Waveflair Banner",
+    "link": "https://game8.co/games/Honkai-Star-Rail/archives/607269",
+    "image": "https://img.game8.co/4590731/434fa36337c99da10c44aee7aa10a864.png/show",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "Robin • Summeretto",
-        "icon": "https://img.game8.co/4545735/072aef95b6c00cda6a69104583a940ab.png/show",
+        "name": "Aventurine • Waveflair",
+        "icon": "https://img.game8.co/4545774/07fa8965e398b5d5f461c594f8c5e112.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/607261",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/607267",
         "details": {
           "Rarity": "5-star",
-          "Element": "Wind",
-          "Path": "Remembrance",
-          "HP (14th)": "163",
-          "ATK (13th)": "81",
-          "DEF (15th)": "66",
-          "HP": "6000 or above",
-          "Skill": "★★☆☆☆ - Low PriorityUpgrading Robin - Summeretto's Skill isn't necessary since it only increases the healing it provides for the Summer Songbirds."
+          "Element": "Quantum",
+          "Path": "Elation",
+          "HP (16th)": "158",
+          "ATK (24th)": "66",
+          "DEF (7th)": "82",
+          "Skill": "★★★☆☆ - Medium PriorityUpgrading Aventurine - Waveflair's Skill increases the damage it deals."
         },
         "entityKind": "character",
         "rarity": 5
       },
       {
-        "name": "Hyacine",
-        "icon": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show",
+        "name": "Ashveil",
+        "icon": "https://img.game8.co/4408797/553d6e9892db8a130aceb671075acc07.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/486300",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/574746",
         "details": {
           "Rarity": "5-star",
-          "Element": "Wind",
-          "Path": "Remembrance",
-          "HP (18th)": "147",
-          "ATK (28th)": "52",
-          "DEF (6th)": "85",
-          "HP": "4500+ outside combat",
-          "Skill": "★★★★★ - Highest PriorityHyacine's Skill is where most of her healing comes from, so max this one out."
+          "Element": "Lightning",
+          "Path": "Hunt",
+          "HP (29th)": "116",
+          "ATK (1st)": "105",
+          "DEF (24th)": "52",
+          "ATK": "3000 or more",
+          "Skill": "★★★★☆ - High PriorityUpgrade Ashveil's Skill to increase the DEF reduction for enemies, as well as the damage it deals."
         },
         "entityKind": "character",
         "rarity": 5
@@ -44,93 +43,94 @@
     ],
     "rateUp4Star": [
       {
-        "name": "Dan Heng",
-        "icon": "https://img.game8.co/3899468/85afc52c45735db3262189e165d24232.png/show",
+        "name": "Sampo",
+        "icon": "https://img.game8.co/3899425/2767c523379d81210dfbe4a02199bad6.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405749",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405761",
         "details": {
           "Rarity": "4-star",
           "Element": "Wind",
-          "Path": "Hunt",
-          "HP (28th)": "120",
-          "ATK (18th)": "74",
-          "DEF (23rd)": "54",
-          "ATK": "2400 or above",
-          "Skill": "★★★★★ - Highest PriorityDan Heng's secondary source of damage for when his Ultimate is not up.",
-          "Faction": "Astral Express"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      },
-      {
-        "name": "Qingque",
-        "icon": "https://img.game8.co/3899437/48e666d9c04a350f0195f74b7fd59aac.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405759",
-        "details": {
-          "Rarity": "4-star",
-          "Element": "Quantum",
-          "Path": "Erudition",
+          "Path": "Nihility",
           "HP (21st)": "139",
-          "ATK (8th)": "88",
-          "DEF (18th)": "60",
-          "ATK": "2500 or above",
-          "Skill": "★★★★☆ - High PriorityIncreases her DMG buff which can stack up to four times.",
-          "Faction": "The Xianzhou Luofu"
+          "ATK (12th)": "84",
+          "DEF (23rd)": "54",
+          "ATK": "2600 or above",
+          "Skill": "★★★★☆ - High PriorityGreat for Weakness Break and deals good damage.",
+          "Faction": "Belobog"
         },
         "entityKind": "character",
         "rarity": 4
       },
       {
-        "name": "Gallagher",
-        "icon": "https://img.game8.co/3826180/39fbc415ce51174f6da010ff8a758d91.png/show",
+        "name": "Hook",
+        "icon": "https://img.game8.co/3899450/82fbe1931bef5a5bdad2079f1486a86f.png/show",
         "type": "character",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/437255",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/405741",
         "details": {
           "Rarity": "4-star",
           "Element": "Fire",
-          "Path": "Abundance",
-          "HP (10th)": "177",
-          "ATK (20th)": "72",
+          "Path": "Destruction",
+          "HP (8th)": "182",
+          "ATK (12th)": "84",
+          "DEF (27th)": "48",
+          "ATK": "2300 - 2700+",
+          "Skill": "★★★★★ - Highest PriorityMain source of her Single Target Fire Damage.",
+          "Faction": "Belobog"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Guinaifen",
+        "icon": "https://img.game8.co/3751182/50ea4b4dbb0a0866109e15e1342cb536.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/421890",
+        "details": {
+          "Rarity": "4-star",
+          "Element": "Fire",
+          "Path": "Nihility",
+          "HP (28th)": "120",
+          "ATK (15th)": "79",
           "DEF (18th)": "60",
-          "Skill": "★★★★☆ - High PriorityGallagher's Skill increases his manual healing.",
-          "Faction": "Penacony"
+          "ATK": "2400/3600 or above",
+          "Skill": "★★★★★ - Highest PriorityUpgrading Guinaifen's Skill increases the Burn DoT, Guinaifen's main source of DMG.",
+          "Faction": "The Xianzhou Luofu"
         },
         "entityKind": "character",
         "rarity": 4
       }
     ],
-    "startTime": 1787608800,
-    "endTime": 1789164000
+    "startTime": 1789164000,
+    "endTime": 1790460000
   },
   {
-    "name": "Rise and Sing Banner",
+    "name": "Summer Rides the Surf Banner",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/408767",
-    "image": "https://img.game8.co/4590789/954fde2de744ec69e877632cc258deae.png/show",
-    "status": "history",
+    "image": "https://img.game8.co/4590790/46bb3b315764056b142dfaf7a3ff181a.png/show",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "Rise and Sing",
-        "icon": "https://img.game8.co/4590783/1606b7dcc53fa05655c57f2769a7e09d.png/show",
+        "name": "Summer Rides the Surf",
+        "icon": "https://img.game8.co/4590784/c3bb6784b3972222e3a0b2ba9a002de8.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615721",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615720",
         "details": {
           "Rarity": "★★★★★",
-          "Path": "The Remembrance",
+          "Path": "The Elation",
           "Max ATK": "582"
         },
         "entityKind": "light_cone",
         "rarity": 5
       },
       {
-        "name": "Long May Rainbows Adorn the Sky",
-        "icon": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show",
+        "name": "The Finale of a Lie",
+        "icon": "https://img.game8.co/4440899/fb8d4a2d80b9fdb1735ddb8bd3640c2c.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/521509",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/586423",
         "details": {
           "Rarity": "★★★★★",
-          "Path": "The Remembrance",
-          "Max ATK": "476"
+          "Path": "The Hunt",
+          "Max ATK": "635"
         },
         "entityKind": "light_cone",
         "rarity": 5
@@ -138,10 +138,23 @@
     ],
     "rateUp4Star": [
       {
-        "name": "Dream's Montage",
-        "icon": "https://img.game8.co/4015240/79b3f4e22c48946d47b803bd9bd18271.png/show",
+        "name": "Only Silence Remains",
+        "icon": "https://img.game8.co/3647942/55d44521f074678074fd6eac71558209.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/448342",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/408560",
+        "details": {
+          "Rarity": "★★★★",
+          "Path": "The Hunt",
+          "Max ATK": "476"
+        },
+        "entityKind": "light_cone",
+        "rarity": 4
+      },
+      {
+        "name": "Perfect Timing",
+        "icon": "https://img.game8.co/3680514/244a25c7774d472946cd2fd13c3a6cb0.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/410447",
         "details": {
           "Rarity": "★★★★",
           "Path": "The Abundance",
@@ -151,34 +164,21 @@
         "rarity": 4
       },
       {
-        "name": "Geniuses' Greetings",
-        "icon": "https://img.game8.co/4075014/188c36ca2be293949a58e622f1cf75d9.png/show",
+        "name": "The Story's Next Page",
+        "icon": "https://img.game8.co/4201284/f7cc997a6400ccf9855ffe68c6110c48.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/492458",
+        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/530843",
         "details": {
           "Rarity": "★★★★",
           "Path": "The Remembrance",
-          "Max ATK": "476"
-        },
-        "entityKind": "light_cone",
-        "rarity": 4
-      },
-      {
-        "name": "A Little Getaway",
-        "icon": "https://img.game8.co/4590785/b08d60e465f30fb8f173d109c7bbc472.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Honkai-Star-Rail/archives/615724",
-        "details": {
-          "Rarity": "★★★★",
-          "Path": "The Elation",
-          "Max ATK": "423"
+          "Max ATK": "370"
         },
         "entityKind": "light_cone",
         "rarity": 4
       }
     ],
-    "startTime": 1787608800,
-    "endTime": 1789164000
+    "startTime": 1789164000,
+    "endTime": 1790460000
   },
   {
     "name": "Rin Tohsaka Banner",
