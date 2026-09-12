@@ -1,87 +1,8 @@
 [
   {
-    "name": "Way to Sword Transcendent",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/617622",
-    "dateText": "August 26, 2026 - September 9, 2026",
-    "imageUrl": "https://img.game8.co/4604893/b99daa0def8712bab90e35172b60888d.png/show",
-    "status": "past",
-    "rewards": [
-      {
-        "itemName": "Post Your Results to Enter a Raffle",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1787702400,
-    "displayEndTime": 1788912000
-  },
-  {
-    "name": "Bountiful Crescendo",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
-    "dateText": "September 3, 2026 - September 10, 2026",
-    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Double Leveling Material Drops",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1788393600,
-    "displayEndTime": 1788998400
-  },
-  {
-    "name": "Ascendant Aces",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
-    "dateText": "August 20, 2026 - September 10, 2026",
-    "imageUrl": "https://img.game8.co/4594425/f8bd7ceb7baf206174a08efcb9d87578.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Astrite",
-        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 20
-      },
-      {
-        "itemName": "Advanced Resonance Potion",
-        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
-        "totalQuantity": 2
-      },
-      {
-        "itemName": "Advanced Energy Core",
-        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
-        "totalQuantity": 2
-      },
-      {
-        "itemName": "Medium Energy Core",
-        "icon": "https://img.game8.co/4312567/3ee0fe919beece030794e36ca436a8f0.png/show",
-        "totalQuantity": 2
-      },
-      {
-        "itemName": "Medium Resonance Potion",
-        "icon": "https://img.game8.co/4312582/999fb5fe486d20bea53575551aebdb83.png/show",
-        "totalQuantity": 2
-      },
-      {
-        "itemName": "Shell Credit",
-        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-        "totalQuantity": 10000
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1787184000,
-    "displayEndTime": 1788998400
-  },
-  {
     "name": "Second Coming of Solaris: Coded Deception",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614757",
-    "dateText": "August 27, 2026 - September 14, 2026",
+    "dateText": "August 27, 2026 - September 14, 2026 Reach Union Level 14",
     "imageUrl": "https://img.game8.co/4581499/5b74c89c9e3f5d486e4ed3c76dc052ff.png/show",
     "status": "ongoing",
     "rewards": [
@@ -109,7 +30,7 @@
   {
     "name": "The Strings Remember",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614773",
-    "dateText": "September 3, 2026 - September 21, 2026",
+    "dateText": "September 3, 2026 - September 21, 2026 Reach Union Level 14 and Activate the Four Chime Shaftpost During the Main Quest Chapter IV Act I",
     "imageUrl": "https://img.game8.co/4581501/c06381ba427f3a143cbb69d0bfa9ebee.png/show",
     "status": "ongoing",
     "rewards": [
@@ -145,9 +66,120 @@
     "displayEndTime": 1789948800
   },
   {
+    "name": "Ascendant Aces",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/456482",
+    "dateText": "September 10, 2026 - September 29, 2026 Unlocked by default",
+    "imageUrl": "https://img.game8.co/4614446/cdcb3527a24117c8addb1f5c3d9e6495.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 20
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Medium Energy Core",
+        "icon": "https://img.game8.co/4312567/3ee0fe919beece030794e36ca436a8f0.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Medium Resonance Potion",
+        "icon": "https://img.game8.co/4312582/999fb5fe486d20bea53575551aebdb83.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 10000
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788998400,
+    "displayEndTime": 1790640000
+  },
+  {
+    "name": "If Dreams Still Reverberate",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/614765",
+    "dateText": "September 10, 2026 - September 29, 2026 Reach Union Level 22 and Activate the Four Chime Shaftpost During the Main Quest Chapter IV Act I",
+    "imageUrl": "https://img.game8.co/4581502/4dccd8a26495219600c3e0b1a7d92327.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 600
+      },
+      {
+        "itemName": "Premium Resonance Potion",
+        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 340000
+      },
+      {
+        "itemName": "Premium Energy Core",
+        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Premium Sealed Tube",
+        "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+        "totalQuantity": 8
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 100
+      },
+      {
+        "itemName": "Forgery Advanced Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+        "totalQuantity": 25
+      },
+      {
+        "itemName": "Advanced Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557920/3242c6321565baf1c7ad9a2a24754443.png/show",
+        "totalQuantity": 40
+      },
+      {
+        "itemName": "Forgery Premium Supply - Lahai-Roi",
+        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
+        "totalQuantity": 6
+      },
+      {
+        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
+        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
+        "totalQuantity": 12
+      },
+      {
+        "itemName": "Morphable Elite Class Echo",
+        "icon": "https://img.game8.co/4312600/f654ef4070051d38afcc27355df0f264.png/show",
+        "totalQuantity": 5
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788998400,
+    "displayEndTime": 1790640000
+  },
+  {
     "name": "Resonance Sim Realm",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614775",
-    "dateText": "August 22, 2026 - September 29, 2026",
+    "dateText": "August 22, 2026 - September 29, 2026 Reach Union Level 14",
     "imageUrl": "https://img.game8.co/4581498/d278407594d92161347c0df03d317b0d.png/show",
     "status": "ongoing",
     "rewards": [
@@ -215,7 +247,7 @@
   {
     "name": "Gifts of Drifting Mist",
     "link": "https://game8.co/games/Wuthering-Waves/archives/614684",
-    "dateText": "August 20, 2026 - September 29, 2026",
+    "dateText": "August 20, 2026 - September 29, 2026 Reach Union Level 8",
     "imageUrl": "https://img.game8.co/4581497/1136c715bb89f440c35544f4968a3e58.png/show",
     "status": "ongoing",
     "rewards": [
@@ -236,27 +268,9 @@
     "displayEndTime": 1790640000
   },
   {
-    "name": "If Dreams Still Reverberate",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614765",
-    "dateText": "September 10, 2026 - September 29, 2026",
-    "imageUrl": "https://img.game8.co/4581502/4dccd8a26495219600c3e0b1a7d92327.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Astrites and Materials",
-        "icon": "",
-        "totalQuantity": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1788998400,
-    "displayEndTime": 1790640000
-  },
-  {
     "name": "3.6 Wuthering Exploration",
     "link": "https://game8.co/games/Wuthering-Waves/archives/457210",
-    "dateText": "September 17, 2026 - September 29, 2026",
+    "dateText": "September 17, 2026 - September 29, 2026 Fulfill daily tasks to complete milestones and earn various rewards!",
     "imageUrl": "https://img.game8.co/4581500/51a74acd26c03e9814eb2e9dcfcd0ff1.png/show",
     "status": "upcoming",
     "rewards": [
@@ -274,7 +288,7 @@
   {
     "name": "Chord Cleansing",
     "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
-    "dateText": "September 22, 2026 - September 29, 2026",
+    "dateText": "September 22, 2026 - September 29, 2026 Earn double echo and echo leveling material drops during this event!",
     "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
     "status": "upcoming",
     "rewards": [

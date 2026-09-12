@@ -6,12 +6,12 @@
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Unbroken Echo title",
+        "itemName": "Unbroken Echo",
         "totalQuantity": null,
-        "icon": ""
+        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/treasure.webp"
       },
       {
-        "itemName": "along with Annulith",
+        "itemName": "Annulith",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
       },
@@ -70,14 +70,9 @@
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/weaponexp-lv3-256x256.webp"
-      },
-      {
-        "itemName": "*After the event ends",
-        "totalQuantity": null,
-        "icon": ""
       }
     ],
-    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/46en.jpg",
+    "imageUrl": "https://img.game8.co/4613914/315e3cef5489162625f4378d10fdf585.png/show",
     "startTime": 1789610400,
     "endTime": 1790719140,
     "scheduleSourceName": "Perfect World",
@@ -90,23 +85,7 @@
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
     "dateText": "September 14, 05:00 – September 21, 04:59 (server time)",
     "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "double the rewards",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Each day",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "up to a total cap of 840 Character Pixels for the whole event",
-        "totalQuantity": null,
-        "icon": ""
-      }
-    ],
+    "rewards": [],
     "imageUrl": "https://img.game8.co/4524807/394d53bc786ff856fe4f3a352a15203f.png/show",
     "startTime": null,
     "endTime": null,
@@ -155,22 +134,22 @@
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-carcard25.webp"
       },
       {
-        "itemName": "Nanally's limited outfit Sunny Surf",
+        "itemName": "Sunny Surf",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-010-5-256.webp"
       },
       {
-        "itemName": "Mint's limited outfit Saltwater Taffy",
+        "itemName": "Saltwater Taffy",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-019-6-256.webp"
       },
       {
-        "itemName": "Esper Zero's limited outfit Cloudless Summer",
+        "itemName": "Cloudless Summer",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-009-11-256.webp"
       },
       {
-        "itemName": "limited avatar frame Endless Summer",
+        "itemName": "Endless Summer",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-manghe-summer-01-256.webp"
       },
@@ -323,7 +302,7 @@
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Hunter's Crucible - Steel Tempered event title",
+        "itemName": "Hunter's Crucible - Steel Tempered",
         "totalQuantity": null,
         "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-yh-title-zfsy-fk01-icon.webp"
       },

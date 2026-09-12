@@ -30,7 +30,7 @@
         }
       },
       {
-        "itemName": "Traveler",
+        "itemName": "Traveler's Guide",
         "totalQuantity": 34,
         "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
         "details": {
@@ -126,8 +126,8 @@
   {
     "name": "Miniscule Great Adventure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/615729",
-    "dateText": "09/12/2026 - 09/28/2026",
-    "status": "upcoming",
+    "dateText": "Start: 09/12/2026 - 09/28/2026 Assemble the best teams to go on assignment missions and earn rewards based on how well they do!",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Tracks of Destiny",
@@ -154,7 +154,7 @@
         }
       },
       {
-        "itemName": "Traveler",
+        "itemName": "Traveler's Guide",
         "totalQuantity": null,
         "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
         "details": {
@@ -195,7 +195,7 @@
   {
     "name": "4.5 Planar Fissure",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/413440",
-    "dateText": "09/07/2026 - 09/21/2026",
+    "dateText": "Start: 09/07/2026 - 09/21/2026 Get double the planar ornaments when challenging Worlds in the Simulated Universe!",
     "status": "ongoing",
     "rewards": [
       {
@@ -451,7 +451,7 @@
         }
       },
       {
-        "itemName": "Bone Collection",
+        "itemName": "Bone Collection's Serene Demesne",
         "totalQuantity": null,
         "icon": "https://img.game8.co/4109334/6090bfc83ae544739f385671f520d48d.png/show",
         "details": {
@@ -664,7 +664,7 @@
   {
     "name": "4.5 Realm of the Strange",
     "link": "https://game8.co/games/Honkai-Star-Rail/archives/417674",
-    "dateText": "09/19/2026 - 09/28/2026",
+    "dateText": "Start: 09/19/2026 - 09/28/2026 Get double the relics when challenging Caverns of Corrosion!",
     "status": "upcoming",
     "rewards": [
       {
@@ -836,7 +836,7 @@
         }
       },
       {
-        "itemName": "Sacerdos",
+        "itemName": "Sacerdos' Relived Ordeal",
         "totalQuantity": null,
         "icon": "https://img.game8.co/4015302/2dd33774607aa01aa5d6b6dc7d327425.png/show",
         "details": {

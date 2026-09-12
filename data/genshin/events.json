@@ -8,7 +8,7 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 240,
+        "totalQuantity": 400,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
@@ -23,18 +23,28 @@
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 90000,
+        "totalQuantity": 150000,
         "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
         "itemName": "Mystic Enhancement Ore",
-        "totalQuantity": 18,
+        "totalQuantity": 30,
         "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
       },
       {
         "itemName": "The Frost Emperor's Ceremony",
         "totalQuantity": 4,
         "icon": "https://img.game8.co/4586662/9fe5ddbb2e54a42002330ed4ebc4fb97.png/show"
+      },
+      {
+        "itemName": "Adventurer's Experience",
+        "totalQuantity": 8,
+        "icon": "https://img.game8.co/3316461/5d35ffc19710c83e0174f7dce153130e.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": 4,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
       }
     ],
     "startTime": null,

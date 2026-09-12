@@ -207,28 +207,28 @@
       "name": "Deadly Assault",
       "nameFr": "Assaut mortel",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
-      "version": "3.1",
-      "phaseName": "2026-08-28",
+      "version": "3.2",
+      "phaseName": "2026-09-11",
       "selectableBuffs": [
         {
-          "name": "Icy Raid",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
-          "description": "DMG dealt by Agents' Basic Attack and Ultimate increases by 30%. When an Agent with Attack specialty hits an enemy, their attacks ignore 20% of the target's Ice RES. · After an Agent uses an EX Special Attack, their own Ice DMG increases by 30% for 15s. Repeated triggers reset the duration."
+          "name": "Sharp Rupture",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Icon_Deadly_Assault_Buff_%28ThemeSpace%29.png/revision/latest/scale-to-width-down/45?cb=20251114180209",
+          "description": "Agent PEN Ratio increases by 5%. When an attack hits an enemy, it ignores 15% of the target's Electric RES. · After an Agent uses an EX Special Attack or Special Attack, Sharp DMG increases by 20% and DEF increases by 10% for 20s. Repeated triggers reset the duration."
         },
         {
-          "name": "Mutation II",
+          "name": "Cinders of Corrosion",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Icon_Deadly_Assault_Buff_%28Element%29.png/revision/latest/scale-to-width-down/45?cb=20250130111815",
-          "description": "If there are 2/3 Agents with Anomaly specialty in your squad, the whole squad's Attribute Anomaly DMG increases by 10%/30%, and their ATK increases by 5%/15% respectively. · When dealing Attribute Anomaly DMG to an enemy, ignore 10% of their All-Attribute RES and 10% of their DEF."
+          "description": "If there are 2/3 Agents in the squad with the Anomaly specialty, the whole squad's Anomaly Proficiency increases by 20/60 respectively, and Anomaly Buildup Rate increases by 10%/20% respectively. · After an Agent inflicts an Attribute Anomaly on an enemy, the enemy's DEF is reduced by 10% for 10s. Repeated triggers reset the duration."
         },
         {
-          "name": "Heartcrusher",
+          "name": "Gleaming Frost",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
-          "description": "Agent CRIT DMG increases by 30%. · ATK of Agents with Attack specialty increases by 10%. Their Basic Attack DMG increases by 30% and ignore 15% of enemy DEF."
+          "description": "Agents with the Attack specialty deal 20% more Ice DMG. · Agent CRIT DMG increases by 30%. When attacking a Stunned enemy, the enemy's Stun DMG Multiplier additionally increases by 20% for 20s. Repeated triggers reset the duration."
         }
       ],
       "sharedMechanics": [],
-      "startTime": 1787860800,
-      "endTime": 1789070399,
+      "startTime": 1789092000,
+      "endTime": 1790279999,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -269,19 +269,23 @@
       ],
       "bosses": [
         {
-          "name": "Dead End Butcher",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/56/Enemy_Dead_End_Butcher.png/revision/latest/scale-to-width-down/185?cb=20240725155137",
+          "name": "Kusarikku",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d2/Enemy_Kusarikku.png/revision/latest/scale-to-width-down/185?cb=20260909034235",
           "stage": "Trial Mode: First Challenge",
           "level": "70",
           "weaknesses": [
-            "Ice",
-            "Ether"
+            "Fire",
+            "Electric"
           ],
-          "resistances": [],
+          "resistances": [
+            "Ice"
+          ],
           "isBonus": false,
           "mechanics": [
-            "When not in a Stunned state, Boss enemies gain 1 stack of All or Nothing every 6s, stacking up to 3 stacks. Each stack of All or Nothing increases the DMG dealt by the Boss enemy by 10%. When an Agent's attack hits an enemy, for each stack of All or Nothing the target has, CRIT DMG from the Agent's attacks increases by 25% and Attribute Anomaly DMG decreases by 15%. When an enemy enters a Stunned state, they gain 1 stack of All or Nothing. All or Nothing stacks will be reset when the enemy recovers from being Stunned.",
-            "Successfully triggering Perfect Dodge or Perfect Assist grants 300 Performance Points. A maximum of 5,000 Performance Points can be obtained."
+            "Attribute Anomaly DMG taken by Kusarikku is reduced by 40%.",
+            "When an Agent successfully uses a Defensive Assist against Kusarikku's Rift Assault, applies 1 stack of Exposed to Kusarikku. When Kusarikku becomes Stunned, applies 2 stacks of Exposed. Each stack of Exposed increases the Laceration DMG Kusarikku receives by 10%. Exposed can stack up to 4 times and lasts 30s. Repeated triggers reset the duration.",
+            "After Kusarikku activates Corruptive Barrier, use Defensive Assist to counter Kusarikku's Rift Assault and leave it Impaired to gain 1000 Performance Points; successfully countering a Rift Assault with Defensive Assist grants 700 Performance Points; executing a Shutdown on Kusarikku's Control Skill grants 2000 Performance Points. A maximum of 5000 Performance Points can be obtained.",
+            "Suitable for Agents with Armorer specialty."
           ],
           "objectives": [
             "1 étoile — Reach 6,000 points within the time limit",
@@ -291,18 +295,18 @@
           "waves": []
         },
         {
-          "name": "Girtablullu",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/37/Enemy_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260618093736",
+          "name": "Girtablullu - Stagnant Aberrant",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Enemy_Girtablullu_-_Stagnant_Aberrant.png/revision/latest/scale-to-width-down/185?cb=20260803004623",
           "stage": "Trial Mode: Second Challenge",
           "level": "70",
-          "weaknesses": [
-            "Wind"
-          ],
+          "weaknesses": [],
           "resistances": [],
           "isBonus": false,
           "mechanics": [
-            "Whenever an Agent inflicts an Anomaly on the Boss, they apply 1 stack of Shadow to it. Each stack of Shadow increases the Boss's Anomaly DMG taken by 7.5% and additionally increases its Vortex DMG taken by 5% for 10s. Shadow can stack up to 3 times. The duration of each stack is calculated separately. During Corruptive Barrier, applying Shadow to the Boss additionally reduces the Corruptive Barrier by 20% of its max value and accumulates 15% Daze (cannot be repeatedly triggered within 15s). When the Corruptive Barrier is broken, the Boss immediately gains max stacks of Shadow. When the Boss is Stunned, all Shadow stacks are removed and an equal number of Laceration stacks are applied. Each stack of Laceration reduces the Boss's Anomaly Buildup RES by 5% and increases its Stun DMG Multiplier by 10%. When the Boss's Stunned state ends, all Laceration stacks are removed.",
-            "Each successful parry against Girtablullu's consecutive downward smashes after it activates Corruptive Barrier grants 1,000 Performance Points. Successfully triggering a Chain Parry against the final slam grants an additional 1,000 Performance Points. Successfully breaking the Corruptive Barrier grants 1,500 Performance Points. Maximum obtainable Performance Points: 5,000.",
+            "When an Agent inflicts an Attribute Anomaly on an enemy, the target enemy gains 1 stack of Blight Mark of the corresponding attribute, lasting 30s and stacking up to 2 times. Repeated triggers of same-attribute Blight Mark reset its duration.",
+            "For every stack of Blight Mark inflicted, the enemies take 8% more Attribute Anomaly DMG, and DMG taken by Corruptive Barrier increases by 8%.",
+            "When inflicting Impaired or Shutdown on an enemy, the whole squad's Anomaly Proficiency increases by 60 pts, lasting 30s. Repeated triggers reset the duration.",
+            "Successfully inflicting Impaired grants 1000 Performance Points; successfully countering Control Skill grants 500 Performance Points each time; preventing an enemy's Corruptive Barrier from completing its charge and rendering them Impaired grants 1,500 Performance Points. During the Control Skill, when triggering Shutdown via Counter Assist, obtain the remaining Performance Points available from the current Control Skill. Maximum obtainable Performance Points: 5,000.",
             "Suitable for Agents with Anomaly specialty."
           ],
           "objectives": [
@@ -313,22 +317,23 @@
           "waves": []
         },
         {
-          "name": "Primordial Nightmare - \"The Creator\"",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5b/Enemy_Primordial_Nightmare_-_%22The_Creator%22.png/revision/latest/scale-to-width-down/185?cb=20260101153418",
+          "name": "Ye Shiyuan the Thrall",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Ye_Shiyuan_the_Thrall.png/revision/latest/scale-to-width-down/185?cb=20251126232024",
           "stage": "Trial Mode: Third Challenge",
           "level": "70",
           "weaknesses": [
-            "Physical"
+            "Ice",
+            "Physical",
+            "Wind"
           ],
           "resistances": [
-            "Ice",
-            "Ether"
+            "Electric"
           ],
           "isBonus": false,
           "mechanics": [
-            "Boss Anomaly DMG taken is reduced by 30%. When switching from Miasmic Shield state to normal state, or from normal state to Miasmic Shield state, Agent CRIT DMG against them is increased by 20%. This effect can stack up to 3 times and resets when the boss recovers from Stun.",
-            "Triggering Miasmic Shield Purification grants 1,000 Performance Points. During the Control Skill, each successful counter against the Boss's attacks grants 500 Performance Points. Performing a Shutdown on the Boss's Control Skill grants 2,000 Performance Points. Maximum obtainable Performance Points: 5,000.",
-            "Suitable for Agents with Attack specialty."
+            "When Sobek and The Thrall alternate turns, The Thrall gains 1 stack of Contract and Self-Sacrifice. Contract and Self-Sacrifice can stack up to 3 times. Each stack of Contract increases All-Attribute Anomaly Buildup RES by 15%, each stack of Self-Sacrifice increases The Thrall's Stun DMG Multiplier by 10%. When The Thrall is Stunned, CRIT DMG taken increases by 50%.",
+            "When Agents inflict Weakened on Sobek and The Thrall, 1,500 Performance Points will be awarded. When an Agent eliminates Sobek, 2,000 Performance Points will be awarded. Up to a maximum of 5,000 Performance Points can be earned.",
+            "Suitable for Agents with Stun specialty."
           ],
           "objectives": [
             "1 étoile — Reach 6,000 points within the time limit",
@@ -338,20 +343,21 @@
           "waves": []
         },
         {
-          "name": "Rewritten - Sanguine Sweeper",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2c/Enemy_Rewritten_-_Sanguine_Sweeper.png/revision/latest/scale-to-width-down/185?cb=20260506205432",
+          "name": "Integrated - Scorched Horizon",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/77/Enemy_Phaethon_of_the_Scorched_Horizon.png/revision/latest/scale-to-width-down/185?cb=20260506204905",
           "stage": "Adversity Mode",
           "level": "70",
           "weaknesses": [
-            "Ice"
+            "Electric"
           ],
           "resistances": [
             "Physical"
           ],
           "isBonus": true,
           "mechanics": [
-            "When an Agent lands Shutdown on an enemy, the enemy's All-Attribute RES decreases by 10%, Agents with Attack specialty gain 20% bonus ATK, 25% bonus PEN Ratio, and their Ice and Ether CRIT DMG increases by 60%. Upon triggering a special stagger, the whole squad's Anomaly Proficiency increases by 40 pts and their Anomaly DMG increases by 30%.",
-            "Each successful counter and subsequent trigger of a special stagger against the Boss's attacks grants 1,000 Performance Points. During the Control Skill, each successful counter against the Boss's attacks grants 500 Performance Points. Performing a Shutdown on the Boss's Control Skill grants 1,500 Performance Points. Maximum obtainable Performance Points: 5,000."
+            "When Integrated - Scorched Horizon is Impaired or Shutdown, the whole squad's Sharp DMG increases by 40% for 60s. Repeated triggers reset the duration.",
+            "When an Agent's attack hits an enemy that is not Stunned, Daze dealt increases by 15%. While Integrated - Scorched Horizon is Stunned, the Stun DMG Multiplier increases by 20%.",
+            "When Integrated - Scorched Horizon is in Misty Veil state, using Defensive Assist to counter Integrated - Scorched Horizon's attack and impair it grants 1500 Performance Points; landing a Shutdown on Integrated - Scorched Horizon's Control Skill grants 2000 Performance Points. A maximum of 5000 Performance Points can be obtained."
           ],
           "objectives": [
             "1 étoile — Reach 10,000 points within the time limit",

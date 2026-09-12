@@ -1,45 +1,56 @@
 [
   {
-    "name": "Angels Support Operation",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
-    "dateText": "09/09/2026 - 11/30/2026",
-    "imageUrl": "https://img.game8.co/4605411/320bd7c5c6ebe33f4f6c2c98290c5d4c.png/show",
+    "name": "All-New Program",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+    "dateText": "After the Version 3.2 update – 2026/10/20 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605414/5c78fb2585fddc1c9a69b4fd33d3516f.png/show",
     "status": "ongoing",
-    "rewards": [],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1788912000,
-    "displayEndTime": 1795996800
-  },
-  {
-    "name": "Surprise Screening Plan",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
-    "dateText": "09/23/2026 - 10/20/2026",
-    "imageUrl": "https://img.game8.co/4605412/519e0434280ee60910aefc11304a6902.png/show",
-    "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Avatar",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/3943401/470d98ccc8602ea2782918b6fa393387.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Skin",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4080127/8bea03746455be1d3298f25b978bc6a6.png/show",
+        "itemName": "Encrypted Master Tape",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
         "details": null
       }
     ],
-    "startTime": null,
+    "startTime": 1788904800,
     "endTime": null,
-    "displayStartTime": 1790121600,
-    "displayEndTime": 1792454400
+    "displayStartTime": 1788912000,
+    "displayEndTime": 1792454400,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "Angels Support Operation",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
+    "dateText": "After the Version 3.2 update – 2026/11/30 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605411/320bd7c5c6ebe33f4f6c2c98290c5d4c.png/show",
+    "status": "ongoing",
+    "rewards": [],
+    "startTime": 1788904800,
+    "endTime": null,
+    "displayStartTime": 1788912000,
+    "displayEndTime": 1795996800,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "Potential Hypothesis: Reforged in Fire",
+    "link": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "dateText": "After the Version 3.2 update – End of Version 3.2",
+    "status": "ongoing",
+    "rewards": [],
+    "startTime": 1788904800,
+    "endTime": 1792533600,
+    "displayStartTime": 1788912000,
+    "displayEndTime": 1792533600,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
   },
   {
     "name": "Clink, Clank, Pinball Knight!",
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
-    "dateText": "09/10/2026 - 10/19/2026",
+    "dateText": "2026/09/10 10:00 (server time) – 2026/10/19 03:59 (server time)",
     "imageUrl": "https://img.game8.co/4605416/b2df378bcea13ab33557ad996322f612.png/show",
     "status": "ongoing",
     "rewards": [
@@ -81,111 +92,93 @@
       },
       {
         "itemName": "W-Engine Energy Module",
-        "totalQuantity": 1,
+        "totalQuantity": 21,
         "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 800,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Hamster Cage Pass",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893365/5529aee693c95a4eb535306751c6f330.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 240000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 24,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 80,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
         "details": null
       }
     ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788998400,
-    "displayEndTime": 1792368000
-  },
-  {
-    "name": "Diary of an Orbie Parent",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
-    "dateText": "09/30/2026 - 10/19/2026",
-    "imageUrl": "https://img.game8.co/4605415/5423eb9b2525527b9d24e374d0175dfb.png/show",
-    "status": "upcoming",
-    "rewards": [
-      {
-        "itemName": "Profile Title",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4036943/bf566018a3fb8d6bccd0880536526ece.png/show",
-        "details": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1790726400,
-    "displayEndTime": 1792368000
-  },
-  {
-    "name": "Chronicles of the Hobbling Crow",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
-    "dateText": "10/03/2026 - 10/19/2026",
-    "imageUrl": "https://img.game8.co/4605410/384087c64e750e1900dc82e70f46f381.png/show",
-    "status": "upcoming",
-    "rewards": [],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1790985600,
-    "displayEndTime": 1792368000
+    "displayEndTime": 1792368000,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
   },
   {
     "name": "Shadow Chase Showdown",
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
-    "dateText": "09/16/2026 - 10/05/2026",
+    "dateText": "2026/09/16 10:00 (server time) – 2026/10/05 03:59 (server time)",
     "imageUrl": "https://img.game8.co/4606682/cb438a28892e189b3c82ec2d1da8c18c.png/show",
     "status": "upcoming",
     "rewards": [],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1789516800,
-    "displayEndTime": 1791158400
+    "displayEndTime": 1791158400,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
   },
   {
-    "name": "All-New Program",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-    "dateText": "Sometime in Version 3.2",
-    "imageUrl": "https://img.game8.co/4605414/5c78fb2585fddc1c9a69b4fd33d3516f.png/show",
+    "name": "Surprise Screening Plan",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+    "dateText": "2026/09/23 10:00 (server time) – 2026/10/20 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605412/519e0434280ee60910aefc11304a6902.png/show",
     "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Encrypted Master Tape",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
+        "itemName": "Avatar",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3943401/470d98ccc8602ea2782918b6fa393387.png/show",
         "details": null
-      }
-    ],
-    "startTime": null,
-    "endTime": null
-  },
-  {
-    "name": "En-Nah Into Your Lap",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-    "dateText": "09/30/2026 - 10/20/2026",
-    "imageUrl": "https://img.game8.co/4605417/6908ce6aa87c09cd410fd31870a1df93.png/show",
-    "status": "upcoming",
-    "rewards": [
+      },
       {
-        "itemName": "Boopon",
-        "totalQuantity": 10,
-        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "itemName": "Skin",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4080127/8bea03746455be1d3298f25b978bc6a6.png/show",
         "details": null
       }
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1790726400,
-    "displayEndTime": 1792454400
-  },
-  {
-    "name": "Data Bounty: Combat Simulation",
-    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
-    "dateText": "10/14/2026 - 10/19/2026",
-    "imageUrl": "https://img.game8.co/3991239/836ddad00fd14db671b2ecf20c753870.png/show",
-    "status": "upcoming",
-    "rewards": [],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1791936000,
-    "displayEndTime": 1792368000
+    "displayStartTime": 1790121600,
+    "displayEndTime": 1792454400,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
   },
   {
     "name": "Advanced Bounty: Area Patrol",
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/473610",
-    "dateText": "09/23/2026 - 10/19/2026",
+    "dateText": "2026/09/23 04:00 (server time) – 2026/09/28 03:59 (server time)",
     "imageUrl": "https://img.game8.co/3991278/45804946cf001698f2212d7b2c018a67.png/show",
     "status": "upcoming",
     "rewards": [
@@ -199,6 +192,78 @@
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1790121600,
-    "displayEndTime": 1792368000
+    "displayEndTime": 1790553600,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "Diary of an Orbie Parent",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+    "dateText": "2026/09/30 10:00 (server time) – 2026/10/19 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605415/5423eb9b2525527b9d24e374d0175dfb.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Profile Title",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/4036943/bf566018a3fb8d6bccd0880536526ece.png/show",
+        "details": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792368000,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "\"En-Nah\" Into Your Lap",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+    "dateText": "2026/09/30 10:00 (server time) – 2026/10/20 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605417/6908ce6aa87c09cd410fd31870a1df93.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Boopon",
+        "totalQuantity": 10,
+        "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
+        "details": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792454400,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "Chronicles of the Hobbling Crow",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+    "dateText": "2026/10/03 10:00 (server time) – 2026/10/19 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/4605410/384087c64e750e1900dc82e70f46f381.png/show",
+    "status": "upcoming",
+    "rewards": [],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790985600,
+    "displayEndTime": 1792368000,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
+  },
+  {
+    "name": "Data Bounty: Combat Simulation",
+    "link": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
+    "dateText": "2026/10/14 04:00 (server time) – 2026/10/19 03:59 (server time)",
+    "imageUrl": "https://img.game8.co/3991239/836ddad00fd14db671b2ecf20c753870.png/show",
+    "status": "upcoming",
+    "rewards": [],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1791936000,
+    "displayEndTime": 1792368000,
+    "scheduleSourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+    "sourceType": "official"
   }
 ]

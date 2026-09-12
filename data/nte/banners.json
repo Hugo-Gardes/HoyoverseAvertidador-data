@@ -2,42 +2,58 @@
   {
     "name": "Surfing All Channels!",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "",
+    "image": "https://img.game8.co/4613522/f01beee74e06c23bf017ed100f8753a6.jpeg/show",
     "status": "active",
     "rateUp5Star": [
       {
         "name": "Linko",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4559439/0ea05832f535acd5a5199649fccfec95.png/show",
+        "type": "Anima",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Anima",
+          "Role": "Damage"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Haniel",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
+        "type": "Psyche",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Psyche",
+          "Role": "Buff"
+        }
       },
       {
         "name": "Aurelia",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
+        "type": "Psyche",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Psyche",
+          "Role": "Damage"
+        }
       },
       {
         "name": "Skia",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
+        "type": "Lakshana",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Lakshana",
+          "Role": "Damage"
+        }
       }
     ],
     "startTime": null,
@@ -48,16 +64,22 @@
   {
     "name": "Soundscape Special",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "",
+    "image": "https://img.game8.co/4613670/be0c593fa7e853fb9f7e2c6532ab068f.png/show",
     "status": "active",
     "rateUp5Star": [
       {
         "name": "Voice of the Voyager",
-        "icon": "",
-        "type": "arc",
+        "icon": "https://img.game8.co/4613237/f2bd9d1b1e04d6f85699626d651ed168.png/show",
+        "type": "arc:Plasma",
         "entityKind": "arc",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Rarity": "S Rank",
+          "Base ATK": "37",
+          "Substat": "CRIT Rate",
+          "Type": "Plasma"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -69,50 +91,58 @@
   {
     "name": "Misty Tipsy Style",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "",
+    "image": "https://img.game8.co/4498502/1b2ad08528dc7ddd28072f109b137774.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Rerun: Hotori",
-        "icon": "",
-        "type": "character",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
-      },
-      {
         "name": "Hotori",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476585/cc4e03cc4bff70ca00c7ec1710d6b493.png/show",
+        "type": "Cosmos",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Cosmos",
+          "Role": "Buff"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Haniel",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
+        "type": "Psyche",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Psyche",
+          "Role": "Buff"
+        }
       },
       {
         "name": "Aurelia",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
+        "type": "Psyche",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Psyche",
+          "Role": "Damage"
+        }
       },
       {
         "name": "Skia",
-        "icon": "",
-        "type": "character",
+        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
+        "type": "Lakshana",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Element": "Lakshana",
+          "Role": "Damage"
+        }
       }
     ],
     "startTime": null,
@@ -123,24 +153,22 @@
   {
     "name": "Bright Moon Special",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "",
+    "image": "https://img.game8.co/4498503/a63dd8d6a4bd790e5f2136802764c590.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Rerun: Marching Beyond Time",
-        "icon": "",
-        "type": "arc",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
-      },
-      {
         "name": "Marching Beyond Time",
-        "icon": "",
-        "type": "arc",
+        "icon": "https://img.game8.co/4498737/1de12d52d9c478d64b7c2c811353ef80.png/show",
+        "type": "arc:Solid",
         "entityKind": "arc",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "details": {
+          "Rarity": "S Rank",
+          "Base ATK": "37",
+          "Substat": "CRIT Rate",
+          "Type": "Solid"
+        }
       }
     ],
     "rateUp4Star": [],

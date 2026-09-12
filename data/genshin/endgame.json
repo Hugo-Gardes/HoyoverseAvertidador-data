@@ -117,8 +117,8 @@
   "stygianOnslaught": {
     "version": null,
     "cycleName": "Savage Tremors",
-    "startTime": 1787184000,
-    "endTime": 1790035200,
+    "startTime": null,
+    "endTime": null,
     "bosses": [
       {
         "stage": 1,
