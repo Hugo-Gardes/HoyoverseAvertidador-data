@@ -1,9 +1,17 @@
 {
   "events": [
     {
+      "name": "Trace Scale",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/476366",
+      "dateText": null,
+      "imageUrl": "https://img.game8.co/4002123/51c8967623a8aeae4b6f73a0d47f5522.png/show",
+      "status": "past",
+      "rewards": []
+    },
+    {
       "name": "Lollo Campaign: New Journey",
       "link": "https://game8.co/games/Wuthering-Waves/archives/458245",
-      "dateText": "Virtual Crisis: Quadrant Trials",
+      "dateText": null,
       "imageUrl": "https://img.game8.co/4298202/e12fac42565bd459156fe29106d56407.png/show",
       "status": "past",
       "rewards": [
@@ -45,9 +53,53 @@
       ]
     },
     {
+      "name": "Virtual Crisis: Quadrant Trials",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/607412",
+      "dateText": null,
+      "imageUrl": "https://img.game8.co/4546274/912f0d0b64247f40c954215a2c132b96.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Astrite",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+          "totalQuantity": 500
+        },
+        {
+          "itemName": "Advanced Resonance Potion",
+          "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+          "totalQuantity": 20
+        },
+        {
+          "itemName": "Advanced Energy Core",
+          "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+          "totalQuantity": 20
+        },
+        {
+          "itemName": "Advanced Sealed Tube",
+          "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+          "totalQuantity": 18
+        },
+        {
+          "itemName": "Shell Credit",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+          "totalQuantity": 130000
+        },
+        {
+          "itemName": "Premium Tuner",
+          "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+          "totalQuantity": 120
+        },
+        {
+          "itemName": "Forgery Advanced Supply - Lahai-Roi",
+          "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
+          "totalQuantity": 12
+        }
+      ]
+    },
+    {
       "name": "Gifts of Starpath",
       "link": "https://game8.co/games/Wuthering-Waves/archives/607465",
-      "dateText": "In Search of Lost Jade",
+      "dateText": null,
       "imageUrl": "https://img.game8.co/4545675/f4ea01765af6d92ed9d9fbc624686c31.png/show",
       "status": "past",
       "rewards": [
@@ -59,9 +111,43 @@
       ]
     },
     {
+      "name": "In Search of Lost Jade",
+      "link": "https://game8.co/games/Wuthering-Waves/archives/608347",
+      "dateText": null,
+      "imageUrl": "https://img.game8.co/4545670/258b5113ce8a27edb6668a37b3da345d.png/show",
+      "status": "past",
+      "rewards": [
+        {
+          "itemName": "Astrite",
+          "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+          "totalQuantity": 100
+        },
+        {
+          "itemName": "Shell Credit",
+          "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+          "totalQuantity": 30000
+        },
+        {
+          "itemName": "Advanced Resonance Potion",
+          "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+          "totalQuantity": 5
+        },
+        {
+          "itemName": "Advanced Energy Core",
+          "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+          "totalQuantity": 5
+        },
+        {
+          "itemName": "Advanced Sealed Tube",
+          "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+          "totalQuantity": 5
+        }
+      ]
+    },
+    {
       "name": "Gifts of Aftertune",
       "link": "https://game8.co/games/Wuthering-Waves/archives/607276",
-      "dateText": "Recaptured: Action Highlights",
+      "dateText": null,
       "imageUrl": "https://img.game8.co/4545671/7e9209c2f88d80fe770a9e4d1bfd5417.png/show",
       "status": "past",
       "rewards": [

@@ -5,17 +5,17 @@
       {
         "name": "Annulith",
         "quantity": 30,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Fons",
         "quantity": 50000,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 30000,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -25,7 +25,7 @@
       {
         "name": "Fabricated Dice",
         "quantity": 1,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -35,12 +35,12 @@
       {
         "name": "Fons",
         "quantity": 30000,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 30000,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -50,12 +50,12 @@
       {
         "name": "Fons",
         "quantity": 10000,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 10000,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -65,7 +65,7 @@
       {
         "name": "Exclusive In-Game Avatar Frame (Celebration Fireworks)",
         "quantity": null,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -75,7 +75,7 @@
       {
         "name": "Exclusive Rewards",
         "quantity": null,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -85,17 +85,17 @@
       {
         "name": "Annulith",
         "quantity": 50,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Rising Hunter Guides",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Light Dyes",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -105,17 +105,17 @@
       {
         "name": "Fons",
         "quantity": 10000,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "DynamiK Zero",
         "quantity": 10,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Clicky Fries",
         "quantity": 10,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -125,22 +125,22 @@
       {
         "name": "Annulith",
         "quantity": 100,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Rising Hunter Guides",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Light Dye",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 4000,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -150,22 +150,22 @@
       {
         "name": "Annulith",
         "quantity": 100,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Senior Hunter Guides",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Colorless Dye",
         "quantity": 5,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 6000,
-        "icon": ""
+        "icon": null
       }
     ]
   },
@@ -175,22 +175,22 @@
       {
         "name": "Annulith",
         "quantity": 100,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Elite Hunter Guides",
         "quantity": 2,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Chaotic Dye",
         "quantity": 2,
-        "icon": ""
+        "icon": null
       },
       {
         "name": "Beetle Coins",
         "quantity": 12000,
-        "icon": ""
+        "icon": null
       }
     ]
   }

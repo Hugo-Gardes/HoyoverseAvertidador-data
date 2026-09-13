@@ -75,8 +75,10 @@
         "rarity": 4
       }
     ],
-    "startTime": 1788213600,
-    "endTime": 1790114399
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788220800,
+    "displayEndTime": 1790035200
   },
   {
     "name": "Astral Actuation",
@@ -155,8 +157,10 @@
         "rarity": 4
       }
     ],
-    "startTime": 1788213600,
-    "endTime": 1790114399
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788220800,
+    "displayEndTime": 1790035200
   },
   {
     "name": "Epitome Invocation",
@@ -265,7 +269,9 @@
         "rarity": 4
       }
     ],
-    "startTime": 1788220800,
-    "endTime": 1790035200
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1788220800,
+    "displayEndTime": 1790035200
   }
 ]

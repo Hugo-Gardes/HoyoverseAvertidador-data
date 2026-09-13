@@ -7,7 +7,7 @@
     "rateUp5Star": [
       {
         "name": "Claret",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 5,
@@ -17,7 +17,7 @@
     "rateUp4Star": [
       {
         "name": "Anton",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
@@ -25,14 +25,14 @@
       },
       {
         "name": "Nicole",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
       }
     ],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
@@ -46,7 +46,7 @@
     "rateUp5Star": [
       {
         "name": "Crimson Thirst",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 5,
@@ -56,7 +56,7 @@
     "rateUp4Star": [
       {
         "name": "Drill Rig - Red Axis",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
@@ -64,14 +64,14 @@
       },
       {
         "name": "The Vault",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
       }
     ],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
@@ -85,7 +85,7 @@
     "rateUp5Star": [
       {
         "name": "Nangong Yu",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 5,
@@ -95,7 +95,7 @@
     "rateUp4Star": [
       {
         "name": "Anton",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
@@ -103,14 +103,14 @@
       },
       {
         "name": "Nicole",
-        "icon": "",
+        "icon": null,
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
       }
     ],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
@@ -124,7 +124,7 @@
     "rateUp5Star": [
       {
         "name": "Neon Fantasies",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 5,
@@ -134,7 +134,7 @@
     "rateUp4Star": [
       {
         "name": "Drill Rig - Red Axis",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
@@ -142,14 +142,14 @@
       },
       {
         "name": "The Vault",
-        "icon": "",
+        "icon": null,
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
       }
     ],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,

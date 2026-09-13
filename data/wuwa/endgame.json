@@ -57,11 +57,11 @@
           ],
           "effects": [
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
             }
           ],
@@ -90,11 +90,11 @@
           ],
           "effects": [
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
             }
           ],
@@ -132,15 +132,15 @@
           ],
           "effects": [
             {
-              "name": "",
+              "name": null,
               "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
             }
           ],
@@ -188,15 +188,15 @@
           ],
           "effects": [
             {
-              "name": "",
+              "name": null,
               "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
             },
             {
-              "name": "",
+              "name": null,
               "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
             }
           ],
@@ -227,8 +227,8 @@
       "icon": "https://img.game8.co/4603201/1198679bbb49a0ac768b1bd396a2b761.png/show",
       "version": "3.6",
       "phaseName": null,
-      "startTime": 1784232000,
-      "endTime": 1787144340,
+      "startTime": null,
+      "endTime": null,
       "guideUrl": "https://game8.co/games/Wuthering-Waves/archives/572519",
       "rules": [],
       "sharedEffects": [],

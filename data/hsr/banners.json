@@ -100,8 +100,10 @@
         "rarity": 4
       }
     ],
-    "startTime": 1789164000,
-    "endTime": 1790460000
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789171200,
+    "displayEndTime": 1790467200
   },
   {
     "name": "Summer Rides the Surf Banner",
@@ -177,8 +179,10 @@
         "rarity": 4
       }
     ],
-    "startTime": 1789164000,
-    "endTime": 1790460000
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789171200,
+    "displayEndTime": 1790467200
   },
   {
     "name": "Rin Tohsaka Banner",
@@ -223,8 +227,10 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784844000,
-    "endTime": null
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1784851200,
+    "displayEndTime": null
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -260,8 +266,10 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1784844000,
-    "endTime": null
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1784851200,
+    "displayEndTime": null
   },
   {
     "name": "Saber Banner",
@@ -307,8 +315,10 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752184800,
-    "endTime": null
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1752192000,
+    "displayEndTime": null
   },
   {
     "name": "Fate Collab Light Cone Banners",
@@ -344,7 +354,9 @@
       }
     ],
     "rateUp4Star": [],
-    "startTime": 1752184800,
-    "endTime": null
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1752192000,
+    "displayEndTime": null
   }
 ]

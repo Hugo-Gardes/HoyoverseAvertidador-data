@@ -13,7 +13,7 @@
         "details": null
       }
     ],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1792454400,
@@ -27,7 +27,7 @@
     "imageUrl": "https://img.game8.co/4605411/320bd7c5c6ebe33f4f6c2c98290c5d4c.png/show",
     "status": "ongoing",
     "rewards": [],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1795996800,
@@ -40,7 +40,7 @@
     "dateText": "After the Version 3.2 update – End of Version 3.2",
     "status": "ongoing",
     "rewards": [],
-    "startTime": 1788904800,
+    "startTime": null,
     "endTime": 1792533600,
     "displayStartTime": 1788912000,
     "displayEndTime": 1792533600,

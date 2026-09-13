@@ -127,17 +127,17 @@
       "selectableBuffs": [
         {
           "name": "Smack Talk",
-          "icon": "",
+          "icon": null,
           "description": "Increases the All-Type RES PEN of Follow-Up ATK DMG dealt by 30%. During Surging Grit, after an ally target uses a Follow-Up ATK to attack enemy targets, deals Additional DMG equal to 40% of the attacker's ATK plus 20% of the attacker's Max HP to targets adjacent to each attacked enemy target. This DMG is considered as Follow-Up ATK DMG."
         },
         {
           "name": "Grand Rhetoric",
-          "icon": "",
+          "icon": null,
           "description": "During Surging Grit, CRIT DMG dealt by ally targets when using their Ultimate increases by 60%. When Surging Grit ends, all allies regenerate 20% Energy. After ally targets use their Ultimate, every enemy target hit additionally accumulates 5 Grit Value for allies."
         },
         {
           "name": "Motormouth",
-          "icon": "",
+          "icon": null,
           "description": "Increases the SPD of all allies by 20%. During Surging Grit, DMG received by enemy targets additionally increases by 30%. After ally targets use their Basic ATK or Skill, every enemy target hit additionally accumulates 3 Grit Value for allies."
         }
       ],
@@ -308,39 +308,39 @@
           "traits": [
             {
               "name": "Steadfast Safeguard",
-              "icon": "",
+              "icon": null,
               "description": "Boss Mirage takes 50% less DMG. After Weakness is Broken, action gets additionally delayed and DMG taken increases by 100%."
             },
             {
               "name": "Bountiful Prosperity",
-              "icon": "",
+              "icon": null,
               "description": "When the Boss Mirage's summons are defeated, it deals minor True DMG to this unit and slightly reduces its Toughness. If the defeated target is an Elite Enemy, it instead deals massive True DMG to this unit and massively reduces its Toughness. Then, it immediately summons new summons."
             },
             {
               "name": "Like a Deer With Wings",
-              "icon": "",
+              "icon": null,
               "description": "The initial action value of the summons summoned via \"Heavenbound One And All\" and \"Heavenbound One And All: Enhanced\" is greatly advanced."
             },
             {
               "name": "Dazzling Halo",
-              "icon": "",
+              "icon": null,
               "description": "While any type of \"Halo\" effect is active, all enemy targets that are not Weakness Broken take reduced DMG and deal increased DMG."
             }
           ],
           "axiomBuffs": [
             {
               "name": "Land of Fertility",
-              "icon": "",
+              "icon": null,
               "description": "Increases Skill and Ultimate DMG dealt by all allies by 30%, and additionally increases Skill and Ultimate DMG dealt by the 1st character in the lineup by 30%."
             },
             {
               "name": "Unstoppable Force",
-              "icon": "",
+              "icon": null,
               "description": "DMG dealt by memosprites ignores 20% of the target's DEF."
             },
             {
               "name": "Beaming Bliss",
-              "icon": "",
+              "icon": null,
               "description": "Increases Elation DMG taken by all enemies by 30%. When there is a character following the Path of Elation on the team, increases the Weakness Break Efficiency of all allies by 50%."
             }
           ]
@@ -359,39 +359,39 @@
           "traits": [
             {
               "name": "Steadfast Safeguard",
-              "icon": "",
+              "icon": null,
               "description": "Boss Mirage takes 50% less DMG. After its Weakness is broken, its action is additionally delayed and the DMG it receives increases by 100%."
             },
             {
               "name": "Steelbone Summit",
-              "icon": "",
+              "icon": null,
               "description": "Parts take 50% less DMG. After Boss Mirage's Weakness is broken, the DMG they receive increases by 100%."
             },
             {
               "name": "Sickleclawed Sawteeth",
-              "icon": "",
+              "icon": null,
               "description": "Boss Mirage's Toughness increases by 40."
             },
             {
               "name": "Beastly Rage",
-              "icon": "",
+              "icon": null,
               "description": "The duration of \"Malediction\" state increases by 1 turn(s)."
             }
           ],
           "axiomBuffs": [
             {
               "name": "Literary Brilliance",
-              "icon": "",
+              "icon": null,
               "description": "Decreases the Wind RES and Lightning RES of all enemies by 40%."
             },
             {
               "name": "Past Life: Shadowed Reverie",
-              "icon": "",
+              "icon": null,
               "description": "When there are 3 ally memosprites or more currently on the field, increases all allies' DMG dealt by 60%."
             },
             {
               "name": "Blighted to the Bone",
-              "icon": "",
+              "icon": null,
               "description": "After an ally target deals DoT to an enemy, 1 Energy is regenerated. DoT dealt by all allies ignores 40% of enemy targets' All-Type RES."
             }
           ]
@@ -410,39 +410,39 @@
           "traits": [
             {
               "name": "Steadfast Safeguard",
-              "icon": "",
+              "icon": null,
               "description": "Boss Mirage takes 50% less DMG. After Weakness is broken, action gets additionally delayed and DMG taken increases by 100%."
             },
             {
               "name": "Biphasic Battlefield",
-              "icon": "",
+              "icon": null,
               "description": "The Boss Mirage will initiate a Live Showdown during combat, selecting one ally character to battle on the sub-field while the remaining characters stay on the prime-field to provide Support. Once the Live Showdown begins, enemy targets on the prime-field take reduced DMG and become immune to Crowd Control debuffs, and the Boss Mirage enters the \"Toughness Lock\" state. When the Boss Mirage's turn starts, both \"Ally Popularity\" and \"Enemy Popularity\" reset to their initial states."
             },
             {
               "name": "Popularity Burst",
-              "icon": "",
+              "icon": null,
               "description": "Increases the max \"Ally Popularity\" and \"Enemy Popularity.\""
             },
             {
               "name": "Basking in Popularity",
-              "icon": "",
+              "icon": null,
               "description": "For each \"Ally Popularity\" or \"Enemy Popularity\" that hasn't hit the Limit, DMG taken by all enemies is reduced."
             }
           ],
           "axiomBuffs": [
             {
               "name": "Beaming Bliss",
-              "icon": "",
+              "icon": null,
               "description": "Increases Elation DMG taken by all enemies by 30%. When there is a character following the Path of Elation on the team, increases the Weakness Break Efficiency of all allies by 50%."
             },
             {
               "name": "Unto Apotheosis",
-              "icon": "",
+              "icon": null,
               "description": "When ally targets consume Skill Points, increases their CRIT DMG by 6%, stacking up to 10 times."
             },
             {
               "name": "Armed Up",
-              "icon": "",
+              "icon": null,
               "description": "Increases Physical DMG dealt by all allies by 50%, and decreases all enemies' Physical RES by 20%."
             }
           ]
@@ -460,17 +460,17 @@
       "selectableBuffs": [
         {
           "name": "Marvelous Laughter",
-          "icon": "",
+          "icon": null,
           "description": "Increases all ally targets' Elation by 40%, and increases the All-Type RES PEN of Elation DMG dealt by 20%. This effect is doubled when using an Elation Skill."
         },
         {
           "name": "Finale's Kiss",
-          "icon": "",
+          "icon": null,
           "description": "At the start of any ally's target's turn, all ally targets regenerate 25% Energy. This effect can only be triggered 1 time per battle. Increases Skill and Ultimate DMG dealt by all ally targets by 40%."
         },
         {
           "name": "Memoria Swarm",
-          "icon": "",
+          "icon": null,
           "description": "When the number of ally memosprites is 1/2/3/4, DMG dealt by all allies increases by 20%/25%/30%/50%."
         }
       ],
@@ -543,7 +543,7 @@
         },
         {
           "name": "Hatred Inundate",
-          "icon": "",
+          "icon": null,
           "weaknesses": [
             "Ice",
             "Lightning",
@@ -556,7 +556,7 @@
         },
         {
           "name": "Hatred Inundate",
-          "icon": "",
+          "icon": null,
           "weaknesses": [
             "Ice",
             "Lightning",
