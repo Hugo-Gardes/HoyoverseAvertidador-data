@@ -507,8 +507,8 @@
       ],
       "bosses": [
         {
-          "name": "Cocolia",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Enemy_Cocolia.png/revision/latest/scale-to-width-down/256?cb=20260725080526",
+          "name": "Lighthouse",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Enemy_Lighthouse.png/revision/latest/scale-to-width-down/256?cb=20260826203932",
           "weaknesses": [
             "Quantum",
             "Fire"
