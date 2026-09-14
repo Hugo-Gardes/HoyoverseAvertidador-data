@@ -1,5 +1,23 @@
 [
   {
+    "name": "Overflowing Abundance 7.0 Rerun",
+    "link": "https://game8.co/games/Genshin-Impact/archives/491944",
+    "dateText": "09/14/2026 - 09/21/2026",
+    "imageUrl": "https://img.game8.co/4072660/34b93c8d2eb5987c2a50c4deea0aeadb.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Talent Book Materials",
+        "totalQuantity": null,
+        "icon": ""
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1789344000,
+    "displayEndTime": 1789948800
+  },
+  {
     "name": "Trial of the Bastion",
     "link": "https://game8.co/games/Genshin-Impact/archives/613889",
     "dateText": "09/07/2026 - 09/17/2026",
@@ -53,154 +71,183 @@
     "displayEndTime": 1789603200
   },
   {
-    "name": "Great Expeditionist Challenge",
-    "link": "https://game8.co/games/Genshin-Impact/archives/613887",
-    "dateText": "08/28/2026 - 09/14/2026",
-    "imageUrl": "https://img.game8.co/4574416/4c0b9ce8746464cb57a6b076f92eebcf.png/show",
-    "status": "ongoing",
+    "name": "Silverwing in Pursuit of the Moon",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622051",
+    "dateText": "09/24/2026 - 10/12/2026",
+    "imageUrl": "https://img.game8.co/4617018/6dc8de57171f3ff2c3e9dbdca78f0ce6.png/show",
+    "status": "upcoming",
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 670,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       },
       {
-        "itemName": "Mora",
-        "totalQuantity": 580000,
-        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
-      },
-      {
-        "itemName": "Hero's Wit",
-        "totalQuantity": 44,
-        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
-      },
-      {
-        "itemName": "The Frost Emperor's Lament",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586653/31e09f37710ca0a44ec65b9cce323ae0.png/show"
-      },
-      {
-        "itemName": "Exhilaration of the Cellared Spiritual Nectar",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586658/19a356619110fb1734e7d1f5f8f89c04.png/show"
-      },
-      {
-        "itemName": "Clarion of the Pale Star Army",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586651/6f927fcb263e7d9de80b1ce792031f96.png/show"
-      },
-      {
-        "itemName": "Philosophies of Glory",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586652/6f5af492faca670ff03c02d6d825074a.png/show"
-      },
-      {
-        "itemName": "Philosophies of Fortitude",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586640/e3d555a7039e0ae6d4b9beab2102a1cf.png/show"
-      },
-      {
-        "itemName": "Philosophies of Charity",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/4586641/7c435216bb06bb283f3397c5391b5798.png/show"
-      },
-      {
         "itemName": "Crown of Insight",
-        "totalQuantity": 1,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3297733/73197e58d99d02cd709277cef3c31f7d.png/show"
       },
       {
-        "itemName": "Guide to Charity",
-        "totalQuantity": 11,
-        "icon": "https://img.game8.co/4586307/42115f81d46164a02830f976e1641566.png/show"
-      },
-      {
-        "itemName": "Guide to Fortitude",
-        "totalQuantity": 11,
-        "icon": "https://img.game8.co/4586642/8070fdeea31981859c370660fd4ddad3.png/show"
-      },
-      {
-        "itemName": "Guide to Glory",
-        "totalQuantity": 11,
-        "icon": "https://img.game8.co/4586650/5cac5494dc6ba8f69ef159ec0ece3185.png/show"
+        "itemName": "Hero's Wit",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
       },
       {
         "itemName": "Sanctifying Unction",
-        "totalQuantity": 18,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
       },
       {
-        "itemName": "Mystic Enhancement Ore",
-        "totalQuantity": 69,
-        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+        "itemName": "Mora",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
       },
       {
-        "itemName": "Agnidus Agate Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316516/fd516a1f7a6b94a96d07ac4e8ed2d3d8.png/show"
-      },
-      {
-        "itemName": "Varunada Lazurite Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316844/910ab3e7cdf9faa7403bf943a376c4a0.png/show"
-      },
-      {
-        "itemName": "Nagadus Emerald Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3883988/084dbdc8786d5ad5dde1d8a12afc1589.png/show"
-      },
-      {
-        "itemName": "Vajrada Amethyst Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316853/566cc9f1756f344ccdfc5ec75fbd6bd1.png/show"
-      },
-      {
-        "itemName": "Shivada Jade Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316827/7e2d72b5fe5e65908b18ba64166dbe77.png/show"
-      },
-      {
-        "itemName": "Prithiva Topaz Fragment",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316824/9dbddf4dbd61bf362ea051a6fe0ca9f8.png/show"
-      },
-      {
-        "itemName": "Muster of the Pale Star Army",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/4586649/88a115215de13014eb7a3a8161f419c1.png/show"
-      },
-      {
-        "itemName": "Intoxication of the Cellared Spiritual Nectar",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/4586655/2416a9097637dc73f15617baa2a03421.png/show"
-      },
-      {
-        "itemName": "The Frost Emperor's Ceremony",
-        "totalQuantity": 6,
-        "icon": "https://img.game8.co/4586662/9fe5ddbb2e54a42002330ed4ebc4fb97.png/show"
+        "itemName": "Weapon Ascension Materials",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
       }
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1787875200,
-    "displayEndTime": 1789344000
+    "displayStartTime": 1790208000,
+    "displayEndTime": 1791763200
   },
   {
-    "name": "Overflowing Abundance 7.0 Rerun",
-    "link": "https://game8.co/games/Genshin-Impact/archives/491944",
-    "dateText": "09/14/2026 - 09/21/2026",
-    "imageUrl": "https://img.game8.co/4072660/34b93c8d2eb5987c2a50c4deea0aeadb.png/show",
+    "name": "Predictive Victory Dynamics",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622052",
+    "dateText": "10/12/2026 - 10/20/2026",
+    "imageUrl": "https://img.game8.co/4617014/7da62c209069acbbdc3c93ec5b16a8d8.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Primogem",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Hero's Wit",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Weapon Ascension Materials",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1791763200,
+    "displayEndTime": 1792454400
+  },
+  {
+    "name": "Carefree Snowball Fight",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622053",
+    "dateText": "10/21/2026 - 11/02/2026",
+    "imageUrl": "https://img.game8.co/4617015/73b5216162c5636962de3a89bf01cff2.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Primogem",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Hero's Wit",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
+      },
+      {
+        "itemName": "Sanctifying Unction",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+      },
+      {
+        "itemName": "Weapon Ascension Materials",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792540800,
+    "displayEndTime": 1793577600
+  },
+  {
+    "name": "Resplendent Starlight",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622070",
+    "dateText": "TBD",
+    "imageUrl": "https://img.game8.co/4617016/f145575aa526a9ea9cafe7a6b06104a7.png/show",
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Talent Book Materials",
+        "itemName": "Genshin - Primogem",
         "totalQuantity": null,
-        "icon": ""
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+      },
+      {
+        "itemName": "Genshin - Intertwined Fate",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3316382/66059bcd59dcf0666c66bf1b5902dc2b.png/show"
+      },
+      {
+        "itemName": "Genshin - Sanctifying Elixir",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3973476/e23e896ee5efb4161142f1c756bf4e59.png/show"
+      },
+      {
+        "itemName": "Genshin - Dust of Enlightenment",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/4188674/f455ae9f120d53bb13b3081f6a2f6a14.png/show"
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Overflowing Favor 7.1 Rerun",
+    "link": "https://game8.co/games/Genshin-Impact/archives/504840",
+    "dateText": "10/26/2026 - 11/02/2026",
+    "imageUrl": "https://img.game8.co/4131736/e9f0672f3590ac8304c02c3c5ee5a9e3.png/show",
+    "status": "upcoming",
+    "rewards": [],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792972800,
+    "displayEndTime": 1793577600
+  },
+  {
+    "name": "Starlit Gala",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622062",
+    "dateText": "10/01/2026 - 11/03/2026",
+    "imageUrl": "https://img.game8.co/4617017/13bc5f1b26f4cca5468dd73a9a2738d5.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Genshin - Primogem",
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
       }
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1789344000,
-    "displayEndTime": 1789948800
+    "displayStartTime": 1790812800,
+    "displayEndTime": 1793664000
   }
 ]

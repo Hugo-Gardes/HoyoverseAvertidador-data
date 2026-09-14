@@ -425,7 +425,7 @@
           "Base ATK (Lv. 90)": "412",
           "Substat (Lv. 90)": "Energy Regen+77.0%",
           "Type": "Broadblade",
-          "Weapon Skill": "Definite Solution Increases DEF by 16%. Casting Resonance Liberation restores 8 points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4s. Effects of the same name cannot be stacked.",
+          "Weapon Skill": "Definite Solution Increases DEF by 16%. Casting Resonance Skill restores 8 points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4s. Effects of the same name cannot be stacked.",
           "Max ATK": "412",
           "Max Bonus Stat (Energy Regen)": "77.0%"
         },

@@ -7,8 +7,8 @@
       "icon": "https://img.game8.co/3893839/206a2ebc90ef6fff3394d7bf64e09383.png/show",
       "version": null,
       "phaseName": null,
-      "startTime": 1786910400,
-      "endTime": 1789329600,
+      "startTime": 1789329600,
+      "endTime": 1791748800,
       "guideUrl": "https://game8.co/games/Wuthering-Waves/archives/457528",
       "rules": [],
       "sharedEffects": [],
@@ -48,21 +48,21 @@
       "stages": [
         {
           "stage": "Floor 1",
-          "name": "Sentry Construct",
-          "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+          "name": "Impermanence Heron",
+          "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Glacio"
+            "Havoc"
           ],
           "effects": [
             {
               "name": null,
-              "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
+              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Havoc RES & Glacio RES are increased by 10%."
             },
             {
               "name": null,
-              "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
+              "description": "ATK is increased by 30%. Resonators gain 30% All DMG Bonus for 10s upon casting Intro Skill."
             }
           ],
           "objectives": [
@@ -72,30 +72,31 @@
           ],
           "enemies": [
             {
-              "name": "Sentry Construct",
-              "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+              "name": "Impermanence Heron",
+              "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 2",
-          "name": "Lampylumen Myriad",
-          "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
+          "name": "Scar",
+          "icon": "https://img.game8.co/4306834/a7fdc2d7e938fe0fb0a2058919a47640.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Electro",
-            "Glacio"
+            "Glacio",
+            "Havoc",
+            "Spectro"
           ],
           "effects": [
             {
               "name": null,
-              "description": "Enemies' Aero RES & Fusion RES are decreased by 10%, and their Electro RES & Glacio RES are increased by 10%."
+              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Havoc RES & Glacio RES are increased by 10%."
             },
             {
               "name": null,
-              "description": "Crit. DMG is increased by 25%. Enemies take 40% more total Fusion Burst DMG."
+              "description": "ATK is increased by 30%. Resonators gain 30% All DMG Bonus for 10s upon casting Intro Skill."
             }
           ],
           "objectives": [
@@ -105,80 +106,24 @@
           ],
           "enemies": [
             {
-              "name": "Violet-Feathered Heron",
-              "icon": "https://img.game8.co/4306530/a2f59a8383a42f2caba0aabe7bbf3715.png/show",
+              "name": "Autopuppet Scout",
+              "icon": "https://img.game8.co/4306536/4d780abe3157693c341806b3cf2958a7.png/show",
               "count": 1
             },
             {
-              "name": "Vitreum Dancer",
-              "icon": "https://img.game8.co/4306525/5715dab1b7466bbe19ba883e10fda938.png/show",
+              "name": "Glacio Dreadmane",
+              "icon": "https://img.game8.co/4306585/b9ff965252962d53eb1e4ff4b6c60904.png/show",
               "count": 1
             },
             {
-              "name": "Lampylumen Myriad",
-              "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
+              "name": "Scar",
+              "icon": "https://img.game8.co/4306834/a7fdc2d7e938fe0fb0a2058919a47640.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 3",
-          "name": "Mourning Aix",
-          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
-          "level": "100",
-          "vigorCost": "5",
-          "resistances": [
-            "Spectro"
-          ],
-          "effects": [
-            {
-              "name": null,
-              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
-            },
-            {
-              "name": null,
-              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
-            },
-            {
-              "name": null,
-              "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
-            }
-          ],
-          "objectives": [
-            "Clear the challenge with at least 60s left",
-            "Clear the challenge with at least 120s (02:00) left",
-            "Clear the challenge with at least 150s (02:30) left"
-          ],
-          "enemies": [
-            {
-              "name": "Rocksteady Guardian",
-              "icon": "https://img.game8.co/4306618/536a011aff51b718fc78cce3db35a67c.png/show",
-              "count": 1
-            },
-            {
-              "name": "Cruisewing",
-              "icon": "https://img.game8.co/4306811/54fc93300cc1b8e69f5cea8eff52cebc.png/show",
-              "count": 1
-            },
-            {
-              "name": "Voidwing Moth",
-              "icon": "https://img.game8.co/4485572/704000b8b492511e104e5a9c7ce81de7.png/show",
-              "count": 1
-            },
-            {
-              "name": "Diurnus Knight",
-              "icon": "https://img.game8.co/4306586/0af5e7ece9a9c12b210c586392f57cf1.png/show",
-              "count": 1
-            },
-            {
-              "name": "Mourning Aix",
-              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "stage": "Floor 4",
           "name": "Fallacy of No Return",
           "icon": "https://img.game8.co/4306582/1b7a3068230f5da90e7cd8eb820a7364.png/show",
           "level": "100",
@@ -193,11 +138,11 @@
             },
             {
               "name": null,
-              "description": "Enemies' All-Attribute RES is increased by 15%. This effect is removed when the enemies are affected by Negative Statuses or Tune Strain - Interfered."
+              "description": "Enemies' All-Attribute RES is increased by 15%. The Electro or Fusion DMG taken by enemies are not effected by this effect."
             },
             {
               "name": null,
-              "description": "Enemies' total DMG taken is increased by 15%. Inflicting Tune Strain - Shifting increases Resonators' total DMG dealt by 50% for 30s. Inflicting Havoc Bane increases Resonators' total DMG dealt by 30% for 30s. Enemies take 60% more total DMG from Negative Statuses."
+              "description": "Enemies take 20% more total DMG and 50% more total Electro DMG. Resonators gain 12% more Fusion DMG for 3s upon gaining Shield, stacking up to 10 times. Retriggering the effect resets its duration."
             }
           ],
           "objectives": [
@@ -207,13 +152,69 @@
           ],
           "enemies": [
             {
-              "name": "Sigillum",
-              "icon": "https://img.game8.co/4403553/42705d25a4ac895943f61016455af71f.png/show",
+              "name": "Capitaneus",
+              "icon": "https://img.game8.co/4306551/7b416b9ede8f8fd91315d8312a1db48b.png/show",
+              "count": 1
+            },
+            {
+              "name": "Cruisewing",
+              "icon": "https://img.game8.co/4306811/54fc93300cc1b8e69f5cea8eff52cebc.png/show",
+              "count": 1
+            },
+            {
+              "name": "Voidwing Moth",
+              "icon": "https://img.game8.co/4485572/704000b8b492511e104e5a9c7ce81de7.png/show",
+              "count": 1
+            },
+            {
+              "name": "Lightcrusher",
+              "icon": "https://img.game8.co/4306809/e049dfe1ab1854aa1a057d6251ff6f5b.png/show",
               "count": 1
             },
             {
               "name": "Fallacy of No Return",
               "icon": "https://img.game8.co/4306582/1b7a3068230f5da90e7cd8eb820a7364.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Floor 4",
+          "name": "Mourning Aix",
+          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Spectro"
+          ],
+          "effects": [
+            {
+              "name": null,
+              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
+            },
+            {
+              "name": null,
+              "description": "Enemies' All-Attribute RES is increased by 15%. The Electro or Fusion DMG taken by enemies are not effected by this effect."
+            },
+            {
+              "name": null,
+              "description": "Enemies take 20% more total DMG and 50% more total Electro DMG. Resonators gain 12% more Fusion DMG for 3s upon gaining Shield, stacking up to 10 times. Retriggering the effect resets its duration."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 60s left",
+            "Clear the challenge with at least 120s (02:00) left",
+            "Clear the challenge with at least 150s (02:30) left"
+          ],
+          "enemies": [
+            {
+              "name": "Hyvatia",
+              "icon": "https://img.game8.co/4367479/87bdc28864b171316645670e05deff39.png/show",
+              "count": 1
+            },
+            {
+              "name": "Mourning Aix",
+              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
               "count": 1
             }
           ]

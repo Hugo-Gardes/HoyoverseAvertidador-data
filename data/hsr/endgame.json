@@ -109,19 +109,19 @@
       "id": "pure-fiction",
       "name": "Pure Fiction",
       "icon": "https://img.game8.co/3994390/b2aa527c7a515f615099be9bb01d2c95.png/show",
-      "version": "4.3",
-      "phaseName": "Fabricated Business",
-      "buff": "After ally targets use a Follow-Up ATK to attack enemy targets, every enemy target hit additionally accumulates 8 Grit Value for allies.",
+      "version": "4.5",
+      "phaseName": "Domain Genesis",
+      "buff": "Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.",
       "buffs": [
         {
           "name": "Concordant Truce",
           "icon": "https://img.game8.co/4073005/c80457c8093b6082279f411089b8fa33.png/show",
-          "description": "After an ally target uses a Follow-Up ATK or Ultimate, deals Additional DMG equal to 80% of the attacking character's ATK plus 40% of their Max HP to each attacked enemy target."
+          "description": "This stage has a special Elation Skill. When entering Aha Instant, deals 15 instance(s) of Imaginary Elation DMG to a random enemy target. When an enemy target is defeated by any target, obtains 1 Punchline point(s)."
         },
         {
           "name": "Surging Grit",
           "icon": "https://img.game8.co/4073006/f7d2ecfeee8d92d0d1248cff4dc80db7.png/show",
-          "description": "Upon entering Surging Grit, all allies regenerate 20% Energy. During Surging Grit, enemy targets take 50% more DMG, the Additional DMG dealt by \"Concordant Truce\" increases by 100%, and this DMG is considered as Follow-Up ATK DMG."
+          "description": "Upon entering \"Surging Grit,\" Aha immediately gains an extra turn where a fixed amount of 20 Punchline is taken into account. During this turn, Punchline is not consumed, and Elation Skill DMG dealt is 50% of the original DMG. During \"Surging Grit,\" DMG taken by enemy targets increases by 50%, and Aha Instant's SPD increases by 40."
         }
       ],
       "selectableBuffs": [
@@ -141,8 +141,8 @@
           "description": "Increases the SPD of all allies by 20%. During Surging Grit, DMG received by enemy targets additionally increases by 30%. After ally targets use their Basic ATK or Skill, every enemy target hit additionally accumulates 3 Grit Value for allies."
         }
       ],
-      "startTime": 1785715200,
-      "endTime": 1789344000,
+      "startTime": 1789344000,
+      "endTime": 1792368000,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/435848",
       "rewards": [
         {
@@ -191,11 +191,11 @@
           "stage": "Stage 4 and Starward Mode",
           "firstHalf": [
             "Imaginary",
-            "Physical"
+            "Quantum"
           ],
           "secondHalf": [
-            "Lightning",
-            "Fire"
+            "Imaginary",
+            "Physical"
           ]
         }
       ],
