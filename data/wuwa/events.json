@@ -1,69 +1,54 @@
 [
   {
-    "name": "Second Coming of Solaris: Coded Deception",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614757",
-    "dateText": "August 27, 2026 - September 14, 2026 Reach Union Level 14",
-    "imageUrl": "https://img.game8.co/4581499/5b74c89c9e3f5d486e4ed3c76dc052ff.png/show",
-    "status": "past",
+    "name": "Chord Cleansing",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
+    "dateText": "September 22, 2026 - September 29, 2026 Reach Union Level 19",
+    "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
+    "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Astrite",
-        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 400
-      },
-      {
-        "itemName": "Forgery Premium Supply - Lahai-Roi",
-        "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-        "totalQuantity": 28
-      },
-      {
-        "itemName": "Premium Enclosure Tank - Land of Xuanfang",
-        "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-        "totalQuantity": 56
+        "itemName": "Complete Tacet Suppressions For Double Drop",
+        "icon": "",
+        "totalQuantity": null
       }
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1787788800,
-    "displayEndTime": 1789344000
+    "displayStartTime": 1790035200,
+    "displayEndTime": 1790640000
   },
   {
-    "name": "The Strings Remember",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/614773",
-    "dateText": "September 3, 2026 - September 21, 2026 Reach Union Level 14 and Activate the Four Chime Shaftpost During the Main Quest Chapter IV Act I",
-    "imageUrl": "https://img.game8.co/4581501/c06381ba427f3a143cbb69d0bfa9ebee.png/show",
+    "name": "3.6 Wuthering Exploration",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/457210",
+    "dateText": "September 17, 2026 - September 29, 2026 Reach Union Level 14",
+    "imageUrl": "https://img.game8.co/4581500/51a74acd26c03e9814eb2e9dcfcd0ff1.png/show",
     "status": "ongoing",
     "rewards": [
       {
         "itemName": "Astrite",
         "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": 400
+        "totalQuantity": 800
       },
       {
-        "itemName": "Shell Credit",
-        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-        "totalQuantity": 280000
-      },
-      {
-        "itemName": "Premium Resonance Potion",
-        "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
-        "totalQuantity": 15
-      },
-      {
-        "itemName": "Premium Energy Core",
-        "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
-        "totalQuantity": 10
+        "itemName": "Echo Modifier",
+        "icon": "https://img.game8.co/4312863/f5950222ac4eab8d210b08158903a777.png/show",
+        "totalQuantity": 4
       },
       {
         "itemName": "Premium Sealed Tube",
         "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-        "totalQuantity": 10
+        "totalQuantity": 30
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 100
       }
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1788393600,
-    "displayEndTime": 1789948800
+    "displayStartTime": 1789603200,
+    "displayEndTime": 1790640000
   },
   {
     "name": "Ascendant Aces",
@@ -268,10 +253,72 @@
     "displayEndTime": 1790640000
   },
   {
-    "name": "3.6 Wuthering Exploration",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/457210",
-    "dateText": "September 17, 2026 - September 29, 2026 Fulfill daily tasks to complete milestones and earn various rewards!",
-    "imageUrl": "https://img.game8.co/4581500/51a74acd26c03e9814eb2e9dcfcd0ff1.png/show",
+    "name": "Beyond the Waves",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/484720",
+    "dateText": "Releases in Version 3.7 Log-in daily and complete tasks to win random rewards by revealing tiles on a board!",
+    "imageUrl": "https://img.game8.co/4629160/7165f41a8c92ad69083fce902214ace0.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Crystal Solvent",
+        "icon": "https://img.game8.co/4312367/f148e79cb7a4a3b69e9863926c2bbcce.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Premium Sealed Tube",
+        "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Back to Solaris",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/546269",
+    "dateText": "Releases in Version 3.7 Invite your former companions back and complete tasks together to receive Astrite, Shell Credits and more! Returning Rovers who also link their accounts will also receive bonus gifts!",
+    "imageUrl": "https://img.game8.co/4628926/673af93200c280efe265c03b47bb26b1.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": null
+      },
+      {
+        "itemName": "Advanced Enclosure Tank",
+        "icon": "https://img.game8.co/4312270/544c3849720b8fbba592be21db4ef5a8.png/show",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Cubie Wars",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624734",
+    "dateText": "Releases in Version 3.7 Engage in combat by organizing and managing your Cubie's equipment.",
+    "imageUrl": "https://img.game8.co/4627604/5c61240a0da0b4cf0471d7b928a55f01.png/show",
     "status": "upcoming",
     "rewards": [
       {
@@ -281,26 +328,189 @@
       }
     ],
     "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1789603200,
-    "displayEndTime": 1790640000
+    "endTime": null
   },
   {
-    "name": "Chord Cleansing",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/457211",
-    "dateText": "September 22, 2026 - September 29, 2026 Earn double echo and echo leveling material drops during this event!",
-    "imageUrl": "https://img.game8.co/3911426/29433b0424a78c40dc82c8c47006f7b7.png/show",
+    "name": "Echo Erase",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624745",
+    "dateText": "Releases in Version 3.7 Move your echoes around the board to clear matching echoes and recharge your Resonator's skills.",
+    "imageUrl": "https://img.game8.co/4627938/5a98678f83ace3c7e6727f8c51cdbfe7.png/show",
     "status": "upcoming",
     "rewards": [
       {
-        "itemName": "Complete Tacet Suppressions For Double Drop",
+        "itemName": "Astrites and Materials",
         "icon": "",
         "totalQuantity": null
       }
     ],
     "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Artisan's Search",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624767",
+    "dateText": "Releases in Version 3.7 A combat event where Rovers battle enemies across multiple waves.",
+    "imageUrl": "https://img.game8.co/4627963/1f30063629805c54d0b5c2cf5d5748ba.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Dreams in the Capsule",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/625190",
+    "dateText": "Releases in Version 3.7 Complete various exploration tasks to earn rewards.",
+    "imageUrl": "https://img.game8.co/4628287/011ae4eaae85713db22f494f1ce1ee9e.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Past Dreams, Traced Seals",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/625197",
+    "dateText": "Releases in Version 3.7 Join Suoming in this Photo Collection Event in a journey to capture the scenery and memories in the Heart Realm.",
+    "imageUrl": "https://img.game8.co/4628332/5c1ac47893c4f3ace4a390b25bc7def0.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Waking Moon Fishing",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624776",
+    "dateText": "Releases in Version 3.7 A mysterious stall appears at the Waking Moon Festival where Rovers will be able to take on a unique fishing challenge.",
+    "imageUrl": "https://img.game8.co/4627979/de11130492c2d4c03930362f26f12bcb.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites and Materials",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Blooms for the Shadow",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/625201",
+    "dateText": "Releases in Version 3.7 Explore various Heart Realms to collect Thousandfold Petals",
+    "imageUrl": "https://img.game8.co/4628626/fb99ca20e2a4c0b6bbb5ea1c3db945b3.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Astrites, Materials, Phantom Echo and Livery",
+        "icon": "",
+        "totalQuantity": null
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "Gifts of Waking Moon",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624835",
+    "dateText": "Releases in Version 3.7 A 7-day log-in event where players can claim Lustrous and Radiant Tides.",
+    "imageUrl": "https://img.game8.co/4628008/5d3119f61ebc199362117f735ad3e8cd.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": 5
+      },
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 5
+      }
+    ],
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "name": "3.7 Moonlit Path",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624672",
+    "dateText": "September 30, 2026 - November 11, 2026 Join this spending event to obtain additional milestone rewards when you purchase in-game transactions!",
+    "imageUrl": "https://img.game8.co/4626932/54872c5ccd673e77fbb8276644b5795d.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Lustrous Tide",
+        "icon": "https://img.game8.co/4312544/392d5a5d038dd2445563a9bbd1e62309.png/show",
+        "totalQuantity": 1
+      },
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 1
+      },
+      {
+        "itemName": "Forging Tide",
+        "icon": "https://img.game8.co/4312437/864868bc5b28c8e08f9403af7db7e1f3.png/show",
+        "totalQuantity": 2
+      },
+      {
+        "itemName": "5-Star Weapon Supply Chest: Synth Armament",
+        "icon": "",
+        "totalQuantity": 1
+      },
+      {
+        "itemName": "Shorekeeper",
+        "icon": "",
+        "totalQuantity": 5
+      }
+    ],
+    "startTime": null,
     "endTime": null,
-    "displayStartTime": 1790035200,
-    "displayEndTime": 1790640000
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1794355200
+  },
+  {
+    "name": "Gifts of Singing Drizzle",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624839",
+    "dateText": "October 22, 2026 - November 11, 2026 Log-in to claim 10 Radiant Tidesand more.",
+    "imageUrl": "https://img.game8.co/4628068/aba884c5c93898f558bc694981e1e35c.png/show",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Radiant Tide",
+        "icon": "https://img.game8.co/4312620/4184fb6ca42754e790e5e2ac642a88dd.png/show",
+        "totalQuantity": 10
+      },
+      {
+        "itemName": "Crystal Solvent",
+        "icon": "https://img.game8.co/4312367/f148e79cb7a4a3b69e9863926c2bbcce.png/show",
+        "totalQuantity": 10
+      },
+      {
+        "itemName": "Premium Tuner",
+        "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
+        "totalQuantity": 100
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792627200,
+    "displayEndTime": 1794355200
   }
 ]

@@ -8,27 +8,27 @@
       {
         "itemName": "Unbroken Echo",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/treasure.webp"
+        "icon": ""
       },
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicenormal-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       },
       {
         "itemName": "Floe Cinema Tickets",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-likeability-gift-02.webp"
+        "icon": ""
       },
       {
         "itemName": "Heterogeneous Units",
@@ -49,12 +49,12 @@
     "name": "Breezy Tour",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
     "dateText": "September 17, 10:00 – September 30, 05:59 (UTC+8)",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Eternal Shell Songs",
@@ -64,12 +64,12 @@
       {
         "itemName": "Elite Hunter Guides",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/characterupmaterial-lv3.webp"
+        "icon": ""
       },
       {
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/weaponexp-lv3-256x256.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4613914/315e3cef5489162625f4378d10fdf585.png/show",
@@ -84,9 +84,9 @@
     "name": "Pixel Surge",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
     "dateText": "September 14, 05:00 – September 21, 04:59 (server time)",
-    "status": "ongoing",
+    "status": "past",
     "rewards": [],
-    "imageUrl": "https://img.game8.co/4524807/394d53bc786ff856fe4f3a352a15203f.png/show",
+    "imageUrl": "https://img.game8.co/4621412/ec67208407da7d104eda85f3fbe39741.jpeg/show",
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1789344000,
@@ -100,12 +100,12 @@
     "name": "Fons Rush",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
     "dateText": "September 21, 05:00 – September 28, 04:59 (server time)",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp",
+        "icon": "",
         "details": {
           "quantityKnown": false,
           "multiplier": 2
@@ -131,42 +131,42 @@
       {
         "itemName": "Tide",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-carcard25.webp"
+        "icon": ""
       },
       {
         "itemName": "Sunny Surf",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-010-5-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Saltwater Taffy",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-019-6-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Cloudless Summer",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/player-009-11-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Endless Summer",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-manghe-summer-01-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicenormal-256.webp"
+        "icon": ""
       },
       {
         "itemName": "A Handwritten Letter",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-01-yifengshouxiexin.webp"
+        "icon": ""
       },
       {
         "itemName": "Anomaly Pilgrimage Material Selection Box",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/treasure.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
@@ -186,7 +186,7 @@
       {
         "itemName": "Solid Dice",
         "totalQuantity": 10,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicelimite-256.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4593115/a75bac1ccf76a58852f5bac43f8a112f.jpeg/show",
@@ -207,42 +207,42 @@
       {
         "itemName": "Summer Glow event avatar frame",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-stpq-512.webp"
+        "icon": ""
       },
       {
         "itemName": "Imaginist Court event namecard",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-bg-card-show-strip-58.webp"
+        "icon": ""
       },
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicenormal-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       },
       {
         "itemName": "Floe Cinema Tickets",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-likeability-gift-02.webp"
+        "icon": ""
       },
       {
         "itemName": "Elite Hunter Guides",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/characterupmaterial-lv3.webp"
+        "icon": ""
       },
       {
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/weaponexp-lv3-256x256.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4594821/d6724c291cbe068cee36432d2176b029.jpeg/show",
@@ -263,27 +263,27 @@
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       },
       {
         "itemName": "Floe Cinema Tickets",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/yh-ui-item-likeability-gift-02.webp"
+        "icon": ""
       },
       {
         "itemName": "Elite Hunter Guides",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/characterupmaterial-lv3.webp"
+        "icon": ""
       },
       {
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/weaponexp-lv3-256x256.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4594159/528edf4ad4538960463a2d877de0f247.jpeg/show",
@@ -304,32 +304,32 @@
       {
         "itemName": "Hunter's Crucible - Steel Tempered",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-yh-title-zfsy-fk01-icon.webp"
+        "icon": ""
       },
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicenormal-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       },
       {
         "itemName": "Elite Hunter Guides",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/characterupmaterial-lv3.webp"
+        "icon": ""
       },
       {
         "itemName": "Chaotic Dye",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/weaponexp-lv3-256x256.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4594158/030b15b588a1ed83f6abb04385ea40af.jpeg/show",
@@ -350,7 +350,7 @@
       {
         "itemName": "Full Haul event avatar frame",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/ui-img-frame-mzeg-256-b.webp"
+        "icon": ""
       },
       {
         "itemName": "Treasure Hunt event namecard",
@@ -360,17 +360,17 @@
       {
         "itemName": "Annulith",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-ringstone.webp"
+        "icon": ""
       },
       {
         "itemName": "Fabricated Dice",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/dicenormal-256.webp"
+        "icon": ""
       },
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4594890/9800f3586529ed545ec9a4b38cf8f958.jpeg/show",
@@ -390,7 +390,7 @@
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp",
+        "icon": "",
         "details": {
           "quantityKnown": false
         }
@@ -415,7 +415,7 @@
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": "https://static.icy-veins.com/images/neverness-to-everness/items/source/icon-fonizie.webp"
+        "icon": ""
       }
     ],
     "imageUrl": "https://img.game8.co/4544507/49cb771f11f5c715c6c1ed7e94e044ae.png/show",

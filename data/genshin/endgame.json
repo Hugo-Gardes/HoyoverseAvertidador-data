@@ -1,11 +1,11 @@
 {
   "spiralAbyss": {
-    "version": "7.0",
+    "version": "7.1",
     "blessing": "Ice-Surging Moon",
-    "firstHalfBuff": "First Half Characters' Superconduct DMG increased by 200% and Stellar-Conduct DMG increased by 75%.",
-    "secondHalfBuff": "Second Half Characters' Normal Attack Pyro DMG increased by 75%.",
-    "startTime": 1788220800,
-    "endTime": 1789516800,
+    "firstHalfBuff": "First Half: Characters' Swirl DMG increased by 200% and Stellar Swirl DMG increased by 75%.",
+    "secondHalfBuff": "Second Half: Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.",
+    "startTime": 1790812800,
+    "endTime": 1792108800,
     "chambers": [
       {
         "chamber": 1,
@@ -14,19 +14,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Ruin Scout",
+                "name": "Bandersnatch",
                 "count": 1,
-                "icon": "https://img.game8.co/3394505/a766c96103e93f3fa75e61bb3634aad3.png/show"
-              },
-              {
-                "name": "Ruin Cruiser",
-                "count": 1,
-                "icon": "https://img.game8.co/3394503/dfe1d3b026458b5ca94bafe4e5fdf2d1.png/show"
-              },
-              {
-                "name": "Perpetual Mechanical Array",
-                "count": 1,
-                "icon": "https://img.game8.co/3393127/3c2d91cb79abbd5007d30f4b7512cd68.png/show"
+                "icon": "https://img.game8.co/4588857/3d77a9e47cf9134919c82480f5d888ef.png/show"
               }
             ]
           },
@@ -34,14 +24,14 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Construction Specialist Mek",
+                "name": "Wilderness Exile",
                 "count": 1,
-                "icon": "https://img.game8.co/3752652/dfe3c50c14184e4a0d8ea22c3d2efc10.png/show"
+                "icon": "https://img.game8.co/4275045/658f4fb03661dab65b6f0c5989ff7e1a.png/show"
               },
               {
-                "name": "Icewind Suite",
+                "name": "Raskolnikov",
                 "count": 1,
-                "icon": "https://img.game8.co/3755388/c2778918781015aac8adaac432d35237.png/show"
+                "icon": "https://img.game8.co/4275035/e8d5b0ba3dbb0efe1855efd030393075.png/show"
               }
             ]
           }
@@ -54,14 +44,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Chimeric Horned Bear",
+                "name": "Immortal Construct",
                 "count": 1,
-                "icon": "https://img.game8.co/4590099/d1776bf2a10b6a7638f439426ee54951.png/show"
-              },
-              {
-                "name": "Chimeric Winged Lion",
-                "count": 1,
-                "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
+                "icon": "https://img.game8.co/4574347/ab98f5aa175ff1f41752b4314206f76a.png/show"
               }
             ]
           },
@@ -69,14 +54,14 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Cryo Abyss Mage",
-                "count": 1,
-                "icon": "https://img.game8.co/3345414/a6da7c1ff151bfe5d99f4d8e3da7eac0.png/show"
+                "name": "Fishers of Hidden Depths",
+                "count": 4,
+                "icon": "https://img.game8.co/4384784/4cbcee22316d198e87229bd231a3b444.png/show"
               },
               {
-                "name": "Iniquitous Baptist",
+                "name": "Lord of the Hidden Depths - Whisperer of Nightmares",
                 "count": 1,
-                "icon": "https://img.game8.co/3674926/b2c8ad06396b2500fa18c33f68fcd20b.png/show"
+                "icon": "https://img.game8.co/4377175/327e3ec15b1bb16955ee74576c3649db.png/show"
               }
             ]
           }
@@ -89,9 +74,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Furiosa",
+                "name": "Churin",
                 "count": 1,
-                "icon": "https://img.game8.co/4588827/295909deef50108328353f88026af41a.png/show"
+                "icon": "https://img.game8.co/4588859/4fae677d89991993bea46a9362c6ba21.png/show"
               }
             ]
           },
@@ -99,14 +84,9 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Secret Source Automaton: Hunter-Seeker",
+                "name": "Sigurd",
                 "count": 1,
-                "icon": "https://img.game8.co/3973677/471ec4556f5837af2ae7437065e6d4af.png/show"
-              },
-              {
-                "name": "Gluttonous Yumkasaur Mountain King",
-                "count": 1,
-                "icon": "https://img.game8.co/4019342/7ad958c116cbe952a0069989eb97e62e.png/show"
+                "icon": "https://img.game8.co/4275585/634b9e5b90885a973cd69074058aa708.png/show"
               }
             ]
           }

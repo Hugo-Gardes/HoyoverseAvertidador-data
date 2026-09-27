@@ -126,19 +126,19 @@
       ],
       "selectableBuffs": [
         {
-          "name": "Smack Talk",
+          "name": "Euphoria",
           "icon": null,
-          "description": "Increases the All-Type RES PEN of Follow-Up ATK DMG dealt by 30%. During Surging Grit, after an ally target uses a Follow-Up ATK to attack enemy targets, deals Additional DMG equal to 40% of the attacker's ATK plus 20% of the attacker's Max HP to targets adjacent to each attacked enemy target. This DMG is considered as Follow-Up ATK DMG."
+          "description": "During \"Surging Grit,\" enemy targets take 30% more Elation DMG, and additionally increases Aha Instant's SPD by 20."
         },
         {
-          "name": "Grand Rhetoric",
+          "name": "Delirium",
           "icon": null,
-          "description": "During Surging Grit, CRIT DMG dealt by ally targets when using their Ultimate increases by 60%. When Surging Grit ends, all allies regenerate 20% Energy. After ally targets use their Ultimate, every enemy target hit additionally accumulates 5 Grit Value for allies."
+          "description": "After an ally target uses their Basic ATK or Skill, gains 1 Punchline. During Surging Grit, the ally targets' DMG dealt increases by 50%. For each enemy target hit with Basic ATK or Skill, ally team additionally accumulates Grit Value."
         },
         {
-          "name": "Motormouth",
+          "name": "Riddle Fanatic",
           "icon": null,
-          "description": "Increases the SPD of all allies by 20%. During Surging Grit, DMG received by enemy targets additionally increases by 30%. After ally targets use their Basic ATK or Skill, every enemy target hit additionally accumulates 3 Grit Value for allies."
+          "description": "After an ally memosprite uses an attack, gains 2 Punchline. During Surging Grit, DMG dealt by ally memosprites increases by 50%. After memosprites' attacks, every enemy target hit additionally accumulates 3 Grit Value for allies."
         }
       ],
       "startTime": 1789344000,
@@ -201,8 +201,20 @@
       ],
       "bosses": [
         {
-          "name": "Gepard",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Character_Gepard_Splash_Art.png/revision/latest/scale-to-width-down/256?cb=20230216232354",
+          "name": "Swarm: True Sting",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Enemy_Swarm_True_Sting_%28Complete%29.png/revision/latest/scale-to-width-down/256?cb=20260725083316",
+          "weaknesses": [
+            "Quantum",
+            "Imaginary"
+          ],
+          "level": "85",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Paramount Bliss Inverted: Illwish Archlotus",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Enemy_Paramount_Bliss_Inverted_Illwish_Archlotus.png/revision/latest/scale-to-width-down/256?cb=20260725082619",
           "weaknesses": [
             "Physical",
             "Imaginary"
@@ -213,23 +225,11 @@
           "axiomBuffs": []
         },
         {
-          "name": "Alloy Mechatron: King Pom-Pom",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Enemy_Alloy_Mechatron_King_Pom-Pom.png/revision/latest/scale-to-width-down/256?cb=20260725075840",
+          "name": "Borisin Warhead: Hoolay",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Enemy_Borisin_Warhead_Hoolay.png/revision/latest/scale-to-width-down/256?cb=20240910015333",
           "weaknesses": [
             "Fire",
-            "Lightning"
-          ],
-          "level": "85",
-          "isBonus": false,
-          "traits": [],
-          "axiomBuffs": []
-        },
-        {
-          "name": "Abundant Ebon Deer",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Enemy_Abundant_Ebon_Deer.png/revision/latest/scale-to-width-down/256?cb=20260725075739",
-          "weaknesses": [
-            "Fire",
-            "Quantum"
+            "Wind"
           ],
           "level": "85",
           "isBonus": true,
@@ -347,7 +347,7 @@
         },
         {
           "name": "Hellcharred Shadow General",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Enemy_Ecliptic_Inner_Beast_%26_Shadow_of_Feixiao.png/revision/latest/scale-to-width-down/256?cb=20240910015343",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Enemy_Shadow_of_Feixiao.png/revision/latest/scale-to-width-down/256?cb=20260725082939",
           "weaknesses": [
             "Physical",
             "Fire",

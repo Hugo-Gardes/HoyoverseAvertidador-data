@@ -6,14 +6,14 @@
       "nameFr": "Défense de Shiyu : Nœud critique",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6a/Shiyu_Defense_Critical_Node.png/revision/latest/scale-to-width-down/256?cb=20240901202649",
       "version": "3.1",
-      "phaseName": "2026-09-04",
+      "phaseName": "2026-09-18",
       "selectableBuffs": [],
       "sharedMechanics": [
         "In this stage, dealing DMG to enemies earns you DMG Score. Defeating a single normal/elite enemy will grant you an instance of Elimination Score.",
         "In this stage, scores earned at different times will receive additional multiplier bonuses. The earlier in the challenge, the higher the multiplier. The total score cap (including bonus) is 50,000."
       ],
-      "startTime": 1788465600,
-      "endTime": 1789675199,
+      "startTime": 1789675200,
+      "endTime": 1790884799,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/457183",
       "rewards": [
         {
@@ -44,19 +44,69 @@
       ],
       "bosses": [
         {
-          "name": "Tepes",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a2/Enemy_Tepes.png/revision/latest/scale-to-width-down/185?cb=20250423021952",
+          "name": "Lockspring (Boss)",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
           "stage": "Room 1",
           "level": "70",
           "weaknesses": [
-            "Ice",
+            "Electric",
+            "Physical"
+          ],
+          "resistances": [
             "Ether"
           ],
-          "resistances": [],
           "isBonus": false,
           "mechanics": [
-            "Agent Ether DMG and Ice DMG increase by 35%, while their CRIT DMG increases by 25%.",
-            "When an Agent with Attack specialty hits a Stunned enemy, enemy DEF drops by 25% for 5s. Repeated triggers reset the duration."
+            "Agent Sharp DMG increases by 25%, and DEF increases by 15%.",
+            "When an Agent hits an enemy and triggers a critical hit, if the enemy is Stunned, the Stun DMG Multiplier increases by 20% for 10s. Repeated triggers reset the duration."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Assault Gunner",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b6/Enemy_Assault_Gunner.png/revision/latest/scale-to-width-down/185?cb=20240726233408",
+                  "count": 1
+                },
+                {
+                  "name": "Autonomous Support Unit - Guardian MK II",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d1/Enemy_Autonomous_Support_Unit_-_Guardian_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726233556",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Lockspring (Boss)",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Decider - Terror Raptor",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/14/Enemy_The_Decider_-_Terror_Raptor.png/revision/latest/scale-to-width-down/185?cb=20260506205022",
+          "stage": "Room 2",
+          "level": "70",
+          "weaknesses": [
+            "Ice",
+            "Physical"
+          ],
+          "resistances": [
+            "Electric"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent Anomaly Buildup Rate increases by 15%, and Attribute Anomaly DMG dealt increases by 20%.",
+            "If there are 2/3 Agents in the squad with the Anomaly specialty, Agent Anomaly Proficiency increases by 20/60."
           ],
           "objectives": [],
           "waves": [
@@ -92,8 +142,8 @@
               "index": 3,
               "enemies": [
                 {
-                  "name": "Tepes",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a2/Enemy_Tepes.png/revision/latest/scale-to-width-down/185?cb=20250423021952",
+                  "name": "The Decider - Terror Raptor",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/14/Enemy_The_Decider_-_Terror_Raptor.png/revision/latest/scale-to-width-down/185?cb=20260506205022",
                   "count": 1
                 }
               ]
@@ -101,68 +151,21 @@
           ]
         },
         {
-          "name": "Autonomous Assault Unit - Airspace Sentinel",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/Enemy_Autonomous_Assault_Unit_-_Airspace_Sentinel.png/revision/latest/scale-to-width-down/185?cb=20260618093740",
-          "stage": "Room 2",
-          "level": "70",
-          "weaknesses": [
-            "Ice",
-            "Wind"
-          ],
-          "resistances": [
-            "Ether"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "If there are 2/3 Agents with the Anomaly specialty in the squad, Attribute Anomaly DMG dealt by Agents increases by 10%/60%, and the whole squad initially gains 500/1,500 Decibels upon entering combat."
-          ],
-          "objectives": [],
-          "waves": [
-            {
-              "team": 1,
-              "index": 1,
-              "enemies": [
-                {
-                  "name": "Miasmic - Frenzied Maniac",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/72/Enemy_Miasmic_-_Frenzied_Maniac.png/revision/latest/scale-to-width-down/185?cb=20251024171351",
-                  "count": 1
-                },
-                {
-                  "name": "Miasmic - Trinox",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9b/Enemy_Miasmic_-_Trinox.png/revision/latest/scale-to-width-down/185?cb=20251024171258",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "team": 1,
-              "index": 2,
-              "enemies": [
-                {
-                  "name": "Autonomous Assault Unit - Airspace Sentinel",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/Enemy_Autonomous_Assault_Unit_-_Airspace_Sentinel.png/revision/latest/scale-to-width-down/185?cb=20260618093740",
-                  "count": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lockspring (Boss)",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
+          "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
           "stage": "Room 3",
           "level": "70",
           "weaknesses": [
-            "Electric",
+            "Ether",
             "Physical"
           ],
           "resistances": [
-            "Ether"
+            "Fire"
           ],
           "isBonus": false,
           "mechanics": [
-            "Agent DEF increases by 15%, and attacks against enemies ignore 20% of their Electric RES.",
-            "After an Agent uses EX Special Attack, their CRIT Rate increases by 5% and CRIT DMG increases by 20% for 15s. Repeated triggers reset the duration."
+            "Agent Ether DMG increases by 20%, and Anomaly Proficiency increases by 20.",
+            "When Agents inflict an Attribute Anomaly on enemies, the Stun DMG Multiplier increases by 20% for 15s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [
@@ -171,19 +174,14 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Autonomous Support Unit - Lightfoot Rover MK II",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3d/Enemy_Autonomous_Support_Unit_-_Lightfoot_Rover_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726232333",
+                  "name": "Arlaune",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2b/Enemy_Arlaune.png/revision/latest/scale-to-width-down/185?cb=20240725154731",
                   "count": 1
                 },
                 {
-                  "name": "Miasmic Trooper - Shieldguard",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
-                  "count": 3
-                },
-                {
-                  "name": "Miasmic Trooper - Cannoneer",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
-                  "count": 2
+                  "name": "Ionized - Pugnus",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a5/Enemy_Ionized_-_Pugnus.png/revision/latest/scale-to-width-down/185?cb=20251126235346",
+                  "count": 1
                 }
               ]
             },
@@ -192,8 +190,8 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "Lockspring (Boss)",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
+                  "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
                   "count": 1
                 }
               ]
@@ -208,12 +206,12 @@
       "nameFr": "Assaut mortel",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
       "version": "3.2",
-      "phaseName": "2026-09-11",
+      "phaseName": "2026-09-25",
       "selectableBuffs": [
         {
-          "name": "Sharp Rupture",
+          "name": "Ultimate Edge",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Icon_Deadly_Assault_Buff_%28ThemeSpace%29.png/revision/latest/scale-to-width-down/45?cb=20251114180209",
-          "description": "Agent PEN Ratio increases by 5%. When an attack hits an enemy, it ignores 15% of the target's Electric RES. · After an Agent uses an EX Special Attack or Special Attack, Sharp DMG increases by 20% and DEF increases by 10% for 20s. Repeated triggers reset the duration."
+          "description": "Agent Sharp DMG increases by 15%, and their DEF increases by 15%. · After an Agent uses an EX Special Attack, Special Attack or Ultimate, attacks ignore 20% of enemy Electric RES on hit for 20s. Repeated triggers reset the duration."
         },
         {
           "name": "Cinders of Corrosion",
@@ -221,14 +219,14 @@
           "description": "If there are 2/3 Agents in the squad with the Anomaly specialty, the whole squad's Anomaly Proficiency increases by 20/60 respectively, and Anomaly Buildup Rate increases by 10%/20% respectively. · After an Agent inflicts an Attribute Anomaly on an enemy, the enemy's DEF is reduced by 10% for 10s. Repeated triggers reset the duration."
         },
         {
-          "name": "Gleaming Frost",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
-          "description": "Agents with the Attack specialty deal 20% more Ice DMG. · Agent CRIT DMG increases by 30%. When attacking a Stunned enemy, the enemy's Stun DMG Multiplier additionally increases by 20% for 20s. Repeated triggers reset the duration."
+          "name": "Collapse II",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/db/Icon_Deadly_Assault_Buff_%28Stun%29.png/revision/latest/scale-to-width-down/45?cb=20250130111842",
+          "description": "Agent Ether DMG and Physical DMG increase by 25%, and Daze dealt by Agents with the Stun specialty increases by 20%. · After an Agent stuns an enemy, the enemy's Stun DMG Multiplier increases by 40% and they recover from Stun 15% slower for 20s. Repeated triggers reset the duration."
         }
       ],
       "sharedMechanics": [],
-      "startTime": 1789092000,
-      "endTime": 1790279999,
+      "startTime": 1790301600,
+      "endTime": 1791489599,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -295,18 +293,21 @@
           "waves": []
         },
         {
-          "name": "Girtablullu - Stagnant Aberrant",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Enemy_Girtablullu_-_Stagnant_Aberrant.png/revision/latest/scale-to-width-down/185?cb=20260803004623",
+          "name": "Miasmic Fiend - Unfathomable",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5d/Enemy_Miasmic_Fiend_-_Unfathomable.png/revision/latest/scale-to-width-down/185?cb=20250716183016",
           "stage": "Trial Mode: Second Challenge",
           "level": "70",
-          "weaknesses": [],
-          "resistances": [],
+          "weaknesses": [
+            "Physical",
+            "Ether"
+          ],
+          "resistances": [
+            "Fire"
+          ],
           "isBonus": false,
           "mechanics": [
-            "When an Agent inflicts an Attribute Anomaly on an enemy, the target enemy gains 1 stack of Blight Mark of the corresponding attribute, lasting 30s and stacking up to 2 times. Repeated triggers of same-attribute Blight Mark reset its duration.",
-            "For every stack of Blight Mark inflicted, the enemies take 8% more Attribute Anomaly DMG, and DMG taken by Corruptive Barrier increases by 8%.",
-            "When inflicting Impaired or Shutdown on an enemy, the whole squad's Anomaly Proficiency increases by 60 pts, lasting 30s. Repeated triggers reset the duration.",
-            "Successfully inflicting Impaired grants 1000 Performance Points; successfully countering Control Skill grants 500 Performance Points each time; preventing an enemy's Corruptive Barrier from completing its charge and rendering them Impaired grants 1,500 Performance Points. During the Control Skill, when triggering Shutdown via Counter Assist, obtain the remaining Performance Points available from the current Control Skill. Maximum obtainable Performance Points: 5,000.",
+            "When Miasmic Fiend is affected by Attribute Anomaly, it takes 8% bonus Anomaly DMG from Agents, stacking up to 6 times; activating Miasmic Shield clears all stacks, with each stack increasing the reduction efficiency of Miasmic Shield by 2.5%.",
+            "When Agents bait Miasmic Fiend's ground attack into detonating at least 5 Miasma Pools at once and avoid being hit by the attack and pool explosions, they will earn 1,700 Performance Points, up to a maximum of 5,000.",
             "Suitable for Agents with Anomaly specialty."
           ],
           "objectives": [
@@ -343,8 +344,8 @@
           "waves": []
         },
         {
-          "name": "Integrated - Scorched Horizon",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/77/Enemy_Phaethon_of_the_Scorched_Horizon.png/revision/latest/scale-to-width-down/185?cb=20260506204905",
+          "name": "Integrated - Phaethon of the Scorched Horizon",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/72/Enemy_Integrated_-_Phaethon_of_the_Scorched_Horizon.png/revision/latest/scale-to-width-down/185?cb=20260909034233",
           "stage": "Adversity Mode",
           "level": "70",
           "weaknesses": [

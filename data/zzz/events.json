@@ -139,8 +139,57 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
     "dateText": "2026/09/16 10:00 (server time) – 2026/10/05 03:59 (server time)",
     "imageUrl": "https://img.game8.co/4606682/cb438a28892e189b3c82ec2d1da8c18c.png/show",
-    "status": "upcoming",
-    "rewards": [],
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 300,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Tuning Calibrator",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893319/4eb8e6bd40e37ae5194b3d53bc00eccb.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 36,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 12,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Official Investigator Log",
+        "totalQuantity": 24,
+        "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
+        "details": null
+      },
+      {
+        "itemName": "W-Engine Power Supply",
+        "totalQuantity": 12,
+        "icon": "https://img.game8.co/3893362/95c9f184625d657b46e2c866f4e930a8.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Denny",
+        "totalQuantity": 135000,
+        "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
+        "details": null
+      }
+    ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1789516800,
@@ -153,7 +202,7 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
     "dateText": "2026/09/23 10:00 (server time) – 2026/10/20 03:59 (server time)",
     "imageUrl": "https://img.game8.co/4605412/519e0434280ee60910aefc11304a6902.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Avatar",
@@ -165,6 +214,42 @@
         "itemName": "Skin",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/4080127/8bea03746455be1d3298f25b978bc6a6.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Polychrome",
+        "totalQuantity": 300,
+        "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Senior Investigator Log",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
+        "details": null
+      },
+      {
+        "itemName": "W-Engine Energy Module",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Original Chip",
+        "totalQuantity": 20,
+        "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Ether Battery",
+        "totalQuantity": 1,
+        "icon": "https://img.game8.co/3893322/4080858e426f73e4f03f122b8a46a88b.png/show",
+        "details": null
+      },
+      {
+        "itemName": "Bangboo System Widget",
+        "totalQuantity": 6,
+        "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
         "details": null
       }
     ],
@@ -180,7 +265,7 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/473610",
     "dateText": "2026/09/23 04:00 (server time) – 2026/09/28 03:59 (server time)",
     "imageUrl": "https://img.game8.co/3991278/45804946cf001698f2212d7b2c018a67.png/show",
-    "status": "upcoming",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Routine Cleanup",
