@@ -96,113 +96,119 @@
   },
   "stygianOnslaught": {
     "version": null,
-    "cycleName": "Savage Tremors",
+    "cycleName": "Luminous Battlefront",
     "startTime": null,
     "endTime": null,
     "bosses": [
       {
         "stage": 1,
-        "name": "Chimeric Winged Lion",
-        "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
+        "name": "Churin",
+        "icon": "https://img.game8.co/4588859/4fae677d89991993bea46a9362c6ba21.png/show"
       },
       {
         "stage": 2,
-        "name": "Wind Operative",
-        "icon": "https://img.game8.co/3772354/592f3463aac766447335bfcd44acfde2.png/show"
+        "name": "Secret Source Automaton: Overseer Device",
+        "icon": "https://img.game8.co/4282544/0b4a486e0b6a2ddbd93e4d650a57ec87.png/show"
       },
       {
         "stage": 3,
-        "name": "Knuckle Duckle",
-        "icon": "https://img.game8.co/4282545/e136f8361ebf307ca7b192a018b6a5f1.png/show"
+        "name": "Guardian Blade of Drifting Snow",
+        "icon": "https://img.game8.co/4617009/83404b58c5edf6be9e02e593352643cb.png/show"
       }
     ]
   },
   "imaginariumTheater": {
-    "season": "27",
+    "season": "28",
     "version": null,
-    "startTime": 1788213600,
-    "endTime": 1790719200,
+    "startTime": 1790805600,
+    "endTime": 1793401200,
     "elements": [
+      "Cryo",
       "Hydro",
-      "Electro",
-      "Dendro"
+      "Anemo"
     ],
     "openingCharacters": [
       {
-        "name": "Columbina",
-        "icon": "https://img.game8.co/4383821/1792ce751a6cc1bf6eeddda7ecdeb340.png/show"
+        "name": "Neuvillette",
+        "icon": "https://img.game8.co/3767456/67375a9dd425cccecf66145b20bad7be.png/show"
       },
       {
-        "name": "Cyno",
-        "icon": "https://img.game8.co/3585290/20da32e3dcd31625b6e1b20a82a75204.png/show"
+        "name": "Citlali",
+        "icon": "https://img.game8.co/4073945/8da07f9a9eccf4127045ea0a388e635b.png/show"
       },
       {
-        "name": "Lauma",
-        "icon": "https://img.game8.co/4269760/0ae338d81812aeb15f6b4bcb196a8060.png/show"
+        "name": "Wanderer",
+        "icon": "https://img.game8.co/3619988/99ba4ee9abf0e4a88d54da22b63455ee.png/show"
       },
       {
-        "name": "Xingqiu",
-        "icon": "https://img.game8.co/3294994/78be634e3a6f78d37e12b16e572762ef.png/show"
+        "name": "Barbara",
+        "icon": "https://img.game8.co/3294974/5e203f4ca8c30907bae5ad23432d6047.png/show"
       },
       {
-        "name": "Shinobu",
-        "icon": "https://img.game8.co/3539169/6dc2b1ce3d5bb8fe449d38c4416b2de4.png/show"
+        "name": "Kaeya",
+        "icon": "https://img.game8.co/3294973/b2a3d5ca1d6d4cb47acedfa8a64375ca.png/show"
       },
       {
-        "name": "Kaveh",
-        "icon": "https://img.game8.co/3681698/fad0a8213836388b08d0ec319c749d04.png/show"
+        "name": "Prune",
+        "icon": "https://img.game8.co/4505826/5e280f527599350bc537a5a6ab879c4f.png/show"
       }
     ],
     "bosses": [
       {
         "act": "Act 3",
-        "name": "Jadeplume Terrorshroom",
+        "name": "Perpetual Mechanical Array",
         "level": 90,
-        "icon": "https://img.game8.co/3570408/347ee7bf9425110cc92739ccd3863832.png/show"
+        "icon": "https://img.game8.co/3393127/3c2d91cb79abbd5007d30f4b7512cd68.png/show"
       },
       {
         "act": "Act 6",
-        "name": "Emperor of Fire and Iron",
+        "name": "Furiosa",
         "level": 92,
-        "icon": "https://img.game8.co/3755389/3a55edb6b2f29c4f6978f76473da2107.png/show"
+        "icon": "https://img.game8.co/4588827/295909deef50108328353f88026af41a.png/show"
       },
       {
         "act": "Act 8",
-        "name": "Battle-Hardened Pipilpan Idol",
+        "name": "Chimeric Winged Lion",
         "level": 95,
-        "icon": "https://img.game8.co/4242757/799399fad660c0fdfba89a0f89779658.png/show"
+        "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
       },
       {
         "act": "Act 10",
-        "name": "Radiant Moonfly",
+        "name": "Secret Source Automaton: Overseer Device",
         "level": 100,
-        "icon": "https://img.game8.co/4282546/c2bf513d46267539353208166afc4734.png/show"
+        "icon": "https://img.game8.co/4282544/0b4a486e0b6a2ddbd93e4d650a57ec87.png/show"
       }
     ],
     "extraBosses": [
       {
         "act": "Arcana Challenge I",
-        "name": "Shadowy Husk: Defender",
+        "name": "Rockfond Rifthound",
         "level": 100,
-        "icon": "https://img.game8.co/3664725/496b7575279abbeb10ddc804a453bcde.png/show"
-      },
-      {
-        "act": "Arcana Challenge I",
-        "name": "Shadowy Husk: Line Breaker",
-        "level": 100,
-        "icon": "https://img.game8.co/3664721/838c97f66ce7090e3653ac1fb1e41982.png/show"
-      },
-      {
-        "act": "Arcana Challenge I",
-        "name": "Shadowy Husk: Standard Bearer",
-        "level": 100,
-        "icon": "https://img.game8.co/3664722/94bac22b0542d8731632abb2443f4dac.png/show"
+        "icon": "https://img.game8.co/3432852/dfa27111f2788de44420638dcdf3f67b.png/show"
       },
       {
         "act": "Arcana Challenge II",
-        "name": "Primordial Bathysmal Vishap",
+        "name": "Ruin Grader",
         "level": 100,
-        "icon": "https://img.game8.co/3464875/eaf08aed8e91771013687b6913865122.png/show"
+        "icon": "https://img.game8.co/3345510/ea7e87bb55baebc1b508ac4f4df0604b.png/show"
+      },
+      {
+        "act": "Arcana Challenge II",
+        "name": "Ruin Guard",
+        "level": 100,
+        "icon": "https://img.game8.co/3345511/5ced90a46b21318ab75f44e426009a7b.png/show"
+      },
+      {
+        "act": "Arcana Challenge II",
+        "name": "Ruin Drake - Skywatch",
+        "level": 100,
+        "icon": "https://img.game8.co/3570616/542ff400a33e8263dd529da8f9145800.png/show"
+      },
+      {
+        "act": "Arcana Challenge II",
+        "name": "Ruin Drake - Earthguard",
+        "level": 100,
+        "icon": "https://img.game8.co/3570616/542ff400a33e8263dd529da8f9145800.png/show"
       }
     ]
   }

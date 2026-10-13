@@ -1,158 +1,1050 @@
 [
   {
-    "name": "Bloodmoon Rising",
-    "link": "https://zenless.hoyoverse.com/en-us/news/165979",
-    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/727bdd606fe0bc429f577d6ba9563fd0_2804425708752696136.jpg",
+    "name": "Cindernight Respite",
+    "link": "https://zenless.hoyoverse.com/en-us/news/166475",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/e3713ac961a75c34d5afdc73b586f468_35563092801221385.jpg",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Claret",
-        "icon": null,
+        "name": "Roxy",
+        "icon": "https://img.game8.co/4581329/c9fee2449e9b410858a668b62438f01f.png/show",
         "type": "character",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597672",
+          "observedAt": "2026-10-13T10:43:32.306Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Roxy",
+            "sourceIdentity": "Roxy"
+          },
+          "association": "named_game8_character_icon",
+          "assetUrl": "https://img.game8.co/4581329/c9fee2449e9b410858a668b62438f01f.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "5ec302b1c20a00ae445b2eae35f016604a1334280a118e75e8984df8adcace79"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Corin",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/030cc4746c6ab2b75027a2c367caa8b9_7268529475331555221.png",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102477",
+          "observedAt": "2026-10-13T10:43:33.752Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Corin",
+            "sourceIdentity": "Corin Wickes"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/030cc4746c6ab2b75027a2c367caa8b9_7268529475331555221.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "35ade238abe50d0e4297ed9781104c4c6256844dbb205263e3d9c20cf0b5a73e"
+        }
+      },
+      {
+        "name": "Billy",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/eea067cdceeda7b8cf45fd776f74e13a_4226709793790517741.png",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102184",
+          "observedAt": "2026-10-13T10:43:33.883Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Billy",
+            "sourceIdentity": "Billy Kid"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/eea067cdceeda7b8cf45fd776f74e13a_4226709793790517741.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "a729ff74d8d096694c0b2c7da8e1d110a04d77630ae4ea1e3a4b67f03aecf05b"
+        }
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792454400,
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:30.033Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Cindernight Respite",
+          "sourceIdentity": "Cindernight Respite"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/e3713ac961a75c34d5afdc73b586f468_35563092801221385.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "593d3d548450c6bde7080d8cb8cc660afc7ddb4f92b6d372b41ce2ee037fa805"
+      }
+    }
+  },
+  {
+    "name": "Crimson Moon Casket",
+    "link": "https://zenless.hoyoverse.com/en-us/news/166475",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/b1f0d0828fe9b08b05ec17215c29bf9c_8978018234021145861.jpg",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Crimson Moon Casket",
+        "icon": "https://img.game8.co/4605239/e0dca9ac09198248218df9caf645d86f.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 5,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618031",
+          "observedAt": "2026-10-13T10:43:36.890Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Crimson Moon Casket",
+            "sourceIdentity": "Crimson Moon Casket"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/4605239/e0dca9ac09198248218df9caf645d86f.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "b3ad3bb5ea74344d9ff92031c99673f86135df1d0a323cc2de168aa3a8bf6f7b"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Housekeeper",
+        "icon": "https://img.game8.co/3895054/75a9c05c0bb3654d69809f168ff97965.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
+          "observedAt": "2026-10-13T10:43:38.986Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Housekeeper",
+            "sourceIdentity": "Housekeeper"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895054/75a9c05c0bb3654d69809f168ff97965.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "1a7f4ba1b109345afc67b44e9d53af79370fb3af28654d47a90f01f841fd345b"
+        }
+      },
+      {
+        "name": "Starlight Engine Replica",
+        "icon": "https://img.game8.co/3895010/c2ea75ee51b98b99fef71e7b5e737296.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
+          "observedAt": "2026-10-13T10:43:38.972Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Starlight Engine Replica",
+            "sourceIdentity": "Starlight Engine Replica"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895010/c2ea75ee51b98b99fef71e7b5e737296.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "6c9c809869faced12e91284e693597eee98f19746b60d5219a5ec520278855de"
+        }
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792454400,
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:35.760Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Crimson Moon Casket",
+          "sourceIdentity": "Crimson Moon Casket"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/b1f0d0828fe9b08b05ec17215c29bf9c_8978018234021145861.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "8d0ef63be57e4c6cfceda6e2599c52b6da4b1440f91c86ba287f1ebde4052833"
+      }
+    }
+  },
+  {
+    "name": "Cold Rain Wanes in the Night",
+    "link": "https://zenless.hoyoverse.com/en-us/news/166475",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/45f68a52b8fe94d3ac0a4bb7a5fa2077_3228904859478514172.jpg",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Promeia",
+        "icon": "https://img.game8.co/4456855/1d56b064e4667c1781f60f70cc3acfc0.png/show",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/588172",
+          "observedAt": "2026-10-13T10:43:41.457Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Promeia",
+            "sourceIdentity": "Promeia"
+          },
+          "association": "named_game8_character_icon",
+          "assetUrl": "https://img.game8.co/4456855/1d56b064e4667c1781f60f70cc3acfc0.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "6460cf62409b9bcbfdf815153bada6789bbc977fe5e7ae48bc4a9970f1ac9ab2"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Corin",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/030cc4746c6ab2b75027a2c367caa8b9_7268529475331555221.png",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102477",
+          "observedAt": "2026-10-13T10:43:33.752Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Corin",
+            "sourceIdentity": "Corin Wickes"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/030cc4746c6ab2b75027a2c367caa8b9_7268529475331555221.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "35ade238abe50d0e4297ed9781104c4c6256844dbb205263e3d9c20cf0b5a73e"
+        }
+      },
+      {
+        "name": "Billy",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/eea067cdceeda7b8cf45fd776f74e13a_4226709793790517741.png",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102184",
+          "observedAt": "2026-10-13T10:43:33.883Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Billy",
+            "sourceIdentity": "Billy Kid"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/eea067cdceeda7b8cf45fd776f74e13a_4226709793790517741.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "a729ff74d8d096694c0b2c7da8e1d110a04d77630ae4ea1e3a4b67f03aecf05b"
+        }
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792454400,
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:40.296Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Cold Rain Wanes in the Night",
+          "sourceIdentity": "Cold Rain Wanes in the Night"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/45f68a52b8fe94d3ac0a4bb7a5fa2077_3228904859478514172.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "ffa004d5509c25f4e4066240774653f9a7e7ef5445b1320177949d14ce5ad2b5"
+      }
+    }
+  },
+  {
+    "name": "Frostfall Sickle",
+    "link": "https://zenless.hoyoverse.com/en-us/news/166475",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/8123a81fc03e402a55d385f6b78e191a_2637587459237958026.jpg",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Frostfall Sickle",
+        "icon": "https://img.game8.co/4478590/02ce4073f0229a8f8c522b626db250d2.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 5,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/596531",
+          "observedAt": "2026-10-13T10:43:44.051Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Frostfall Sickle",
+            "sourceIdentity": "Frostfall Sickle"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/4478590/02ce4073f0229a8f8c522b626db250d2.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "5b6bc8456ce569f83388fb420e9d3e986ed3d00aafff682398ed6b7fc9e9db35"
+        }
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Housekeeper",
+        "icon": "https://img.game8.co/3895054/75a9c05c0bb3654d69809f168ff97965.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451773",
+          "observedAt": "2026-10-13T10:43:38.986Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Housekeeper",
+            "sourceIdentity": "Housekeeper"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895054/75a9c05c0bb3654d69809f168ff97965.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "1a7f4ba1b109345afc67b44e9d53af79370fb3af28654d47a90f01f841fd345b"
+        }
+      },
+      {
+        "name": "Starlight Engine Replica",
+        "icon": "https://img.game8.co/3895010/c2ea75ee51b98b99fef71e7b5e737296.png/show",
+        "type": "weapon",
+        "entityKind": "w_engine",
+        "rarity": 4,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451772",
+          "observedAt": "2026-10-13T10:43:38.972Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Starlight Engine Replica",
+            "sourceIdentity": "Starlight Engine Replica"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895010/c2ea75ee51b98b99fef71e7b5e737296.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "6c9c809869faced12e91284e693597eee98f19746b60d5219a5ec520278855de"
+        }
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790726400,
+    "displayEndTime": 1792454400,
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166475",
+        "observedAt": "2026-10-13T10:43:42.991Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Frostfall Sickle",
+          "sourceIdentity": "Frostfall Sickle"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/166475/8123a81fc03e402a55d385f6b78e191a_2637587459237958026.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "79748826d502fad4533e9420a2a421e70991136c68fa1a4ca1fd1fcfae408dcc"
+      }
+    }
+  },
+  {
+    "name": "Bloodmoon Rising",
+    "link": "https://zenless.hoyoverse.com/en-us/news/165979",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/b12d60eac36791e0fe8f967c5b9ae0b8_6987887507919429078.jpg",
+    "status": "history",
+    "rateUp5Star": [
+      {
+        "name": "Claret",
+        "icon": "https://img.game8.co/4580187/42db3ab20014620a68068c2528b420d7.png/show",
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/597662",
+          "observedAt": "2026-10-13T10:43:47.652Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Claret",
+            "sourceIdentity": "Claret"
+          },
+          "association": "named_game8_character_icon",
+          "assetUrl": "https://img.game8.co/4580187/42db3ab20014620a68068c2528b420d7.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "a1766f75a99e2984514876450f29e842e53bf7ac151e74a1e38d593c09901f41"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Anton",
-        "icon": null,
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/30/c4b6bf4e9214175a08d8ddd401a8720f_7222311897393750191.png",
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102769",
+          "observedAt": "2026-10-13T10:43:48.835Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Anton",
+            "sourceIdentity": "Anton Ivanov"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/30/c4b6bf4e9214175a08d8ddd401a8720f_7222311897393750191.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "4d0643a3a9a7f5de0607ab5030afbcf16445e944c90a470db6e0caf705337473"
+        }
       },
       {
         "name": "Nicole",
-        "icon": null,
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102183",
+          "observedAt": "2026-10-13T10:43:49.088Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Nicole",
+            "sourceIdentity": "Nicole Demara"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "b0979ed92874ffeb2d9c21f54f797158ea353cde11691ab3161a468c624e9d32"
+        }
       }
     ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
-    "sourceType": "official"
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:46.000Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Bloodmoon Rising",
+          "sourceIdentity": "Bloodmoon Rising"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/b12d60eac36791e0fe8f967c5b9ae0b8_6987887507919429078.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "fdb7743163296ec31d0f9d1f8983551e9f7d40787b4f2bc8991d84b482657176"
+      }
+    }
   },
   {
     "name": "Crimson Thirst",
     "link": "https://zenless.hoyoverse.com/en-us/news/165979",
-    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/727bdd606fe0bc429f577d6ba9563fd0_2804425708752696136.jpg",
-    "status": "active",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/9fa1414e7de0971e8b8e74613488ee7d_2005682793993078666.jpg",
+    "status": "history",
     "rateUp5Star": [
       {
         "name": "Crimson Thirst",
-        "icon": null,
+        "icon": "https://img.game8.co/4605238/d519bdcc63d43f1e43a3b199bccc57fa.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 5,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618032",
+          "observedAt": "2026-10-13T10:43:51.331Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Crimson Thirst",
+            "sourceIdentity": "Crimson Thirst"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/4605238/d519bdcc63d43f1e43a3b199bccc57fa.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "39f731a21aea07c1fe01a10f58575ab3eaffac8f2aee234a2c3494680216481f"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Drill Rig - Red Axis",
-        "icon": null,
+        "icon": "https://img.game8.co/3895014/4a1b6adc3a6d52aa6d2aa70bea3e2fc3.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451776",
+          "observedAt": "2026-10-13T10:43:53.033Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Drill Rig - Red Axis",
+            "sourceIdentity": "Drill Rig - Red Axis"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895014/4a1b6adc3a6d52aa6d2aa70bea3e2fc3.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "0710054d27920cec02558c38077bc7cf878aa7dcac23278c18a17ec20f884241"
+        }
       },
       {
         "name": "The Vault",
-        "icon": null,
+        "icon": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
+          "observedAt": "2026-10-13T10:43:53.100Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "The Vault",
+            "sourceIdentity": "The Vault"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "08009566e3e1eb42650aaed1a6e6c0cd5cf9db1408af35111028447c503e7fdf"
+        }
       }
     ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
-    "sourceType": "official"
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:50.503Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Crimson Thirst",
+          "sourceIdentity": "Crimson Thirst"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/9fa1414e7de0971e8b8e74613488ee7d_2005682793993078666.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "e037f9516231661573830836d213eec401f0ec062b9af7f1576b4dc9eb9a28bb"
+      }
+    }
   },
   {
     "name": "Axiom of Captivation",
     "link": "https://zenless.hoyoverse.com/en-us/news/165979",
-    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/727bdd606fe0bc429f577d6ba9563fd0_2804425708752696136.jpg",
-    "status": "active",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/37b6d53873466b267ec8a492dc43e353_4213928888622848686.jpg",
+    "status": "history",
     "rateUp5Star": [
       {
         "name": "Nangong Yu",
-        "icon": null,
+        "icon": "https://img.game8.co/4413128/136310231a12b44ff0430c6cfecfb86b.png/show",
         "type": "character",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/580322",
+          "observedAt": "2026-10-13T10:43:55.586Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Nangong Yu",
+            "sourceIdentity": "Nangong Yu"
+          },
+          "association": "named_game8_character_icon",
+          "assetUrl": "https://img.game8.co/4413128/136310231a12b44ff0430c6cfecfb86b.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "5ee8e19f43da4ea82376c7eba9e325fa2198a8abbaafd39caebbca4d9381a2c0"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Anton",
-        "icon": null,
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/30/c4b6bf4e9214175a08d8ddd401a8720f_7222311897393750191.png",
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102769",
+          "observedAt": "2026-10-13T10:43:48.835Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Anton",
+            "sourceIdentity": "Anton Ivanov"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/30/c4b6bf4e9214175a08d8ddd401a8720f_7222311897393750191.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "4d0643a3a9a7f5de0607ab5030afbcf16445e944c90a470db6e0caf705337473"
+        }
       },
       {
         "name": "Nicole",
-        "icon": null,
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
         "type": "character",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "official",
+          "sourceName": "HoYoverse",
+          "sourceUrl": "https://zenless.hoyoverse.com/en-us/character?id=102183",
+          "observedAt": "2026-10-13T10:43:49.088Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "character_portrait",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "character",
+            "canonicalName": "Nicole",
+            "sourceIdentity": "Nicole Demara"
+          },
+          "association": "official_catalog",
+          "assetUrl": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
+          "mime": "image/png",
+          "width": 397,
+          "height": 335,
+          "sha256": "b0979ed92874ffeb2d9c21f54f797158ea353cde11691ab3161a468c624e9d32"
+        }
       }
     ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
-    "sourceType": "official"
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:54.109Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Axiom of Captivation",
+          "sourceIdentity": "Axiom of Captivation"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/37b6d53873466b267ec8a492dc43e353_4213928888622848686.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "dba5d4f9ae11afaf97370b58caa1e7e0ed24121cb2eb56912971553e251fa47f"
+      }
+    }
   },
   {
     "name": "Neon Fantasies",
     "link": "https://zenless.hoyoverse.com/en-us/news/165979",
-    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/727bdd606fe0bc429f577d6ba9563fd0_2804425708752696136.jpg",
-    "status": "active",
+    "image": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/291c8754193152bb6b6a77e4db5b252e_7765191880191337278.jpg",
+    "status": "history",
     "rateUp5Star": [
       {
         "name": "Neon Fantasies",
-        "icon": null,
+        "icon": "https://img.game8.co/4441706/3f0b58bbbfae983aabd20ffa2904e33b.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 5,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/586514",
+          "observedAt": "2026-10-13T10:43:58.509Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Neon Fantasies",
+            "sourceIdentity": "Neon Fantasies"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/4441706/3f0b58bbbfae983aabd20ffa2904e33b.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "8166ba2341229a0a21bc9247311a97390a6ba5ab45d918de9cb404a3f139d308"
+        }
       }
     ],
     "rateUp4Star": [
       {
         "name": "Drill Rig - Red Axis",
-        "icon": null,
+        "icon": "https://img.game8.co/3895014/4a1b6adc3a6d52aa6d2aa70bea3e2fc3.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451776",
+          "observedAt": "2026-10-13T10:43:53.033Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "Drill Rig - Red Axis",
+            "sourceIdentity": "Drill Rig - Red Axis"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3895014/4a1b6adc3a6d52aa6d2aa70bea3e2fc3.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "0710054d27920cec02558c38077bc7cf878aa7dcac23278c18a17ec20f884241"
+        }
       },
       {
         "name": "The Vault",
-        "icon": null,
+        "icon": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
         "type": "weapon",
         "entityKind": "w_engine",
         "rarity": 4,
-        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979"
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "iconProvenance": {
+          "sourceType": "secondary",
+          "sourceName": "Game8",
+          "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/451775",
+          "observedAt": "2026-10-13T10:43:53.100Z",
+          "status": "VERIFIED_ASSET",
+          "freshness": "fresh",
+          "role": "w_engine_icon",
+          "identity": {
+            "game": "zzz",
+            "entityKind": "w_engine",
+            "canonicalName": "The Vault",
+            "sourceIdentity": "The Vault"
+          },
+          "association": "typed_game8_table",
+          "assetUrl": "https://img.game8.co/3872583/f8971ab0c9755b80c98ad77bd6cf5768.png/show",
+          "mime": "image/png",
+          "width": 437,
+          "height": 437,
+          "sha256": "08009566e3e1eb42650aaed1a6e6c0cd5cf9db1408af35111028447c503e7fdf"
+        }
       }
     ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
     "displayEndTime": 1790726400,
-    "sourceType": "official"
+    "sourceType": "official",
+    "fieldProvenance": {
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:00.010Z"
+      },
+      "image": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/165979",
+        "observedAt": "2026-10-13T10:43:57.639Z",
+        "status": "VERIFIED_ASSET",
+        "freshness": "fresh",
+        "role": "banner_art",
+        "identity": {
+          "game": "zzz",
+          "entityKind": "banner",
+          "canonicalName": "Neon Fantasies",
+          "sourceIdentity": "Neon Fantasies"
+        },
+        "association": "named_official_section",
+        "assetUrl": "https://fastcdn.hoyoverse.com/content-v2/nap/165979/291c8754193152bb6b6a77e4db5b252e_7765191880191337278.jpg",
+        "mime": "image/jpeg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "b0ae69533c68a46eabcdc5afaeabc67d055c3a558e857c6ddc0664ec9ab31f61"
+      }
+    }
   }
 ]

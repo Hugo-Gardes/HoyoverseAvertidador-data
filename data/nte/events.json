@@ -1,155 +1,26 @@
 [
   {
-    "name": "Runaway Echoes",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "dateText": "September 9 (after update) – September 30, 05:59 (UTC+8)",
+    "name": "Event Schedule",
+    "link": "https://nte.perfectworld.com/en/article/news/gameevent/20260929/264427.html",
+    "dateText": "Submission Period: Sep 30, 2026, 11:00 – Nov 6, 2026, 11:00 (UTC+8)",
     "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Unbroken Echo",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fabricated Dice",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Floe Cinema Tickets",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Heterogeneous Units",
-        "totalQuantity": null,
-        "icon": ""
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4613601/32aeafdb2ff5a7216835503096bde6aa.jpeg/show",
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1788912000,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
-  },
-  {
-    "name": "Breezy Tour",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "dateText": "September 17, 10:00 – September 30, 05:59 (UTC+8)",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Eternal Shell Songs",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Elite Hunter Guides",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Chaotic Dye",
-        "totalQuantity": null,
-        "icon": ""
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4613914/315e3cef5489162625f4378d10fdf585.png/show",
-    "startTime": 1789610400,
-    "endTime": 1790719140,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
-  },
-  {
-    "name": "Pixel Surge",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "dateText": "September 14, 05:00 – September 21, 04:59 (server time)",
-    "status": "past",
     "rewards": [],
-    "imageUrl": "https://img.game8.co/4621412/ec67208407da7d104eda85f3fbe39741.jpeg/show",
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1789344000,
-    "displayEndTime": 1789948800,
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/Porsche%E4%BA%8C%E5%88%9Ben.jpg",
+    "startTime": 1790737200,
+    "endTime": 1793934000,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gameevent/20260929/264427.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
-    "name": "Fons Rush",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "dateText": "September 21, 05:00 – September 28, 04:59 (server time)",
+    "name": "Born to Race",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "September 30 (after update) – November 11, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": "",
-        "details": {
-          "quantityKnown": false,
-          "multiplier": 2
-        }
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4524809/e4497c9901ba7334bf72d83df9d41de6.png/show",
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1789948800,
-    "displayEndTime": 1790553600,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
-  },
-  {
-    "name": "Lucent Tides",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 19, 17:00 – September 30, 05:59 (UTC+8)",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Tide",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Sunny Surf",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Saltwater Taffy",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Cloudless Summer",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Endless Summer",
+        "itemName": "Porsche 911 Turbo (930)",
         "totalQuantity": null,
         "icon": ""
       },
@@ -164,23 +35,34 @@
         "icon": ""
       },
       {
-        "itemName": "Anomaly Pilgrimage Material Selection Box",
+        "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Redline Rush",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Roar Recharged",
         "totalQuantity": null,
         "icon": ""
       }
     ],
-    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/45en.jpg",
-    "startTime": 1787130000,
-    "endTime": 1790719140,
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/83en.jpg",
+    "startTime": null,
+    "endTime": 1794347940,
+    "displayStartTime": 1790726400,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
     "name": "Circle Gifts",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "September 30 (after update) – November 11, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
       {
@@ -189,31 +71,21 @@
         "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4593115/a75bac1ccf76a58852f5bac43f8a112f.jpeg/show",
+    "imageUrl": "https://img.game8.co/4642970/7f997ff2fa8c0b96a0a0ba0e0e647d74.jpeg/show",
     "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1787097600,
+    "endTime": 1794347940,
+    "displayStartTime": 1790726400,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
-    "name": "Volley Star",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
+    "name": "Pukaland Travelogue",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "September 30 (after update) – November 11, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
-      {
-        "itemName": "Summer Glow event avatar frame",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Imaginist Court event namecard",
-        "totalQuantity": null,
-        "icon": ""
-      },
       {
         "itemName": "Annulith",
         "totalQuantity": null,
@@ -221,11 +93,6 @@
       },
       {
         "itemName": "Fabricated Dice",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fons",
         "totalQuantity": null,
         "icon": ""
       },
@@ -245,21 +112,26 @@
         "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4594821/d6724c291cbe068cee36432d2176b029.jpeg/show",
+    "imageUrl": "https://img.game8.co/4621418/17f6c715862e915bcc306a6beacee708.jpeg/show",
     "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1787097600,
+    "endTime": 1794347940,
+    "displayStartTime": 1790726400,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
-    "name": "Surf Breaker",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
+    "name": "Terminal Depths",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "September 30 (after update) – November 11, 05:59 (UTC+8)",
     "status": "ongoing",
     "rewards": [
+      {
+        "itemName": "title Off-Rail Operator",
+        "totalQuantity": null,
+        "icon": ""
+      },
       {
         "itemName": "Annulith",
         "totalQuantity": null,
@@ -267,6 +139,42 @@
       },
       {
         "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Elite Hunter Guides",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Chaotic Dye",
+        "totalQuantity": null,
+        "icon": ""
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4621413/fd2c02a3d43787648ecfad89d1cf9d91.jpeg/show",
+    "startTime": null,
+    "endTime": 1794347940,
+    "displayStartTime": 1790726400,
+    "scheduleSourceName": "Perfect World",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "scheduleSourceType": "official",
+    "sourceType": "official"
+  },
+  {
+    "name": "Coal Lump's Treasure",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "October 8, 10:00 – November 11, 05:59 (UTC+8)",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "reach the target high scores to unlock the titles Sweet Benefactor",
+        "totalQuantity": null,
+        "icon": ""
+      },
+      {
+        "itemName": "Bestie Supreme. You can also visit the event shop to exchange for Annulith",
         "totalQuantity": null,
         "icon": ""
       },
@@ -276,47 +184,6 @@
         "icon": ""
       },
       {
-        "itemName": "Elite Hunter Guides",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Chaotic Dye",
-        "totalQuantity": null,
-        "icon": ""
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4594159/528edf4ad4538960463a2d877de0f247.jpeg/show",
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1787097600,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
-  },
-  {
-    "name": "Hunter's Crucible",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 19 (after update) – September 30, 05:59 (UTC+8)",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Hunter's Crucible - Steel Tempered",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fabricated Dice",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
         "itemName": "Fons",
         "totalQuantity": null,
         "icon": ""
@@ -332,60 +199,19 @@
         "icon": ""
       }
     ],
-    "imageUrl": "https://img.game8.co/4594158/030b15b588a1ed83f6abb04385ea40af.jpeg/show",
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1787097600,
+    "imageUrl": "https://ntevmg.perfectworld.com/webops/nte/83en.jpg",
+    "startTime": 1791424800,
+    "endTime": 1794347940,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
-  },
-  {
-    "name": "Shipwreck Salvage",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 28, 10:00 – September 30, 05:59 (UTC+8)",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Full Haul event avatar frame",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Treasure Hunt event namecard",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Annulith",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fabricated Dice",
-        "totalQuantity": null,
-        "icon": ""
-      },
-      {
-        "itemName": "Fons",
-        "totalQuantity": null,
-        "icon": ""
-      }
-    ],
-    "imageUrl": "https://img.game8.co/4594890/9800f3586529ed545ec9a4b38cf8f958.jpeg/show",
-    "startTime": 1787882400,
-    "endTime": 1790719140,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
     "name": "Stamina Recharge",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 24, 05:00 – August 31, 04:59 (server time)",
-    "status": "past",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "October 5, 05:00 – October 19, 04:59 (server time)",
+    "status": "ongoing",
     "rewards": [
       {
         "itemName": "Fons",
@@ -399,33 +225,176 @@
     "imageUrl": "https://img.game8.co/4544518/61a294cbb0d294a7b50e4f9f73282568.png/show",
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1787529600,
-    "displayEndTime": 1788134400,
+    "displayStartTime": 1791158400,
+    "displayEndTime": 1792368000,
     "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "scheduleSourceType": "official",
+    "sourceType": "official"
+  },
+  {
+    "name": "Pixel Surge",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "October 19, 05:00 – October 26, 04:59 (server time)",
+    "status": "upcoming",
+    "rewards": [],
+    "imageUrl": "https://img.game8.co/4621412/ec67208407da7d104eda85f3fbe39741.jpeg/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792368000,
+    "displayEndTime": 1792972800,
+    "scheduleSourceName": "Perfect World",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "scheduleSourceType": "official",
+    "sourceType": "official"
+  },
+  {
+    "name": "Blackbird's Invitation",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "dateText": "September 30, 11:00 – November 11, 05:59 (UTC+8)",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Avatar Frame - Witchs Blessing",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Annulith",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4646491/1f736f73c038e3e17584c5c2bd9b4f63.jpeg/show",
+    "startTime": 1790737200,
+    "endTime": 1794347940,
+    "scheduleSourceName": "Perfect World",
+    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
     "scheduleSourceType": "official",
     "sourceType": "official"
   },
   {
     "name": "Gold Clash",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "dateText": "August 31, 05:00 – September 14, 04:59 (server time)",
-    "status": "past",
+    "link": "https://game8.co/games/Neverness-to-Everness/archives/611834",
+    "dateText": "10/26/2026 - 11/09/2026",
+    "status": "upcoming",
     "rewards": [
       {
         "itemName": "Fons",
         "totalQuantity": null,
-        "icon": ""
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
       }
     ],
     "imageUrl": "https://img.game8.co/4544507/49cb771f11f5c715c6c1ed7e94e044ae.png/show",
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1788134400,
-    "displayEndTime": 1789344000,
-    "scheduleSourceName": "Perfect World",
-    "scheduleSourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "scheduleSourceType": "official",
-    "sourceType": "official"
+    "displayStartTime": 1792972800,
+    "displayEndTime": 1794182400,
+    "scheduleSourceName": "Game8",
+    "scheduleSourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/611834",
+    "scheduleSourceType": "secondary",
+    "sourceType": "secondary",
+    "pageAccessible": true
+  },
+  {
+    "name": "Puka Lucky Flip",
+    "link": "https://game8.co/games/Neverness-to-Everness/archives/592073",
+    "dateText": "10/29/2026 - 11/11/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Annulith",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Dice",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Elite Hunter Guide",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4621414/b1afae5135521b8ceb721e9746225020.jpeg/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1793232000,
+    "displayEndTime": 1794355200,
+    "scheduleSourceName": "Game8",
+    "scheduleSourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/592073",
+    "scheduleSourceType": "secondary",
+    "sourceType": "secondary",
+    "pageAccessible": true
+  },
+  {
+    "name": "Snap Golden Crackshot",
+    "link": "https://game8.co/games/Neverness-to-Everness/archives/616610",
+    "dateText": "10/21/2026 - 11/11/2026",
+    "status": "upcoming",
+    "rewards": [
+      {
+        "itemName": "Annulith",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Fons",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      },
+      {
+        "itemName": "Floe Cinema Ticket",
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false
+        }
+      }
+    ],
+    "imageUrl": "https://img.game8.co/4621415/0c60cc66aba03280a66d131471b1c31a.jpeg/show",
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792540800,
+    "displayEndTime": 1794355200,
+    "scheduleSourceName": "Game8",
+    "scheduleSourceUrl": "https://game8.co/games/Neverness-to-Everness/archives/616610",
+    "scheduleSourceType": "secondary",
+    "sourceType": "secondary",
+    "pageAccessible": true
   }
 ]

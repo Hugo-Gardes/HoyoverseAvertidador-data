@@ -4,13 +4,13 @@
       "id": "memory-of-chaos",
       "name": "Memory of Chaos",
       "icon": "https://img.game8.co/3994389/b13cbf6cab0fd2378d6d6f50f4eb536f.png/show",
-      "version": "4.4",
-      "phaseName": "Stormcleanse",
-      "buff": "At the beginning of each Cycle, randomly causes an ally target following the Path of The Hunt or the Path of Erudition to take action immediately, and increases their DMG dealt by 80% for 1 turn(s).",
+      "version": "4.6",
+      "phaseName": "Crossing the Afterlife",
+      "buff": "The character in position 1 of the ally lineup gains the Elation Skill \"Euphoric Maelstrom,\" dealing 100% Elation DMG of the character's Type to all enemies. At the start of each cycle, Aha immediately gains 1 extra turn, taking into account a fixed 20 Punchlines. This turn does not consume Punchlines.",
       "buffs": [],
       "selectableBuffs": [],
-      "startTime": 1786924800,
-      "endTime": 1790553600,
+      "startTime": 1790553600,
+      "endTime": 1793577600,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/419660",
       "rewards": [
         {
@@ -58,20 +58,33 @@
         {
           "stage": "Stage 12 and Starward Mode",
           "firstHalf": [
-            "Lightning",
+            "Fire",
             "Quantum"
           ],
           "secondHalf": [
-            "Fire",
-            "Imaginary"
+            "Physical",
+            "Ice"
           ]
         }
       ],
       "bosses": [
         {
-          "name": "Flame Reaver of the Deepest Dark",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Enemy_Flame_Reaver_of_the_Deepest_Dark.png/revision/latest/scale-to-width-down/256?cb=20260725081300",
+          "name": "@SparxiConOfficial",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
           "weaknesses": [
+            "Fire",
+            "Quantum"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "First Genius, Entelechy, Zandar",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Enemy_First_Genius%2C_Entelechy%2C_Zandar.png/revision/latest/scale-to-width-down/256?cb=20260725081236",
+          "weaknesses": [
+            "Physical",
             "Ice"
           ],
           "level": "95",
@@ -83,20 +96,7 @@
           "name": "Murata Graphia, Founding Artist",
           "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Enemy_Murata_Graphia%2C_Founding_Artist.png/revision/latest/scale-to-width-down/256?cb=20260725082536",
           "weaknesses": [
-            "Lightning",
             "Fire"
-          ],
-          "level": "95",
-          "isBonus": false,
-          "traits": [],
-          "axiomBuffs": []
-        },
-        {
-          "name": "@SparxiConOfficial",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
-          "weaknesses": [
-            "Fire",
-            "Imaginary"
           ],
           "level": "95",
           "isBonus": true,
@@ -242,13 +242,13 @@
       "id": "apocalyptic-shadow",
       "name": "Apocalyptic Shadow",
       "icon": "https://img.game8.co/3994391/c78c829517b34601fdcdcec2b13f6f52.png/show",
-      "version": "4.5",
+      "version": "4.6",
       "phaseName": "Ruinous Embers Effect",
-      "buff": "When an enemy target with \"Steadfast Safeguard\" is Weakness Broken, dispels control debuffs for all ally targets and activates their Ultimates. Increases Skill DMG taken by all enemy targets by 25% and increases Elation DMG taken by 15%.",
+      "buff": "When an enemy target with \"Steadfast Safeguard\" is inflicted with Weakness Break, dispels control states from all allies, action advances, and grants Aha an extra turn (this turn will count as 10 fixed Punchline points). Increases Ultimate DMG dealt to all enemies by 25% and Elation DMG by 15%.",
       "buffs": [],
       "selectableBuffs": [],
-      "startTime": 1788134400,
-      "endTime": 1791158400,
+      "startTime": 1791158400,
+      "endTime": 1794787200,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/457411",
       "rewards": [
         {
@@ -295,13 +295,64 @@
       "stages": [],
       "bosses": [
         {
-          "name": "Unwaning Ageless Immortal",
-          "icon": "https://img.game8.co/3685059/0cd64deaa3bcd9723038a96c52220e29.png/show",
+          "name": "Soulhook Sovereign",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Enemy_Stellaron_Hunter_Kafka.png/revision/latest/scale-to-width-down/256?cb=20260725083158",
           "weaknesses": [
             "Physical",
             "Fire",
-            "Ice",
-            "Quantum"
+            "Wind",
+            "Imaginary"
+          ],
+          "level": "90",
+          "isBonus": false,
+          "traits": [
+            {
+              "name": "Steadfast Safeguard",
+              "icon": null,
+              "description": "Boss Mirage takes 50% less DMG. After Weakness is broken, action gets additionally delayed and DMG taken increases by 100%."
+            },
+            {
+              "name": "Battlefield Transfer",
+              "icon": null,
+              "description": "Boss Mirage summons 2 Elite Enemies to assist in battle. Boss Mirage will transmit its own Weakness Type to summons, but when those summons are defeated, Boss Mirage's Toughness will be additionally reduced."
+            },
+            {
+              "name": "Stellar Aegis",
+              "icon": null,
+              "description": "For every unit on the enemy's side of the field aside from Boss Mirage, all enemies receive less DMG."
+            },
+            {
+              "name": "Turn Back the Tide",
+              "icon": null,
+              "description": "When the Boss Mirage uses \"Puppet Understudy\" in its second phase, it will apply Enhancement effects to all summons."
+            }
+          ],
+          "axiomBuffs": [
+            {
+              "name": "Magic Time",
+              "icon": null,
+              "description": "At the start of battle, when there are 1/2/3/4 Elation character(s) in the team, increases the Elation of all allies by 10%/20%/30%/40%."
+            },
+            {
+              "name": "Collapse on Sight",
+              "icon": null,
+              "description": "Increases all enemies' Break DMG taken by 10%. After Breaking an enemy's Weakness, increases all allies' SPD by 15% for 2 turn(s)."
+            },
+            {
+              "name": "Moment of Opportunity",
+              "icon": null,
+              "description": "Increases Follow-Up ATK and Ultimate DMG dealt by all allies by 50%, and additionally increases by 50% against enemy targets in Weakness Broken state."
+            }
+          ]
+        },
+        {
+          "name": "Arbiter of the Lost Abyss",
+          "icon": "https://img.game8.co/4277557/b40b7efc26c951a0ff24ea16460c9262.png/show",
+          "weaknesses": [
+            "Physical",
+            "Fire",
+            "Lightning",
+            "Imaginary"
           ],
           "level": "90",
           "isBonus": false,
@@ -312,98 +363,47 @@
               "description": "Boss Mirage takes 50% less DMG. After Weakness is Broken, action gets additionally delayed and DMG taken increases by 100%."
             },
             {
-              "name": "Bountiful Prosperity",
+              "name": "Singularity Split",
               "icon": null,
-              "description": "When the Boss Mirage's summons are defeated, it deals minor True DMG to this unit and slightly reduces its Toughness. If the defeated target is an Elite Enemy, it instead deals massive True DMG to this unit and massively reduces its Toughness. Then, it immediately summons new summons."
+              "description": "At the start of combat and during phase transitions, the Boss Mirage splits into 5 \"ichor memosprites\" and applies \"Monoform Merger\" to these summons. When all \"ichor memosprites\" with \"Monoform Merger\" enter the \"Feigned Death\" state, they merge back into the Boss Mirage."
             },
             {
-              "name": "Like a Deer With Wings",
+              "name": "Mutual Complement",
               "icon": null,
-              "description": "The initial action value of the summons summoned via \"Heavenbound One And All\" and \"Heavenbound One And All: Enhanced\" is greatly advanced."
+              "description": "Increases the Max HP of the \"ichor memosprites\" summoned after the Boss Mirage's split, and the \"ichor memosprites\" summoned after the split in the second phase have Shared HP."
             },
             {
-              "name": "Dazzling Halo",
+              "name": "Economies of Scale",
               "icon": null,
-              "description": "While any type of \"Halo\" effect is active, all enemy targets that are not Weakness Broken take reduced DMG and deal increased DMG."
+              "description": "For every unit on the enemy's side of the field that is not in the \"Feigned Death\" state aside from Boss Mirage, all enemies receive less DMG and deal more DMG."
             }
           ],
           "axiomBuffs": [
+            {
+              "name": "Comic Relief",
+              "icon": null,
+              "description": "After an ally target uses an attack that deals Elation DMG, inflicts Vulnerability on the target receiving Elation DMG, increasing the DMG they take by 15% for 2 turn(s). This effect can trigger up to 1 time per enemy target per attack."
+            },
+            {
+              "name": "Exploit Opening",
+              "icon": null,
+              "description": "After any ally target inflicts a debuff to an enemy target, increases their CRIT DMG by 75% for 2 turn(s)."
+            },
             {
               "name": "Land of Fertility",
               "icon": null,
-              "description": "Increases Skill and Ultimate DMG dealt by all allies by 30%, and additionally increases Skill and Ultimate DMG dealt by the 1st character in the lineup by 30%."
-            },
-            {
-              "name": "Unstoppable Force",
-              "icon": null,
-              "description": "DMG dealt by memosprites ignores 20% of the target's DEF."
-            },
-            {
-              "name": "Beaming Bliss",
-              "icon": null,
-              "description": "Increases Elation DMG taken by all enemies by 30%. When there is a character following the Path of Elation on the team, increases the Weakness Break Efficiency of all allies by 50%."
+              "description": "Increases Skill and Ultimate DMG dealt by all allies by 30%, and additionally increases Skill and Ultimate DMG dealt by the 1st character in the lineup by 30%.\\"
             }
           ]
         },
         {
-          "name": "Hellcharred Shadow General",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Enemy_Shadow_of_Feixiao.png/revision/latest/scale-to-width-down/256?cb=20260725082939",
+          "name": "Fulminating Wolflord",
+          "icon": "https://img.game8.co/3975183/01cd30e916d24d2e1a43c6e17103c7c3.png/show",
           "weaknesses": [
             "Physical",
             "Fire",
-            "Lightning",
+            "Wind",
             "Quantum"
-          ],
-          "level": "90",
-          "isBonus": false,
-          "traits": [
-            {
-              "name": "Steadfast Safeguard",
-              "icon": null,
-              "description": "Boss Mirage takes 50% less DMG. After its Weakness is broken, its action is additionally delayed and the DMG it receives increases by 100%."
-            },
-            {
-              "name": "Steelbone Summit",
-              "icon": null,
-              "description": "Parts take 50% less DMG. After Boss Mirage's Weakness is broken, the DMG they receive increases by 100%."
-            },
-            {
-              "name": "Sickleclawed Sawteeth",
-              "icon": null,
-              "description": "Boss Mirage's Toughness increases by 40."
-            },
-            {
-              "name": "Beastly Rage",
-              "icon": null,
-              "description": "The duration of \"Malediction\" state increases by 1 turn(s)."
-            }
-          ],
-          "axiomBuffs": [
-            {
-              "name": "Literary Brilliance",
-              "icon": null,
-              "description": "Decreases the Wind RES and Lightning RES of all enemies by 40%."
-            },
-            {
-              "name": "Past Life: Shadowed Reverie",
-              "icon": null,
-              "description": "When there are 3 ally memosprites or more currently on the field, increases all allies' DMG dealt by 60%."
-            },
-            {
-              "name": "Blighted to the Bone",
-              "icon": null,
-              "description": "After an ally target deals DoT to an enemy, 1 Energy is regenerated. DoT dealt by all allies ignores 40% of enemy targets' All-Type RES."
-            }
-          ]
-        },
-        {
-          "name": "Super Idol: Center of Attention",
-          "icon": "https://img.game8.co/4410518/fa31b69057cb421aebb67fc6504bdf6c.png/show",
-          "weaknesses": [
-            "Physical",
-            "Fire",
-            "Quantum",
-            "Imaginary"
           ],
           "level": "90",
           "isBonus": true,
@@ -411,39 +411,39 @@
             {
               "name": "Steadfast Safeguard",
               "icon": null,
-              "description": "Boss Mirage takes 50% less DMG. After Weakness is broken, action gets additionally delayed and DMG taken increases by 100%."
+              "description": "Decreases DMG taken by Boss Mirage by 50%. After its Weakness is broken, its action is additionally delayed and increases its DMG taken by 100%."
             },
             {
-              "name": "Biphasic Battlefield",
+              "name": "Better Safe Than Sorry",
               "icon": null,
-              "description": "The Boss Mirage will initiate a Live Showdown during combat, selecting one ally character to battle on the sub-field while the remaining characters stay on the prime-field to provide Support. Once the Live Showdown begins, enemy targets on the prime-field take reduced DMG and become immune to Crowd Control debuffs, and the Boss Mirage enters the \"Toughness Lock\" state. When the Boss Mirage's turn starts, both \"Ally Popularity\" and \"Enemy Popularity\" reset to their initial states."
+              "description": "When the Boss Mirage uses \"Barrenness of Earth Gouged,\" all other Wolftroopers will be eliminated."
             },
             {
-              "name": "Popularity Burst",
+              "name": "Apex Predator",
               "icon": null,
-              "description": "Increases the max \"Ally Popularity\" and \"Enemy Popularity.\""
+              "description": "After Boss Mirage enters Phase II, it gains extra action per turn during \"Going Solo.\""
             },
             {
-              "name": "Basking in Popularity",
+              "name": "Till Death",
               "icon": null,
-              "description": "For each \"Ally Popularity\" or \"Enemy Popularity\" that hasn't hit the Limit, DMG taken by all enemies is reduced."
+              "description": "After Boss Mirage enters \"Going Solo,\" reduces its DMG taken by an additional 60%."
             }
           ],
           "axiomBuffs": [
             {
-              "name": "Beaming Bliss",
+              "name": "Unstoppable Force",
               "icon": null,
-              "description": "Increases Elation DMG taken by all enemies by 30%. When there is a character following the Path of Elation on the team, increases the Weakness Break Efficiency of all allies by 50%."
+              "description": "DMG dealt by memosprites ignores 20% of the target's DEF."
+            },
+            {
+              "name": "Heroic Vanguard",
+              "icon": null,
+              "description": "After the character in position 1 in the team uses Ultimate, their Weakness Break Efficiency increases by 50% and increases CRIT DMG by 50%, lasting for 1 turn(s)."
             },
             {
               "name": "Unto Apotheosis",
               "icon": null,
               "description": "When ally targets consume Skill Points, increases their CRIT DMG by 6%, stacking up to 10 times."
-            },
-            {
-              "name": "Armed Up",
-              "icon": null,
-              "description": "Increases Physical DMG dealt by all allies by 50%, and decreases all enemies' Physical RES by 20%."
             }
           ]
         }
@@ -459,19 +459,19 @@
       "buffs": [],
       "selectableBuffs": [
         {
-          "name": "Marvelous Laughter",
+          "name": "Ecstasy Night",
           "icon": null,
-          "description": "Increases all ally targets' Elation by 40%, and increases the All-Type RES PEN of Elation DMG dealt by 20%. This effect is doubled when using an Elation Skill."
+          "description": "Merrymakes Elation DMG dealt by the character in position 1 of the ally lineup by 50%."
         },
         {
-          "name": "Finale's Kiss",
+          "name": "Navigator's Oath",
           "icon": null,
-          "description": "At the start of any ally's target's turn, all ally targets regenerate 25% Energy. This effect can only be triggered 1 time per battle. Increases Skill and Ultimate DMG dealt by all ally targets by 40%."
+          "description": "Increases the All-Type RES PEN for the Skill DMG and Ultimate DMG dealt by the character in position 1 in the lineup by 50%."
         },
         {
-          "name": "Memoria Swarm",
+          "name": "Endocytosis",
           "icon": null,
-          "description": "When the number of ally memosprites is 1/2/3/4, DMG dealt by all allies increases by 20%/25%/30%/50%."
+          "description": "\"Homeostatic Imbalance\" increases DMG dealt to \"Blood-Brain Barrier\" by 50%."
         }
       ],
       "startTime": null,
@@ -498,30 +498,18 @@
         {
           "stage": "King in Check",
           "firstHalf": [
-            "Quantum",
-            "Lightning",
-            "Ice"
+            "Imaginary",
+            "Quantum"
           ],
           "secondHalf": []
         }
       ],
       "bosses": [
         {
-          "name": "Lighthouse",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Enemy_Lighthouse.png/revision/latest/scale-to-width-down/256?cb=20260826203932",
+          "name": "Alloy Mechatron: King Pom-Pom",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Enemy_Alloy_Mechatron_King_Pom-Pom.png/revision/latest/scale-to-width-down/256?cb=20260725075840",
           "weaknesses": [
-            "Quantum",
-            "Fire"
-          ],
-          "level": "95",
-          "isBonus": false,
-          "traits": [],
-          "axiomBuffs": []
-        },
-        {
-          "name": "@SparxiConOfficial",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Enemy_SparxiConOfficial.png/revision/latest/scale-to-width-down/256?cb=20260725083108",
-          "weaknesses": [
+            "Fire",
             "Imaginary"
           ],
           "level": "95",
@@ -530,11 +518,10 @@
           "axiomBuffs": []
         },
         {
-          "name": "Flame Reaver of the Deepest Dark",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Enemy_Flame_Reaver_of_the_Deepest_Dark.png/revision/latest/scale-to-width-down/256?cb=20260725081300",
+          "name": "Ferry of Souls",
+          "icon": null,
           "weaknesses": [
-            "Quantum",
-            "Ice"
+            "Quantum"
           ],
           "level": "95",
           "isBonus": false,
@@ -542,12 +529,23 @@
           "axiomBuffs": []
         },
         {
-          "name": "Hatred Inundate",
-          "icon": null,
+          "name": "Harbinger of Death: Swarm Nightmare",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Enemy_Harbinger_of_Death_Swarm_Nightmare.png/revision/latest/scale-to-width-down/256?cb=20260725081629",
           "weaknesses": [
-            "Ice",
-            "Lightning",
-            "Quantum"
+            "Fire",
+            "Wind"
+          ],
+          "level": "95",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Blood of the Fallen God: Yabuli",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Enemy_Blood_of_the_Fallen_God_Yabuli.png/revision/latest/scale-to-width-down/256?cb=20260928132122",
+          "weaknesses": [
+            "Quantum",
+            "Imaginary"
           ],
           "level": "100",
           "isBonus": false,
@@ -555,12 +553,11 @@
           "axiomBuffs": []
         },
         {
-          "name": "Hatred Inundate",
-          "icon": null,
+          "name": "Blood of the Fallen God: Yabuli",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Enemy_Blood_of_the_Fallen_God_Yabuli.png/revision/latest/scale-to-width-down/256?cb=20260928132122",
           "weaknesses": [
-            "Ice",
-            "Lightning",
-            "Quantum"
+            "Quantum",
+            "Imaginary"
           ],
           "level": "120",
           "isBonus": true,

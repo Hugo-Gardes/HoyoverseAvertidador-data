@@ -7,8 +7,8 @@
       "icon": "https://img.game8.co/3893839/206a2ebc90ef6fff3394d7bf64e09383.png/show",
       "version": null,
       "phaseName": null,
-      "startTime": 1789329600,
-      "endTime": 1791748800,
+      "startTime": 1791748800,
+      "endTime": 1794168000,
       "guideUrl": "https://game8.co/games/Wuthering-Waves/archives/457528",
       "rules": [],
       "sharedEffects": [],
@@ -48,21 +48,21 @@
       "stages": [
         {
           "stage": "Floor 1",
-          "name": "Impermanence Heron",
-          "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
+          "name": "Lampylumen Myriad",
+          "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Havoc"
+            "Glacio"
           ],
           "effects": [
             {
               "name": null,
-              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Havoc RES & Glacio RES are increased by 10%."
+              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Spectro RES & Glacio RES are increased by 10%."
             },
             {
               "name": null,
-              "description": "ATK is increased by 30%. Resonators gain 30% All DMG Bonus for 10s upon casting Intro Skill."
+              "description": "Grants 30% Electro and Fusion DMG Bonus. Inflicting Negative Statuses increases Crit. DMG by 25% for 20s."
             }
           ],
           "objectives": [
@@ -72,58 +72,14 @@
           ],
           "enemies": [
             {
-              "name": "Impermanence Heron",
-              "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
+              "name": "Lampylumen Myriad",
+              "icon": "https://img.game8.co/4306604/e068a12aba79c959394d3a7b2cb17d0e.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Floor 2",
-          "name": "Scar",
-          "icon": "https://img.game8.co/4306834/a7fdc2d7e938fe0fb0a2058919a47640.png/show",
-          "level": "100",
-          "vigorCost": "5",
-          "resistances": [
-            "Glacio",
-            "Havoc",
-            "Spectro"
-          ],
-          "effects": [
-            {
-              "name": null,
-              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Havoc RES & Glacio RES are increased by 10%."
-            },
-            {
-              "name": null,
-              "description": "ATK is increased by 30%. Resonators gain 30% All DMG Bonus for 10s upon casting Intro Skill."
-            }
-          ],
-          "objectives": [
-            "Clear the challenge with at least 90s left",
-            "Clear the challenge with at least 150s (02:30) left",
-            "Clear the challenge with at least 180s (03:00) left"
-          ],
-          "enemies": [
-            {
-              "name": "Autopuppet Scout",
-              "icon": "https://img.game8.co/4306536/4d780abe3157693c341806b3cf2958a7.png/show",
-              "count": 1
-            },
-            {
-              "name": "Glacio Dreadmane",
-              "icon": "https://img.game8.co/4306585/b9ff965252962d53eb1e4ff4b6c60904.png/show",
-              "count": 1
-            },
-            {
-              "name": "Scar",
-              "icon": "https://img.game8.co/4306834/a7fdc2d7e938fe0fb0a2058919a47640.png/show",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "stage": "Floor 3",
           "name": "Fallacy of No Return",
           "icon": "https://img.game8.co/4306582/1b7a3068230f5da90e7cd8eb820a7364.png/show",
           "level": "100",
@@ -134,41 +90,27 @@
           "effects": [
             {
               "name": null,
-              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
+              "description": "Enemies' Electro RES & Fusion RES are decreased by 10%, and their Spectro RES & Glacio RES are increased by 10%."
             },
             {
               "name": null,
-              "description": "Enemies' All-Attribute RES is increased by 15%. The Electro or Fusion DMG taken by enemies are not effected by this effect."
-            },
-            {
-              "name": null,
-              "description": "Enemies take 20% more total DMG and 50% more total Electro DMG. Resonators gain 12% more Fusion DMG for 3s upon gaining Shield, stacking up to 10 times. Retriggering the effect resets its duration."
+              "description": "Grants 30% Electro and Fusion DMG Bonus. Inflicting Negative Statuses increases Crit. DMG by 25% for 20s."
             }
           ],
           "objectives": [
-            "Clear the challenge with at least 60s left",
-            "Clear the challenge with at least 120s (02:00) left",
-            "Clear the challenge with at least 150s (02:30) left"
+            "Clear the challenge with at least 90s left",
+            "Clear the challenge with at least 150s (02:30) left",
+            "Clear the challenge with at least 180s (03:00) left"
           ],
           "enemies": [
             {
-              "name": "Capitaneus",
-              "icon": "https://img.game8.co/4306551/7b416b9ede8f8fd91315d8312a1db48b.png/show",
+              "name": "Rocksteady Guardian",
+              "icon": "https://img.game8.co/4306618/536a011aff51b718fc78cce3db35a67c.png/show",
               "count": 1
             },
             {
-              "name": "Cruisewing",
-              "icon": "https://img.game8.co/4306811/54fc93300cc1b8e69f5cea8eff52cebc.png/show",
-              "count": 1
-            },
-            {
-              "name": "Voidwing Moth",
-              "icon": "https://img.game8.co/4485572/704000b8b492511e104e5a9c7ce81de7.png/show",
-              "count": 1
-            },
-            {
-              "name": "Lightcrusher",
-              "icon": "https://img.game8.co/4306809/e049dfe1ab1854aa1a057d6251ff6f5b.png/show",
+              "name": "Exile Technician",
+              "icon": "https://img.game8.co/4306815/1793937bc3adacf52ee82ad68cbcf24c.png/show",
               "count": 1
             },
             {
@@ -179,13 +121,13 @@
           ]
         },
         {
-          "stage": "Floor 4",
-          "name": "Mourning Aix",
-          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
+          "stage": "Floor 3",
+          "name": "Impermanence Heron",
+          "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
           "level": "100",
           "vigorCost": "5",
           "resistances": [
-            "Spectro"
+            "Havoc"
           ],
           "effects": [
             {
@@ -194,11 +136,11 @@
             },
             {
               "name": null,
-              "description": "Enemies' All-Attribute RES is increased by 15%. The Electro or Fusion DMG taken by enemies are not effected by this effect."
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect does not affect the Electro DMG and Spectro DMG they take."
             },
             {
               "name": null,
-              "description": "Enemies take 20% more total DMG and 50% more total Electro DMG. Resonators gain 12% more Fusion DMG for 3s upon gaining Shield, stacking up to 10 times. Retriggering the effect resets its duration."
+              "description": "Casting Intro Skill increases the total DMG dealt by all Resonators in the team by 15% for 20s. When a Resonator inflicts Electro Flare, they deal 55% more total DMG for 20s. When a Resonator triggers Unison Response, they deal 50% more total Electro DMG for 20s."
             }
           ],
           "objectives": [
@@ -208,13 +150,70 @@
           ],
           "enemies": [
             {
-              "name": "Hyvatia",
-              "icon": "https://img.game8.co/4367479/87bdc28864b171316645670e05deff39.png/show",
+              "name": "Chasm Guardian",
+              "icon": "https://img.game8.co/4306548/cdb69edf4143bc27be530c9434627809.png/show",
               "count": 1
             },
             {
-              "name": "Mourning Aix",
-              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
+              "name": "Havoc Warrior",
+              "icon": "https://img.game8.co/4306823/0021d66efbb0b23859d77dc221046ba8.png/show",
+              "count": 1
+            },
+            {
+              "name": "Fractsidus Milliner",
+              "icon": "https://img.game8.co/4447985/82e8873bf9adc725bfee045bc8791be2.png/show",
+              "count": 1
+            },
+            {
+              "name": "Nocturnus Knight",
+              "icon": "https://img.game8.co/4306606/7e7bcef47e246bff9920311cd1af6454.png/show",
+              "count": 1
+            },
+            {
+              "name": "Impermanence Heron",
+              "icon": "https://img.game8.co/4306593/43440af3578de397f1a4eaccb60d46a9.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Floor 4",
+          "name": "Crownless",
+          "icon": "https://img.game8.co/4306563/f60ffa480dc990743f0cd49d79a44d31.png/show",
+          "level": "100",
+          "vigorCost": "5",
+          "resistances": [
+            "Glacio",
+            "Havoc"
+          ],
+          "effects": [
+            {
+              "name": null,
+              "description": "60s after the battle starts, after a Resonator's attacks hit an enemy, that enemy takes 5% more total DMG. This value increases by 5% every 5s, up to a maximum of 60%."
+            },
+            {
+              "name": null,
+              "description": "Enemies' All-Attribute RES is increased by 15%. This effect does not affect the Electro DMG and Spectro DMG they take."
+            },
+            {
+              "name": null,
+              "description": "Casting Intro Skill increases the total DMG dealt by all Resonators in the team by 15% for 20s. When a Resonator inflicts Electro Flare, they deal 55% more total DMG for 20s. When a Resonator triggers Unison Response, they deal 50% more total Electro DMG for 20s."
+            }
+          ],
+          "objectives": [
+            "Clear the challenge with at least 60s left",
+            "Clear the challenge with at least 120s (02:00) left",
+            "Clear the challenge with at least 150s (02:30) left"
+          ],
+          "enemies": [
+            {
+              "name": "Sentry Construct",
+              "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+              "count": 1
+            },
+            {
+              "name": "Crownless",
+              "icon": "https://img.game8.co/4306563/f60ffa480dc990743f0cd49d79a44d31.png/show",
               "count": 1
             }
           ]
@@ -225,8 +224,8 @@
       "id": "endstate-matrix",
       "name": "Endstate Matrix",
       "nameFr": "Matrice Finale",
-      "icon": "https://img.game8.co/4603201/1198679bbb49a0ac768b1bd396a2b761.png/show",
-      "version": "3.6",
+      "icon": "https://img.game8.co/4641821/2507544c5e6fe6fffbbadb1ac9b5e725.png/show",
+      "version": "3.7",
       "phaseName": null,
       "startTime": null,
       "endTime": null,
@@ -236,63 +235,31 @@
       "selectableBuffs": [
         {
           "name": "General Enhancement",
-          "icon": "https://img.game8.co/4413260/1849fb253a2b59b2960d4926544e82c2.png/show",
-          "description": "Enemies take 20% more total DMG and 20% more total Heavy Attack DMG."
+          "icon": "https://img.game8.co/4494129/7632e3ebff17b815334cd4e572d846cb.png/show",
+          "description": "• Enemies take 20% more total DMG.• Enemies take 20% more total Basic Attack DMG."
         },
         {
           "name": "Enhancement: Negative Status",
-          "icon": "https://img.game8.co/4494128/559026dac3dca54ee4a0cd1ec5e70c17.png/show",
-          "description": "When inflicted with Negative Statuses, the target's total DMG taken is increased by 25% for 30s.Enemies take 80% more total Glacio Chafe DMG."
+          "icon": "https://img.game8.co/4641483/23f66e783d16217a616f7cd3f73a96e6.png/show",
+          "description": "• When inflicted with Negative Statuses, the target takes 25% more total DMG and an additional 30% more total Electro DMG for 30s."
         },
         {
-          "name": "Enhancement: Echo Skill",
-          "icon": "https://img.game8.co/4494131/3d03931b5899dd9d5cb763e23e7abbeb.png/show",
-          "description": "Total Echo Skill DMG is increased by 30%. Total Havoc DMG is increased by 20%. Total Resonance Skill DMG is increased by 20%."
+          "name": "Basic DMG Enhancement",
+          "icon": "https://img.game8.co/4641484/c7e703228ffb695053a8b899e7e7255c.png/show",
+          "description": "• Total Echo Skill DMG is increased by 40%.• When a Resonator triggers Unison Response, they deal 55% more total DMG for 30s.• Resonators deal 11% more total DMG upon gaining a Shield for 2s, stacking up to 5 times. The stacks are cleared when the Resonator is switched out."
         },
         {
           "name": "Enhancement: Tune Break",
-          "icon": "https://img.game8.co/4494130/4415c2792f2d3f89f3b24c8b522516c5.png/show",
-          "description": "When a Resonator inflicts Tunability - Shifting, the total DMG dealt by all Resonators in the team is increased by 25% for 30s.When a Resonaor inflicts Tune Strain - Shifting, their total DMG is increased by 30% for 15s."
+          "icon": "https://img.game8.co/4413258/bb6bfa849cca61d3e081612f7f62205b.png/show",
+          "description": "• Inflicting Tunability - Shifting increases the total DMG dealt by all Resonators in the team by 25% for 30s.• Inflicting Hack - Shifting increases total DMG dealt by the Resonator by 30% for 30s."
         }
       ],
       "rewards": [],
       "stages": [
         {
-          "stage": "Boss 1: Mourning Aix",
-          "name": "Mourning Aix",
-          "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
-          "level": null,
-          "vigorCost": null,
-          "resistances": [
-            "Spectro"
-          ],
-          "effects": [
-            {
-              "name": "Stability Accords",
-              "description": "For 15s after defeating Mourning Aix, all Resonators in the team are immune to all types of damage and interruptions."
-            },
-            {
-              "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics - The Vibration Strength Reduction Rate against Mourning Aix is reduced by 15%. Counterattacks restore 10 points of Resonance Energy on hit and additionally reduces the Vibration Strength of the target by 30% of its maximum."
-            },
-            {
-              "name": "Round 2 Onwards - Additional Infections",
-              "description": "- Mourning Aix''s ATK is increased by 6% every 5s, up to 72%. Immobilizing it clears all stacks and pauses stacking."
-            }
-          ],
-          "objectives": [],
-          "enemies": [
-            {
-              "name": "Mourning Aix",
-              "icon": "https://img.game8.co/4306805/4e7e8325b3de3a24ab6c679a54dd9e99.png/show",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "stage": "Boss 2: Rustfire Chassis",
-          "name": "Myriad Snare: Rustfire Chassis",
-          "icon": "https://img.game8.co/4545901/569d57e159e0699c7af1689901402834.png/show",
+          "stage": "Boss 1: Inferno Rider",
+          "name": "Inferno Rider",
+          "icon": "https://img.game8.co/4306587/8623e76276d81b6a0443b0b48f6df8d0.png/show",
           "level": null,
           "vigorCost": null,
           "resistances": [
@@ -301,30 +268,30 @@
           "effects": [
             {
               "name": "Stability Accords",
-              "description": "Upon defeating Myriad Snare: Rustfire Chassis, all Resonators in the current team become immune to all DMG and interruptions for 15s."
+              "description": "For 15s after defeating Inferno Rider, all Resonators in the team are immune to damage and interruptions."
             },
             {
               "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics - Myriad Snare: Rustfire Chassis has its ATK increased by 30%. Dodge Counter restors 10 points of Resonance Energy on hit and additionally reduces the target's Vibration Strength by 20% of its maximum. CD: 2s."
+              "description": "• All Stability Accords Mechanics • Inferno Rider's attacks inflict Resonators with a burning effect on hit, dealing Fusion DMG over time. This DMG is reduced by 90% while the target's HP is above 50% or the target has a Shield."
             },
             {
               "name": "Round 2 Onwards - Additional Infections",
-              "description": "- Vibration Strength Reduction taken by Myriad Snare: Rustfire Chassis is reduced by 20%."
+              "description": "• Inferno Rider deals Fusion DMG over time to nearby resonator not in mid-air. This DMG is reduced by 90% while the target's HP is above 50% or the target has a Shield."
             }
           ],
           "objectives": [],
           "enemies": [
             {
-              "name": "Myriad Snare: Rustfire Chassis",
-              "icon": "https://img.game8.co/4545901/569d57e159e0699c7af1689901402834.png/show",
+              "name": "Inferno Rider",
+              "icon": "https://img.game8.co/4306587/8623e76276d81b6a0443b0b48f6df8d0.png/show",
               "count": 1
             }
           ]
         },
         {
-          "stage": "Boss 3: Sentry Construct",
-          "name": "Sentry Construct",
-          "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+          "stage": "Boss 2: Forbidden Bastion",
+          "name": "Forbidden Bastion",
+          "icon": "https://img.game8.co/4545893/ea38d15a6fc0605920b5bf0b4d934079.png/show",
           "level": null,
           "vigorCost": null,
           "resistances": [
@@ -333,61 +300,93 @@
           "effects": [
             {
               "name": "Stability Accords",
-              "description": "For 15s after defeating Sentry Construct, all Resonators in the current team become immunite to all DMG and interruptions for 15s."
+              "description": "For 15s after defeating Forbidden Bastion, all Resonators in the team are immune to damage and interruptions."
             },
             {
               "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics - Vibration Strength Reduction taken by Sentry Construct is reduced by 25%. When Sentry Construct is in mid-air, it deals 30% more DMG. If it's affected by Negative Statuses or Tunability - Shifting, Resonators' Vibration Strength Reduction Rate is increased by 50%."
+              "description": "• All Stability Accords Mechanics • Dodge Counter restores 10 points of Resonance Energy on hit and additionally reduces 20% of the target's Max Vibration Strength. This effect has a 2s cooldown."
             },
             {
               "name": "Round 2 Onwards - Additional Infections",
-              "description": "- Sentry Construct's ATK is increased by 3% every 5s, stacking up to 10 times. Immobilizing it clears all stacks and pauses the stacking."
+              "description": "• Forbidden Bastion's ATK is increased by 30%."
             }
           ],
           "objectives": [],
           "enemies": [
             {
-              "name": "Sentry Construct",
-              "icon": "https://img.game8.co/4306622/ff1748f6dcdd10f78b55266ca791d1bd.png/show",
+              "name": "Forbidden Bastion",
+              "icon": "https://img.game8.co/4545893/ea38d15a6fc0605920b5bf0b4d934079.png/show",
               "count": 1
             }
           ]
         },
         {
-          "stage": "Boss 4: Tempest Mephis",
-          "name": "Tempest Mephis",
-          "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+          "stage": "Boss 3: Crownless",
+          "name": "Crownless",
+          "icon": "https://img.game8.co/4306563/f60ffa480dc990743f0cd49d79a44d31.png/show",
           "level": null,
           "vigorCost": null,
           "resistances": [
-            "Electro"
+            "Havoc"
           ],
           "effects": [
             {
               "name": "Stability Accords",
-              "description": "Upon defeating Tempest Mephis, all Resonators in the current team become immune to all DMG and interruptions for 15s."
+              "description": "For 15s after defeating Crownless, all Resonators in the team are immune to damage and interruptions."
             },
             {
               "name": "Singularity Expansion",
-              "description": "- All Stability Accords Mechanics - Counterattack increases the target's Off-Tune Level by 20% of the maximum and reduces their Vibration Strength by 30% of the maximum on hit."
+              "description": "• All Stability Accords Mechanics • Crownless takes 40% more total DMG for 30s from the Resonator who triggers Unison Response."
             },
             {
               "name": "Round 2 Onwards - Additional Infections",
-              "description": "- Tempest Mephis' ATK is increased by 30%. This effect is disabled when it is affected by Tune Strain - Shifting or Tune Strain - Interfered."
+              "description": "• Vibration Strength reduction against Crownless is decreased by 20%."
             }
           ],
           "objectives": [],
           "enemies": [
             {
-              "name": "Tempest Mephis",
-              "icon": "https://img.game8.co/4306580/062fa22f37ff2b1e4810bf5e1956070d.png/show",
+              "name": "Crownless",
+              "icon": "https://img.game8.co/4306563/f60ffa480dc990743f0cd49d79a44d31.png/show",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "stage": "Boss 4: Calamity Effigy",
+          "name": "Calamity Effigy",
+          "icon": "https://img.game8.co/4594426/b0163ce3ad4f74c54aa7408b32ce51cd.png/show",
+          "level": null,
+          "vigorCost": null,
+          "resistances": [
+            "Aero"
+          ],
+          "effects": [
+            {
+              "name": "Stability Accords",
+              "description": "For 15s after defeating Calamity Effigy, all Resonators in the team are immune to damage and interruptions."
+            },
+            {
+              "name": "Singularity Expansion",
+              "description": "• All Stability Accords Mechanics • Dodge Counter grants the Resonator 2 stacks of Unstoppable on hit, neutralizing incoming interruptions and control effects. Unstoppable stacks up to 2 times. Taking a hit removes 1 stack, and this reduction can trigger up to once per second."
+            },
+            {
+              "name": "Round 2 Onwards - Additional Infections",
+              "description": "• Calamity Effigy's ATK is increased by 40%. Effect is disabled while it is inflicted with Electro Flare."
+            }
+          ],
+          "objectives": [],
+          "enemies": [
+            {
+              "name": "Calamity Effigy",
+              "icon": "https://img.game8.co/4594426/b0163ce3ad4f74c54aa7408b32ce51cd.png/show",
               "count": 1
             }
           ]
         },
         {
           "stage": "Boss 5: Matrix Mimic",
-          "name": "Chest Mimic",
+          "name": "Matrix Mimic",
           "icon": "https://img.game8.co/4306547/9d9e96f1818954526ef73dfffedfbfaa.png/show",
           "level": null,
           "vigorCost": null,
@@ -401,7 +400,7 @@
           "objectives": [],
           "enemies": [
             {
-              "name": "Chest Mimic",
+              "name": "Matrix Mimic",
               "icon": "https://img.game8.co/4306547/9d9e96f1818954526ef73dfffedfbfaa.png/show",
               "count": 1
             }

@@ -5,15 +5,15 @@
       "name": "Shiyu Defense: Critical Node",
       "nameFr": "Défense de Shiyu : Nœud critique",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6a/Shiyu_Defense_Critical_Node.png/revision/latest/scale-to-width-down/256?cb=20240901202649",
-      "version": "3.1",
-      "phaseName": "2026-09-18",
+      "version": "3.2",
+      "phaseName": "2026-10-02",
       "selectableBuffs": [],
       "sharedMechanics": [
         "In this stage, dealing DMG to enemies earns you DMG Score. Defeating a single normal/elite enemy will grant you an instance of Elimination Score.",
         "In this stage, scores earned at different times will receive additional multiplier bonuses. The earlier in the challenge, the higher the multiplier. The total score cap (including bonus) is 50,000."
       ],
-      "startTime": 1789675200,
-      "endTime": 1790884799,
+      "startTime": 1790884800,
+      "endTime": 1792094399,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/457183",
       "rewards": [
         {
@@ -44,69 +44,21 @@
       ],
       "bosses": [
         {
-          "name": "Lockspring (Boss)",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
+          "name": "Autonomous Tactical Unit - Conqueror",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/19/Enemy_Autonomous_Tactical_Unit_-_Conqueror.png/revision/latest/scale-to-width-down/185?cb=20260909034227",
           "stage": "Room 1",
           "level": "70",
           "weaknesses": [
-            "Electric",
-            "Physical"
-          ],
-          "resistances": [
-            "Ether"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "Agent Sharp DMG increases by 25%, and DEF increases by 15%.",
-            "When an Agent hits an enemy and triggers a critical hit, if the enemy is Stunned, the Stun DMG Multiplier increases by 20% for 10s. Repeated triggers reset the duration."
-          ],
-          "objectives": [],
-          "waves": [
-            {
-              "team": 1,
-              "index": 1,
-              "enemies": [
-                {
-                  "name": "Assault Gunner",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b6/Enemy_Assault_Gunner.png/revision/latest/scale-to-width-down/185?cb=20240726233408",
-                  "count": 1
-                },
-                {
-                  "name": "Autonomous Support Unit - Guardian MK II",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d1/Enemy_Autonomous_Support_Unit_-_Guardian_MK_II.png/revision/latest/scale-to-width-down/185?cb=20240726233556",
-                  "count": 1
-                }
-              ]
-            },
-            {
-              "team": 1,
-              "index": 2,
-              "enemies": [
-                {
-                  "name": "Lockspring (Boss)",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0d/Enemy_Lockspring_%28Boss%29.png/revision/latest/scale-to-width-down/185?cb=20260101153231",
-                  "count": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "The Decider - Terror Raptor",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/14/Enemy_The_Decider_-_Terror_Raptor.png/revision/latest/scale-to-width-down/185?cb=20260506205022",
-          "stage": "Room 2",
-          "level": "70",
-          "weaknesses": [
-            "Ice",
-            "Physical"
-          ],
-          "resistances": [
+            "Wind",
             "Electric"
           ],
+          "resistances": [
+            "Physical"
+          ],
           "isBonus": false,
           "mechanics": [
-            "Agent Anomaly Buildup Rate increases by 15%, and Attribute Anomaly DMG dealt increases by 20%.",
-            "If there are 2/3 Agents in the squad with the Anomaly specialty, Agent Anomaly Proficiency increases by 20/60."
+            "Agent Sharp DMG increases by 20%. After defeating normal enemies, Agents with the Stun specialty restore 15 Energy.",
+            "After being hit by an Agent's hide=1 enemies recover from Stun 15% slower for 15s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [
@@ -115,8 +67,8 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Corrupted Bandit - Greedy Ranger",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/79/Enemy_Corrupted_Bandit_-_Greedy_Ranger.png/revision/latest/scale-to-width-down/185?cb=20240725154617",
+                  "name": "Special Anti-Riotboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Enemy_Special_Anti-Riotboo.png/revision/latest/scale-to-width-down/185?cb=20260618093758",
                   "count": 3
                 }
               ]
@@ -126,13 +78,13 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "Ionized - Pugnus",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a5/Enemy_Ionized_-_Pugnus.png/revision/latest/scale-to-width-down/185?cb=20251126235346",
+                  "name": "City Guardboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/48/Enemy_City_Guardboo.png/revision/latest/scale-to-width-down/185?cb=20260618093741",
                   "count": 1
                 },
                 {
-                  "name": "Corrupted Bandit - Vicious Striker",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/89/Enemy_Corrupted_Bandit_-_Vicious_Striker.png/revision/latest/scale-to-width-down/185?cb=20240810075419",
+                  "name": "Airspace Patrolboo",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/68/Enemy_Airspace_Patrolboo.png/revision/latest/scale-to-width-down/185?cb=20260618093750",
                   "count": 2
                 }
               ]
@@ -142,8 +94,8 @@
               "index": 3,
               "enemies": [
                 {
-                  "name": "The Decider - Terror Raptor",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/14/Enemy_The_Decider_-_Terror_Raptor.png/revision/latest/scale-to-width-down/185?cb=20260506205022",
+                  "name": "Autonomous Tactical Unit - Conqueror",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/19/Enemy_Autonomous_Tactical_Unit_-_Conqueror.png/revision/latest/scale-to-width-down/185?cb=20260909034227",
                   "count": 1
                 }
               ]
@@ -151,21 +103,20 @@
           ]
         },
         {
-          "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
-          "stage": "Room 3",
+          "name": "Ionized Doppelganger Komano Manato",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/84/Enemy_Ionized_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251025194240",
+          "stage": "Room 2",
           "level": "70",
           "weaknesses": [
-            "Ether",
-            "Physical"
+            "Ice"
           ],
           "resistances": [
-            "Fire"
+            "Physical"
           ],
           "isBonus": false,
           "mechanics": [
-            "Agent Ether DMG increases by 20%, and Anomaly Proficiency increases by 20.",
-            "When Agents inflict an Attribute Anomaly on enemies, the Stun DMG Multiplier increases by 20% for 15s. Repeated triggers reset the duration."
+            "Agent Ice DMG and Ether DMG increase by 25%, and their Ice and Ether Anomaly Buildup Rate increase by 15%.",
+            "When an Agent inflicts an Attribute Anomaly on an enemy, the enemy's DEF decreases by 10% for 10s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [
@@ -174,13 +125,13 @@
               "index": 1,
               "enemies": [
                 {
-                  "name": "Arlaune",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2b/Enemy_Arlaune.png/revision/latest/scale-to-width-down/185?cb=20240725154731",
+                  "name": "Lahmu",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/1d/Enemy_Lahmu.png/revision/latest/scale-to-width-down/185?cb=20260618093744",
                   "count": 1
                 },
                 {
-                  "name": "Ionized - Pugnus",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a5/Enemy_Ionized_-_Pugnus.png/revision/latest/scale-to-width-down/185?cb=20251126235346",
+                  "name": "Mushussu",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Enemy_Mushussu.png/revision/latest/scale-to-width-down/185?cb=20260618093748",
                   "count": 1
                 }
               ]
@@ -190,8 +141,67 @@
               "index": 2,
               "enemies": [
                 {
-                  "name": "A-H0L0 Type Intelligent Tactical Construct - Mirage Archer Unit",
-                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Enemy_A-H0L0_Type_Intelligent_Tactical_Construct_-_Mirage_Archer_Unit.png/revision/latest/scale-to-width-down/185?cb=20260208191022",
+                  "name": "Ionized Doppelganger Komano Manato",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/84/Enemy_Ionized_Doppelganger_Komano_Manato.png/revision/latest/scale-to-width-down/185?cb=20251025194240",
+                  "count": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doppelganger - Starlight - Billy",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
+          "stage": "Room 3",
+          "level": "70",
+          "weaknesses": [
+            "Fire",
+            "Electric"
+          ],
+          "resistances": [
+            "Physical"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "Agent Fire DMG and Electric DMG increase by 35%, and Daze dealt by Agents with the Stun specialty increases by 15%.",
+            "After an Agent stuns an enemy, the enemy's Stun DMG Multiplier increases by 30% and they recover from Stun 15% slower for 20s. Repeated triggers reset the duration."
+          ],
+          "objectives": [],
+          "waves": [
+            {
+              "team": 1,
+              "index": 1,
+              "enemies": [
+                {
+                  "name": "Miasmic Trooper - Shieldguard",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/46/Enemy_Miasmic_Trooper_-_Shieldguard.png/revision/latest/scale-to-width-down/185?cb=20250906185851",
+                  "count": 3
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 2,
+              "enemies": [
+                {
+                  "name": "Ionized - Doppelganger - Pulchra",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/63/Enemy_Ionized_-_Doppelganger_-_Pulchra.png/revision/latest/scale-to-width-down/185?cb=20240926215531",
+                  "count": 1
+                },
+                {
+                  "name": "Miasmic Trooper - Cannoneer",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Enemy_Miasmic_Trooper_-_Cannoneer.png/revision/latest/scale-to-width-down/185?cb=20250906185630",
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "team": 1,
+              "index": 3,
+              "enemies": [
+                {
+                  "name": "Doppelganger - Starlight - Billy",
+                  "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Enemy_Doppelganger_-_Starlight_-_Billy.png/revision/latest/scale-to-width-down/185?cb=20260618093743",
                   "count": 1
                 }
               ]
@@ -206,27 +216,27 @@
       "nameFr": "Assaut mortel",
       "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e0/Icon_Deadly_Assault.png/revision/latest/scale-to-width-down/256?cb=20250820021110",
       "version": "3.2",
-      "phaseName": "2026-09-25",
+      "phaseName": "2026-10-09",
       "selectableBuffs": [
         {
-          "name": "Ultimate Edge",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Icon_Deadly_Assault_Buff_%28ThemeSpace%29.png/revision/latest/scale-to-width-down/45?cb=20251114180209",
-          "description": "Agent Sharp DMG increases by 15%, and their DEF increases by 15%. · After an Agent uses an EX Special Attack, Special Attack or Ultimate, attacks ignore 20% of enemy Electric RES on hit for 20s. Repeated triggers reset the duration."
-        },
-        {
-          "name": "Cinders of Corrosion",
+          "name": "Frigidity",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Icon_Deadly_Assault_Buff_%28Element%29.png/revision/latest/scale-to-width-down/45?cb=20250130111815",
-          "description": "If there are 2/3 Agents in the squad with the Anomaly specialty, the whole squad's Anomaly Proficiency increases by 20/60 respectively, and Anomaly Buildup Rate increases by 10%/20% respectively. · After an Agent inflicts an Attribute Anomaly on an enemy, the enemy's DEF is reduced by 10% for 10s. Repeated triggers reset the duration."
+          "description": "Agent Ice DMG increases by 15%, and their Anomaly Proficiency increases by 60. · When an Agent triggers Abloom or Disorder on an enemy, Attribute Anomaly DMG and Disorder DMG dealt by the whole squad increase by 25%, and their Buildup Rate increases by 15% for 15s. Repeated triggers reset the duration."
         },
         {
-          "name": "Collapse II",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/db/Icon_Deadly_Assault_Buff_%28Stun%29.png/revision/latest/scale-to-width-down/45?cb=20250130111842",
-          "description": "Agent Ether DMG and Physical DMG increase by 25%, and Daze dealt by Agents with the Stun specialty increases by 20%. · After an Agent stuns an enemy, the enemy's Stun DMG Multiplier increases by 40% and they recover from Stun 15% slower for 20s. Repeated triggers reset the duration."
+          "name": "Defense Crusher",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/11/Icon_Deadly_Assault_Buff_%28ATK%29.png/revision/latest/scale-to-width-down/45?cb=20250130111402",
+          "description": "Daze dealt to enemies by Agents increases by 20%. · Agents with the Attack specialty have their ATK increased by 20%. After using Ultimate, their CRIT DMG increases by 50% for 20s. Repeated triggers reset the duration."
+        },
+        {
+          "name": "Knife Edge",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Icon_Deadly_Assault_Buff_%28ThemeSpace%29.png/revision/latest/scale-to-width-down/45?cb=20251114180209",
+          "description": "Agent DEF increases by 15%, and their Sharp DMG increases by 15%. · For Agents with the Stun specialty, Daze dealt by their EX Special Attack increases by 20%. After an Agent uses an EX Special Attack or Special Attack, Electric DMG and Wind DMG increase by 30% for 15s. Repeated triggers reset the duration."
         }
       ],
       "sharedMechanics": [],
-      "startTime": 1790301600,
-      "endTime": 1791489599,
+      "startTime": 1791489600,
+      "endTime": 1792699199,
       "guideUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/489103",
       "rewards": [
         {
@@ -267,9 +277,58 @@
       ],
       "bosses": [
         {
+          "name": "Phaethon of the Scorched Horizon",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/77/Enemy_Phaethon_of_the_Scorched_Horizon.png/revision/latest/scale-to-width-down/185?cb=20260506204905",
+          "stage": "Trial Mode: First Challenge",
+          "level": "70",
+          "weaknesses": [
+            "Wind",
+            "Ice"
+          ],
+          "resistances": [
+            "Physical"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "After Scorched Horizon activates Gale Scorcher, they gain 5 stacks of Into Flames. Each stack of Into Flames increases DMG dealt by 10% and reduces CRIT DMG taken by 25%. With Into Flames stacks, every time Scorched Horizon is inflicted with an Anomaly, one stack of Into Flames is lost, and subsequent Abloom DMG taken increases by 10% for 15s (max 3 stacks). Repeated triggers reset the duration.",
+            "When Scorched Horizon is in Gale Scorcher state, Impairing them grants 1,250 Performance Points. Striking down Scorched Horizon when they're attacking in mid-air grants 1,500 Performance Points. Performing a Shutdown against Scorched Horizon's Control Skill grants 2,000 Performance Points. Max 5,000 Performance Points.",
+            "Suitable for Agents with Anomaly specialty."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
+          "name": "Infernal Revenant",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/12/Enemy_Infernal_Revenant.png/revision/latest/scale-to-width-down/185?cb=20260803005415",
+          "stage": "Trial Mode: Second Challenge",
+          "level": "70",
+          "weaknesses": [
+            "Wind",
+            "Ice"
+          ],
+          "resistances": [
+            "Physical"
+          ],
+          "isBonus": false,
+          "mechanics": [
+            "After Infernal Revenant enters the Infernal state, the Attribute Anomaly DMG it takes is reduced by 30%; every time Chain Parry is triggered, the Boss gains 1 stack of Overheat; triggering Defensive Assist or Perfect Dodge 2 times in total applies 1 stack of Overheat on the Boss, and each stack of Overheat increases CRIT DMG of the whole squad by 25%, stacking up to 3 times and lasting 20s. Triggering Defensive Assist or retriggering Overheat resets the duration.",
+            "Successfully triggering Shutdown grants 2000 Performance Points; each flint shattered grants 1000 Performance Points, up to a maximum of 5000 Performance Points."
+          ],
+          "objectives": [
+            "1 étoile — Reach 6,000 points within the time limit",
+            "2 étoiles — Reach 14,000 points within the time limit",
+            "3 étoiles — Reach 20,000 points within the time limit"
+          ],
+          "waves": []
+        },
+        {
           "name": "Kusarikku",
           "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d2/Enemy_Kusarikku.png/revision/latest/scale-to-width-down/185?cb=20260909034235",
-          "stage": "Trial Mode: First Challenge",
+          "stage": "Trial Mode: Third Challenge",
           "level": "70",
           "weaknesses": [
             "Fire",
@@ -293,72 +352,18 @@
           "waves": []
         },
         {
-          "name": "Miasmic Fiend - Unfathomable",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5d/Enemy_Miasmic_Fiend_-_Unfathomable.png/revision/latest/scale-to-width-down/185?cb=20250716183016",
-          "stage": "Trial Mode: Second Challenge",
-          "level": "70",
-          "weaknesses": [
-            "Physical",
-            "Ether"
-          ],
-          "resistances": [
-            "Fire"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "When Miasmic Fiend is affected by Attribute Anomaly, it takes 8% bonus Anomaly DMG from Agents, stacking up to 6 times; activating Miasmic Shield clears all stacks, with each stack increasing the reduction efficiency of Miasmic Shield by 2.5%.",
-            "When Agents bait Miasmic Fiend's ground attack into detonating at least 5 Miasma Pools at once and avoid being hit by the attack and pool explosions, they will earn 1,700 Performance Points, up to a maximum of 5,000.",
-            "Suitable for Agents with Anomaly specialty."
-          ],
-          "objectives": [
-            "1 étoile — Reach 6,000 points within the time limit",
-            "2 étoiles — Reach 14,000 points within the time limit",
-            "3 étoiles — Reach 20,000 points within the time limit"
-          ],
-          "waves": []
-        },
-        {
-          "name": "Ye Shiyuan the Thrall",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/57/Enemy_Ye_Shiyuan_the_Thrall.png/revision/latest/scale-to-width-down/185?cb=20251126232024",
-          "stage": "Trial Mode: Third Challenge",
-          "level": "70",
-          "weaknesses": [
-            "Ice",
-            "Physical",
-            "Wind"
-          ],
-          "resistances": [
-            "Electric"
-          ],
-          "isBonus": false,
-          "mechanics": [
-            "When Sobek and The Thrall alternate turns, The Thrall gains 1 stack of Contract and Self-Sacrifice. Contract and Self-Sacrifice can stack up to 3 times. Each stack of Contract increases All-Attribute Anomaly Buildup RES by 15%, each stack of Self-Sacrifice increases The Thrall's Stun DMG Multiplier by 10%. When The Thrall is Stunned, CRIT DMG taken increases by 50%.",
-            "When Agents inflict Weakened on Sobek and The Thrall, 1,500 Performance Points will be awarded. When an Agent eliminates Sobek, 2,000 Performance Points will be awarded. Up to a maximum of 5,000 Performance Points can be earned.",
-            "Suitable for Agents with Stun specialty."
-          ],
-          "objectives": [
-            "1 étoile — Reach 6,000 points within the time limit",
-            "2 étoiles — Reach 14,000 points within the time limit",
-            "3 étoiles — Reach 20,000 points within the time limit"
-          ],
-          "waves": []
-        },
-        {
-          "name": "Integrated - Phaethon of the Scorched Horizon",
-          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/72/Enemy_Integrated_-_Phaethon_of_the_Scorched_Horizon.png/revision/latest/scale-to-width-down/185?cb=20260909034233",
+          "name": "Integrated - Girtablullu",
+          "icon": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/Enemy_Integrated_-_Girtablullu.png/revision/latest/scale-to-width-down/185?cb=20260803005102",
           "stage": "Adversity Mode",
           "level": "70",
-          "weaknesses": [
-            "Electric"
-          ],
-          "resistances": [
-            "Physical"
-          ],
+          "weaknesses": [],
+          "resistances": [],
           "isBonus": true,
           "mechanics": [
-            "When Integrated - Scorched Horizon is Impaired or Shutdown, the whole squad's Sharp DMG increases by 40% for 60s. Repeated triggers reset the duration.",
-            "When an Agent's attack hits an enemy that is not Stunned, Daze dealt increases by 15%. While Integrated - Scorched Horizon is Stunned, the Stun DMG Multiplier increases by 20%.",
-            "When Integrated - Scorched Horizon is in Misty Veil state, using Defensive Assist to counter Integrated - Scorched Horizon's attack and impair it grants 1500 Performance Points; landing a Shutdown on Integrated - Scorched Horizon's Control Skill grants 2000 Performance Points. A maximum of 5000 Performance Points can be obtained."
+            "When an Agent's attack hits a Boss, the Boss gains 1 point of Dissonance. The same Agent can apply at most 1 point of Dissonance every 1s.",
+            "When a Boss accumulates 10 points of Dissonance, all Dissonance points are immediately removed and the Boss enters the Dissonant state. While in the Dissonant state, enemies take 40% bonus Attribute Anomaly DMG for 10s. Re-entering the Dissonant state resets the duration.",
+            "When an Agent successfully inflicts an Attribute Anomaly on a Boss, all Agents on the squad gain the Transmutation effect: DMG dealt increases by 15% and Anomaly Proficiency increases by 20 points. The Transmutation effect lasts 10s, and repeated triggers reset the duration.",
+            "Each time you successfully parry an attack from Girtablullu's summoned minions and trigger Active Conversion, you gain 500 Performance Points; successfully triggering Chain Parry against Girtablullu's attacks grants 1000 Performance Points, up to 3 times; if you successfully break the Corruptive Barrier within 25s of Girtablullu first activating Corruptive Barrier, you gain 1500 Performance Points. A maximum of 5,000 Performance Points can be obtained."
           ],
           "objectives": [
             "1 étoile — Reach 10,000 points within the time limit",

@@ -7,7 +7,7 @@
     "rateUp5Star": [
       {
         "name": "Vodyanitsa",
-        "icon": "https://img.game8.co/4617010/8bd5a0c4b317aad1c179578a00543c8a.png/show",
+        "icon": "https://img.game8.co/4627249/ab52f858d21fd8af63a33347f343ec3a.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606400",
         "details": {
@@ -88,7 +88,7 @@
     "rateUp5Star": [
       {
         "name": "Vesna",
-        "icon": "https://img.game8.co/4615117/c3500c132cb46a30a8719671f5966317.png/show",
+        "icon": "https://img.game8.co/4627250/d4d791ceb26d47ecb2a051aafea60eb1.png/show",
         "type": "character",
         "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606901",
         "details": {
@@ -164,31 +164,33 @@
   {
     "name": "Epitome Invocation",
     "link": "https://game8.co/games/Genshin-Impact/archives/304758",
-    "image": "https://img.game8.co/4626518/5f06ad71bf70eb5ae66cf201755d4063.png/show",
+    "image": "https://img.game8.co/4648763/6ecc2a2dad28f2bdf02c2d60df5793d7.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Beyond the Chrysalis",
-        "icon": "https://img.game8.co/4628473/bc09eeff077f4efe6e51b1d95d0cc374.png/show",
+        "name": "Azurelight",
+        "icon": "https://img.game8.co/4199037/798ad5d9723a3fc83d31db5bd27294bc.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622063",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/527284",
         "details": {
           "Type": "Sword",
           "Base ATK": "48",
-          "Rarity": "★★★★★"
+          "Rarity": "★★★★★",
+          "Skill": "White Mountain's BountyWithin 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%."
         },
         "entityKind": "weapon",
         "rarity": 5
       },
       {
-        "name": "Hymn of the Maelstrom",
-        "icon": "https://img.game8.co/4628472/42fc0c8686cffaccf3715e0abf22ffaa.png/show",
+        "name": "Symphonist of Scents",
+        "icon": "https://img.game8.co/4166634/9efdd6238c8bb346c1057004c6f57270.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622064",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/516101",
         "details": {
-          "Type": "Catalyst",
-          "Base ATK": "44",
-          "Rarity": "★★★★★"
+          "Type": "Polearm",
+          "Base ATK": "46",
+          "Rarity": "★★★★★",
+          "Skill": "Seasoned SymphonyATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field."
         },
         "entityKind": "weapon",
         "rarity": 5
@@ -196,55 +198,41 @@
     ],
     "rateUp4Star": [
       {
-        "name": "New Bough",
-        "icon": "https://img.game8.co/4628469/9b6baad828775a21f644b4c903d401de.png/show",
+        "name": "Sturdy Bone",
+        "icon": "https://img.game8.co/4024763/e0f2d6ea165c23133d39067bd7988c42.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622067",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/475537",
         "details": {
           "Type": "Sword",
-          "Base ATK": "42",
+          "Base ATK": "44",
           "Rarity": "★★★★",
-          "Skill": "WildgrowthWhen the equipping character hits the opponent with an attack within 12s after using the Elemental Skill, they gain the \"Verdant\" effect: Increases ATK by 4% and their Elemental Mastery by 20. This effect lasts 6s and can trigger once every second. Max 3 stacks. This effect can be triggered even when the equipping character is off-field. Radiance: Stellar Glimmer: The effect of \"Verdant\" is changed to: Increases ATK by 6% as well as Stellar Glimmer Reaction DMG dealt by the equipping character by 8%."
+          "Skill": "Trapper's PrideSprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s."
         },
         "entityKind": "weapon",
         "rarity": 4
       },
       {
-        "name": "Winter",
-        "icon": "https://img.game8.co/4628471/90e4599939b3e40283080d38cb95c662.png/show",
+        "name": "Sacrificial Bow",
+        "icon": "https://img.game8.co/3314489/6cda8ba49361c10e9cadbca6e5b47aba.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622068",
-        "details": {
-          "Type": "Catalyst",
-          "Base ATK": "42",
-          "Rarity": "★★★★",
-          "Skill": "Secrets of FrostThe equipping character gains Silver-Tinged Blood Pact. • The equipping character's Elemental Mastery is increased by 24 for every Cryo character present in the party. • For every Electro character present in the party, the equipping character's ATK is increased by 4.8%. • The equipping character can gain the above buffs for 4 characters max. Radiance: Stellar Glimmer: The effect of Silver-Tinged Blood pact is changed to; For every Cryo or Electro character present in the party, the equipping character gains a 20-point Elemental Mastery boost and deals 6% increased Stellar Glimmer Reaction DMG."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      },
-      {
-        "name": "Breezeborne Refrain",
-        "icon": "https://img.game8.co/4628470/7a135649246d67eb90f9d22fa80ce498.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622069",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301959",
         "details": {
           "Type": "Bow",
-          "Base ATK": "42",
+          "Base ATK": "44",
           "Rarity": "★★★★",
-          "Skill": "Viper's BalladIncreases Energy Recharge by 20%. When the equipping character hits the opponent with their Elemental Skill or Elemental Burst, they gain a stack of \"Hymn of the Pure.\" This effect can trigger once every 0.03s, max 3 stacks. At 3 stacks, all instances of \"Hymn of the Pure\" are cleared to give the equipping character \"Thus Lied the Viper\" instead. This grants nearby party characters a 24% Stellar Glimmer Reaction DMG boost for 12s, during which no stacks of \"Hymn of the Pure\" can be obtained. This effect can be triggered even when the equipping character is off-field."
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
         },
         "entityKind": "weapon",
         "rarity": 4
       },
       {
-        "name": "Favonius Greatsword",
-        "icon": "https://img.game8.co/3314476/0a40ecf6456acb15bd8ab7203f982a30.png/show",
+        "name": "Favonius Lance",
+        "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301934",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301951",
         "details": {
-          "Type": "Claymore",
-          "Base ATK": "41",
+          "Type": "Polearm",
+          "Base ATK": "44",
           "Rarity": "★★★★",
           "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
         },
@@ -252,15 +240,30 @@
         "rarity": 4
       },
       {
-        "name": "Dragon",
-        "icon": "https://img.game8.co/3314485/dea459ec1fcf67eaffc3d7ff42f99b77.png/show",
+        "name": "The Widsith",
+        "icon": "https://img.game8.co/3314591/3a9b07fded3dd45454a6d850ca203499.png/show",
         "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301952",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301944",
         "details": {
-          "Type": "Polearm",
-          "Base ATK": "41",
+          "Type": "Catalyst",
+          "Base ATK": "42",
           "Rarity": "★★★★",
-          "Skill": "Bane of Flame and WaterIncreases DMG against enemies affected by Hydro or Pyro by 20%."
+          "Skill": "DebutWhen a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
+          "Effect(Lasts 10s)": "ATK is increased by 60-120% for 10 seconds."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "icon": "https://img.game8.co/3314475/e7435217637d18327507c1566a72c710.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301932",
+        "details": {
+          "Type": "Claymore",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
         },
         "entityKind": "weapon",
         "rarity": 4
@@ -268,7 +271,167 @@
     ],
     "startTime": null,
     "endTime": null,
-    "displayStartTime": 1790121600,
-    "displayEndTime": 1791849600
+    "displayStartTime": 1791849600,
+    "displayEndTime": 1793664000
+  },
+  {
+    "name": "Void Star's Advent",
+    "link": "https://game8.co/games/Genshin-Impact/archives/527273",
+    "image": "https://img.game8.co/4643644/eedbca4f9fd5e565a0c9bd6b8cb82ee2.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Skirk",
+        "icon": "https://img.game8.co/4194956/7a1921a73270a143aa6ee416e3dd40fe.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/333140",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Cryo",
+          "Weapon": "Sword",
+          "HP": "2508",
+          "ATK": "72",
+          "DEF": "163"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Dahlia",
+        "icon": "https://img.game8.co/4197403/33023da1ddf8131b4fb2a5ea73a28a9d.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/516026",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Sword",
+          "HP": "2694",
+          "ATK": "41",
+          "DEF": "121",
+          "Faction": "Church of Favonius"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "icon": "https://img.game8.co/3662046/34c5273e49bbcc42fcd0c2e29522bd3b.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/390096",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Polearm",
+          "HP": "2694",
+          "ATK": "48",
+          "DEF": "154"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "icon": "https://img.game8.co/3587463/6912b3b078d6c049633204254e222933.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/386384",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Polearm",
+          "HP": "2342",
+          "ATK": "46",
+          "DEF": "147",
+          "Faction": "Aaru Village"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1791849600,
+    "displayEndTime": 1793664000
+  },
+  {
+    "name": "La Chanson Cerise",
+    "link": "https://game8.co/games/Genshin-Impact/archives/516113",
+    "image": "https://img.game8.co/4643642/ff1ec46795367fab2b3b5603f9714abd.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Escoffier",
+        "icon": "https://img.game8.co/4164128/68e538731ffd8c4851af79299f52eb3d.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/385307",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Cryo",
+          "Weapon": "Polearm",
+          "HP": "2695",
+          "ATK": "70",
+          "DEF": "148"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Dahlia",
+        "icon": "https://img.game8.co/4197403/33023da1ddf8131b4fb2a5ea73a28a9d.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/516026",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Sword",
+          "HP": "2694",
+          "ATK": "41",
+          "DEF": "121",
+          "Faction": "Church of Favonius"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "icon": "https://img.game8.co/3662046/34c5273e49bbcc42fcd0c2e29522bd3b.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/390096",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Polearm",
+          "HP": "2694",
+          "ATK": "48",
+          "DEF": "154"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "icon": "https://img.game8.co/3587463/6912b3b078d6c049633204254e222933.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/386384",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Hydro",
+          "Weapon": "Polearm",
+          "HP": "2342",
+          "ATK": "46",
+          "DEF": "147",
+          "Faction": "Aaru Village"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1791849600,
+    "displayEndTime": 1793664000
   }
 ]

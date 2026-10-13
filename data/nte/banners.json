@@ -1,222 +1,39 @@
 [
   {
-    "name": "Surfing All Channels!",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "https://img.game8.co/4613522/f01beee74e06c23bf017ed100f8753a6.jpeg/show",
+    "name": "Foretold Finale",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "image": "https://img.game8.co/4634963/9b125defb1960f36c974d65901c38f75.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Linko",
-        "icon": "https://img.game8.co/4559439/0ea05832f535acd5a5199649fccfec95.png/show",
-        "type": "Anima",
+        "name": "Blackbird",
+        "icon": "https://img.game8.co/4621385/98f5e89f05789ffa62e77e98d6a71014.png/show",
+        "type": "Psyche",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
         "details": {
-          "Element": "Anima",
+          "Element": "Psyche",
           "Role": "Damage"
         }
+      },
+      {
+        "name": "alongside A-class characters Mint",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
       }
     ],
     "rateUp4Star": [
-      {
-        "name": "Haniel",
-        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
-        "type": "Psyche",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Buff"
-        }
-      },
-      {
-        "name": "Aurelia",
-        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
-        "type": "Psyche",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Damage"
-        }
-      },
-      {
-        "name": "Skia",
-        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
-        "type": "Lakshana",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1788912000,
-    "sourceType": "official"
-  },
-  {
-    "name": "Soundscape Special",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "https://img.game8.co/4613670/be0c593fa7e853fb9f7e2c6532ab068f.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Voice of the Voyager",
-        "icon": "https://img.game8.co/4613237/f2bd9d1b1e04d6f85699626d651ed168.png/show",
-        "type": "arc:Plasma",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Plasma"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1788912000,
-    "sourceType": "official"
-  },
-  {
-    "name": "Misty Tipsy Style",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "https://img.game8.co/4498502/1b2ad08528dc7ddd28072f109b137774.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Hotori",
-        "icon": "https://img.game8.co/4476585/cc4e03cc4bff70ca00c7ec1710d6b493.png/show",
-        "type": "Cosmos",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Buff"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Haniel",
-        "icon": "https://img.game8.co/4476631/7e5639fddf61ba8df38d283c0677f77b.png/show",
-        "type": "Psyche",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Buff"
-        }
-      },
-      {
-        "name": "Aurelia",
-        "icon": "https://img.game8.co/4476682/2a4f2f3ccc646c8a62056f155bcce9e0.png/show",
-        "type": "Psyche",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Psyche",
-          "Role": "Damage"
-        }
-      },
-      {
-        "name": "Skia",
-        "icon": "https://img.game8.co/4476636/67b17ad7c020c7ae8afd21e2e4ef487c.png/show",
-        "type": "Lakshana",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Element": "Lakshana",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1788912000,
-    "sourceType": "official"
-  },
-  {
-    "name": "Bright Moon Special",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-    "image": "https://img.game8.co/4498503/a63dd8d6a4bd790e5f2136802764c590.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Marching Beyond Time",
-        "icon": "https://img.game8.co/4498737/1de12d52d9c478d64b7c2c811353ef80.png/show",
-        "type": "arc:Solid",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260908/263947.html",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Solid"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": null,
-    "endTime": 1790719140,
-    "displayStartTime": 1788912000,
-    "sourceType": "official"
-  },
-  {
-    "name": "Alluring Shadows",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "image": "https://img.game8.co/4593573/5be313a8219c3e9d3df67e10b210d5a2.png/show",
-    "status": "history",
-    "rateUp5Star": [
-      {
-        "name": "Zankou",
-        "icon": "https://img.game8.co/4559433/638475cdedd8a2e80b9a9403ede94591.png/show",
-        "type": "Incantation",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Element": "Incantation",
-          "Role": "Damage",
-          "Skill": "Special Effect"
-        }
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Mint",
-        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
-        "type": "Anima",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Element": "Anima",
-          "Role": "Damage"
-        }
-      },
       {
         "name": "Edgar",
         "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
         "type": "Cosmos",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
         "details": {
           "Element": "Cosmos",
           "Role": "Survival"
@@ -228,132 +45,150 @@
         "type": "Incantation",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
         "details": {
           "Element": "Incantation",
           "Role": "Survival"
         }
-      }
-    ],
-    "startTime": null,
-    "endTime": 1788904740,
-    "displayStartTime": 1787097600,
-    "sourceType": "official"
-  },
-  {
-    "name": "Spellbound Special",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "image": "https://img.game8.co/4593886/e61b29d83bea025f2503634fa8b4578d.png/show",
-    "status": "history",
-    "rateUp5Star": [
-      {
-        "name": "Ravenous Blade",
-        "icon": "https://img.game8.co/4593678/2bb8f2b87ef7caaea33c76f50df53563.png/show",
-        "type": "arc:Gas",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Gas"
-        }
-      }
-    ],
-    "rateUp4Star": [],
-    "startTime": null,
-    "endTime": 1788904740,
-    "displayStartTime": 1787097600,
-    "sourceType": "official"
-  },
-  {
-    "name": "The Ichi-daime",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "image": "https://img.game8.co/4482487/9bd355ebdb91567b17fcd5853d3f307c.png/show",
-    "status": "history",
-    "rateUp5Star": [
-      {
-        "name": "Nanally",
-        "icon": "https://img.game8.co/4476578/19db92921cf30e4329f02a7bc5fb4ab7.png/show",
-        "type": "Anima",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Element": "Anima",
-          "Role": "Damage"
-        }
-      }
-    ],
-    "rateUp4Star": [
+      },
       {
         "name": "Mint",
         "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
         "type": "Anima",
         "entityKind": "character",
         "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
         "details": {
           "Element": "Anima",
           "Role": "Damage"
         }
-      },
-      {
-        "name": "Edgar",
-        "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
-        "type": "Cosmos",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Element": "Cosmos",
-          "Role": "Survival"
-        }
-      },
-      {
-        "name": "Adler",
-        "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
-        "type": "Incantation",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Element": "Incantation",
-          "Role": "Survival"
-        }
       }
     ],
     "startTime": null,
-    "endTime": 1788904740,
-    "displayStartTime": 1787097600,
+    "endTime": 1792533540,
+    "displayStartTime": 1790726400,
     "sourceType": "official"
   },
   {
-    "name": "Tiger Special",
-    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-    "image": "https://img.game8.co/4482485/d983fdb8d1418e10754705a0f2d98231.png/show",
-    "status": "history",
+    "name": "Roostfeather Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "image": "",
+    "status": "active",
     "rateUp5Star": [
       {
-        "name": "Ready-Ready",
-        "icon": "https://img.game8.co/4491634/14fa2a0ee4a4adbc7e49c58f6c7ad52e.png/show",
-        "type": "arc:Plasma",
+        "name": "Crime",
+        "icon": null,
+        "type": "arc",
         "entityKind": "arc",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260817/263605.html",
-        "details": {
-          "Rarity": "S Rank",
-          "Base ATK": "37",
-          "Substat": "CRIT Rate",
-          "Type": "Plasma"
-        }
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      },
+      {
+        "name": "Punishment",
+        "icon": null,
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
       }
     ],
     "rateUp4Star": [],
     "startTime": null,
-    "endTime": 1788904740,
-    "displayStartTime": 1787097600,
+    "endTime": 1792533540,
+    "displayStartTime": 1790726400,
+    "sourceType": "official"
+  },
+  {
+    "name": "Fading Reverie",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "image": "",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Lacrimosa Returns",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      },
+      {
+        "name": "Lacrimosa",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      },
+      {
+        "name": "alongside A-class characters Mint",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Edgar",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {}
+      },
+      {
+        "name": "Adler",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {}
+      },
+      {
+        "name": "Mint",
+        "icon": null,
+        "type": "character",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      }
+    ],
+    "startTime": null,
+    "endTime": 1792533540,
+    "displayStartTime": 1790726400,
+    "sourceType": "official"
+  },
+  {
+    "name": "Nocturne Special",
+    "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+    "image": "",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "The Last Rose Returns",
+        "icon": null,
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      },
+      {
+        "name": "The Last Rose",
+        "icon": null,
+        "type": "arc",
+        "entityKind": "arc",
+        "rarity": 5,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+      }
+    ],
+    "rateUp4Star": [],
+    "startTime": null,
+    "endTime": 1792533540,
+    "displayStartTime": 1790726400,
     "sourceType": "official"
   }
 ]

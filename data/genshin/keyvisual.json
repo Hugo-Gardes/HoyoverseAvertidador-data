@@ -1,11 +1,11 @@
 {
   "game": "genshin",
   "file": "keyvisual.avif",
-  "sourceUrl": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/09/12/7acd963424d6d8bc893f0eb7c0bb0fbc_1736875260760538788.webp",
+  "sourceUrl": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/09/12/544bf0d17e4570f886fd1b731a3274da_5003849349598617917.webp",
   "sourceName": "Launcher HoYoPlay",
-  "capturedAt": "2026-09-27T17:40:02.002Z",
+  "capturedAt": "2026-10-13T10:46:07.074Z",
   "width": 1600,
   "height": 900,
-  "bytes": 102209,
-  "sha256": "24c6ea06662b73b2e567dadc4dd857f2898e94fe4117cc5f4ae95d0b4e4acad2"
+  "bytes": 141757,
+  "sha256": "17544a5159a666b877e9780275af8ddb7a7d30202df623394d9bb3f945b4d8cc"
 }
