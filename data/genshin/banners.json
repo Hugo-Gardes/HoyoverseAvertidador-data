@@ -1,280 +1,5 @@
 [
   {
-    "name": "Surging Ballad",
-    "link": "https://game8.co/games/Genshin-Impact/archives/622061",
-    "image": "https://img.game8.co/4626280/604cbd8a509e2069a210118ac040cee5.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Vodyanitsa",
-        "icon": "https://img.game8.co/4627249/ab52f858d21fd8af63a33347f343ec3a.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606400",
-        "details": {
-          "Rarity": "★★★★★",
-          "Element": "Hydro",
-          "Weapon": "Catalyst",
-          "HP": "2992",
-          "ATK": "22",
-          "DEF": "98"
-        },
-        "entityKind": "character",
-        "rarity": 5
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Faruzan",
-        "icon": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/391897",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Bow",
-          "HP": "2061",
-          "ATK": "43",
-          "DEF": "135",
-          "Faction": "Haravatat"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      },
-      {
-        "name": "Diona",
-        "icon": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/305872",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Cryo",
-          "Weapon": "Bow",
-          "HP": "2061",
-          "ATK": "46",
-          "DEF": "129",
-          "Faction": "The Cat's Tail"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      },
-      {
-        "name": "Chongyun",
-        "icon": "https://img.game8.co/3294995/fee596e42fda91cf32e9a7909a3d8f55.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297532",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Cryo",
-          "Weapon": "Claymore",
-          "HP": "2366",
-          "ATK": "48",
-          "DEF": "140",
-          "Faction": "Tianheng Thaumaturges"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1790121600,
-    "displayEndTime": 1791849600
-  },
-  {
-    "name": "When Warm Winds Cavort",
-    "link": "https://game8.co/games/Genshin-Impact/archives/622060",
-    "image": "https://img.game8.co/4626281/a0d0409ec8a95ee278e00107752e9854.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Vesna",
-        "icon": "https://img.game8.co/4627250/d4d791ceb26d47ecb2a051aafea60eb1.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606901",
-        "details": {
-          "Rarity": "★★★★★",
-          "Element": "Anemo",
-          "Weapon": "Sword",
-          "HP": "2678",
-          "ATK": "71",
-          "DEF": "147"
-        },
-        "entityKind": "character",
-        "rarity": 5
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Faruzan",
-        "icon": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/391897",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Anemo",
-          "Weapon": "Bow",
-          "HP": "2061",
-          "ATK": "43",
-          "DEF": "135",
-          "Faction": "Haravatat"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      },
-      {
-        "name": "Diona",
-        "icon": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/305872",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Cryo",
-          "Weapon": "Bow",
-          "HP": "2061",
-          "ATK": "46",
-          "DEF": "129",
-          "Faction": "The Cat's Tail"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      },
-      {
-        "name": "Chongyun",
-        "icon": "https://img.game8.co/3294995/fee596e42fda91cf32e9a7909a3d8f55.png/show",
-        "type": "character",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297532",
-        "details": {
-          "Rarity": "★★★★",
-          "Element": "Cryo",
-          "Weapon": "Claymore",
-          "HP": "2366",
-          "ATK": "48",
-          "DEF": "140",
-          "Faction": "Tianheng Thaumaturges"
-        },
-        "entityKind": "character",
-        "rarity": 4
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1790121600,
-    "displayEndTime": 1791849600
-  },
-  {
-    "name": "Epitome Invocation",
-    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
-    "image": "https://img.game8.co/4648763/6ecc2a2dad28f2bdf02c2d60df5793d7.png/show",
-    "status": "active",
-    "rateUp5Star": [
-      {
-        "name": "Azurelight",
-        "icon": "https://img.game8.co/4199037/798ad5d9723a3fc83d31db5bd27294bc.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/527284",
-        "details": {
-          "Type": "Sword",
-          "Base ATK": "48",
-          "Rarity": "★★★★★",
-          "Skill": "White Mountain's BountyWithin 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%."
-        },
-        "entityKind": "weapon",
-        "rarity": 5
-      },
-      {
-        "name": "Symphonist of Scents",
-        "icon": "https://img.game8.co/4166634/9efdd6238c8bb346c1057004c6f57270.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/516101",
-        "details": {
-          "Type": "Polearm",
-          "Base ATK": "46",
-          "Rarity": "★★★★★",
-          "Skill": "Seasoned SymphonyATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field."
-        },
-        "entityKind": "weapon",
-        "rarity": 5
-      }
-    ],
-    "rateUp4Star": [
-      {
-        "name": "Sturdy Bone",
-        "icon": "https://img.game8.co/4024763/e0f2d6ea165c23133d39067bd7988c42.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/475537",
-        "details": {
-          "Type": "Sword",
-          "Base ATK": "44",
-          "Rarity": "★★★★",
-          "Skill": "Trapper's PrideSprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      },
-      {
-        "name": "Sacrificial Bow",
-        "icon": "https://img.game8.co/3314489/6cda8ba49361c10e9cadbca6e5b47aba.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301959",
-        "details": {
-          "Type": "Bow",
-          "Base ATK": "44",
-          "Rarity": "★★★★",
-          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      },
-      {
-        "name": "Favonius Lance",
-        "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301951",
-        "details": {
-          "Type": "Polearm",
-          "Base ATK": "44",
-          "Rarity": "★★★★",
-          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      },
-      {
-        "name": "The Widsith",
-        "icon": "https://img.game8.co/3314591/3a9b07fded3dd45454a6d850ca203499.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301944",
-        "details": {
-          "Type": "Catalyst",
-          "Base ATK": "42",
-          "Rarity": "★★★★",
-          "Skill": "DebutWhen a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
-          "Effect(Lasts 10s)": "ATK is increased by 60-120% for 10 seconds."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      },
-      {
-        "name": "Sacrificial Greatsword",
-        "icon": "https://img.game8.co/3314475/e7435217637d18327507c1566a72c710.png/show",
-        "type": "weapon",
-        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301932",
-        "details": {
-          "Type": "Claymore",
-          "Base ATK": "44",
-          "Rarity": "★★★★",
-          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
-        },
-        "entityKind": "weapon",
-        "rarity": 4
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1791849600,
-    "displayEndTime": 1793664000
-  },
-  {
     "name": "Void Star's Advent",
     "link": "https://game8.co/games/Genshin-Impact/archives/527273",
     "image": "https://img.game8.co/4643644/eedbca4f9fd5e565a0c9bd6b8cb82ee2.png/show",
@@ -433,5 +158,280 @@
     "endTime": null,
     "displayStartTime": 1791849600,
     "displayEndTime": 1793664000
+  },
+  {
+    "name": "Epitome Invocation",
+    "link": "https://game8.co/games/Genshin-Impact/archives/304758",
+    "image": "https://img.game8.co/4648763/6ecc2a2dad28f2bdf02c2d60df5793d7.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Azurelight",
+        "icon": "https://img.game8.co/4199037/798ad5d9723a3fc83d31db5bd27294bc.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/527284",
+        "details": {
+          "Type": "Sword",
+          "Base ATK": "48",
+          "Rarity": "★★★★★",
+          "Skill": "White Mountain's BountyWithin 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%."
+        },
+        "entityKind": "weapon",
+        "rarity": 5
+      },
+      {
+        "name": "Symphonist of Scents",
+        "icon": "https://img.game8.co/4166634/9efdd6238c8bb346c1057004c6f57270.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/516101",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "46",
+          "Rarity": "★★★★★",
+          "Skill": "Seasoned SymphonyATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field."
+        },
+        "entityKind": "weapon",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Sturdy Bone",
+        "icon": "https://img.game8.co/4024763/e0f2d6ea165c23133d39067bd7988c42.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/475537",
+        "details": {
+          "Type": "Sword",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "Trapper's PrideSprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "icon": "https://img.game8.co/3314489/6cda8ba49361c10e9cadbca6e5b47aba.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301959",
+        "details": {
+          "Type": "Bow",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "icon": "https://img.game8.co/3314486/a2a0db169836e941c9c7a42889c2f29d.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301951",
+        "details": {
+          "Type": "Polearm",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "WindfallCRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "icon": "https://img.game8.co/3314591/3a9b07fded3dd45454a6d850ca203499.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301944",
+        "details": {
+          "Type": "Catalyst",
+          "Base ATK": "42",
+          "Rarity": "★★★★",
+          "Skill": "DebutWhen a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
+          "Effect(Lasts 10s)": "ATK is increased by 60-120% for 10 seconds."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "icon": "https://img.game8.co/3314475/e7435217637d18327507c1566a72c710.png/show",
+        "type": "weapon",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/301932",
+        "details": {
+          "Type": "Claymore",
+          "Base ATK": "44",
+          "Rarity": "★★★★",
+          "Skill": "ComposedAfter damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        },
+        "entityKind": "weapon",
+        "rarity": 4
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1791849600,
+    "displayEndTime": 1793664000
+  },
+  {
+    "name": "When Warm Winds Cavort",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622060",
+    "image": "https://img.game8.co/4626281/a0d0409ec8a95ee278e00107752e9854.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Vesna",
+        "icon": "https://img.game8.co/4627250/d4d791ceb26d47ecb2a051aafea60eb1.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606901",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Anemo",
+          "Weapon": "Sword",
+          "HP": "2678",
+          "ATK": "71",
+          "DEF": "147"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Faruzan",
+        "icon": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/391897",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Bow",
+          "HP": "2061",
+          "ATK": "43",
+          "DEF": "135",
+          "Faction": "Haravatat"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "icon": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/305872",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Bow",
+          "HP": "2061",
+          "ATK": "46",
+          "DEF": "129",
+          "Faction": "The Cat's Tail"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "icon": "https://img.game8.co/3294995/fee596e42fda91cf32e9a7909a3d8f55.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297532",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Claymore",
+          "HP": "2366",
+          "ATK": "48",
+          "DEF": "140",
+          "Faction": "Tianheng Thaumaturges"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790121600,
+    "displayEndTime": 1791849600
+  },
+  {
+    "name": "Surging Ballad",
+    "link": "https://game8.co/games/Genshin-Impact/archives/622061",
+    "image": "https://img.game8.co/4626280/604cbd8a509e2069a210118ac040cee5.png/show",
+    "status": "active",
+    "rateUp5Star": [
+      {
+        "name": "Vodyanitsa",
+        "icon": "https://img.game8.co/4627249/ab52f858d21fd8af63a33347f343ec3a.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/606400",
+        "details": {
+          "Rarity": "★★★★★",
+          "Element": "Hydro",
+          "Weapon": "Catalyst",
+          "HP": "2992",
+          "ATK": "22",
+          "DEF": "98"
+        },
+        "entityKind": "character",
+        "rarity": 5
+      }
+    ],
+    "rateUp4Star": [
+      {
+        "name": "Faruzan",
+        "icon": "https://img.game8.co/3620505/d2b99b93a237472b026f870e823e446b.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/391897",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Anemo",
+          "Weapon": "Bow",
+          "HP": "2061",
+          "ATK": "43",
+          "DEF": "135",
+          "Faction": "Haravatat"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "icon": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/305872",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Bow",
+          "HP": "2061",
+          "ATK": "46",
+          "DEF": "129",
+          "Faction": "The Cat's Tail"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "icon": "https://img.game8.co/3294995/fee596e42fda91cf32e9a7909a3d8f55.png/show",
+        "type": "character",
+        "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/297532",
+        "details": {
+          "Rarity": "★★★★",
+          "Element": "Cryo",
+          "Weapon": "Claymore",
+          "HP": "2366",
+          "ATK": "48",
+          "DEF": "140",
+          "Faction": "Tianheng Thaumaturges"
+        },
+        "entityKind": "character",
+        "rarity": 4
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1790121600,
+    "displayEndTime": 1791849600
   }
 ]
