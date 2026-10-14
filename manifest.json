@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-13T18:36:56.901Z",
+  "generatedAt": "2026-10-14T00:36:17.775Z",
   "sourceCommit": "059f7f00063931839c9bdd7675d12be2430f6497",
   "files": [
     {
       "path": "data/fgo/banners.json",
-      "bytes": 100465,
+      "bytes": 100042,
       "items": 2,
-      "sha256": "5400c8c9952b567a30dafd7a2b971ac13579095cdb27efd54a9bde9dae1b1fe7",
-      "changedAt": "2026-10-13T10:46:55.219Z",
+      "sha256": "5d3a33a772a67795990dd87332d6686a6af269ed1d4e57448cd4a610b85e98b3",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
-      "contentChangedAtLastObservation": false,
+      "contentChangedAtLastObservation": true,
       "dataState": "populated"
     },
     {
@@ -22,18 +22,18 @@
       "sha256": "131dd19f4d9c9f28a0275e1bdeaa231e8aee9f08f2c9cf03490167efb5e2d676",
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
     },
     {
       "path": "data/fgo/loot_table.json",
-      "bytes": 53595,
-      "items": 910,
-      "sha256": "6536d2f1194d8bcab3036cba5969de40ee04287aaadf35e9fc1551d17f695a5e",
-      "changedAt": "2026-10-13T12:36:47.012Z",
-      "itemsBefore": 908,
+      "bytes": 53678,
+      "items": 912,
+      "sha256": "1dfa33a433d901a94e8b2ae7eec60cf403601c358a29d8b2580c04193b85f74f",
+      "changedAt": "2026-10-14T00:36:17.775Z",
+      "itemsBefore": 910,
       "lastObservedAt": null,
       "sourceHealth": "unknown",
       "contentChangedAtLastObservation": null,
@@ -41,12 +41,12 @@
     },
     {
       "path": "data/genshin/banners.json",
-      "bytes": 14945,
-      "items": 5,
-      "sha256": "4af63b0dc510b09de55b1e12e49dde41722d0c1979930014f4921d0f0eed34c0",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "bytes": 9982,
+      "items": 3,
+      "sha256": "c67313b1b0a0da13fd2fe5cadd45c9dd7f4276ed00398d8be9d98183761281ad",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -58,7 +58,7 @@
       "sha256": "203a0ae570d23a19259686a73e81be1e8ce4ceb91b85d24b6304a97f4c0f5e5e",
       "changedAt": "2026-09-12T00:53:36.846Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -70,7 +70,7 @@
       "sha256": "9344d3088ab236d5373ab22ed7d52b7a681b612c006a0fbddd3c8cf174469d25",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -82,7 +82,7 @@
       "sha256": "8405be184ab5405cb95513c6bd5ec7a8d5071a7df7d123136eb81d82132849ee",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 6,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -94,7 +94,7 @@
       "sha256": "d89a99a30bbfcba20f08af93c01ea46a7f1beb16cb6877b103f653e8d783402e",
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -106,7 +106,7 @@
       "sha256": "0434a965e0ebeed59fcf0321a6a0c7a9a90f050d63a813c328c5916332f7a0ac",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 6,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -118,7 +118,7 @@
       "sha256": "3eeabf3958e98b04030a6c0aee5f203801c6d909fb50c899a013b4b924616bac",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -130,7 +130,7 @@
       "sha256": "1d697faf970d95102925b7f00c5762799238199f0988bf5e9518d7039e963a7c",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -142,7 +142,7 @@
       "sha256": "5d9d24f0f9de2a5afe4abfb9c6b93d0590361c60bb0096e0d61f5c1b10bdefa0",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -154,7 +154,7 @@
       "sha256": "8e54123824bce77736f8dfa50bd3f7a37829c03e8efdbfae82778d57287b7db2",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -166,7 +166,7 @@
       "sha256": "44b72c051e1514517c0ee6716cc624705c0d7eb9242fed0489192146945450f3",
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -178,7 +178,7 @@
       "sha256": "65fe100f8fc15666244baaf35b118b5976fb5d37019bfd064cb6adeeced6c8ae",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -190,7 +190,7 @@
       "sha256": "308788e9cba15fcceaf4ce397634149eb64a9c7546b84d0c932d6d6ed129ff56",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -199,10 +199,10 @@
       "path": "data/wuwa/banners.json",
       "bytes": 35948,
       "items": 12,
-      "sha256": "e92f963dc955ea79c23c8b999a706bce117c67949dc0dcf3aec3544fdd30727b",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "1e7a8076a5f9d2efa8c9c7632c254ed7233f07538cf6c4a205104f54f43696c0",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -214,7 +214,7 @@
       "sha256": "891fff637bba117855977d738eec6b2069ac6d81483d287e4c08cf61d8d91cab",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 4,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -226,7 +226,7 @@
       "sha256": "dd5baae80d8dc492b0ea2dda80b2163f3284cedb2313bc9b21710b076c68fc7a",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -238,7 +238,7 @@
       "sha256": "df1fae81cea0cce4b6a2867b05e3ebf7734635b833e2ef1d202451cfba7ed3e5",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 18,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -250,7 +250,7 @@
       "sha256": "6e6dcf81194cd1fe2e8f820cfced8f8295057f4f7944fc4ef0cb9406422e8f96",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -262,7 +262,7 @@
       "sha256": "ff9f60feb1908f2fcef7cd3cbfdf2d88c9d1c3375f7ea5d8ca5d2691a53bccb5",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -271,7 +271,7 @@
       "path": "data/zzz/banners.json",
       "bytes": 40643,
       "items": 8,
-      "sha256": "e5945ce6b40aacafa92908970b0f31f86752225aa93ea64a81c5a0da2adf9f17",
+      "sha256": "28ccb599a71978343ca8196fbf9c33943c428f86c7250b1966d3e2dc57d3877b",
       "assetCompleteness": {
         "state": "complete",
         "expected": 32,
@@ -282,9 +282,9 @@
         "unverified": 0,
         "reasons": []
       },
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -296,16 +296,16 @@
       "sha256": "7f963d2029dd52a79535abede80835dd0c4e4c47362b087ba9ee1882593952aa",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
     },
     {
       "path": "data/zzz/events.json",
-      "bytes": 28200,
+      "bytes": 28199,
       "items": 11,
-      "sha256": "5f3ea84ca53f9b7c12cfeba4719afbf644ee3c673af70458728db9f689fe9857",
+      "sha256": "7af15c1f76f443b7f51247c999271ba04a9dc62c601caed01b1f08c5e7289898",
       "assetCompleteness": {
         "state": "degraded",
         "expected": 11,
@@ -319,9 +319,9 @@
           "event:Advanced Bounty: Area Patrol:MISSING_ASSET"
         ]
       },
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -333,7 +333,7 @@
       "sha256": "155c4fb939f33b38fab6035efdc72965ab64fab56f7ca7865b980011fb04f483",
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -345,7 +345,7 @@
       "sha256": "0937b1f0cc01dbf8c0457c6ee7599718c19e61c3505e4fb1c1ec42855c61654e",
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -354,10 +354,10 @@
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "da42c516f99471c7f59a3badd0acbd34204e339fd651611da2fb8824a4367d19",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "5359b6f13084ddd7dda6c7c0355512dd3408ae5a0647129b97a3d476e9612466",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -369,7 +369,7 @@
       "sha256": "17544a5159a666b877e9780275af8ddb7a7d30202df623394d9bb3f945b4d8cc",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -378,10 +378,10 @@
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "d24eb375ae47fb540b102079c10fb69bb7d301a2168604485377ada1f643a875",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "ace46e65d1bb44bbc003f4b4dbf82e4261dd11149e78ab52381d443eaef59bed",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -393,7 +393,7 @@
       "sha256": "a7b3888c973694f900e27ec34a9654ca70d7d18f104c8fc830af30ee9b8ae3c3",
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -402,10 +402,10 @@
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "90a2c4ca536d83295ad6cb9716bf049098b4f343f23f23b96d03d028704ebc25",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "58866ea9ecc527b2fe1a602a4de50c1a3e41c14e683ea489e4a5ecaa3c45545d",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -417,7 +417,7 @@
       "sha256": "be2fe7eac9cf1b2f7bedbbcf41ee91e9ace77889190824715316b427e8b7e885",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -426,10 +426,10 @@
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "f52c05acd603c91c0ec9f717fe287f63bcffe421ac38a7b94285835264bc2a64",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "d1ccd59b0219b40692f66882f2d434737e87ea994aa1b3c16f44cd4843222e1d",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -453,7 +453,7 @@
       "sha256": "0d09b55fa63fff70d2d663bad9196f7de9cb969971c9b74c494231fdd05d98fd",
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -462,10 +462,10 @@
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "19d4bfbc5054ccd26e7b0ad4f782718fbc035502713918df1ae78f9450b927ca",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "7cc7d5b72e796f21c6945d3523ef27cf8d4a366a59e1dcca723cbaf536aafe92",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
@@ -477,7 +477,7 @@
       "sha256": "1a1cedc6458950f0284305b2e262724220e6cdec78d91356908e2f2d316baf4a",
       "changedAt": "2026-09-08T12:36:48.653Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -486,10 +486,10 @@
       "path": "data/zzz/keyvisual.json",
       "bytes": 397,
       "items": 9,
-      "sha256": "dfc95b601afd3d5ef7465408cff694688c856699929fcf3eb2016b5e3398eedc",
-      "changedAt": "2026-10-13T18:36:56.901Z",
+      "sha256": "1f70e6482007ff8115bb66b9493584eb03f4a439e3ed987062871b1b3f7bb93d",
+      "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-13T18:30:15.759Z",
+      "lastObservedAt": "2026-10-14T00:30:15.965Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": true,
       "dataState": "populated"
