@@ -757,7 +757,59 @@
         "details": {}
       }
     ],
-    "rateUp4Star": [],
+    "rateUp4Star": [
+      {
+        "name": "Overture",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455935",
+        "icon": "https://img.game8.co/4302909/0590a93a2abd8300e31a31b7df539bca.png/show",
+        "type": "Sword",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Sword",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Relativistic Jet",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
+        "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
+        "type": "Pistol",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Pistol",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Amity Accord",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455914",
+        "icon": "https://img.game8.co/4302866/aa229fff8690d30817655507cc73d718.png/show",
+        "type": "Gauntlet",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "DEF+61.6%",
+          "Type": "Gauntlet",
+          "Weapon Skill": "Camaraderie When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (DEF)": "61.6%"
+        }
+      }
+    ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1792627200,
@@ -777,7 +829,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-14T00:30:24.944Z",
+        "observedAt": "2026-10-15T00:30:26.371Z",
         "sources": [
           {
             "game": "wuwa",
@@ -800,7 +852,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-14T00:30:24.944Z"
+            "observedAt": "2026-10-15T00:30:26.371Z"
           },
           {
             "game": "wuwa",
@@ -817,7 +869,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-            "observedAt": "2026-10-14T00:31:03.161Z"
+            "observedAt": "2026-10-15T00:31:09.818Z"
           }
         ]
       }
@@ -848,7 +900,59 @@
         }
       }
     ],
-    "rateUp4Star": [],
+    "rateUp4Star": [
+      {
+        "name": "Overture",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455935",
+        "icon": "https://img.game8.co/4302909/0590a93a2abd8300e31a31b7df539bca.png/show",
+        "type": "Sword",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Sword",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Relativistic Jet",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
+        "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
+        "type": "Pistol",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Pistol",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Amity Accord",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455914",
+        "icon": "https://img.game8.co/4302866/aa229fff8690d30817655507cc73d718.png/show",
+        "type": "Gauntlet",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "DEF+61.6%",
+          "Type": "Gauntlet",
+          "Weapon Skill": "Camaraderie When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (DEF)": "61.6%"
+        }
+      }
+    ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1792627200,
@@ -868,7 +972,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-14T00:30:24.944Z",
+        "observedAt": "2026-10-15T00:30:26.371Z",
         "sources": [
           {
             "game": "wuwa",
@@ -891,7 +995,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-14T00:30:24.944Z"
+            "observedAt": "2026-10-15T00:30:26.371Z"
           },
           {
             "game": "wuwa",
@@ -908,7 +1012,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
-            "observedAt": "2026-10-14T00:31:04.362Z"
+            "observedAt": "2026-10-15T00:31:11.105Z"
           }
         ]
       }
@@ -937,7 +1041,59 @@
         }
       }
     ],
-    "rateUp4Star": [],
+    "rateUp4Star": [
+      {
+        "name": "Overture",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455935",
+        "icon": "https://img.game8.co/4302909/0590a93a2abd8300e31a31b7df539bca.png/show",
+        "type": "Sword",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "Energy Regen+51.8%",
+          "Type": "Sword",
+          "Weapon Skill": "Ceaseless Aria When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (Energy Regen)": "51.8%"
+        }
+      },
+      {
+        "name": "Relativistic Jet",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/474513",
+        "icon": "https://img.game8.co/4302915/c4ab9a24050bc5aa889d56f1b9a582a5.png/show",
+        "type": "Pistol",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "462",
+          "Substat (Lv. 90)": "ATK+18.2%",
+          "Type": "Pistol",
+          "Weapon Skill": "Intergalactic Gaze Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s.",
+          "Max ATK": "462",
+          "Max Bonus Stat (ATK)": "18.2%"
+        }
+      },
+      {
+        "name": "Amity Accord",
+        "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455914",
+        "icon": "https://img.game8.co/4302866/aa229fff8690d30817655507cc73d718.png/show",
+        "type": "Gauntlet",
+        "entityKind": "weapon",
+        "rarity": 4,
+        "details": {
+          "Rarity": "4",
+          "Base ATK (Lv. 90)": "337",
+          "Substat (Lv. 90)": "DEF+61.6%",
+          "Type": "Gauntlet",
+          "Weapon Skill": "Camaraderie When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s.",
+          "Max ATK": "337",
+          "Max Bonus Stat (DEF)": "61.6%"
+        }
+      }
+    ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1792627200,
@@ -957,7 +1113,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-14T00:30:24.944Z",
+        "observedAt": "2026-10-15T00:30:26.371Z",
         "sources": [
           {
             "game": "wuwa",
@@ -980,7 +1136,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-14T00:30:24.944Z"
+            "observedAt": "2026-10-15T00:30:26.371Z"
           },
           {
             "game": "wuwa",
@@ -997,7 +1153,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
-            "observedAt": "2026-10-14T00:31:05.789Z"
+            "observedAt": "2026-10-15T00:31:12.472Z"
           }
         ]
       }

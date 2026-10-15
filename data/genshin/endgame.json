@@ -4,7 +4,7 @@
     "blessing": "Ice-Surging Moon",
     "firstHalfBuff": "First Half: Characters' Swirl DMG increased by 200% and Stellar Swirl DMG increased by 75%.",
     "secondHalfBuff": "Second Half: Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.",
-    "startTime": 1790812800,
+    "startTime": null,
     "endTime": 1792108800,
     "chambers": [
       {

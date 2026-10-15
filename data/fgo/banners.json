@@ -1,6 +1,17 @@
 {
   "confirmed_na_banners": [
     {
+      "title": "Revival: GUDAGUDA 2023 Ryouma's Narrow Escape Pickup Summon (Daily)",
+      "image": "https://img.gamepress.gg/grandorder/20261016 Revival GUDAGUDA Narrow Escape Pickup.png?width=480&height=173",
+      "servants": [
+        "Izumo-no-Okuni",
+        "Sakamoto Ryouma (Lancer)",
+        "Takasugi Shinsaku"
+      ],
+      "start_date": "2026-10-16",
+      "end_date": "2026-11-05"
+    },
+    {
       "title": "Faerie Sugoroku Insect Cage Game Free Quest Backup BB Pickup Summon",
       "image": "https://img.gamepress.gg/grandorder/20261004 Faerie Sugoroku BB Summer Pickup.png?width=480&height=173",
       "servants": [
@@ -1035,8 +1046,8 @@
         "Tezcatlipoca",
         "Nitocris"
       ],
-      "start_date": "2027-10-09",
-      "end_date": "2027-10-16",
+      "start_date": "2027-10-10",
+      "end_date": "2027-10-17",
       "original_jp_start": "2025-11-10"
     },
     {
@@ -1167,8 +1178,8 @@
         "Vlad III (EXTRA)",
         "Medusa (Lancer)"
       ],
-      "start_date": "2027-10-05",
-      "end_date": "2027-10-12",
+      "start_date": "2027-10-06",
+      "end_date": "2027-10-13",
       "original_jp_start": "2025-11-06"
     },
     {
@@ -1218,8 +1229,8 @@
         "William Tell",
         "Sugitani Zenjubou"
       ],
-      "start_date": "2027-10-04",
-      "end_date": "2027-10-20",
+      "start_date": "2027-10-05",
+      "end_date": "2027-10-21",
       "original_jp_start": "2025-11-05"
     },
     {
@@ -1229,8 +1240,8 @@
         "Morgan",
         "Barghest"
       ],
-      "start_date": "2027-10-02",
-      "end_date": "2027-10-09",
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-10",
       "original_jp_start": "2025-11-03"
     },
     {
@@ -1240,8 +1251,8 @@
         "Van Gogh",
         "Abigail Williams"
       ],
-      "start_date": "2027-09-29",
-      "end_date": "2027-10-08",
+      "start_date": "2027-09-30",
+      "end_date": "2027-10-09",
       "original_jp_start": "2025-10-31"
     },
     {
@@ -1253,16 +1264,16 @@
         "Watanabe-no-Tsuna",
         "Carmilla"
       ],
-      "start_date": "2027-09-26",
-      "end_date": "2027-10-05",
+      "start_date": "2027-09-27",
+      "end_date": "2027-10-06",
       "original_jp_start": "2025-10-28"
     },
     {
       "title": "[JP]  OVER THE SAME SKY -OCTOBER- Pickup Summon (Daily)",
       "image": "https://img.gamepress.gg/grandorder/20251027 OVER THE SAME SKY OCTOBER Pickup Daily.png?width=480&height=173",
       "servants": [],
-      "start_date": "2027-09-25",
-      "end_date": "2027-10-09",
+      "start_date": "2027-09-26",
+      "end_date": "2027-10-10",
       "original_jp_start": "2025-10-27"
     },
     {
@@ -1276,7 +1287,7 @@
         "Kriemhild"
       ],
       "start_date": "2027-09-23",
-      "end_date": "2027-10-11",
+      "end_date": "2027-10-12",
       "original_jp_start": "2025-10-24"
     },
     {
@@ -1286,7 +1297,7 @@
         "Elisabeth Bathory (SSR)"
       ],
       "start_date": "2027-09-21",
-      "end_date": "2027-10-11",
+      "end_date": "2027-10-12",
       "original_jp_start": "2025-10-22"
     },
     {
@@ -1487,6 +1498,53 @@
       "start_date": "2027-08-17",
       "end_date": "2027-08-24",
       "original_jp_start": "2025-09-17"
+    },
+    {
+      "title": "[JP] Vanishing Beginning Pickup 2 Summon (Daily)",
+      "image": "https://img.gamepress.gg/grandorder/20250907 Vanishing Beginning Benienma Louhi Pickup 2.png?width=480&height=173",
+      "servants": [
+        "Beni-Enma",
+        "Louhi",
+        "Caster of Okeanos"
+      ],
+      "start_date": "2027-08-07",
+      "end_date": "2027-08-24",
+      "original_jp_start": "2025-09-07",
+      "scheduleProvenance": {
+        "correctionId": "gamepress-jp-20250907-pu2",
+        "secondary": {
+          "sourceUrl": "https://grandorder.gamepress.gg/summon-banner-list",
+          "region": "JP",
+          "startRaw": "2025-09-07",
+          "endRaw": "2025-0924",
+          "servants": [
+            "Beni-Enma",
+            "Louhi",
+            "Caster of Okeanos"
+          ]
+        },
+        "officialJp": {
+          "campaignTitle": "失われた創世(ヴァニッシュド･ビギニング) 未来からの方舟ピックアップ2召喚",
+          "timezone": "Asia/Tokyo",
+          "startInstant": "2025-09-07T18:00:00+09:00",
+          "endInstant": "2025-09-24T12:59:00+09:00",
+          "calendarStart": "2025-09-07",
+          "calendarEnd": "2025-09-24",
+          "servants": [
+            "紅閻魔",
+            "ロウヒ",
+            "キルケー(オケアノスのキャスター)"
+          ],
+          "sourceUrl": "https://news.fate-go.jp/2025/vanished_beginning_pu2/",
+          "observedAt": "2026-10-15T00:35:51.551Z",
+          "evidenceSha256": "61f37b8238de4983e08fcd5b58e2275ced05611283e3cfb54a4430d6d8d08946",
+          "contentSha256": "b41a7d52f203e73935c8c575fda8c575779952be6c3cce1f046852563ced50f6"
+        },
+        "output": {
+          "region": "NA",
+          "kind": "estimated-jp-plus-699-days"
+        }
+      }
     },
     {
       "title": "[JP] Vanishing Beginning Nemo / Noah Pickup Summon",
@@ -2279,18 +2337,6 @@
       "original_jp_start": "2025-04-04"
     },
     {
-      "title": "[JP] Revival: GUDAGUDA 2023 Ryouma's Narrow Escape Pickup Summon (Daily)",
-      "image": "https://img.gamepress.gg/grandorder/20250402 Revival GUDAGUDA Narrow Escape Pickup.png?width=480&height=173",
-      "servants": [
-        "Izumo-no-Okuni",
-        "Sakamoto Ryouma (Lancer)",
-        "Takasugi Shinsaku"
-      ],
-      "start_date": "2027-03-02",
-      "end_date": "2027-03-23",
-      "original_jp_start": "2025-04-02"
-    },
-    {
       "title": "[JP] Weekly Caster Pickup 2 (Daily)",
       "image": "https://img.gamepress.gg/grandorder/20250331 Weekly Caster Pickup 2.png?width=480&height=173",
       "servants": [
@@ -2965,7 +3011,7 @@
         "Super Bunyan",
         "Van Gogh"
       ],
-      "start_date": "2026-10-20",
+      "start_date": "2026-10-21",
       "end_date": "2026-10-31",
       "original_jp_start": "2024-11-21"
     },
@@ -2979,8 +3025,8 @@
         "Gaius Julius Caesar",
         "Mandricardo"
       ],
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-24",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-25",
       "original_jp_start": "2024-11-15"
     },
     {
@@ -2989,7 +3035,7 @@
       "servants": [
         "Tutankhamun"
       ],
-      "start_date": "2026-10-12",
+      "start_date": "2026-10-13",
       "end_date": "2026-11-03",
       "original_jp_start": "2024-11-13"
     },
@@ -3000,8 +3046,8 @@
         "Ishtar",
         "Ozymandias"
       ],
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-14",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-15",
       "original_jp_start": "2024-11-06"
     },
     {
@@ -3017,8 +3063,8 @@
         "Cu Chulainn (Caster)",
         "Red Hare"
       ],
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-11",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-12",
       "original_jp_start": "2024-11-01"
     },
     {
