@@ -8,23 +8,196 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 180,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+        "totalQuantity": null,
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://www.hoyolab.com/article/46863658",
+            "conditions": [
+              "1. Browse the Anniversary Memories Album: Obtain Primogem ×60 and Hero's Wit ×5",
+              "2. Watch the Theater of Memories performance: Obtain Primogems ×60 and Mystic Enhancement Ore ×5",
+              "3. Successfully generate your Adventure Style: Obtain Primogems ×40 and Sanctifying Unction ×5",
+              "There are also hidden Easter eggs to discover, with rewards including Primogems ×20 and more~"
+            ],
+            "listedQuantities": [
+              60,
+              40,
+              20
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "1. Browse the Anniversary Memories Album: Obtain Primogem ×60 and Hero's Wit ×5"
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "2. Watch the Theater of Memories performance: Obtain Primogems ×60 and Mystic Enhancement Ore ×5"
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "3. Successfully generate your Adventure Style: Obtain Primogems ×40 and Sanctifying Unction ×5"
+                ],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "conditional",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "There are also hidden Easter eggs to discover, with rewards including Primogems ×20 and more~"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Hero's Wit",
-        "totalQuantity": 20005,
-        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
+        "totalQuantity": 5,
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://www.hoyolab.com/article/46863658",
+            "conditions": [
+              "1. Browse the Anniversary Memories Album: Obtain Primogem ×60 and Hero's Wit ×5"
+            ],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "1. Browse the Anniversary Memories Album: Obtain Primogem ×60 and Hero's Wit ×5"
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Mystic Enhancement Ore",
         "totalQuantity": 5,
-        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://www.hoyolab.com/article/46863658",
+            "conditions": [
+              "2. Watch the Theater of Memories performance: Obtain Primogems ×60 and Mystic Enhancement Ore ×5"
+            ],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "2. Watch the Theater of Memories performance: Obtain Primogems ×60 and Mystic Enhancement Ore ×5"
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Sanctifying Unction",
         "totalQuantity": 5,
-        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://www.hoyolab.com/article/46863658",
+            "conditions": [
+              "3. Successfully generate your Adventure Style: Obtain Primogems ×40 and Sanctifying Unction ×5"
+            ],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "3. Successfully generate your Adventure Style: Obtain Primogems ×40 and Sanctifying Unction ×5"
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Mora",
+        "totalQuantity": 20000,
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://www.hoyolab.com/article/46863658",
+            "conditions": [
+              "4. Share any content from the event page: Obtain Mora ×20,000"
+            ],
+            "listedQuantities": [
+              20000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://www.hoyolab.com/article/46863658",
+                "conditions": [
+                  "4. Share any content from the event page: Obtain Mora ×20,000"
+                ],
+                "listedQuantities": [
+                  20000
+                ],
+                "quantity": 20000
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -41,28 +214,555 @@
     "rewards": [
       {
         "itemName": "Primogem",
-        "totalQuantity": 1770,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Objective: Log in to Genshin Impact Miliastra Wonderland 1 time",
+              "Festive Fever: 200",
+              "Festive Fever: 1000",
+              "Festive Fever: 1800"
+            ],
+            "listedQuantities": [
+              20,
+              30,
+              60,
+              1600
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Objective: Log in to Genshin Impact Miliastra Wonderland 1 time"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 200"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 1000"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 1800"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  1600
+                ],
+                "quantity": 1600
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Lucky Draw Ticket",
+        "icon": "https://img.game8.co/4636183/5a5ee5db88f8e290a83fcb8530619679.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Objective: Log in to Genshin Impact Miliastra Wonderland 1 time"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Objective: Log in to Genshin Impact Miliastra Wonderland 1 time"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Geode of Replication",
-        "totalQuantity": 2560,
-        "icon": "https://img.game8.co/4313706/93a721e50f8278276b67856f88ab35c7.png/show"
+        "icon": "https://img.game8.co/4313706/93a721e50f8278276b67856f88ab35c7.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 400",
+              "Festive Fever: 1200",
+              "Festive Fever: 2000",
+              "Festive Fever: 2600",
+              "Festive Fever: 3200"
+            ],
+            "listedQuantities": [
+              160,
+              1600
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 400"
+                ],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 1200"
+                ],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 2000"
+                ],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 2600"
+                ],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 3200"
+                ],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              },
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  1600
+                ],
+                "quantity": 1600
+              },
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  160
+                ],
+                "quantity": 160
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Prismatic Crystal",
+        "icon": "https://img.game8.co/4387281/781a0c539232fc64404ced4bcd75cbe1.png/show",
+        "totalQuantity": 100,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 600",
+              "Festive Fever: 1400",
+              "Festive Fever: 2200",
+              "Festive Fever: 2800",
+              "Festive Fever: 3400"
+            ],
+            "listedQuantities": [
+              20
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 600"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 1400"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 2200"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 2800"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 3400"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Hands Up in the Air (Expression)",
+        "icon": "https://img.game8.co/4636326/56f81d5594ac0aa3ee4c36e5e2ffb74b.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 800"
+            ],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 800"
+                ],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "In Perfect Sync (Expression)",
+        "icon": "https://img.game8.co/4636328/69db2ecadd0446a1c379b4d3e4d382a5.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 1600"
+            ],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 1600"
+                ],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Crafting with Care (Expression)",
+        "icon": "https://img.game8.co/4636327/9043b427e4fc069fb432c170a616c163.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 2400"
+            ],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 2400"
+                ],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Giggle (Action)",
+        "icon": "https://img.game8.co/4636324/560873a003686cf0a3b55cee0bedd60c.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 3000"
+            ],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 3000"
+                ],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Cryo Slime Hat",
+        "icon": "https://img.game8.co/4636325/9fabaef2bae00dbb00f05aa829db197e.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [
+              "Festive Fever: 3600"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [
+                  "Festive Fever: 3600"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Random Try On Cape Gift Box",
+        "icon": "",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "lottery",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Adventurer's Experience",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316461/5d35ffc19710c83e0174f7dce153130e.png/show"
+        "icon": "https://img.game8.co/3316461/5d35ffc19710c83e0174f7dce153130e.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "lottery",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Mystic Enhancement Ore",
-        "totalQuantity": 2,
-        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show"
+        "icon": "https://img.game8.co/3316332/dcbcc34ae19678605d2fc24706d13de8.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "lottery",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Mora",
-        "totalQuantity": 5000,
-        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show",
+        "totalQuantity": null,
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "lottery",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+            "conditions": [],
+            "listedQuantities": [
+              5000
+            ],
+            "observations": [
+              {
+                "kind": "lottery",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622062",
+                "conditions": [],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -78,24 +778,357 @@
     "status": "ongoing",
     "rewards": [
       {
-        "itemName": "Genshin - Primogem",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+        "itemName": "Intertwined Fate",
+        "icon": "https://img.game8.co/3316382/66059bcd59dcf0666c66bf1b5902dc2b.png/show",
+        "totalQuantity": 10,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: 1",
+              "Day: 3",
+              "Day: 5",
+              "Day: 7"
+            ],
+            "listedQuantities": [
+              1,
+              2,
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 1"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 3"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 5"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 7"
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
       },
       {
-        "itemName": "Genshin - Intertwined Fate",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3316382/66059bcd59dcf0666c66bf1b5902dc2b.png/show"
+        "itemName": "Mora",
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show",
+        "totalQuantity": 80000,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: 2"
+            ],
+            "listedQuantities": [
+              80000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 2"
+                ],
+                "listedQuantities": [
+                  80000
+                ],
+                "quantity": 80000
+              }
+            ]
+          }
+        }
       },
       {
-        "itemName": "Genshin - Sanctifying Elixir",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/3973476/e23e896ee5efb4161142f1c756bf4e59.png/show"
+        "itemName": "Dust of Enlightenment",
+        "icon": "https://img.game8.co/4188674/f455ae9f120d53bb13b3081f6a2f6a14.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: 4"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 4"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       },
       {
-        "itemName": "Genshin - Dust of Enlightenment",
-        "totalQuantity": null,
-        "icon": "https://img.game8.co/4188674/f455ae9f120d53bb13b3081f6a2f6a14.png/show"
+        "itemName": "Hero's Wit",
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show",
+        "totalQuantity": 8,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: 6"
+            ],
+            "listedQuantities": [
+              8
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: 6"
+                ],
+                "listedQuantities": [
+                  8
+                ],
+                "quantity": 8
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Primogem",
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show",
+        "totalQuantity": 1600,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: September 28, 2026",
+              "Day: September 29, 2026",
+              "Day: September 30, 2026",
+              "Day: October 1, 2026"
+            ],
+            "listedQuantities": [
+              400
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 28, 2026"
+                ],
+                "listedQuantities": [
+                  400
+                ],
+                "quantity": 400
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 29, 2026"
+                ],
+                "listedQuantities": [
+                  400
+                ],
+                "quantity": 400
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 30, 2026"
+                ],
+                "listedQuantities": [
+                  400
+                ],
+                "quantity": 400
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: October 1, 2026"
+                ],
+                "listedQuantities": [
+                  400
+                ],
+                "quantity": 400
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Conductor of the \"Ya-ho\" (Pet)",
+        "icon": "https://img.game8.co/4617038/19cffe4183063adc746f15c387d736aa.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: September 28, 2026"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 28, 2026"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Fragile Resin",
+        "icon": "https://img.game8.co/3316390/200aa15f570a3652b60429235f5409e3.png/show",
+        "totalQuantity": 2,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: September 29, 2026"
+            ],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 29, 2026"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Sanctifying Elixir",
+        "icon": "https://img.game8.co/3973476/e23e896ee5efb4161142f1c756bf4e59.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: September 30, 2026"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: September 30, 2026"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "A Mini Trolley Problem (Gadget)",
+        "icon": "https://img.game8.co/4617037/26bc16d1cb3586db92ec3a2721a8168c.png/show",
+        "totalQuantity": 1,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+            "conditions": [
+              "Day: October 1, 2026"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622070",
+                "conditions": [
+                  "Day: October 1, 2026"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -112,33 +1145,373 @@
     "rewards": [
       {
         "itemName": "Primogem",
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show",
         "totalQuantity": 420,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              420,
+              20,
+              40,
+              60
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  420
+                ],
+                "quantity": 420
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Sanctifying Unction",
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show",
         "totalQuantity": 14,
-        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              14,
+              6,
+              4
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  14
+                ],
+                "quantity": 14
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Mora",
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show",
         "totalQuantity": 360000,
-        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              360000,
+              20000,
+              40000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  360000
+                ],
+                "quantity": 360000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  20000
+                ],
+                "quantity": 20000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Guide to Contention",
+        "icon": "https://img.game8.co/3970679/70dd99691051f1e0cb8f43b371f52dc3.png/show",
         "totalQuantity": 4,
-        "icon": "https://img.game8.co/3970679/70dd99691051f1e0cb8f43b371f52dc3.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              4,
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Guide to Kindling",
+        "icon": "https://img.game8.co/3970677/952653db32ee046d429abe6912675804.png/show",
         "totalQuantity": 4,
-        "icon": "https://img.game8.co/3970677/952653db32ee046d429abe6912675804.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              4,
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Guide to Conflict",
+        "icon": "https://img.game8.co/3970676/2502e3df1fecb5c0d5f67c4c5ffc3792.png/show",
         "totalQuantity": 4,
-        "icon": "https://img.game8.co/3970676/2502e3df1fecb5c0d5f67c4c5ffc3792.png/show"
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+            "conditions": [],
+            "listedQuantities": [
+              4,
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622052",
+                "conditions": [],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -155,28 +1528,118 @@
     "rewards": [
       {
         "itemName": "Primogem",
+        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show",
         "totalQuantity": null,
-        "icon": "https://img.game8.co/3321098/7e0e52f26201dc1b4d7a937587524e9d.png/show"
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+            "conditions": [],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+                "conditions": [],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Hero's Wit",
+        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show",
         "totalQuantity": null,
-        "icon": "https://img.game8.co/3316462/ce145c72d040868287e3b767106988ef.png/show"
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+            "conditions": [],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+                "conditions": [],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Sanctifying Unction",
+        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show",
         "totalQuantity": null,
-        "icon": "https://img.game8.co/3353626/f3c132fae5cca5aa72fd51c0e629349a.png/show"
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+            "conditions": [],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+                "conditions": [],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Mora",
+        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show",
         "totalQuantity": null,
-        "icon": "https://img.game8.co/3321099/112622e62752a594b94290f6f2b9d751.png/show"
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+            "conditions": [],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+                "conditions": [],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Weapon Ascension Materials",
+        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show",
         "totalQuantity": null,
-        "icon": "https://img.game8.co/3316423/75ded6014e5562b08e3b3b48c2b199e3.png/show"
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+            "conditions": [],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Genshin-Impact/archives/622053",
+                "conditions": [],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,

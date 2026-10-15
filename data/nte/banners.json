@@ -16,17 +16,21 @@
           "Element": "Psyche",
           "Role": "Damage"
         }
-      },
-      {
-        "name": "alongside A-class characters Mint",
-        "icon": null,
-        "type": "character",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
       }
     ],
     "rateUp4Star": [
+      {
+        "name": "Mint",
+        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
+        "type": "Anima",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {
+          "Element": "Anima",
+          "Role": "Damage"
+        }
+      },
       {
         "name": "Edgar",
         "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
@@ -50,18 +54,6 @@
           "Element": "Incantation",
           "Role": "Survival"
         }
-      },
-      {
-        "name": "Mint",
-        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
-        "type": "Anima",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-        "details": {
-          "Element": "Anima",
-          "Role": "Damage"
-        }
       }
     ],
     "startTime": null,
@@ -72,24 +64,22 @@
   {
     "name": "Roostfeather Special",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-    "image": "",
+    "image": "https://img.game8.co/4634964/cf01b1b2efdc1d6e86be3294ca533439.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Crime",
-        "icon": null,
-        "type": "arc",
+        "name": "Crime and Punishment",
+        "icon": "https://img.game8.co/4634837/f388f7e2a0c0eb46cd63fa457abfa70a.png/show",
+        "type": "arc:Gas",
         "entityKind": "arc",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
-      },
-      {
-        "name": "Punishment",
-        "icon": null,
-        "type": "arc",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {
+          "Rarity": "S Rank",
+          "Base ATK": "37",
+          "Substat": "CRIT Rate",
+          "Type": "Gas"
+        }
       }
     ],
     "rateUp4Star": [],
@@ -101,60 +91,58 @@
   {
     "name": "Fading Reverie",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-    "image": "",
+    "image": "https://img.game8.co/4522438/b2aeaf496f1c6c2b95982127da2c55fe.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "Lacrimosa Returns",
-        "icon": null,
-        "type": "character",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
-      },
-      {
         "name": "Lacrimosa",
-        "icon": null,
-        "type": "character",
+        "icon": "https://img.game8.co/4521484/72db0032994afcf51667bd06e86f50d7.png/show",
+        "type": "Chaos",
         "entityKind": "character",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
-      },
-      {
-        "name": "alongside A-class characters Mint",
-        "icon": null,
-        "type": "character",
-        "entityKind": "character",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {
+          "Element": "Chaos",
+          "Role": "Damage"
+        }
       }
     ],
     "rateUp4Star": [
       {
-        "name": "Edgar",
-        "icon": null,
-        "type": "character",
+        "name": "Mint",
+        "icon": "https://img.game8.co/4476576/f75fe6d6ed4145a69e7201d444344e7c.png/show",
+        "type": "Anima",
         "entityKind": "character",
         "rarity": 4,
         "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-        "details": {}
+        "details": {
+          "Element": "Anima",
+          "Role": "Damage"
+        }
+      },
+      {
+        "name": "Edgar",
+        "icon": "https://img.game8.co/4476669/c602c906fdcddb1cf4e76096b4c758f6.png/show",
+        "type": "Cosmos",
+        "entityKind": "character",
+        "rarity": 4,
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {
+          "Element": "Cosmos",
+          "Role": "Survival"
+        }
       },
       {
         "name": "Adler",
-        "icon": null,
-        "type": "character",
+        "icon": "https://img.game8.co/4476628/a5e678b4c7fb6252612922bc694d7254.png/show",
+        "type": "Incantation",
         "entityKind": "character",
         "rarity": 4,
         "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-        "details": {}
-      },
-      {
-        "name": "Mint",
-        "icon": null,
-        "type": "character",
-        "entityKind": "character",
-        "rarity": 4,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+        "details": {
+          "Element": "Incantation",
+          "Role": "Survival"
+        }
       }
     ],
     "startTime": null,
@@ -165,24 +153,22 @@
   {
     "name": "Nocturne Special",
     "link": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
-    "image": "",
+    "image": "https://img.game8.co/4522439/37c3382edd41b629e6737984fdb1dce9.png/show",
     "status": "active",
     "rateUp5Star": [
       {
-        "name": "The Last Rose Returns",
-        "icon": null,
-        "type": "arc",
-        "entityKind": "arc",
-        "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
-      },
-      {
         "name": "The Last Rose",
-        "icon": null,
-        "type": "arc",
+        "icon": "https://img.game8.co/4522974/373b344b3d61fb096efba779db8235f8.png/show",
+        "type": "arc:Liquid",
         "entityKind": "arc",
         "rarity": 5,
-        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html"
+        "sourceUrl": "https://nte.perfectworld.com/en/article/news/gamenews/20260929/264409.html",
+        "details": {
+          "Rarity": "S Rank",
+          "Base ATK": "37",
+          "Substat": "CRIT Rate",
+          "Type": "Liquid"
+        }
       }
     ],
     "rateUp4Star": [],

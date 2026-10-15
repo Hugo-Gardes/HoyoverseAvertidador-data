@@ -14,13 +14,7 @@
       "dateText": null,
       "imageUrl": "https://img.game8.co/4604893/b99daa0def8712bab90e35172b60888d.png/show",
       "status": "past",
-      "rewards": [
-        {
-          "itemName": "Post Your Results to Enter a Raffle",
-          "icon": "",
-          "totalQuantity": null
-        }
-      ]
+      "rewards": []
     },
     {
       "name": "3.6 Wuthering Exploration",
@@ -32,22 +26,199 @@
         {
           "itemName": "Astrite",
           "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 800
+          "totalQuantity": 800,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+              "conditions": [
+                "Survey Points: 20",
+                "Survey Points: 60",
+                "Survey Points: 140"
+              ],
+              "listedQuantities": [
+                200,
+                400
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 20"
+                  ],
+                  "listedQuantities": [
+                    200
+                  ],
+                  "quantity": 200
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 60"
+                  ],
+                  "listedQuantities": [
+                    200
+                  ],
+                  "quantity": 200
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 140"
+                  ],
+                  "listedQuantities": [
+                    400
+                  ],
+                  "quantity": 400
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Echo Modifier",
           "icon": "https://img.game8.co/4312863/f5950222ac4eab8d210b08158903a777.png/show",
-          "totalQuantity": 4
+          "totalQuantity": 4,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+              "conditions": [
+                "Survey Points: 20",
+                "Survey Points: 140"
+              ],
+              "listedQuantities": [
+                2
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 20"
+                  ],
+                  "listedQuantities": [
+                    2
+                  ],
+                  "quantity": 2
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 140"
+                  ],
+                  "listedQuantities": [
+                    2
+                  ],
+                  "quantity": 2
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Sealed Tube",
           "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-          "totalQuantity": 30
+          "totalQuantity": 30,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+              "conditions": [
+                "Survey Points: 40",
+                "Survey Points: 60",
+                "Survey Points: 100"
+              ],
+              "listedQuantities": [
+                10
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 40"
+                  ],
+                  "listedQuantities": [
+                    10
+                  ],
+                  "quantity": 10
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 60"
+                  ],
+                  "listedQuantities": [
+                    10
+                  ],
+                  "quantity": 10
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 100"
+                  ],
+                  "listedQuantities": [
+                    10
+                  ],
+                  "quantity": 10
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Tuner",
           "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
-          "totalQuantity": 100
+          "totalQuantity": 100,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+              "conditions": [
+                "Survey Points: 40",
+                "Survey Points: 100"
+              ],
+              "listedQuantities": [
+                50
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 40"
+                  ],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/457210",
+                  "conditions": [
+                    "Survey Points: 100"
+                  ],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -61,27 +232,350 @@
         {
           "itemName": "Astrite",
           "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 400
+          "totalQuantity": 400,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+              "conditions": [
+                "Day: 1",
+                "Day: 2",
+                "Day: 3",
+                "Day: 4",
+                "Day: 5",
+                "Day: 6",
+                "Day: 7"
+              ],
+              "listedQuantities": [
+                50,
+                60
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 1"
+                  ],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 2"
+                  ],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 3"
+                  ],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 4"
+                  ],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 5"
+                  ],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 6"
+                  ],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 7"
+                  ],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Shell Credit",
           "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-          "totalQuantity": 280000
+          "totalQuantity": 280000,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+              "conditions": [
+                "Day: 1",
+                "Day: 2",
+                "Day: 3",
+                "Day: 4",
+                "Day: 5",
+                "Day: 6",
+                "Day: 7"
+              ],
+              "listedQuantities": [
+                40000
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 1"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 2"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 3"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 4"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 5"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 6"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 7"
+                  ],
+                  "listedQuantities": [
+                    40000
+                  ],
+                  "quantity": 40000
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Resonance Potion",
           "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
-          "totalQuantity": 15
+          "totalQuantity": 15,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+              "conditions": [
+                "Day: 1",
+                "Day: 4",
+                "Day: 7"
+              ],
+              "listedQuantities": [
+                5
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 1"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 4"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 7"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Energy Core",
           "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
-          "totalQuantity": 10
+          "totalQuantity": 10,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+              "conditions": [
+                "Day: 2",
+                "Day: 5"
+              ],
+              "listedQuantities": [
+                5
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 2"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 5"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Sealed Tube",
           "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-          "totalQuantity": 10
+          "totalQuantity": 10,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+              "conditions": [
+                "Day: 3",
+                "Day: 6"
+              ],
+              "listedQuantities": [
+                5
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 3"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614773",
+                  "conditions": [
+                    "Day: 6"
+                  ],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -95,17 +589,246 @@
         {
           "itemName": "Astrite",
           "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 400
+          "totalQuantity": 400,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+              "conditions": [],
+              "listedQuantities": [
+                50,
+                60
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    60
+                  ],
+                  "quantity": 60
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Forgery Premium Supply - Lahai-Roi",
           "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-          "totalQuantity": 28
+          "totalQuantity": 28,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+              "conditions": [],
+              "listedQuantities": [
+                4
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Enclosure Tank - Land of Xuanfang",
           "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-          "totalQuantity": 56
+          "totalQuantity": 56,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+              "conditions": [],
+              "listedQuantities": [
+                8
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614757",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                }
+              ]
+            }
+          }
         }
       ]
     },
@@ -119,57 +842,737 @@
         {
           "itemName": "Astrite",
           "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-          "totalQuantity": 600
+          "totalQuantity": 600,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                50,
+                40
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    40
+                  ],
+                  "quantity": 40
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    40
+                  ],
+                  "quantity": 40
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    40
+                  ],
+                  "quantity": 40
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    40
+                  ],
+                  "quantity": 40
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    40
+                  ],
+                  "quantity": 40
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Resonance Potion",
           "icon": "https://img.game8.co/4312624/676d7f3e710fff8dd835f0b6ad76dbfe.png/show",
-          "totalQuantity": 12
+          "totalQuantity": 12,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                4
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Shell Credit",
           "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
-          "totalQuantity": 340000
+          "totalQuantity": 340000,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                30000,
+                10000
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    30000
+                  ],
+                  "quantity": 30000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    10000
+                  ],
+                  "quantity": 10000
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Energy Core",
           "icon": "https://img.game8.co/4312623/0bc950dd82730ef79a61c2073b0cb628.png/show",
-          "totalQuantity": 12
+          "totalQuantity": 12,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                4
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Sealed Tube",
           "icon": "https://img.game8.co/4312626/a8cbbde29019a0ef1d5e943441a212c2.png/show",
-          "totalQuantity": 8
+          "totalQuantity": 8,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                4
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    4
+                  ],
+                  "quantity": 4
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Tuner",
           "icon": "https://img.game8.co/4312645/77034dafd48ba05ccc722285b25dd179.png/show",
-          "totalQuantity": 100
+          "totalQuantity": 100,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                50
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    50
+                  ],
+                  "quantity": 50
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Forgery Advanced Supply - Lahai-Roi",
           "icon": "https://img.game8.co/4374914/ef038a50838355af4bbfc67c5db564db.png/show",
-          "totalQuantity": 25
+          "totalQuantity": 25,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                5
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Advanced Enclosure Tank - Land of Xuanfang",
           "icon": "https://img.game8.co/4557920/3242c6321565baf1c7ad9a2a24754443.png/show",
-          "totalQuantity": 40
+          "totalQuantity": 40,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                8
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    8
+                  ],
+                  "quantity": 8
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Forgery Premium Supply - Lahai-Roi",
           "icon": "https://img.game8.co/4374447/02cfe2e2388fc24dab9fa549e882e1ca.png/show",
-          "totalQuantity": 6
+          "totalQuantity": 6,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                3
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    3
+                  ],
+                  "quantity": 3
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    3
+                  ],
+                  "quantity": 3
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Premium Enclosure Tank - Land of Xuanfang",
           "icon": "https://img.game8.co/4557921/3e1d59cbddfe862b4e25c4a251a29ad6.png/show",
-          "totalQuantity": 12
+          "totalQuantity": 12,
+          "details": {
+            "quantityKnown": true,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                6
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    6
+                  ],
+                  "quantity": 6
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    6
+                  ],
+                  "quantity": 6
+                }
+              ]
+            }
+          }
         },
         {
           "itemName": "Morphable Elite Class Echo",
           "icon": "https://img.game8.co/4312600/f654ef4070051d38afcc27355df0f264.png/show",
-          "totalQuantity": 5
+          "totalQuantity": null,
+          "details": {
+            "quantityKnown": false,
+            "acquisition": {
+              "kind": "cumulative",
+              "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+              "conditions": [],
+              "listedQuantities": [
+                5
+              ],
+              "observations": [
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [
+                    5
+                  ],
+                  "quantity": 5
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                },
+                {
+                  "kind": "cumulative",
+                  "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/614765",
+                  "conditions": [],
+                  "listedQuantities": [],
+                  "quantity": null
+                }
+              ]
+            }
+          }
         }
       ]
     }
