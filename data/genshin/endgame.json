@@ -1,11 +1,11 @@
 {
   "spiralAbyss": {
     "version": "7.1",
-    "blessing": "Ice-Surging Moon",
-    "firstHalfBuff": "First Half: Characters' Swirl DMG increased by 200% and Stellar Swirl DMG increased by 75%.",
-    "secondHalfBuff": "Second Half: Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.",
+    "blessing": "Stardread Moon",
+    "firstHalfBuff": "First Half: Characters' Stellar Glimmer reaction DMG increased by 75%.",
+    "secondHalfBuff": "Second Half: All party members gain a 75% Cryo DMG Bonus.",
     "startTime": null,
-    "endTime": 1792108800,
+    "endTime": 1794787200,
     "chambers": [
       {
         "chamber": 1,
@@ -14,9 +14,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Bandersnatch",
+                "name": "Furiosa",
                 "count": 1,
-                "icon": "https://img.game8.co/4588857/3d77a9e47cf9134919c82480f5d888ef.png/show"
+                "icon": "https://img.game8.co/4588827/295909deef50108328353f88026af41a.png/show"
               }
             ]
           },
@@ -24,14 +24,19 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Wilderness Exile",
+                "name": "Iniquitous Baptist - Caller of Flood, Flame, and Fulmination",
                 "count": 1,
-                "icon": "https://img.game8.co/4275045/658f4fb03661dab65b6f0c5989ff7e1a.png/show"
+                "icon": "https://img.game8.co/3674926/b2c8ad06396b2500fa18c33f68fcd20b.png/show"
               },
               {
-                "name": "Raskolnikov",
+                "name": "Shadowy Husk: Standard Bearer",
                 "count": 1,
-                "icon": "https://img.game8.co/4275035/e8d5b0ba3dbb0efe1855efd030393075.png/show"
+                "icon": "https://img.game8.co/3664722/94bac22b0542d8731632abb2443f4dac.png/show"
+              },
+              {
+                "name": "Shadowy Husk: Defender",
+                "count": 1,
+                "icon": "https://img.game8.co/3664725/496b7575279abbeb10ddc804a453bcde.png/show"
               }
             ]
           }
@@ -44,9 +49,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Immortal Construct",
+                "name": "Radiant Moonfly",
                 "count": 1,
-                "icon": "https://img.game8.co/4574347/ab98f5aa175ff1f41752b4314206f76a.png/show"
+                "icon": "https://img.game8.co/4282546/c2bf513d46267539353208166afc4734.png/show"
               }
             ]
           },
@@ -54,14 +59,9 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Fishers of Hidden Depths",
-                "count": 4,
-                "icon": "https://img.game8.co/4384784/4cbcee22316d198e87229bd231a3b444.png/show"
-              },
-              {
-                "name": "Lord of the Hidden Depths - Whisperer of Nightmares",
+                "name": "Hiljetta",
                 "count": 1,
-                "icon": "https://img.game8.co/4377175/327e3ec15b1bb16955ee74576c3649db.png/show"
+                "icon": "https://img.game8.co/4384707/dfbe21e7da46f80a7c829319298caf9f.png/show"
               }
             ]
           }
@@ -74,9 +74,9 @@
             "half": "first",
             "enemies": [
               {
-                "name": "Churin",
+                "name": "Chimeric Winged Lion",
                 "count": 1,
-                "icon": "https://img.game8.co/4588859/4fae677d89991993bea46a9362c6ba21.png/show"
+                "icon": "https://img.game8.co/4574348/114a9ba2bd7214df6204518ed2bc9b64.png/show"
               }
             ]
           },
@@ -84,9 +84,9 @@
             "half": "second",
             "enemies": [
               {
-                "name": "Sigurd",
+                "name": "Secret Source Automaton: Overseer Device",
                 "count": 1,
-                "icon": "https://img.game8.co/4275585/634b9e5b90885a973cd69074058aa708.png/show"
+                "icon": "https://img.game8.co/4282544/0b4a486e0b6a2ddbd93e4d650a57ec87.png/show"
               }
             ]
           }
