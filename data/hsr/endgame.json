@@ -39,11 +39,6 @@
           "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
         },
         {
-          "name": "Traveler's Guide",
-          "count": "24",
-          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
-        },
-        {
           "name": "Refined Aether",
           "count": "412",
           "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show"
@@ -171,11 +166,6 @@
           "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
         },
         {
-          "name": "Traveler's Guide",
-          "count": "24",
-          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
-        },
-        {
           "name": "Refined Aether",
           "count": "12",
           "icon": "https://img.game8.co/3656149/64ce6a2836a5b39dfdd4999724175f91.png/show"
@@ -275,11 +265,6 @@
           "name": "Lucent Afterglow",
           "count": "96",
           "icon": "https://img.game8.co/3656563/64d5ec62ffe3bc5a0a45c8f9bd8f4a36.png/show"
-        },
-        {
-          "name": "Traveler's Guide",
-          "count": "24",
-          "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show"
         },
         {
           "name": "Refined Aether",
@@ -480,7 +465,7 @@
       "rewards": [
         {
           "name": "Lone Stardust",
-          "count": "1,200",
+          "count": "1200",
           "icon": "https://img.game8.co/4277856/be2e0033b71dcf06627557a2586c16f3.png/show"
         },
         {

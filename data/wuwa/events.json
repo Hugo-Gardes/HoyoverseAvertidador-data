@@ -1,5 +1,17 @@
 [
   {
+    "name": "Bountiful Crescendo",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
+    "dateText": "October 15, 2026 - October 22, 2026 Reach Union Level 14",
+    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
+    "status": "ongoing",
+    "rewards": [],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792022400,
+    "displayEndTime": 1792627200
+  },
+  {
     "name": "Artisan's Search",
     "link": "https://game8.co/games/Wuthering-Waves/archives/624767",
     "dateText": "October 8, 2026 - October 26, 2026 Reach Union Level 14 and activate Four Chime Shaftpost in Main Quest \"The Wind Before the Storm\"",
@@ -556,6 +568,318 @@
     "endTime": null,
     "displayStartTime": 1791417600,
     "displayEndTime": 1792972800
+  },
+  {
+    "name": "Waking Moon Fishing",
+    "link": "https://game8.co/games/Wuthering-Waves/archives/624776",
+    "dateText": "October 15, 2026 - November 1, 2026 Reach Union Level 8",
+    "imageUrl": "https://img.game8.co/4627979/de11130492c2d4c03930362f26f12bcb.png/show",
+    "status": "ongoing",
+    "rewards": [
+      {
+        "itemName": "Astrite",
+        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
+        "totalQuantity": 100,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+            "conditions": [
+              "Stage / Task: Regular Stage 1:Reach 300 fishing points within the time limit",
+              "Stage / Task: Regular Stage 2:Reach 350 fishing points within the time limit",
+              "Stage / Task: Regular Stage 3:Reach 400 fishing points within the time limit",
+              "Stage / Task: Regular Stage 4:Reach 450 fishing points within the time limit",
+              "Stage / Task: Regular Stage 5:Reach 500 fishing points within the time limit",
+              "Stage / Task: Regular Stage 6:Reach 550 fishing points within the time limit"
+            ],
+            "listedQuantities": [
+              10
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 1:Reach 300 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 2:Reach 350 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 3:Reach 400 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 4:Reach 450 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 5:Reach 500 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 6:Reach 550 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  10
+                ],
+                "quantity": 10
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Shell Credit",
+        "icon": "https://img.game8.co/4312648/6671d1c910bc756b43f9ecbccb108adb.png/show",
+        "totalQuantity": 60000,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+            "conditions": [
+              "Stage / Task: Regular Stage 1:Reach 300 fishing points within the time limit",
+              "Stage / Task: Regular Stage 2:Reach 350 fishing points within the time limit",
+              "Stage / Task: Regular Stage 3:Reach 400 fishing points within the time limit",
+              "Stage / Task: Regular Stage 4:Reach 450 fishing points within the time limit",
+              "Stage / Task: Regular Stage 5:Reach 500 fishing points within the time limit",
+              "Stage / Task: Regular Stage 6:Reach 550 fishing points within the time limit"
+            ],
+            "listedQuantities": [
+              10000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 1:Reach 300 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 2:Reach 350 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 3:Reach 400 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 4:Reach 450 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 5:Reach 500 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [
+                  "Stage / Task: Regular Stage 6:Reach 550 fishing points within the time limit"
+                ],
+                "listedQuantities": [
+                  10000
+                ],
+                "quantity": 10000
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Advanced Resonance Potion",
+        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
+        "totalQuantity": 5,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+            "conditions": [],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Advanced Energy Core",
+        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
+        "totalQuantity": 5,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+            "conditions": [],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Advanced Sealed Tube",
+        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
+        "totalQuantity": 5,
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+            "conditions": [],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
+                "conditions": [],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": 1792022400,
+    "displayEndTime": 1793491200
   },
   {
     "name": "Ascendant Aces",
@@ -4860,123 +5184,6 @@
     ],
     "startTime": null,
     "endTime": null
-  },
-  {
-    "name": "Bountiful Crescendo",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/458244",
-    "dateText": "October 15, 2026 - October 22, 2026 Earn double leveling material drops during this event!",
-    "imageUrl": "https://img.game8.co/4275761/9da27892047354ac11aa10f31f884f89.png/show",
-    "status": "ongoing",
-    "rewards": [],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1792022400,
-    "displayEndTime": 1792627200
-  },
-  {
-    "name": "Waking Moon Fishing",
-    "link": "https://game8.co/games/Wuthering-Waves/archives/624776",
-    "dateText": "October 15, 2026 - November 1, 2026 A mysterious stall appears at the Waking Moon Festival where Rovers will be able to take on a unique fishing challenge.",
-    "imageUrl": "https://img.game8.co/4627979/de11130492c2d4c03930362f26f12bcb.png/show",
-    "status": "ongoing",
-    "rewards": [
-      {
-        "itemName": "Astrite",
-        "icon": "https://img.game8.co/4312299/350fce7d8386fed17d06e47cd22a467d.png/show",
-        "totalQuantity": null,
-        "details": {
-          "quantityKnown": false,
-          "acquisition": {
-            "kind": "cumulative",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-            "conditions": [],
-            "listedQuantities": [],
-            "observations": [
-              {
-                "kind": "cumulative",
-                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-                "conditions": [],
-                "listedQuantities": [],
-                "quantity": null
-              }
-            ]
-          }
-        }
-      },
-      {
-        "itemName": "Advanced Resonance Potion",
-        "icon": "https://img.game8.co/4312264/4fdc2e3066b22e5e0c9b11166aa6d724.png/show",
-        "totalQuantity": null,
-        "details": {
-          "quantityKnown": false,
-          "acquisition": {
-            "kind": "cumulative",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-            "conditions": [],
-            "listedQuantities": [],
-            "observations": [
-              {
-                "kind": "cumulative",
-                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-                "conditions": [],
-                "listedQuantities": [],
-                "quantity": null
-              }
-            ]
-          }
-        }
-      },
-      {
-        "itemName": "Advanced Energy Core",
-        "icon": "https://img.game8.co/4312265/9b9afbf99b7deea1291796f4ad87b559.png/show",
-        "totalQuantity": null,
-        "details": {
-          "quantityKnown": false,
-          "acquisition": {
-            "kind": "cumulative",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-            "conditions": [],
-            "listedQuantities": [],
-            "observations": [
-              {
-                "kind": "cumulative",
-                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-                "conditions": [],
-                "listedQuantities": [],
-                "quantity": null
-              }
-            ]
-          }
-        }
-      },
-      {
-        "itemName": "Advanced Sealed Tube",
-        "icon": "https://img.game8.co/4312282/ee46a9b6d6e90cc2c0cc37f3e763635e.png/show",
-        "totalQuantity": null,
-        "details": {
-          "quantityKnown": false,
-          "acquisition": {
-            "kind": "cumulative",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-            "conditions": [],
-            "listedQuantities": [],
-            "observations": [
-              {
-                "kind": "cumulative",
-                "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624776",
-                "conditions": [],
-                "listedQuantities": [],
-                "quantity": null
-              }
-            ]
-          }
-        }
-      }
-    ],
-    "startTime": null,
-    "endTime": null,
-    "displayStartTime": 1792022400,
-    "displayEndTime": 1793491200
   },
   {
     "name": "Echo Erase",

@@ -10,7 +10,114 @@
         "itemName": "Encrypted Master Tape",
         "totalQuantity": 10,
         "icon": "https://img.game8.co/3893364/ebc3699720c8b9b7f5f15ca6c7dc91b1.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+            "conditions": [
+              "All-New Program Event Rewards / All Log-In Rewards",
+              "Day: Day 1",
+              "Day: Day 2",
+              "Day: Day 3",
+              "Day: Day 4",
+              "Day: Day 5",
+              "Day: Day 6",
+              "Day: Day 7"
+            ],
+            "listedQuantities": [
+              1,
+              2,
+              3
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 1"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 2"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 3"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 4"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 5"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 6"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
+                "conditions": [
+                  "All-New Program Event Rewards / All Log-In Rewards",
+                  "Day: Day 7"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -24,20 +131,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-        "observedAt": "2026-10-16T06:32:39.212Z",
+        "observedAt": "2026-10-16T12:33:13.444Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-        "observedAt": "2026-10-16T06:32:52.849Z",
+        "observedAt": "2026-10-16T12:33:24.842Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -74,20 +181,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
-        "observedAt": "2026-10-16T06:32:39.083Z",
+        "observedAt": "2026-10-16T12:33:13.893Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
-        "observedAt": "2026-10-16T06:32:52.872Z",
+        "observedAt": "2026-10-16T12:33:25.405Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -123,7 +230,7 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "image": {
         "sourceType": "unknown",
@@ -153,75 +260,610 @@
     "rewards": [
       {
         "itemName": "Proxy Accessories",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4183482/eff0c8f817d59cacd7f76a66f9390a3e.png/show",
-        "details": null
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Rewards + New Proxy Accessories and Angels of Delusion Skin"
+            ],
+            "listedQuantities": []
+          }
+        }
       },
       {
         "itemName": "Skin",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4080127/8bea03746455be1d3298f25b978bc6a6.png/show",
-        "details": null
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Rewards + New Proxy Accessories and Angels of Delusion Skin"
+            ],
+            "listedQuantities": []
+          }
+        }
       },
       {
         "itemName": "Heartfelt Support",
-        "totalQuantity": 1,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4605268/7dcf3df0df7f0e198b2ab6a131633a53.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Get Free Angels of Delusion Skin  After completing the Challenge Mode in the event, Proxies can also claim a free Angel of Delusion skin of their choice! Proxies will be able to choose between Nangong Yu's Skin - Heartfelt Support, Aria's Skin - Cuteness Loading, and Sunna's Skin - Delusions in Business. Angels Support Operation Event Guide"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
       },
       {
         "itemName": "Cuteness Loading",
-        "totalQuantity": 1,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4605273/71357de1855d611cab5b951b800de14d.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Get Free Angels of Delusion Skin  After completing the Challenge Mode in the event, Proxies can also claim a free Angel of Delusion skin of their choice! Proxies will be able to choose between Nangong Yu's Skin - Heartfelt Support, Aria's Skin - Cuteness Loading, and Sunna's Skin - Delusions in Business. Angels Support Operation Event Guide"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
       },
       {
         "itemName": "Delusions in Business",
-        "totalQuantity": 1,
+        "totalQuantity": null,
         "icon": "https://img.game8.co/4605270/7b3a1e2631dc8fa26b180313c39f0b43.png/show",
-        "details": null
-      },
-      {
-        "itemName": "Angels Support Operation Event",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4605411/320bd7c5c6ebe33f4f6c2c98290c5d4c.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Get Free Angels of Delusion Skin  After completing the Challenge Mode in the event, Proxies can also claim a free Angel of Delusion skin of their choice! Proxies will be able to choose between Nangong Yu's Skin - Heartfelt Support, Aria's Skin - Cuteness Loading, and Sunna's Skin - Delusions in Business. Angels Support Operation Event Guide"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
       },
       {
         "itemName": "Polychrome",
         "totalQuantity": 800,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: First Steps Into the Wild (Day 1)",
+              "Stage: Into the Ocean Depths (Day 2)",
+              "Stage: Wasteland Breakthrough (Day 3)",
+              "Stage: Castle Showdown (Day 4)",
+              "Stage: Challenge Mode"
+            ],
+            "listedQuantities": [
+              800,
+              150,
+              200
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  800
+                ],
+                "quantity": 800
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: First Steps Into the Wild (Day 1)"
+                ],
+                "listedQuantities": [
+                  150
+                ],
+                "quantity": 150
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Into the Ocean Depths (Day 2)"
+                ],
+                "listedQuantities": [
+                  150
+                ],
+                "quantity": 150
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Wasteland Breakthrough (Day 3)"
+                ],
+                "listedQuantities": [
+                  150
+                ],
+                "quantity": 150
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Castle Showdown (Day 4)"
+                ],
+                "listedQuantities": [
+                  150
+                ],
+                "quantity": 150
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Challenge Mode"
+                ],
+                "listedQuantities": [
+                  200
+                ],
+                "quantity": 200
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Hamster Cage Pass",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3893365/5529aee693c95a4eb535306751c6f330.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: Complete all Mission Mode stages"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Complete all Mission Mode stages"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Denny",
         "totalQuantity": 240000,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: First Steps Into the Wild (Day 1)",
+              "Stage: Into the Ocean Depths (Day 2)",
+              "Stage: Wasteland Breakthrough (Day 3)",
+              "Stage: Castle Showdown (Day 4)",
+              "Stage: Challenge Mode"
+            ],
+            "listedQuantities": [
+              240000,
+              50000,
+              40000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  240000
+                ],
+                "quantity": 240000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: First Steps Into the Wild (Day 1)"
+                ],
+                "listedQuantities": [
+                  50000
+                ],
+                "quantity": 50000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Into the Ocean Depths (Day 2)"
+                ],
+                "listedQuantities": [
+                  50000
+                ],
+                "quantity": 50000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Wasteland Breakthrough (Day 3)"
+                ],
+                "listedQuantities": [
+                  50000
+                ],
+                "quantity": 50000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Castle Showdown (Day 4)"
+                ],
+                "listedQuantities": [
+                  50000
+                ],
+                "quantity": 50000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Challenge Mode"
+                ],
+                "listedQuantities": [
+                  40000
+                ],
+                "quantity": 40000
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Senior Investigator Log",
         "totalQuantity": 24,
         "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: First Steps Into the Wild (Day 1)",
+              "Stage: Into the Ocean Depths (Day 2)",
+              "Stage: Wasteland Breakthrough (Day 3)",
+              "Stage: Castle Showdown (Day 4)"
+            ],
+            "listedQuantities": [
+              24,
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  24
+                ],
+                "quantity": 24
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: First Steps Into the Wild (Day 1)"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Into the Ocean Depths (Day 2)"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Wasteland Breakthrough (Day 3)"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Castle Showdown (Day 4)"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "W-Engine Energy Module",
         "totalQuantity": 20,
         "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: First Steps Into the Wild (Day 1)",
+              "Stage: Into the Ocean Depths (Day 2)",
+              "Stage: Wasteland Breakthrough (Day 3)",
+              "Stage: Castle Showdown (Day 4)",
+              "Stage: Challenge Mode"
+            ],
+            "listedQuantities": [
+              20,
+              3,
+              8
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: First Steps Into the Wild (Day 1)"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Into the Ocean Depths (Day 2)"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Wasteland Breakthrough (Day 3)"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Castle Showdown (Day 4)"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Challenge Mode"
+                ],
+                "listedQuantities": [
+                  8
+                ],
+                "quantity": 8
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Original Chip",
         "totalQuantity": 80,
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+            "conditions": [
+              "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards",
+              "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+              "Stage: First Steps Into the Wild (Day 1)",
+              "Stage: Into the Ocean Depths (Day 2)",
+              "Stage: Wasteland Breakthrough (Day 3)",
+              "Stage: Castle Showdown (Day 4)"
+            ],
+            "listedQuantities": [
+              80,
+              20
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Clink Clank Pinball Knight Total Rewards"
+                ],
+                "listedQuantities": [
+                  80
+                ],
+                "quantity": 80
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: First Steps Into the Wild (Day 1)"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Into the Ocean Depths (Day 2)"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Wasteland Breakthrough (Day 3)"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
+                "conditions": [
+                  "Clink, Clank, Pinball Knight Event Rewards / Pinball Knight Exclusive Rewards",
+                  "Stage: Castle Showdown (Day 4)"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -235,20 +877,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
-        "observedAt": "2026-10-16T06:32:38.761Z",
+        "observedAt": "2026-10-16T12:33:14.068Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
-        "observedAt": "2026-10-16T06:32:52.962Z",
+        "observedAt": "2026-10-16T12:33:25.362Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -278,49 +920,707 @@
         "itemName": "Polychrome",
         "totalQuantity": 300,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Anomaly",
+              "Stage: Energy",
+              "Stage: Decibels",
+              "Stage: Blitz",
+              "Stage: Daze",
+              "Stage: Maim",
+              "Stage: Special Offensive"
+            ],
+            "listedQuantities": [
+              300,
+              30,
+              120
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  300
+                ],
+                "quantity": 300
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Anomaly"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Energy"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Decibels"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Blitz"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Daze"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Maim"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Special Offensive"
+                ],
+                "listedQuantities": [
+                  120
+                ],
+                "quantity": 120
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Tuning Calibrator",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3893319/4eb8e6bd40e37ae5194b3d53bc00eccb.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Complete all Alliance and Special Offensive stages with a B-Rating"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Complete all Alliance and Special Offensive stages with a B-Rating"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Original Chip",
         "totalQuantity": 36,
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Anomaly",
+              "Stage: Energy",
+              "Stage: Decibels",
+              "Stage: Blitz",
+              "Stage: Daze",
+              "Stage: Maim",
+              "Stage: Special Offensive"
+            ],
+            "listedQuantities": [
+              36,
+              4,
+              12
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  36
+                ],
+                "quantity": 36
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Anomaly"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Energy"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Decibels"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Blitz"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Daze"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Maim"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Special Offensive"
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Senior Investigator Log",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Special Offensive"
+            ],
+            "listedQuantities": [
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Special Offensive"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Bangboo System Widget",
         "totalQuantity": 12,
         "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Special Offensive"
+            ],
+            "listedQuantities": [
+              12
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Special Offensive"
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Official Investigator Log",
         "totalQuantity": 24,
         "icon": "https://img.game8.co/3893330/71f4d99018db13b6925e0b8122369082.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards",
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Anomaly",
+              "Stage: Energy",
+              "Stage: Decibels",
+              "Stage: Blitz",
+              "Stage: Daze",
+              "Stage: Maim"
+            ],
+            "listedQuantities": [
+              24,
+              4
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Shadow Chase Showdown Rewards"
+                ],
+                "listedQuantities": [
+                  24
+                ],
+                "quantity": 24
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Anomaly"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Energy"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Decibels"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Blitz"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Daze"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Maim"
+                ],
+                "listedQuantities": [
+                  4
+                ],
+                "quantity": 4
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "W-Engine Power Supply",
         "totalQuantity": 12,
         "icon": "https://img.game8.co/3893362/95c9f184625d657b46e2c866f4e930a8.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Anomaly",
+              "Stage: Energy",
+              "Stage: Decibels",
+              "Stage: Blitz",
+              "Stage: Daze",
+              "Stage: Maim"
+            ],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Anomaly"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Energy"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Decibels"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Blitz"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Daze"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Maim"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Denny",
         "totalQuantity": 135000,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+            "conditions": [
+              "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+              "Stage: Anomaly",
+              "Stage: Energy",
+              "Stage: Decibels",
+              "Stage: Blitz",
+              "Stage: Daze",
+              "Stage: Maim",
+              "Stage: Special Offensive"
+            ],
+            "listedQuantities": [
+              15000,
+              45000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Anomaly"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Energy"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Decibels"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Blitz"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Daze"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Maim"
+                ],
+                "listedQuantities": [
+                  15000
+                ],
+                "quantity": 15000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
+                "conditions": [
+                  "Shadow Chase Showdown Event Rewards / All Rewards for Each Stage",
+                  "Stage: Special Offensive"
+                ],
+                "listedQuantities": [
+                  45000
+                ],
+                "quantity": 45000
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -334,20 +1634,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
-        "observedAt": "2026-10-16T06:32:47.208Z",
+        "observedAt": "2026-10-16T12:33:19.582Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
-        "observedAt": "2026-10-16T06:32:53.927Z",
+        "observedAt": "2026-10-16T12:33:27.349Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -375,51 +1675,326 @@
     "rewards": [
       {
         "itemName": "Avatar",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/3943401/470d98ccc8602ea2782918b6fa393387.png/show",
-        "details": null
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 4"
+            ],
+            "listedQuantities": [],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 4"
+                ],
+                "listedQuantities": [],
+                "quantity": null
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Skin",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4080127/8bea03746455be1d3298f25b978bc6a6.png/show",
-        "details": null
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Rewards + Profile Avatar and Angels of Delusion Skin"
+            ],
+            "listedQuantities": []
+          }
+        }
       },
       {
         "itemName": "Polychrome",
         "totalQuantity": 300,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 1",
+              "Day: Day 3",
+              "Day: Day 5",
+              "Day: Day 7",
+              "Day: Day 9",
+              "Day: Day 11",
+              "Day: Day 13"
+            ],
+            "listedQuantities": [
+              30,
+              40,
+              60
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 1"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 3"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 5"
+                ],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 7"
+                ],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 9"
+                ],
+                "listedQuantities": [
+                  40
+                ],
+                "quantity": 40
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 11"
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 13"
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Senior Investigator Log",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 2"
+            ],
+            "listedQuantities": [
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 2"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "W-Engine Energy Module",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 6"
+            ],
+            "listedQuantities": [
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 6"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Original Chip",
         "totalQuantity": 20,
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 8"
+            ],
+            "listedQuantities": [
+              20
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 8"
+                ],
+                "listedQuantities": [
+                  20
+                ],
+                "quantity": 20
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Ether Battery",
         "totalQuantity": 1,
         "icon": "https://img.game8.co/3893322/4080858e426f73e4f03f122b8a46a88b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 10"
+            ],
+            "listedQuantities": [
+              1
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 10"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Bangboo System Widget",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+            "conditions": [
+              "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+              "Day: Day 12"
+            ],
+            "listedQuantities": [
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
+                "conditions": [
+                  "Surprise Screening Event Rewards / All 3.2 Log-In Rewards",
+                  "Day: Day 12"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -433,20 +2008,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
-        "observedAt": "2026-10-16T06:32:46.663Z",
+        "observedAt": "2026-10-16T12:33:20.348Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
-        "observedAt": "2026-10-16T06:32:54.250Z",
+        "observedAt": "2026-10-16T12:33:27.764Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -470,14 +2045,7 @@
     "link": "https://game8.co/games/Zenless-Zone-Zero/archives/473610",
     "dateText": "2026/09/23 04:00 (server time) – 2026/09/28 03:59 (server time)",
     "status": "past",
-    "rewards": [
-      {
-        "itemName": "Routine Cleanup",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4350766/ae5e696c88ff01bcb2a38f597b28c00e.png/show",
-        "details": null
-      }
-    ],
+    "rewards": [],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1790121600,
@@ -489,13 +2057,13 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473610",
-        "observedAt": "2026-10-16T06:32:46.862Z",
+        "observedAt": "2026-10-16T12:33:20.486Z",
         "freshness": "fresh"
       },
       "image": {
@@ -527,39 +2095,548 @@
     "rewards": [
       {
         "itemName": "Profile Title",
-        "totalQuantity": 1,
-        "icon": "https://img.game8.co/4036943/bf566018a3fb8d6bccd0880536526ece.png/show",
-        "details": null
+        "totalQuantity": null,
+        "icon": "",
+        "details": {
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "unknown",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Rewards + New Profile Title"
+            ],
+            "listedQuantities": []
+          }
+        }
       },
       {
         "itemName": "Polychrome",
         "totalQuantity": 300,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards",
+              "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+              "Objective: Feed your pet 3 times",
+              "Objective: Feed your pet 6 times",
+              "Objective: Feed your pet 9 times",
+              "Objective: Feed your pet 12 times",
+              "Objective: Feed your pet 15 times",
+              "Objective: Feed your pet 18 times",
+              "Objective: Unlock 6 gift entries",
+              "Objective: Unlock 12 gift entries",
+              "Objective: Upgrade 1 pet to its final form",
+              "Objective: Upgrade 2 pets to their final form"
+            ],
+            "listedQuantities": [
+              300,
+              30
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards"
+                ],
+                "listedQuantities": [
+                  300
+                ],
+                "quantity": 300
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 3 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 6 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 9 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 12 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 15 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 18 times"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 6 gift entries"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 12 gift entries"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 1 pet to its final form"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 2 pets to their final form"
+                ],
+                "listedQuantities": [
+                  30
+                ],
+                "quantity": 30
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Original Chip",
         "totalQuantity": 12,
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards",
+              "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+              "Objective: Feed your pet 6 times",
+              "Objective: Feed your pet 12 times",
+              "Objective: Feed your pet 18 times"
+            ],
+            "listedQuantities": [
+              12,
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards"
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 6 times"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 12 times"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 18 times"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Bangboo System Widget",
         "totalQuantity": 8,
         "icon": "https://img.game8.co/3893317/26c780fee6811a3a4a004d1b1f4937c0.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards",
+              "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+              "Objective: Unlock 6 gift entries",
+              "Objective: Unlock 12 gift entries",
+              "Objective: Upgrade 1 pet to its final form",
+              "Objective: Upgrade 2 pets to their final form"
+            ],
+            "listedQuantities": [
+              8,
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Total Diary of an Orbie Parent Rewards"
+                ],
+                "listedQuantities": [
+                  8
+                ],
+                "quantity": 8
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 6 gift entries"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 12 gift entries"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 1 pet to its final form"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 2 pets to their final form"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "W-Engine Energy Module",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893358/5b340a111348c643cedd0567c6ef2cae.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+              "Objective: Feed your pet 3 times",
+              "Objective: Feed your pet 9 times",
+              "Objective: Feed your pet 15 times"
+            ],
+            "listedQuantities": [
+              2
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 3 times"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 9 times"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 15 times"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Denny",
         "totalQuantity": 50000,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+            "conditions": [
+              "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+              "Objective: Feed your pet 3 times",
+              "Objective: Feed your pet 6 times",
+              "Objective: Feed your pet 9 times",
+              "Objective: Feed your pet 12 times",
+              "Objective: Feed your pet 15 times",
+              "Objective: Feed your pet 18 times",
+              "Objective: Unlock 6 gift entries",
+              "Objective: Unlock 12 gift entries",
+              "Objective: Upgrade 1 pet to its final form",
+              "Objective: Upgrade 2 pets to their final form"
+            ],
+            "listedQuantities": [
+              5000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 3 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 6 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 9 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 12 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 15 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Feed your pet 18 times"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 6 gift entries"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Unlock 12 gift entries"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 1 pet to its final form"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
+                "conditions": [
+                  "Diary of an Orbie Parent Event Rewards / Diary of an Orbie Parent Exclusive Rewards",
+                  "Objective: Upgrade 2 pets to their final form"
+                ],
+                "listedQuantities": [
+                  5000
+                ],
+                "quantity": 5000
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -573,20 +2650,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
-        "observedAt": "2026-10-16T06:32:47.016Z",
+        "observedAt": "2026-10-16T12:33:20.199Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
-        "observedAt": "2026-10-16T06:32:54.296Z",
+        "observedAt": "2026-10-16T12:33:28.651Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -616,7 +2693,114 @@
         "itemName": "Boopon",
         "totalQuantity": 10,
         "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+            "conditions": [
+              "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+              "Day: Day 1",
+              "Day: Day 2",
+              "Day: Day 3",
+              "Day: Day 4",
+              "Day: Day 5",
+              "Day: Day 6",
+              "Day: Day 7"
+            ],
+            "listedQuantities": [
+              1,
+              2,
+              3
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 1"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 2"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 3"
+                ],
+                "listedQuantities": [
+                  2
+                ],
+                "quantity": 2
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 4"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 5"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 6"
+                ],
+                "listedQuantities": [
+                  1
+                ],
+                "quantity": 1
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
+                "conditions": [
+                  "En-Nah Into Your Lap Event Rewards / All Log-In Rewards",
+                  "Day: Day 7"
+                ],
+                "listedQuantities": [
+                  3
+                ],
+                "quantity": 3
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -630,20 +2814,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-        "observedAt": "2026-10-16T06:32:51.232Z",
+        "observedAt": "2026-10-16T12:33:22.616Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-        "observedAt": "2026-10-16T06:32:55.184Z",
+        "observedAt": "2026-10-16T12:33:30.886Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -673,31 +2857,386 @@
         "itemName": "Polychrome",
         "totalQuantity": 360,
         "icon": "https://img.game8.co/3893331/e6ee639872c119aa6895758f3a755d3b.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+            "conditions": [
+              "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards",
+              "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+              "Objective: Complete the commission \"Secret Contact\"",
+              "Objective: Complete the commission \"Logistics Spy\"",
+              "Objective: Complete the commission \"Port of Entry Investigation\"",
+              "Objective: Complete the commission \"Boo-Controlled Arrest\"",
+              "Objective: Complete the commission \"Pins and Truth\"",
+              "Objective: Complete the commission \"Commemoration and Delivery\""
+            ],
+            "listedQuantities": [
+              360,
+              60
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards"
+                ],
+                "listedQuantities": [
+                  360
+                ],
+                "quantity": 360
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Secret Contact\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Logistics Spy\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Port of Entry Investigation\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Boo-Controlled Arrest\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Pins and Truth\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Commemoration and Delivery\""
+                ],
+                "listedQuantities": [
+                  60
+                ],
+                "quantity": 60
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Boopon",
         "totalQuantity": 6,
         "icon": "https://img.game8.co/3893313/cac204db6637c3a750e6cb8a02445338.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+            "conditions": [
+              "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards",
+              "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+              "Objective: Complete all event commissions"
+            ],
+            "listedQuantities": [
+              6
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete all event commissions"
+                ],
+                "listedQuantities": [
+                  6
+                ],
+                "quantity": 6
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Original Chip",
         "totalQuantity": 36,
         "icon": "https://img.game8.co/3924237/3e3f3595e4a7e19cdc911b6e3148b0d2.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+            "conditions": [
+              "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards",
+              "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+              "Objective: Complete the commission \"Logistics Spy\"",
+              "Objective: Complete the commission \"Boo-Controlled Arrest\"",
+              "Objective: Complete the commission \"Commemoration and Delivery\""
+            ],
+            "listedQuantities": [
+              36,
+              12
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / All 3.2 Investigation Event Rewards"
+                ],
+                "listedQuantities": [
+                  36
+                ],
+                "quantity": 36
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Logistics Spy\""
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Boo-Controlled Arrest\""
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Commemoration and Delivery\""
+                ],
+                "listedQuantities": [
+                  12
+                ],
+                "quantity": 12
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Senior Investigator Log",
         "totalQuantity": 15,
         "icon": "https://img.game8.co/3893363/ab0406e53b7f8c4afe08096a2f7aa587.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+            "conditions": [
+              "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+              "Objective: Complete the commission \"Secret Contact\"",
+              "Objective: Complete the commission \"Port of Entry Investigation\"",
+              "Objective: Complete the commission \"Pins and Truth\""
+            ],
+            "listedQuantities": [
+              5
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Secret Contact\""
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Port of Entry Investigation\""
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Pins and Truth\""
+                ],
+                "listedQuantities": [
+                  5
+                ],
+                "quantity": 5
+              }
+            ]
+          }
+        }
       },
       {
         "itemName": "Denny",
         "totalQuantity": 180000,
         "icon": "https://img.game8.co/3893368/7db931d2138edcfb9e155907503f2fbe.png/show",
-        "details": null
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+            "conditions": [
+              "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+              "Objective: Complete the commission \"Secret Contact\"",
+              "Objective: Complete the commission \"Logistics Spy\"",
+              "Objective: Complete the commission \"Port of Entry Investigation\"",
+              "Objective: Complete the commission \"Boo-Controlled Arrest\"",
+              "Objective: Complete the commission \"Pins and Truth\"",
+              "Objective: Complete the commission \"Commemoration and Delivery\""
+            ],
+            "listedQuantities": [
+              30000
+            ],
+            "observations": [
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Secret Contact\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Logistics Spy\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Port of Entry Investigation\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Boo-Controlled Arrest\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Pins and Truth\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              },
+              {
+                "kind": "cumulative",
+                "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
+                "conditions": [
+                  "Chronicles of the Hobbling Crow Event Rewards / Carrot Super Detective Rewards",
+                  "Objective: Complete the commission \"Commemoration and Delivery\""
+                ],
+                "listedQuantities": [
+                  30000
+                ],
+                "quantity": 30000
+              }
+            ]
+          }
+        }
       }
     ],
     "startTime": null,
@@ -711,20 +3250,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
-        "observedAt": "2026-10-16T06:32:50.928Z",
+        "observedAt": "2026-10-16T12:33:22.816Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
-        "observedAt": "2026-10-16T06:32:55.393Z",
+        "observedAt": "2026-10-16T12:33:32.600Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -761,20 +3300,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-16T06:32:27.783Z"
+        "observedAt": "2026-10-16T12:32:58.311Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
-        "observedAt": "2026-10-16T06:32:51.085Z",
+        "observedAt": "2026-10-16T12:33:23.033Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
-        "observedAt": "2026-10-16T06:32:55.967Z",
+        "observedAt": "2026-10-16T12:33:33.428Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {

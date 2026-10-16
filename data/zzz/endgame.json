@@ -58,7 +58,7 @@
           "isBonus": false,
           "mechanics": [
             "Agent Sharp DMG increases by 20%. After defeating normal enemies, Agents with the Stun specialty restore 15 Energy.",
-            "After being hit by an Agent's hide=1 enemies recover from Stun 15% slower for 15s. Repeated triggers reset the duration."
+            "After being hit by an Agent's Chain Attack , enemies recover from Stun 15% slower for 15s. Repeated triggers reset the duration."
           ],
           "objectives": [],
           "waves": [

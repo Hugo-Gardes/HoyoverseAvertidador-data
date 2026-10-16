@@ -17,10 +17,15 @@
           "Rarity": "★★★★★",
           "Attribute": "Electro",
           "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "824 10300",
-          "ATK": "37 462",
-          "DEF": "91 1112"
+          "HP (Lv. 1)": "824",
+          "HP (Lv. 90)": "10300",
+          "ATK (Lv. 1)": "37",
+          "ATK (Lv. 90)": "462",
+          "DEF (Lv. 1)": "91",
+          "DEF (Lv. 90)": "1112",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -36,10 +41,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "850 10625",
-          "ATK": "18 225",
-          "DEF": "103 1258"
+          "HP (Lv. 1)": "850",
+          "HP (Lv. 90)": "10625",
+          "ATK (Lv. 1)": "18",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "103",
+          "DEF (Lv. 90)": "1258",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -53,10 +63,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "716 8,950",
-          "ATK": "38 225",
-          "DEF": "128 1,564"
+          "HP (Lv. 1)": "716",
+          "HP (Lv. 90)": "8950",
+          "ATK (Lv. 1)": "38",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "128",
+          "DEF (Lv. 90)": "1564",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -70,10 +85,15 @@
           "Rarity": "★★★★",
           "Attribute": "Glacio",
           "Weapon": "Gauntlet",
-          "Role": "Endgame",
-          "HP": "798 9975",
-          "ATK": "21 262",
-          "DEF": "86 1051"
+          "HP (Lv. 1)": "798",
+          "HP (Lv. 90)": "9975",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "86",
+          "DEF (Lv. 90)": "1051",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -99,9 +119,7 @@
         "details": {
           "Rarity": "★★★★★",
           "Attribute": "Aero",
-          "Weapon": "Gauntlet",
-          "Role": "Endgame",
-          "Skill": "Sentience"
+          "Weapon": "Gauntlet"
         }
       }
     ],
@@ -117,10 +135,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "850 10625",
-          "ATK": "18 225",
-          "DEF": "103 1258"
+          "HP (Lv. 1)": "850",
+          "HP (Lv. 90)": "10625",
+          "ATK (Lv. 1)": "18",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "103",
+          "DEF (Lv. 90)": "1258",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -134,10 +157,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "716 8,950",
-          "ATK": "38 225",
-          "DEF": "128 1,564"
+          "HP (Lv. 1)": "716",
+          "HP (Lv. 90)": "8950",
+          "ATK (Lv. 1)": "38",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "128",
+          "DEF (Lv. 90)": "1564",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -151,10 +179,15 @@
           "Rarity": "★★★★",
           "Attribute": "Glacio",
           "Weapon": "Gauntlet",
-          "Role": "Endgame",
-          "HP": "798 9975",
-          "ATK": "21 262",
-          "DEF": "86 1051"
+          "HP (Lv. 1)": "798",
+          "HP (Lv. 90)": "9975",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "86",
+          "DEF (Lv. 90)": "1051",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -181,10 +214,15 @@
           "Rarity": "★★★★★",
           "Attribute": "Havoc",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "862 10775",
-          "ATK": "35 437",
-          "DEF": "93 1136"
+          "HP (Lv. 1)": "862",
+          "HP (Lv. 90)": "10775",
+          "ATK (Lv. 1)": "35",
+          "ATK (Lv. 90)": "437",
+          "DEF (Lv. 1)": "93",
+          "DEF (Lv. 90)": "1136",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -200,10 +238,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "850 10625",
-          "ATK": "18 225",
-          "DEF": "103 1258"
+          "HP (Lv. 1)": "850",
+          "HP (Lv. 90)": "10625",
+          "ATK (Lv. 1)": "18",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "103",
+          "DEF (Lv. 90)": "1258",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -217,10 +260,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "716 8,950",
-          "ATK": "38 225",
-          "DEF": "128 1,564"
+          "HP (Lv. 1)": "716",
+          "HP (Lv. 90)": "8950",
+          "ATK (Lv. 1)": "38",
+          "ATK (Lv. 90)": "225",
+          "DEF (Lv. 1)": "128",
+          "DEF (Lv. 90)": "1564",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -234,10 +282,15 @@
           "Rarity": "★★★★",
           "Attribute": "Glacio",
           "Weapon": "Gauntlet",
-          "Role": "Endgame",
-          "HP": "798 9975",
-          "ATK": "21 262",
-          "DEF": "86 1051"
+          "HP (Lv. 1)": "798",
+          "HP (Lv. 90)": "9975",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "86",
+          "DEF (Lv. 90)": "1051",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -528,10 +581,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "680 8500",
-          "ATK": "27 337",
-          "DEF": "72 879"
+          "HP (Lv. 1)": "680",
+          "HP (Lv. 90)": "8500",
+          "ATK (Lv. 1)": "27",
+          "ATK (Lv. 90)": "337",
+          "DEF (Lv. 1)": "72",
+          "DEF (Lv. 90)": "879",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -545,10 +603,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Sword",
-          "Role": "Endgame",
-          "HP": "755 9,437",
-          "ATK": "21 262",
-          "DEF": "94 1,148"
+          "HP (Lv. 1)": "755",
+          "HP (Lv. 90)": "9437",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "94",
+          "DEF (Lv. 90)": "1148",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -562,10 +625,15 @@
           "Rarity": "★★★★",
           "Attribute": "Fusion",
           "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "727 9,087",
-          "ATK": "24 300",
-          "DEF": "78 953"
+          "HP (Lv. 1)": "727",
+          "HP (Lv. 90)": "9087",
+          "ATK (Lv. 1)": "24",
+          "ATK (Lv. 90)": "300",
+          "DEF (Lv. 1)": "78",
+          "DEF (Lv. 90)": "953",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -592,10 +660,15 @@
           "Rarity": "★★★★★",
           "Attribute": "Spectro",
           "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "979 12237",
-          "ATK": "30 375",
-          "DEF": "98 1197"
+          "HP (Lv. 1)": "979",
+          "HP (Lv. 90)": "12237",
+          "ATK (Lv. 1)": "30",
+          "ATK (Lv. 90)": "375",
+          "DEF (Lv. 1)": "98",
+          "DEF (Lv. 90)": "1197",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -611,10 +684,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "680 8500",
-          "ATK": "27 337",
-          "DEF": "72 879"
+          "HP (Lv. 1)": "680",
+          "HP (Lv. 90)": "8500",
+          "ATK (Lv. 1)": "27",
+          "ATK (Lv. 90)": "337",
+          "DEF (Lv. 1)": "72",
+          "DEF (Lv. 90)": "879",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -628,10 +706,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Sword",
-          "Role": "Endgame",
-          "HP": "755 9,437",
-          "ATK": "21 262",
-          "DEF": "94 1,148"
+          "HP (Lv. 1)": "755",
+          "HP (Lv. 90)": "9437",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "94",
+          "DEF (Lv. 90)": "1148",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -645,10 +728,15 @@
           "Rarity": "★★★★",
           "Attribute": "Fusion",
           "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "727 9,087",
-          "ATK": "24 300",
-          "DEF": "78 953"
+          "HP (Lv. 1)": "727",
+          "HP (Lv. 90)": "9087",
+          "ATK (Lv. 1)": "24",
+          "ATK (Lv. 90)": "300",
+          "DEF (Lv. 1)": "78",
+          "DEF (Lv. 90)": "953",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -675,10 +763,15 @@
           "Rarity": "★★★★★",
           "Attribute": "Glacio",
           "Weapon": "Rectifier",
-          "Role": "Endgame",
-          "HP": "979 12237",
-          "ATK": "30 375",
-          "DEF": "98 1197"
+          "HP (Lv. 1)": "979",
+          "HP (Lv. 90)": "12237",
+          "ATK (Lv. 1)": "30",
+          "ATK (Lv. 90)": "375",
+          "DEF (Lv. 1)": "98",
+          "DEF (Lv. 90)": "1197",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -694,10 +787,15 @@
           "Rarity": "★★★★",
           "Attribute": "Electro",
           "Weapon": "Broadblade",
-          "Role": "Endgame",
-          "HP": "680 8500",
-          "ATK": "27 337",
-          "DEF": "72 879"
+          "HP (Lv. 1)": "680",
+          "HP (Lv. 90)": "8500",
+          "ATK (Lv. 1)": "27",
+          "ATK (Lv. 90)": "337",
+          "DEF (Lv. 1)": "72",
+          "DEF (Lv. 90)": "879",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -711,10 +809,15 @@
           "Rarity": "★★★★",
           "Attribute": "Havoc",
           "Weapon": "Sword",
-          "Role": "Endgame",
-          "HP": "755 9,437",
-          "ATK": "21 262",
-          "DEF": "94 1,148"
+          "HP (Lv. 1)": "755",
+          "HP (Lv. 90)": "9437",
+          "ATK (Lv. 1)": "21",
+          "ATK (Lv. 90)": "262",
+          "DEF (Lv. 1)": "94",
+          "DEF (Lv. 90)": "1148",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       },
       {
@@ -728,10 +831,15 @@
           "Rarity": "★★★★",
           "Attribute": "Fusion",
           "Weapon": "Pistol",
-          "Role": "Endgame",
-          "HP": "727 9,087",
-          "ATK": "24 300",
-          "DEF": "78 953"
+          "HP (Lv. 1)": "727",
+          "HP (Lv. 90)": "9087",
+          "ATK (Lv. 1)": "24",
+          "ATK (Lv. 90)": "300",
+          "DEF (Lv. 1)": "78",
+          "DEF (Lv. 90)": "953",
+          "Energy Regen (Lv. 1)": "100%",
+          "Crit. Rate (Lv. 1)": "5%",
+          "Crit. DMG (Lv. 1)": "150%"
         }
       }
     ],
@@ -829,7 +937,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-16T06:30:24.269Z",
+        "observedAt": "2026-10-16T12:30:19.743Z",
         "sources": [
           {
             "game": "wuwa",
@@ -852,7 +960,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-16T06:30:24.269Z"
+            "observedAt": "2026-10-16T12:30:19.743Z"
           },
           {
             "game": "wuwa",
@@ -869,7 +977,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-            "observedAt": "2026-10-16T06:30:59.364Z"
+            "observedAt": "2026-10-16T12:31:00.707Z"
           }
         ]
       }
@@ -972,7 +1080,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-16T06:30:24.269Z",
+        "observedAt": "2026-10-16T12:30:19.743Z",
         "sources": [
           {
             "game": "wuwa",
@@ -995,7 +1103,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-16T06:30:24.269Z"
+            "observedAt": "2026-10-16T12:30:19.743Z"
           },
           {
             "game": "wuwa",
@@ -1012,7 +1120,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
-            "observedAt": "2026-10-16T06:31:00.412Z"
+            "observedAt": "2026-10-16T12:31:01.887Z"
           }
         ]
       }
@@ -1113,7 +1221,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-16T06:30:24.269Z",
+        "observedAt": "2026-10-16T12:30:19.743Z",
         "sources": [
           {
             "game": "wuwa",
@@ -1136,7 +1244,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-16T06:30:24.269Z"
+            "observedAt": "2026-10-16T12:30:19.743Z"
           },
           {
             "game": "wuwa",
@@ -1153,7 +1261,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
-            "observedAt": "2026-10-16T06:31:01.679Z"
+            "observedAt": "2026-10-16T12:31:03.011Z"
           }
         ]
       }

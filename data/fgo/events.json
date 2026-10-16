@@ -1,5 +1,565 @@
 {
-  "ongoing_event_2026": null,
+  "ongoing_event_2026": {
+    "title": "Revival: Showa Kishin Project: GUDAGUDA 2023 Ryouma's Narrow Escape! The Mystery of the Disappearing Nobbu Head - Lite",
+    "url": "https://grandorder.gamepress.gg/p/revival-gudaguda-2023-narrow-escape-event",
+    "banner": "https://img.gamepress.gg/postBanner-ZJ07HEdSv1WPmMR7pF2DN.png",
+    "start_date": "2026-10-16 02:00:00",
+    "end_date": "2026-11-05 19:59:00",
+    "timezone": "PST",
+    "event_summary": {
+      "First Clear Quest Rewards": [
+        {
+          "item": "Mysterious Ranmaru X",
+          "quantity": "1",
+          "image_url": "https://static.mana.wiki/grandorder/328_Mysterious_Ranmaru_X_Icon-1.png"
+        },
+        {
+          "item": "Nothing Can Escape These Eyes",
+          "quantity": "1",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_94055900.png"
+        },
+        {
+          "item": "Okuni Troupe's Performance in Chaldea",
+          "quantity": "7",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98079900.png"
+        },
+        {
+          "item": "Mysterious Ranmaru X Lands!",
+          "quantity": "12",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98080000.png"
+        },
+        {
+          "item": "Holy Grail",
+          "quantity": "2",
+          "image_url": "https://static.mana.wiki/grandorder/Holy-Grail.png"
+        },
+        {
+          "item": "Saint Quartz",
+          "quantity": "17",
+          "image_url": "https://static.mana.wiki/grandorder/Saint-Quartz.png"
+        },
+        {
+          "item": "Mana Prism",
+          "quantity": "500",
+          "image_url": "https://static.mana.wiki/grandorder/Mana-Prism.png"
+        },
+        {
+          "item": "Crystallized Lore",
+          "quantity": "1",
+          "image_url": "https://static.mana.wiki/grandorder/Crystallized_lore_0.png"
+        },
+        {
+          "item": "Golden Fruit",
+          "quantity": "7",
+          "image_url": "https://static.mana.wiki/grandorder/Golden-Fruit.png"
+        },
+        {
+          "item": "Silver Fruit",
+          "quantity": "3",
+          "image_url": "https://static.mana.wiki/grandorder/Silver-Fruit.png"
+        },
+        {
+          "item": "Bronze Fruit",
+          "quantity": "3",
+          "image_url": "https://static.mana.wiki/grandorder/Bronze-Fruit.png"
+        }
+      ],
+      "Event Shop": [
+        {
+          "item": "Spiritron Dress \"Awesome Dapper Suit\"",
+          "quantity": "1",
+          "image_url": "https://static.mana.wiki/grandorder/Item_CostumeUpgrade-1.png"
+        },
+        {
+          "item": "Servant Coin (Mysterious Ranmaru X)",
+          "quantity": "360",
+          "image_url": "https://fgo.gamepress.gg/sites/default/files/2023-10/1101200_MysteriousRanmaruXCoin.png"
+        },
+        {
+          "item": "Dancing Like a Flower",
+          "quantity": "4",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_94056000.png"
+        },
+        {
+          "item": "Okuni Troupe's Performance in Chaldea",
+          "quantity": "10",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98079900.png"
+        },
+        {
+          "item": "Mysterious Ranmaru X Lands!",
+          "quantity": "10",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98080000.png"
+        },
+        {
+          "item": "Crystallized Lore",
+          "quantity": "5",
+          "image_url": "https://static.mana.wiki/grandorder/Crystallized_lore_0.png"
+        },
+        {
+          "item": "Hero Crystal: Meteor Fou - All",
+          "quantity": "3",
+          "image_url": "https://static.mana.wiki/grandorder/MeteorFou-1.png"
+        },
+        {
+          "item": "Hero Crystal: Corona Fou - All",
+          "quantity": "3",
+          "image_url": "https://static.mana.wiki/grandorder/SolarFou.png"
+        },
+        {
+          "item": "Leaf of Evocation",
+          "quantity": "1000",
+          "image_url": "https://static.mana.wiki/grandorder/048_EvocationLeaf.png"
+        },
+        {
+          "item": "Hero Crystal: Star Fou - All",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Hero-Crystal--Star-Fou---All.png"
+        },
+        {
+          "item": "Hero Crystal: Sun Fou - All",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Hero-Crystal--Sun-Fou---All.png"
+        },
+        {
+          "item": "Hellfire of Wisdom - All",
+          "quantity": "100",
+          "image_url": "https://static.mana.wiki/grandorder/Hellfire of Wisdom - All.png"
+        },
+        {
+          "item": "Blaze of Wisdom - All",
+          "quantity": "200",
+          "image_url": "https://static.mana.wiki/grandorder/unnamed (1)_0.png"
+        },
+        {
+          "item": "Fire of Wisdom - All",
+          "quantity": "200",
+          "image_url": "https://static.mana.wiki/grandorder/505_Fire of Wisdom All.png"
+        },
+        {
+          "item": "Golden Cauldron",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/6558_Golden_Cauldron.png"
+        },
+        {
+          "item": "Flaming Oni Lantern Plant",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/6548_DemonicFlameLight.png"
+        },
+        {
+          "item": "Dragon's Reverse Scale",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Dragons_reverse_scale_0.png"
+        },
+        {
+          "item": "Heart of the Foreign God",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Heart_of_a_foreign_god.png"
+        },
+        {
+          "item": "Small Bell of Absolution",
+          "quantity": "60",
+          "image_url": "https://static.mana.wiki/grandorder/Bell of Amnesty.png"
+        },
+        {
+          "item": "Ash of Remembrance",
+          "quantity": "60",
+          "image_url": "https://static.mana.wiki/grandorder/6552_AshBottle.png"
+        },
+        {
+          "item": "Serpent Jewel",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Snake_jewel.png"
+        },
+        {
+          "item": "Eternal Gear",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Infinity_gear_1_0.png"
+        },
+        {
+          "item": "Homunculus Baby",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Homunculus_baby.png"
+        },
+        {
+          "item": "Soundless Bell",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/315_Ancient Bell.png"
+        },
+        {
+          "item": "Fool's Chain",
+          "quantity": "60",
+          "image_url": "https://static.mana.wiki/grandorder/151_Chain of Fools.png"
+        },
+        {
+          "item": "Evil Bone",
+          "quantity": "60",
+          "image_url": "https://static.mana.wiki/grandorder/Unlucky_bone.png"
+        },
+        {
+          "item": "Saber Monument",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Saber_monument_0.png"
+        },
+        {
+          "item": "Lancer Monument",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Lancer_monument.png"
+        },
+        {
+          "item": "Archer Monument",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Archer_monument.png"
+        },
+        {
+          "item": "Caster Monument",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Caster_monument.png"
+        },
+        {
+          "item": "Saber Piece",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Saber_piece_1.png"
+        },
+        {
+          "item": "Lancer Piece",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Lancer_piece.png"
+        },
+        {
+          "item": "Archer Piece",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Archer_piece.png"
+        },
+        {
+          "item": "Caster Piece",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Caster_piece.png"
+        },
+        {
+          "item": "Secret Gem of Saber",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Secretsaber_1.png"
+        },
+        {
+          "item": "Secret Gem of Lancer",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Secretlancer.png"
+        },
+        {
+          "item": "Secret Gem of Archer",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Secretarcher.png"
+        },
+        {
+          "item": "Secret Gem of Caster",
+          "quantity": "20",
+          "image_url": "https://static.mana.wiki/grandorder/Secretcaster.png"
+        },
+        {
+          "item": "Magic Gem of Saber",
+          "quantity": "30",
+          "image_url": "https://static.mana.wiki/grandorder/Magicsaber_1.png"
+        },
+        {
+          "item": "Magic Gem of Lancer",
+          "quantity": "30",
+          "image_url": "https://static.mana.wiki/grandorder/Magiclancer.png"
+        },
+        {
+          "item": "Magic Gem of Archer",
+          "quantity": "30",
+          "image_url": "https://static.mana.wiki/grandorder/Magicarcher.png"
+        },
+        {
+          "item": "Magic Gem of Caster",
+          "quantity": "30",
+          "image_url": "https://static.mana.wiki/grandorder/Magiccaster.png"
+        },
+        {
+          "item": "Gem of Saber",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningsaber_1.png"
+        },
+        {
+          "item": "Gem of Lancer",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Shininglancer.png"
+        },
+        {
+          "item": "Gem of Archer",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningarcher.png"
+        },
+        {
+          "item": "Gem of Caster",
+          "quantity": "40",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningcaster.png"
+        }
+      ],
+      "Notable Drops": [
+        {
+          "item": "Dancing Like a Flower",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_94056000.png"
+        },
+        {
+          "item": "Okuni Troupe's Performance in Chaldea",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98079900.png"
+        },
+        {
+          "item": "Mysterious Ranmaru X Lands!",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/FGOCEIcon_f_98080000.png"
+        },
+        {
+          "item": "Small Bell of Absolution",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Bell of Amnesty.png"
+        },
+        {
+          "item": "Warhorse's Young Horn",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Warhorse%27s Small Horn.png"
+        },
+        {
+          "item": "Claw of Chaos",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Talon_of_chaos.png"
+        },
+        {
+          "item": "Black Beast Grease",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Black Tallow.png"
+        },
+        {
+          "item": "Tearstone of Blood",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Tearstone of Blood.png"
+        },
+        {
+          "item": "Golden Cauldron",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/6558_Golden_Cauldron.png"
+        },
+        {
+          "item": "Cursed Beast Gallstone",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Cursed_Beast_Cholecyst.png"
+        },
+        {
+          "item": "Heart of the Foreign God",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Heart_of_a_foreign_god.png"
+        },
+        {
+          "item": "Tsukumo Mirror",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/335_Tsukumo Mirror.png"
+        },
+        {
+          "item": "Egg of Truth",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Egg of Truth.png"
+        },
+        {
+          "item": "Seed of Yggdrasil",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Yggdrasil_seed_0.png"
+        },
+        {
+          "item": "Eternal Gear",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Infinity_gear_1_0.png"
+        },
+        {
+          "item": "Giant's Ring",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/291_Ring of Giants.png"
+        },
+        {
+          "item": "Meteor Horseshoe",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Meteoric_horseshoe.png"
+        },
+        {
+          "item": "Refined Magatama",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Kotan_Magatama.png"
+        },
+        {
+          "item": "Soundless Bell",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/315_Ancient Bell.png"
+        },
+        {
+          "item": "Ball of Rainbow Thread",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/6547_RainbowThreadBall.png"
+        },
+        {
+          "item": "Divine Leyline Spiritron",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Item_Divine Pulse.png"
+        },
+        {
+          "item": "Ghost Lantern",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Ghost_lantern.png"
+        },
+        {
+          "item": "Octuplet Crystals",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Octuplet_twin_crystals.png"
+        },
+        {
+          "item": "Phoenix Feather",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Phoenix_plume_0.png"
+        },
+        {
+          "item": "Great Knight Medal",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/153_Great Knight Medal.png"
+        },
+        {
+          "item": "Forbidden Page",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Forbidden_page_0.png"
+        },
+        {
+          "item": "Proof of Hero",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Heros_proof_1.png"
+        },
+        {
+          "item": "Evil Bone",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Unlucky_bone.png"
+        },
+        {
+          "item": "Fool's Chain",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/151_Chain of Fools.png"
+        },
+        {
+          "item": "Mystic Gunpowder",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/280_Reactive Gunpowder.png"
+        },
+        {
+          "item": "Mystic Spinal Fluid",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magical_Cerebrospinal_Fluid_icon.png"
+        },
+        {
+          "item": "Stake of Wailing Night",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/254_Iron Stake of Evening Tears.png"
+        },
+        {
+          "item": "Void's Dust",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Voids_refuse_1.png"
+        },
+        {
+          "item": "Remnants of Madness",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/6555_Madness.png"
+        },
+        {
+          "item": "Secret Gem of Saber",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Secretsaber_1.png"
+        },
+        {
+          "item": "Secret Gem of Lancer",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Secretlancer.png"
+        },
+        {
+          "item": "Secret Gem of Assassin",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Secretassassin_0.png"
+        },
+        {
+          "item": "Secret Gem of Berserker",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Secretberserker.png"
+        },
+        {
+          "item": "Magic Gem of Saber",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magicsaber_1.png"
+        },
+        {
+          "item": "Magic Gem of Lancer",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magiclancer.png"
+        },
+        {
+          "item": "Magic Gem of Archer",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magicarcher.png"
+        },
+        {
+          "item": "Magic Gem of Rider",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magicrider.png"
+        },
+        {
+          "item": "Magic Gem of Caster",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magiccaster.png"
+        },
+        {
+          "item": "Magic Gem of Assassin",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magicassassin.png"
+        },
+        {
+          "item": "Magic Gem of Berserker",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Magicberserker-1.png"
+        },
+        {
+          "item": "Gem of Saber",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningsaber_1.png"
+        },
+        {
+          "item": "Gem of Lancer",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shininglancer.png"
+        },
+        {
+          "item": "Gem of Archer",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningarcher.png"
+        },
+        {
+          "item": "Gem of Rider",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningrider.png"
+        },
+        {
+          "item": "Gem of Caster",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningcaster.png"
+        },
+        {
+          "item": "Gem of Assassin",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningassassin.png"
+        },
+        {
+          "item": "Gem of Berserker",
+          "quantity": "",
+          "image_url": "https://static.mana.wiki/grandorder/Shiningberserker.png"
+        }
+      ]
+    }
+  },
   "all_events_2026": [
     {
       "title": "Revival: Showa Kishin Project: GUDAGUDA 2023 Ryouma's Narrow Escape! The Mystery of the Disappearing Nobbu Head - Lite",
