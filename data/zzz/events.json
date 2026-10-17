@@ -131,20 +131,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-        "observedAt": "2026-10-17T12:32:16.693Z",
+        "observedAt": "2026-10-17T16:13:33.040Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/463484",
-        "observedAt": "2026-10-17T12:32:24.017Z",
+        "observedAt": "2026-10-17T16:13:53.263Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -169,7 +169,77 @@
     "dateText": "After the Version 3.2 update – 2026/11/30 03:59 (server time)",
     "imageUrl": "https://img.game8.co/4605411/320bd7c5c6ebe33f4f6c2c98290c5d4c.png/show",
     "status": "ongoing",
-    "rewards": [],
+    "rewards": [
+      {
+        "itemName": "Heartfelt Support",
+        "totalQuantity": null,
+        "icon": "",
+        "category": "outfit",
+        "details": {
+          "characterName": "Nangong Yu",
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+            "conditions": [
+              "※Participate in the limited-time event \"Angels Support Operation\" and complete the corresponding missions to select this skin as your reward"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Cuteness Loading",
+        "totalQuantity": null,
+        "icon": "",
+        "category": "outfit",
+        "details": {
+          "characterName": "Aria",
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+            "conditions": [
+              "※Participate in the limited-time event \"Angels Support Operation\" and complete the corresponding mission to select this skin as your reward"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
+      },
+      {
+        "itemName": "Delusions in Business",
+        "totalQuantity": null,
+        "icon": "",
+        "category": "outfit",
+        "details": {
+          "characterName": "Sunna",
+          "quantityKnown": false,
+          "acquisition": {
+            "kind": "choice",
+            "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+            "conditions": [
+              "※Participate in the limited-time event \"Angels Support Operation\" and complete the corresponding mission to select this skin as your reward"
+            ],
+            "listedQuantities": [],
+            "choices": [
+              "Heartfelt Support",
+              "Cuteness Loading",
+              "Delusions in Business"
+            ]
+          }
+        }
+      }
+    ],
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1788912000,
@@ -181,20 +251,19 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
-        "sourceType": "secondary",
-        "sourceName": "Game8",
-        "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
-        "observedAt": "2026-10-17T12:32:16.828Z",
-        "freshness": "fresh"
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618093",
-        "observedAt": "2026-10-17T12:32:23.963Z",
+        "observedAt": "2026-10-17T16:13:53.032Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -230,7 +299,7 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "image": {
         "sourceType": "unknown",
@@ -877,20 +946,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
-        "observedAt": "2026-10-17T12:32:17.019Z",
+        "observedAt": "2026-10-17T16:13:33.077Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618162",
-        "observedAt": "2026-10-17T12:32:24.039Z",
+        "observedAt": "2026-10-17T16:13:53.049Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -1634,20 +1703,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
-        "observedAt": "2026-10-17T12:32:21.108Z",
+        "observedAt": "2026-10-17T16:13:44.329Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618184",
-        "observedAt": "2026-10-17T12:32:24.291Z",
+        "observedAt": "2026-10-17T16:13:53.190Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -2008,20 +2077,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
-        "observedAt": "2026-10-17T12:32:20.932Z",
+        "observedAt": "2026-10-17T16:13:44.229Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618094",
-        "observedAt": "2026-10-17T12:32:24.509Z",
+        "observedAt": "2026-10-17T16:13:53.430Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -2057,13 +2126,13 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473610",
-        "observedAt": "2026-10-17T12:32:21.365Z",
+        "observedAt": "2026-10-17T16:13:44.461Z",
         "freshness": "fresh"
       },
       "image": {
@@ -2650,20 +2719,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
-        "observedAt": "2026-10-17T12:32:21.540Z",
+        "observedAt": "2026-10-17T16:13:44.273Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618169",
-        "observedAt": "2026-10-17T12:32:24.518Z",
+        "observedAt": "2026-10-17T16:13:53.484Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -2814,20 +2883,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-        "observedAt": "2026-10-17T12:32:22.895Z",
+        "observedAt": "2026-10-17T16:13:51.428Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/459873",
-        "observedAt": "2026-10-17T12:32:24.741Z",
+        "observedAt": "2026-10-17T16:13:53.683Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -3250,20 +3319,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
-        "observedAt": "2026-10-17T12:32:23.079Z",
+        "observedAt": "2026-10-17T16:13:51.468Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/618201",
-        "observedAt": "2026-10-17T12:32:24.845Z",
+        "observedAt": "2026-10-17T16:13:53.681Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {
@@ -3300,20 +3369,20 @@
         "sourceType": "official",
         "sourceName": "HoYoverse",
         "sourceUrl": "https://zenless.hoyoverse.com/en-us/news/166000",
-        "observedAt": "2026-10-17T12:32:07.350Z"
+        "observedAt": "2026-10-17T16:12:59.879Z"
       },
       "rewards": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
-        "observedAt": "2026-10-17T12:32:23.303Z",
+        "observedAt": "2026-10-17T16:13:51.535Z",
         "freshness": "fresh"
       },
       "image": {
         "sourceType": "secondary",
         "sourceName": "Game8",
         "sourceUrl": "https://game8.co/games/Zenless-Zone-Zero/archives/473592",
-        "observedAt": "2026-10-17T12:32:25.054Z",
+        "observedAt": "2026-10-17T16:13:54.843Z",
         "association": "named_game8_event",
         "role": "event_art",
         "identity": {

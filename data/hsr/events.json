@@ -3227,7 +3227,7 @@
         }
       },
       {
-        "itemName": "Traveler",
+        "itemName": "Traveler's Guide",
         "icon": "https://img.game8.co/3656147/e731ac0f85a7949e45c11f193e004807.png/show",
         "totalQuantity": null,
         "details": {
@@ -3503,7 +3503,7 @@
         }
       },
       {
-        "itemName": "Omnicolor, Fool",
+        "itemName": "Omnicolor, Fool's Own",
         "icon": "https://img.game8.co/4514444/8d29c6e04c6008f4f100f3b69aed983e.png/show",
         "totalQuantity": null,
         "details": {
@@ -4676,7 +4676,7 @@
         }
       },
       {
-        "itemName": "The Fluffy Collector",
+        "itemName": "The Fluffy Collector's Edition",
         "icon": "https://img.game8.co/4408329/66c2417863d8cf6bb545e109a98269a3.png/show",
         "totalQuantity": null,
         "details": {
@@ -4704,5 +4704,98 @@
     "endTime": null,
     "displayStartTime": 1793318400,
     "displayEndTime": 1794355200
+  },
+  {
+    "name": "Astral Imagea Park: Park Souvenir",
+    "link": "https://hsr.hoyoverse.com/en-us/news/166468",
+    "dateText": "After the Version 4.6 update – 2026/11/11 06:00 (UTC+8)",
+    "startTime": null,
+    "endTime": 1794348000,
+    "displayStartTime": null,
+    "displayEndTime": 1794355200,
+    "status": "unknown",
+    "sourceType": "official",
+    "rewards": [
+      {
+        "itemName": "Trendible Voucher",
+        "totalQuantity": 6,
+        "icon": "",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+            "conditions": [
+              "During the event, log in to the game to claim Trendible Voucher ×6. Trendible Vouchers can be used to draw for Astral Imageas.",
+              "Claim Period: After the Version 4.6 update – 2026/11/11 06:00 (UTC+8)",
+              "Requirement: Trailblaze Level ≥ 4"
+            ],
+            "listedQuantities": [
+              6
+            ]
+          }
+        }
+      }
+    ],
+    "fieldProvenance": {
+      "rewards": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+        "observedAt": "2026-10-17T16:12:42.161Z"
+      },
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+        "observedAt": "2026-10-17T16:12:42.161Z"
+      }
+    }
+  },
+  {
+    "name": "Gift of Odyssey",
+    "link": "https://hsr.hoyoverse.com/en-us/news/166468",
+    "dateText": null,
+    "startTime": null,
+    "endTime": null,
+    "displayStartTime": null,
+    "displayEndTime": null,
+    "status": "unknown",
+    "sourceType": "official",
+    "rewards": [
+      {
+        "itemName": "Star Rail Special Pass",
+        "totalQuantity": 10,
+        "icon": "",
+        "details": {
+          "quantityKnown": true,
+          "acquisition": {
+            "kind": "cumulative",
+            "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+            "conditions": [
+              "Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!",
+              "※ Please refer to future announcements for information on other events."
+            ],
+            "listedQuantities": [
+              10
+            ]
+          }
+        }
+      }
+    ],
+    "fieldProvenance": {
+      "rewards": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+        "observedAt": "2026-10-17T16:12:42.161Z"
+      },
+      "schedule": {
+        "sourceType": "official",
+        "sourceName": "HoYoverse",
+        "sourceUrl": "https://hsr.hoyoverse.com/en-us/news/166468",
+        "observedAt": "2026-10-17T16:12:42.161Z"
+      }
+    }
   }
 ]

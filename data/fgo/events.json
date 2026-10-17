@@ -6,6 +6,10 @@
     "start_date": "2026-10-16 02:00:00",
     "end_date": "2026-11-05 19:59:00",
     "timezone": "PST",
+    "start_timezone": "PDT",
+    "end_timezone": "PST",
+    "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/1013_re_gudaguda/",
+    "scheduleContentSha256": "5a4267983400505e0cf16d3e9cad9f84f7349aebcae7de4ba0fa286b9e3c8e17",
     "event_summary": {
       "First Clear Quest Rewards": [
         {
@@ -568,6 +572,10 @@
       "start_date": "2026-10-16 02:00:00",
       "end_date": "2026-11-05 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PDT",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/1013_re_gudaguda/",
+      "scheduleContentSha256": "5a4267983400505e0cf16d3e9cad9f84f7349aebcae7de4ba0fa286b9e3c8e17",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -1129,6 +1137,10 @@
       "start_date": "2026-09-25 01:00:00",
       "end_date": "2026-10-15 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0917_sugoroku/",
+      "scheduleContentSha256": "ea0b0768b1a899ac1138b1cfcad93a495b7b8b210e91cc688542030927ffb8a1",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -1610,6 +1622,10 @@
       "start_date": "2026-07-15 02:00:00",
       "end_date": "2026-09-01 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0704_2026summer/",
+      "scheduleContentSha256": "15c920d7aceb46801573798b79d777f25917c143d1d176a1016e923d1aa01986",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -2178,6 +2194,10 @@
       "start_date": "2026-06-12 01:00:00",
       "end_date": "2026-07-02 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0604_dragon_castle/",
+      "scheduleContentSha256": "6452782cdf83edbcde436d517ee12ba3b37831f0e54e29bf5ea26d084900d374",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -2549,6 +2569,10 @@
       "start_date": "2026-05-15 02:00:00",
       "end_date": "2026-06-04 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0512_re_lilim_harlot/",
+      "scheduleContentSha256": "35281ecc5ff9542f3c38d1d48a2f80e30061e903380426a0b897a5dd807bfac2",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -3030,6 +3054,10 @@
       "start_date": "2026-04-20 01:00:00",
       "end_date": "2026-05-10 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0416_re_summer/",
+      "scheduleContentSha256": "825b1e488dbf3f26742fb6145d67f8dc53809e2b69b46fafc07bf8d733a5ac30",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -3593,6 +3621,10 @@
       "start_date": "2026-03-30 01:00:00",
       "end_date": "2026-04-19 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0324_witch_night/",
+      "scheduleContentSha256": "c6904434d551fbfa96b9f861e93d7c096a89df4f1529ad3560327a16bce39076",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -4094,6 +4126,10 @@
       "start_date": "2026-02-25 00:00:00",
       "end_date": "2026-03-17 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PST",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0222_cbc2026/",
+      "scheduleContentSha256": "0772b2caa728536feffefa80d3f1961d517e675f1a4a38b5e4124c064e7a40b6",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -4495,6 +4531,10 @@
       "start_date": "2026-02-04 00:00:00",
       "end_date": "2026-02-24 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PST",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0127_valentine_2026/",
+      "scheduleContentSha256": "3d4b8cc7df5137e80ca8afd26e5fae47c048dbd4ea1d41ca424fd44bcf1b10a9",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -4916,6 +4956,10 @@
       "start_date": "2026-01-07 00:00:00",
       "end_date": "2026-01-27 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PST",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2026/0104_sr_collaboration/",
+      "scheduleContentSha256": "f510161fd8d17043a1419664dd60fd4469b5e68cb28b4ff10c048c276d6c2f06",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -5442,6 +5486,10 @@
       "start_date": "2025-12-19 01:00:00",
       "end_date": "2025-12-30 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PST",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/1216_christmas2025/",
+      "scheduleContentSha256": "b6b5a3cddfaa85c3e2b7f27d517782c7f7d66825c5364dd88013475e8812f80b",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -5958,6 +6006,10 @@
       "start_date": "2025-11-27 00:00:00",
       "end_date": "2025-12-16 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PST",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/1120_gudaguda2025/",
+      "scheduleContentSha256": "596f073a7fe9934a510efd50c9b128f6040e9a57369c98303c24c44b0422e156",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -6499,6 +6551,8 @@
       "start_date": "2025-10-15 01:00:00",
       "end_date": "2025-11-04 19:59:00",
       "timezone": "PDT",
+      "start_timezone": null,
+      "end_timezone": null,
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -7000,6 +7054,10 @@
       "start_date": "2025-09-04 01:00:00",
       "end_date": "2025-09-24 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0831_world_tour/",
+      "scheduleContentSha256": "e2705792aeed7c5b2129b05e9ec5945052c248dfd030118f73aa48a17351eb9f",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -7386,6 +7444,10 @@
       "start_date": "2025-07-18 01:00:00",
       "end_date": "2025-08-07 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0705_2025_summer/",
+      "scheduleContentSha256": "918ccab8dbcb656d2f349297c2b32bc0d70e738527acfab1b47d6e66d2dce9e2",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -7972,6 +8034,10 @@
       "start_date": "2025-06-10 01:00:00",
       "end_date": "2025-06-30 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0602_mystic_eyes/",
+      "scheduleContentSha256": "6828979d179177b2b321a55673662259525bf3c18e684d35cb2660b99dda1fbb",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -8279,6 +8345,10 @@
       "start_date": "2025-04-24 01:00:00",
       "end_date": "2025-05-07 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0423_illya_castle/",
+      "scheduleContentSha256": "418a2e5ed57bc198b9fb1effa9077c3fba05a3ee5f998e4d7587865f09b7576e",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -8790,6 +8860,10 @@
       "start_date": "2025-03-28 02:00:00",
       "end_date": "2025-04-17 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PDT",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0324_lilim_harlot/",
+      "scheduleContentSha256": "d01862d31a4fe12b9117ff2efbf56067d79469b1240089b58f21f35bdb9827b7",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -9271,6 +9345,10 @@
       "start_date": "2025-03-05 00:00:00",
       "end_date": "2025-03-25 20:59:00",
       "timezone": "PDT",
+      "start_timezone": "PST",
+      "end_timezone": "PDT",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0227_cbc2025/",
+      "scheduleContentSha256": "de9891d34047163a93d0788ae9dcb181919d7a2a13fce60d73952ac3b78c9409",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
@@ -9627,6 +9705,10 @@
       "start_date": "2025-02-07 00:00:00",
       "end_date": "2025-02-27 19:59:00",
       "timezone": "PST",
+      "start_timezone": "PST",
+      "end_timezone": "PST",
+      "scheduleSourceUrl": "https://webview.fate-go.us/iframe/2025/0123_valentine2025/",
+      "scheduleContentSha256": "97db7141e2abb77e58500caf9dc5ba980a28a298324ba0441cbeb4ee86bb9b3a",
       "event_summary": {
         "First Clear Quest Rewards": [
           {
