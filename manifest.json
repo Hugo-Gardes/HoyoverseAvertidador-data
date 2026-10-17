@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-17T06:43:19.154Z",
+  "generatedAt": "2026-10-17T12:37:14.778Z",
   "sourceCommit": "0e25d4c9d3a6be64a3563c46ac34230e1390c4e1",
   "files": [
     {
       "path": "data/fgo/banners.json",
       "bytes": 102215,
       "items": 2,
-      "sha256": "7dd5003deb48625c4f4c0898e97e8988d30ed1e67515bafb3be8c3a20ad8cac5",
+      "sha256": "2e0eac4fa350f09e3abdebe3e5c6d8d894b36049d8fba42cf5812527ff4f7b66",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "e97549d0aede8b3be3e320997734f433bfa746ab5e546b4b4e893b1c0a73b177"
       },
       "changedAt": "2026-10-17T00:39:26.878Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -30,7 +30,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -62,7 +62,7 @@
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -78,7 +78,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 14,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -94,7 +94,7 @@
       },
       "changedAt": "2026-10-16T06:38:56.837Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -110,7 +110,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 6,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -126,7 +126,7 @@
       },
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -142,7 +142,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 10,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -158,7 +158,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -174,7 +174,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -190,7 +190,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -206,7 +206,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 4,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -222,7 +222,7 @@
       },
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -238,7 +238,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -254,7 +254,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -263,14 +263,14 @@
       "path": "data/wuwa/banners.json",
       "bytes": 46551,
       "items": 12,
-      "sha256": "e20a01075e0b0936cfeedc983845d55bc8a2af59249dabdeed232428611a4f11",
+      "sha256": "c5ed9d28dc320f52bbb2778c8706e660844caebf57c0114f3f260945b8ab30aa",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "ed018767998cad4f3202b0701ec8b46fc59b6c7e20739f10501f37288dcb5c2c"
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -286,7 +286,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 4,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -302,7 +302,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -318,7 +318,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 15,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -334,7 +334,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -350,7 +350,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -359,7 +359,7 @@
       "path": "data/zzz/banners.json",
       "bytes": 40643,
       "items": 8,
-      "sha256": "eecc83ebf98c56f080aacddfb3beca2df8f8e32984e02d78848047b0d21303e5",
+      "sha256": "fa85069e7234e5c35faa16d177ca1c40b83ced232361cf07269224d9ffe7fcc8",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "3ecffaa2804dadb55aea7a794666acbf33e8bff5f1ba32b38d27090b8e5fe07d"
@@ -376,7 +376,7 @@
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -392,7 +392,7 @@
       },
       "changedAt": "2026-10-16T18:40:33.665Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -401,7 +401,7 @@
       "path": "data/zzz/events.json",
       "bytes": 124288,
       "items": 11,
-      "sha256": "aa90e821493bcd4f3804ba490fabb99ae4aeaadde6ca0038e47dcf874a9651e4",
+      "sha256": "b91f37be3b16ad56cc6d31a7cbf984d03d8ee93b5ffd64fe619eea92184b1732",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "b41a9c3c40347ed57f483d251fe21e6fbc66c9ea1107cd4d7b4e911defdaf768"
@@ -421,7 +421,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -437,7 +437,7 @@
       },
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -453,7 +453,7 @@
       },
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -462,14 +462,14 @@
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "a65cd380ee83e74b761704d41b915f2fade564aee8b5bfe27c730ed50ff37462",
+      "sha256": "d50a8b0c6f19a2524dc6b655a2427de70883000c789dc102711efd0c339b6a4d",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "2799fa725f08acab77cac8eef595e94deeab53f3adc7824177b9852e4af3635d"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -485,7 +485,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -494,14 +494,14 @@
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "a7ed582dae08e4736236378f158d586a3acc42ba5ca6adbc065319b05dbabf6b",
+      "sha256": "ee79f6c6cceea4cc49ace40e41211f7c58c5a8f410bde5ab54ac911ed04633f8",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "3de14518c67bb16ed0d6cb13cea4707ba1a79488f1f5d35612c4044f2b820d8a"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -517,7 +517,7 @@
       },
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -526,14 +526,14 @@
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "b4102b5224222acb25cbdd315d52c369618a75b475ee544f2424b36545ade13b",
+      "sha256": "464e2baf5f5165f1d4f2663510e8affe9ac9ae9d623533096ce6c896bd2aebbe",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "019bf603a50f59f025b322a8c9aab205376e6205a47db40bdfc56c1eab068b10"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -549,7 +549,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -558,14 +558,14 @@
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "5c41f9e0804be09ff2b2d19c2ab13505cfde44ace8915fb49b5c47e8acdbfbfb",
+      "sha256": "973d10bdeeacb974aa8c8026fea3cda015b02e54fc035d093e3e009d5bb0ea69",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "9a33481071d6e4dee6da469eb4135dc5238a4c48055c5f99750b7cfe89627a8a"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -597,7 +597,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -606,14 +606,14 @@
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "01b0e5dc9ee11464e331cf7c1b924827365dc70c14ecf81335e97bc6e40ac378",
+      "sha256": "e1e88dd62c1612e61a490a71f98afda9474335e1bf74b258c374c89066068582",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "7808aa008b58b1035f2467ce43510daceca6536a4266df165b9fe5d399b6902e"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -629,7 +629,7 @@
       },
       "changedAt": "2026-09-08T12:36:48.653Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -638,14 +638,14 @@
       "path": "data/zzz/keyvisual.json",
       "bytes": 397,
       "items": 9,
-      "sha256": "a28497ffb0b30a1ba61080b9b7f39a25a8eb64c2c52fbb4c564246240426df3b",
+      "sha256": "959506cc4ad95138d9aa07830e2c8e2e7570289353af6979e5e0d85922f4ce88",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "9d9e13f9db5c55a6718de623d88cdd69c908ae2a8480f12797f17702bf584eb3"
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-17T06:30:15.756Z",
+      "lastObservedAt": "2026-10-17T12:30:05.717Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
