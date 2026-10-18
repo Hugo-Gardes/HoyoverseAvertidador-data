@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-18T00:41:49.852Z",
+  "generatedAt": "2026-10-18T06:42:56.448Z",
   "sourceCommit": "f60540baf84b221a0c42883dd76faa992cd1644f",
   "files": [
     {
       "path": "data/fgo/banners.json",
       "bytes": 102591,
       "items": 2,
-      "sha256": "f4be75fd81b3eaac5f43388bb310f23683e0cdd1203a6bb5fdd354ba98f65e2c",
+      "sha256": "3c8a8af21909e7d3b152da165642c59a6e3d7e78d0c0c56e4074b38000928d2b",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "5c3f68358f3e8c9264e621a5719c7123f460835d513796193fa679effd4ec82d"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -30,7 +30,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -62,7 +62,7 @@
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -78,7 +78,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 14,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -94,7 +94,7 @@
       },
       "changedAt": "2026-10-16T06:38:56.837Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -110,7 +110,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 6,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -126,7 +126,7 @@
       },
       "changedAt": "2026-09-27T17:40:48.757Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -142,7 +142,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 10,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -158,7 +158,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -167,14 +167,14 @@
       "path": "data/hsr/events.json",
       "bytes": 170862,
       "items": 10,
-      "sha256": "5479f8dc94bb1a1a38ae2712216c6b34a7e5bc70320c4c90cc1df6a7874a0d95",
+      "sha256": "b7e5123561819b858a5550a17c10a4a6a8a88e453e6bdf25446fa74bfe7181ee",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "5e511113f6d3a1341c77e3faad2caf1a2228094b9cea132468208bcbdb30bc8f"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -190,7 +190,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -206,7 +206,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 4,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -222,7 +222,7 @@
       },
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -238,7 +238,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -254,7 +254,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -263,14 +263,14 @@
       "path": "data/wuwa/banners.json",
       "bytes": 46551,
       "items": 12,
-      "sha256": "4094cf6f154212e680a42dde0dd92e5bf4afcb3d663b8b410eeabb9fa7a3bbb6",
+      "sha256": "48f2df1b97fa3d8380db8884e3ad09f2a8e3a3cae03fcc9c74c491517538f3f8",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "ed018767998cad4f3202b0701ec8b46fc59b6c7e20739f10501f37288dcb5c2c"
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 12,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -286,7 +286,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 4,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -302,7 +302,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -318,7 +318,7 @@
       },
       "changedAt": "2026-10-16T12:42:24.986Z",
       "itemsBefore": 15,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -334,7 +334,7 @@
       },
       "changedAt": "2026-10-15T18:39:08.491Z",
       "itemsBefore": 2,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -350,7 +350,7 @@
       },
       "changedAt": "2026-10-13T10:46:55.219Z",
       "itemsBefore": 5,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -359,7 +359,7 @@
       "path": "data/zzz/banners.json",
       "bytes": 40643,
       "items": 8,
-      "sha256": "57483d393a28f47d0a47e584352c8f16919d6aa12f9c0d8b684f0e4c2cc87b75",
+      "sha256": "7656727a4fb050a6d4eb0631607f5c423995b682044ef1acf327190003364f11",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "3ecffaa2804dadb55aea7a794666acbf33e8bff5f1ba32b38d27090b8e5fe07d"
@@ -376,7 +376,7 @@
       },
       "changedAt": "2026-10-14T00:36:17.775Z",
       "itemsBefore": 8,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -392,7 +392,7 @@
       },
       "changedAt": "2026-10-16T18:40:33.665Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -401,7 +401,7 @@
       "path": "data/zzz/events.json",
       "bytes": 126574,
       "items": 11,
-      "sha256": "873fff864a5628a47431d9f63a0c6f881df4d5208ba576c225fb0338c50c41e4",
+      "sha256": "bca489d0d52ec9e6ea924325df3c95787cbec4da9d1f82c2718b9cfa6f1bf2fb",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "5b416dbe3fb713a19a0ab6fad44fdcbc3be975ba3fd3e5928b0af80a7110fc7d"
@@ -421,7 +421,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 11,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -437,7 +437,7 @@
       },
       "changedAt": "2026-09-13T15:43:30.772Z",
       "itemsBefore": 3,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -453,7 +453,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -462,14 +462,14 @@
       "path": "data/fgo/keyvisual.json",
       "bytes": 356,
       "items": 9,
-      "sha256": "c94dfbc461342dd66b3c6b6137b4440be2df8ae24000e411083a7cacb49fbca3",
+      "sha256": "3bc20eb1a76eef530bdbae9459efdffe06c950956a47276c32f873b07dc9f8e7",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "65cdd90484a8c6a994c79ea42387a5cb6b11400503e9d3f53ba6302548336cf3"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -485,7 +485,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -494,14 +494,14 @@
       "path": "data/genshin/keyvisual.json",
       "bytes": 402,
       "items": 9,
-      "sha256": "7b92032bdd4df5704c6bac62d5d0c61caa5a4a56951a4a626eb12120cf10f05d",
+      "sha256": "c74e69e18d78b54a71f44e988f95f98ea514195e874e7d9c6912ef9354718cd8",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "40623cd2ad68294387d30a7984019c4dedc6b9d5e7ee8c5488b6081d7ae20b62"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -517,7 +517,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -526,14 +526,14 @@
       "path": "data/hsr/keyvisual.json",
       "bytes": 398,
       "items": 9,
-      "sha256": "ef8243adfb1386acbb838e34e6ca5bef3fa240680cacfb36f817c8676c3ac884",
+      "sha256": "cac03f4b4adbc821592a420e7a1c03db25ad899973194fbb93b6339bf4547e4a",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "377732bdf7882ec71f36503fc2d849a4ab5305b5c0e0649cd8f624dc3973665d"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -549,7 +549,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -558,14 +558,14 @@
       "path": "data/nte/keyvisual.json",
       "bytes": 351,
       "items": 9,
-      "sha256": "91f7411c995f3ff8a7dcc7fac43ad684b28ea2430b1095c607ff5e1d60244583",
+      "sha256": "b38a2bc9efd82ec0ea4e38c2db4efa1b10932585c2656b41f9892312e29ae80b",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "72ecb418db8d77ca1dc139f2c8c66bded635603c036cb41837e392493a2b81b0"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -597,7 +597,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -606,14 +606,14 @@
       "path": "data/wuwa/keyvisual.json",
       "bytes": 371,
       "items": 9,
-      "sha256": "db481db0798514825cd2929333e0f62be553fc02abd846f4b602e0c842e0297b",
+      "sha256": "7e2780316b3e10ef79a7a59d0a7038411fb0fcd594a0f7e2bd884f9f05894f7a",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "519e3ab63ca068a3fbe3276e58c605427b77123a385ce40aaaa816f34b7ec658"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -629,7 +629,7 @@
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 1,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
@@ -638,14 +638,14 @@
       "path": "data/zzz/keyvisual.json",
       "bytes": 397,
       "items": 9,
-      "sha256": "a70bb7ee5310ff2e87bc2769e06f6a6736f72db5f708abe817c141c667ff91e7",
+      "sha256": "c10a3383b214bfbe478a9e3182437474cf04f94ca2357cf548f95d046f0a754b",
       "contentIdentity": {
         "algorithm": "hoyo-observation-independent-v2",
         "sha256": "dc6df416027b1690f3d627e3ee0cfc2bfcb27443b470bcd70aed6b60a9ba993c"
       },
       "changedAt": "2026-10-17T16:21:52.463Z",
       "itemsBefore": 9,
-      "lastObservedAt": "2026-10-18T00:30:19.694Z",
+      "lastObservedAt": "2026-10-18T06:30:19.024Z",
       "sourceHealth": "healthy",
       "contentChangedAtLastObservation": false,
       "dataState": "populated"
