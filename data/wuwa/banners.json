@@ -862,7 +862,13 @@
         "type": "Sword",
         "entityKind": "weapon",
         "rarity": 5,
-        "details": {}
+        "details": {
+          "Rarity": "5",
+          "Base ATK (Lv. 90)": "587",
+          "Substat (Lv. 90)": "Crit Rate+24.3%",
+          "Type": "Sword",
+          "Weapon Skill": "Locked Thunder, Trapped Rain ATK is increased by 12%. When the wielder gains Unison while not already having it, they gain 30% Electro DMG Bonus for 30s. When the wielder gains Unison while not already having it, they remove Yearning Mind and grant all Resonators in the team the Binding Mind effect: gain 24% Electro DMG Bonus for 30s. Effects of the same name cannot stack. When the wielder consumes fewer than 100 points of Concerto Energy, they remove Binding Mind from all Resonators in the team and gain the Yearning Mind effect: the wielder additionally gains 40% Electro DMG Bonus for 14s. Switching to another Resonator ends this effect early."
+        }
       }
     ],
     "rateUp4Star": [
@@ -921,67 +927,7 @@
     "startTime": null,
     "endTime": null,
     "displayStartTime": 1792627200,
-    "displayEndTime": 1794355200,
-    "fieldProvenance": {
-      "planningDeadline": {
-        "kind": "conservative-planning",
-        "rule": "earliest-supported-end-within-two-civil-days",
-        "date": "2026-11-10",
-        "latestReportedDate": "2026-11-11",
-        "differenceDays": 1,
-        "calendarZone": "Asia",
-        "version": "3.7",
-        "phase": 2,
-        "entityKind": "weapon",
-        "entityName": "Unspoken Rue",
-        "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-        "conveneName": "Absolute Pulsation",
-        "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-19T00:33:18.398Z",
-        "sources": [
-          {
-            "game": "wuwa",
-            "version": "3.7",
-            "phase": 2,
-            "entityName": "Unspoken Rue",
-            "entityKind": "weapon",
-            "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-            "conveneName": "Absolute Pulsation",
-            "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-            "startDate": "2026-10-22",
-            "endDate": "2026-11-11",
-            "calendarZone": null,
-            "coveredCalendarZones": [
-              "America",
-              "Europe",
-              "Asia",
-              "HMT / SEA"
-            ],
-            "sourceType": "secondary",
-            "sourceName": "Game8",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-19T00:33:18.398Z"
-          },
-          {
-            "game": "wuwa",
-            "version": "3.7",
-            "phase": 2,
-            "entityName": "Unspoken Rue",
-            "entityKind": "weapon",
-            "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-            "conveneName": "Absolute Pulsation",
-            "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-            "startDate": "2026-10-22",
-            "endDate": "2026-11-10",
-            "calendarZone": "Asia",
-            "sourceType": "secondary",
-            "sourceName": "Game8",
-            "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/624314",
-            "observedAt": "2026-10-19T00:34:28.445Z"
-          }
-        ]
-      }
-    }
+    "displayEndTime": 1794355200
   },
   {
     "name": "Absolute Pulsation",
@@ -1080,7 +1026,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-19T00:33:18.398Z",
+        "observedAt": "2026-10-19T06:34:04.359Z",
         "sources": [
           {
             "game": "wuwa",
@@ -1103,7 +1049,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-19T00:33:18.398Z"
+            "observedAt": "2026-10-19T06:34:04.359Z"
           },
           {
             "game": "wuwa",
@@ -1120,7 +1066,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/570863",
-            "observedAt": "2026-10-19T00:34:29.275Z"
+            "observedAt": "2026-10-19T06:35:11.076Z"
           }
         ]
       }
@@ -1221,7 +1167,7 @@
         "entitySourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
         "conveneName": "Absolute Pulsation",
         "conveneSourceUrl": "https://game8.co/games/Wuthering-Waves/archives/455400",
-        "observedAt": "2026-10-19T00:33:18.398Z",
+        "observedAt": "2026-10-19T06:34:04.359Z",
         "sources": [
           {
             "game": "wuwa",
@@ -1244,7 +1190,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/453303",
-            "observedAt": "2026-10-19T00:33:18.398Z"
+            "observedAt": "2026-10-19T06:34:04.359Z"
           },
           {
             "game": "wuwa",
@@ -1261,7 +1207,7 @@
             "sourceType": "secondary",
             "sourceName": "Game8",
             "sourceUrl": "https://game8.co/games/Wuthering-Waves/archives/603090",
-            "observedAt": "2026-10-19T00:34:30.835Z"
+            "observedAt": "2026-10-19T06:35:11.993Z"
           }
         ]
       }

@@ -105,18 +105,18 @@
       "name": "Pure Fiction",
       "icon": "https://img.game8.co/3994390/b2aa527c7a515f615099be9bb01d2c95.png/show",
       "version": "4.5",
-      "phaseName": "Domain Genesis",
-      "buff": "Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.",
+      "phaseName": "Imagined Words",
+      "buff": "When an ally target inflicts a debuff on an enemy target, allies additionally accumulate 1 Grit Value. This effect can be triggered up to 10 time(s) per enemy target.",
       "buffs": [
         {
           "name": "Concordant Truce",
           "icon": "https://img.game8.co/4073005/c80457c8093b6082279f411089b8fa33.png/show",
-          "description": "This stage has a special Elation Skill. When entering Aha Instant, deals 15 instance(s) of Imaginary Elation DMG to a random enemy target. When an enemy target is defeated by any target, obtains 1 Punchline point(s)."
+          "description": "Decreases enemy targets' Effect RES by 30%. Increases DMG taken by enemy targets afflicted with 4 or more debuffs by 20%."
         },
         {
           "name": "Surging Grit",
           "icon": "https://img.game8.co/4073006/f7d2ecfeee8d92d0d1248cff4dc80db7.png/show",
-          "description": "Upon entering \"Surging Grit,\" Aha immediately gains an extra turn where a fixed amount of 20 Punchline is taken into account. During this turn, Punchline is not consumed, and Elation Skill DMG dealt is 50% of the original DMG. During \"Surging Grit,\" DMG taken by enemy targets increases by 50%, and Aha Instant's SPD increases by 40."
+          "description": "Upon entering \"Surging Grit,\" deals a set amount of DMG to enemy targets 1 time for every debuff they are inflicted with. During \"Surging Grit,\" DMG received by enemy targets increases by 50%. After each time an enemy target is inflicted with a debuff, inflicts 1 stack of \"Dejection\" on them, decreasing their All-Type RES by 1% for 2 turn(s). This effect can stack up to 20 time(s)."
         }
       ],
       "selectableBuffs": [
@@ -136,8 +136,8 @@
           "description": "After an ally memosprite uses an attack, gains 2 Punchline. During Surging Grit, DMG dealt by ally memosprites increases by 50%. After memosprites' attacks, every enemy target hit additionally accumulates 3 Grit Value for allies."
         }
       ],
-      "startTime": 1789344000,
-      "endTime": 1792368000,
+      "startTime": 1792368000,
+      "endTime": 1795996800,
       "guideUrl": "https://game8.co/games/Honkai-Star-Rail/archives/435848",
       "rewards": [
         {
