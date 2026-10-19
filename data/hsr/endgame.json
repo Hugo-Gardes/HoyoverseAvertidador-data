@@ -104,7 +104,7 @@
       "id": "pure-fiction",
       "name": "Pure Fiction",
       "icon": "https://img.game8.co/3994390/b2aa527c7a515f615099be9bb01d2c95.png/show",
-      "version": "4.5",
+      "version": "4.6",
       "phaseName": "Imagined Words",
       "buff": "When an ally target inflicts a debuff on an enemy target, allies additionally accumulate 1 Grit Value. This effect can be triggered up to 10 time(s) per enemy target.",
       "buffs": [
@@ -121,19 +121,19 @@
       ],
       "selectableBuffs": [
         {
-          "name": "Euphoria",
+          "name": "Toccata",
           "icon": null,
-          "description": "During \"Surging Grit,\" enemy targets take 30% more Elation DMG, and additionally increases Aha Instant's SPD by 20."
+          "description": "Increases Ultimate and Follow-Up ATK DMG dealt by ally targets by 40%. During \"Surging Grit,\" each time an enemy target is inflicted with the \"Dejection\" effect, it changes to stacking 2 stack(s) of this effect instead. The max stacking limit of the \"Dejection\" effect increases to 5 stacks. Every enemy target hit with ally targets' Ultimate or Follow-Up ATK additionally accumulates 1 Grit Value for allies."
         },
         {
-          "name": "Delirium",
+          "name": "Mirthful Cadence",
           "icon": null,
-          "description": "After an ally target uses their Basic ATK or Skill, gains 1 Punchline. During Surging Grit, the ally targets' DMG dealt increases by 50%. For each enemy target hit with Basic ATK or Skill, ally team additionally accumulates Grit Value."
+          "description": "After an ally character uses an Elation Skill to attack an enemy target, inflicts the \"Indulgence\" effect on the attacked enemy target, increasing the DMG taken by this target by 15% for 2 turn(s). This effect applied by each character exists independently. Upon entering \"Surging Grit\", allies gain 40 Punchline(s). After ally targets use Basic ATK or Skill, for each enemy target hit, additionally accumulates 3 Grit Value for allies."
         },
         {
-          "name": "Riddle Fanatic",
+          "name": "Fugato",
           "icon": null,
-          "description": "After an ally memosprite uses an attack, gains 2 Punchline. During Surging Grit, DMG dealt by ally memosprites increases by 50%. After memosprites' attacks, every enemy target hit additionally accumulates 3 Grit Value for allies."
+          "description": "During \"Surging Grit,\" after an ally target uses an attack, additionally causes 1 random DoT debuff currently applied to the attacked target to immediately produce DMG equal to 400% of its original DMG. After every instance of DoT dealt by ally targets, additionally accumulates 1 Grit Value for allies."
         }
       ],
       "startTime": 1792368000,
@@ -180,21 +180,21 @@
         {
           "stage": "Stage 4 and Starward Mode",
           "firstHalf": [
-            "Imaginary",
-            "Quantum"
+            "Lightning",
+            "Ice"
           ],
           "secondHalf": [
             "Imaginary",
-            "Physical"
+            "Fire"
           ]
         }
       ],
       "bosses": [
         {
-          "name": "Swarm: True Sting",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Enemy_Swarm_True_Sting_%28Complete%29.png/revision/latest/scale-to-width-down/256?cb=20260725083316",
+          "name": "Flame Reaver of the Deepest Dark",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Enemy_Flame_Reaver_of_the_Deepest_Dark.png/revision/latest/scale-to-width-down/256?cb=20260725081300",
           "weaknesses": [
-            "Quantum",
+            "Ice",
             "Imaginary"
           ],
           "level": "85",
@@ -203,23 +203,23 @@
           "axiomBuffs": []
         },
         {
-          "name": "Paramount Bliss Inverted: Illwish Archlotus",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Enemy_Paramount_Bliss_Inverted_Illwish_Archlotus.png/revision/latest/scale-to-width-down/256?cb=20260725082619",
-          "weaknesses": [
-            "Physical",
-            "Imaginary"
-          ],
-          "level": "85",
-          "isBonus": false,
-          "traits": [],
-          "axiomBuffs": []
-        },
-        {
-          "name": "Borisin Warhead: Hoolay",
-          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Enemy_Borisin_Warhead_Hoolay.png/revision/latest/scale-to-width-down/256?cb=20240910015333",
+          "name": "Alloy Mechatron: King Pom-Pom",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Enemy_Alloy_Mechatron_King_Pom-Pom.png/revision/latest/scale-to-width-down/256?cb=20260725075840",
           "weaknesses": [
             "Fire",
-            "Wind"
+            "Imaginary"
+          ],
+          "level": "85",
+          "isBonus": false,
+          "traits": [],
+          "axiomBuffs": []
+        },
+        {
+          "name": "Argenti",
+          "icon": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Character_Argenti_Splash_Art.png/revision/latest/scale-to-width-down/256?cb=20231206232011",
+          "weaknesses": [
+            "Physical",
+            "Ice"
           ],
           "level": "85",
           "isBonus": true,
